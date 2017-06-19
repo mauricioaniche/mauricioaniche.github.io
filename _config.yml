@@ -46,7 +46,6 @@ twitter_card: "summary_large_image"
 twitter_site: "@nandomoreirame"
 
 gems:
-  - bourbon
   - jekyll-paginate
 
 # navbar pages
