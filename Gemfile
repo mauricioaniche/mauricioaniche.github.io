@@ -11,6 +11,5 @@ group :development do
   gem 'pygments.rb', '~> 0.6.3'
 end
 
-gem 'github-pages', versions['github-pages']
 
 
