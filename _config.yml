@@ -7,9 +7,9 @@ url: http://www.mauricioaniche.com
 #baseurl: "/simplest"
 baseurl: null
 
-google_analytics: UA-52446115-1
+google_analytics: UA-10934071-4
 repo: http://github.com/mauricioaniche/
-disqus_shortname: "mauricioaniche"
+disqus_shortname: "mauricio-aniche"
 
 # Build settings
 permalink   : /:year/:month/:title/

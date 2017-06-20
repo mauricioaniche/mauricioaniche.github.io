@@ -3,6 +3,7 @@ id: 788
 title: Is TDD magic?
 date: 2016-06-24T01:43:48+00:00
 author: mauricioaniche
+comments: true
 layout: post
 guid: http://www.aniche.com.br/?p=788
 permalink: /2016/06/is-tdd-magic/
