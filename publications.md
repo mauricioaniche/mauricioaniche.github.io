@@ -17,7 +17,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=AyX0Ou
   1. <span style="font-weight: 400;">Aniche, Maurício, Bavota, Gabriele, Treude, Christoph, van Deursen, Arie, Gerosa, Marco. <em><strong>&#8220;A Validated Set of Smells in Model-View-Controller Architecture&#8221;</strong></em>. Software Maintenance and Evolution (ICSME), 2016, 32th International Conference, IEEE, 2016. <a href="http://www.mauricioaniche.com/2016/07/icsme-2016-a-validated-set-of-smells-in-mvc-architectures/">Paper</a> and <a href="http://www.slideshare.net/mauricioaniche/a-validated-set-of-smells-for-mvc-architectures-icsme-2016">slides</a>.</span>
   2. <span style="font-weight: 400;">Aniche, Maurício, Treude, Christoph, Gerosa, Marco. <em><strong>&#8220;Developers&#8217; Perceptions on Object-Oriented Design and System Architecture&#8221;</strong></em>. 30th Brazilian Symposium on Software Engineering (SBES), 2016. <a href="http://www.mauricioaniche.com/2016/06/sbes-2016-developers-perceptions-on-object-oriented-design-and-architectural-roles/">Paper</a>.<br /> </span>
   3. Aniche, M., Treude, C., Zaidman, A., van Deursen, A., Gerosa, M.A., _**&#8220;SATT: Tailoring Code Metric Thresholds for Different Software Architectures&#8221;**_. 16th IEEE International Working Conference on Source Code Analysis and Manipulation, 2016. [Paper](http://www.mauricioaniche.com/2016/08/scam-2016-satt-tailoring-code-metric-thresholds-for-different-software-architectures/), [slides](http://www.slideshare.net/mauricioaniche/satt-tailoring-code-metric-thresholds-for-different-software-architectures-scam-2016) and [online presentation](https://www.periscope.tv/w/1DXxyLdwDoLJM).
-  4. Aniche, M. _**&#8220;Context-Based Code Quality Assessment&#8221;**_. [PhD thesis](http://www.mauricioaniche.com/wp-content/uploads/2013/04/tese-aniche.pdf).
+  4. Aniche, M. _**&#8220;Context-Based Code Quality Assessment&#8221;**_. [PhD thesis](/wp-content/uploads/2013/04/tese-aniche.pdf).
 
 **2015**
 
@@ -27,9 +27,9 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=AyX0Ou
 **2014**
 
   * Aniche, Maurício F., Gustavo A. Oliva, and Marco A. Gerosa. **_&#8220;Are the Methods in Your Data Access Objects (DAOs) in the Right Place? A Preliminary Study.&#8221;_**. 6th Workshop on Managing Technical Debt, in conjunction with ICSME2014, Canada. <a href="http://www.aniche.com.br/wp-content/uploads/2013/04/mtd2014.pdf" rel="attachment wp-att-755">Short paper</a>, [Slides](http://www.slideshare.net/mauricioaniche/mtd2014-are-your-methods) and [one-minute presentation](https://www.youtube.com/watch?v=rkV3hlqw51Y).
-  * Guerra, E. Aniche, Maurício, Gerosa, M., Yoder, J. **_&#8220;Preparing for a Test Driven Development Session&#8221;._ **21th Conference on Pattern Languages of Programs. 2014. [Paper](http://www.mauricioaniche.com/wp-content/uploads/2013/04/plop2014.pdf).
+  * Guerra, E. Aniche, Maurício, Gerosa, M., Yoder, J. **_&#8220;Preparing for a Test Driven Development Session&#8221;._ **21th Conference on Pattern Languages of Programs. 2014. [Paper](/wp-content/uploads/2013/04/plop2014.pdf).
   * Aniche, M., Guerra, E., Gerosa, M. _**&#8220;A Set of Patterns to Improve Code Quality of Automated Functional Tests of Web Applications&#8221;. **_21th Conference on Pattern Languages of Programs. 2014. [Paper](http://www.aniche.com.br/wp-content/uploads/2013/04/PLoP2014__A_Set_of_Patterns_to_Improve_Code_Quality_on_Automated_Functional_Tests_of_Web_Applications.pdf).
-  * Guerra, E., Yoder, J. Aniche, M., Gerosa, M. _**&#8220;The Last Two Test-Driven Development Step Patterns: Bug Locator and Pause for Housekeeping.&#8221; **_10th Latin American Conference on Pattern Languages of Programs. 2014. [Paper](http://www.mauricioaniche.com/wp-content/uploads/2013/04/sugarloafplop2014.pdf).
+  * Guerra, E., Yoder, J. Aniche, M., Gerosa, M. _**&#8220;The Last Two Test-Driven Development Step Patterns: Bug Locator and Pause for Housekeeping.&#8221; **_10th Latin American Conference on Pattern Languages of Programs. 2014. [Paper](/wp-content/uploads/2013/04/sugarloafplop2014.pdf).
 
 **2013**
 

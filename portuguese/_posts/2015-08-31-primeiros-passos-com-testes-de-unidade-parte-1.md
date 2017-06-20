@@ -73,11 +73,11 @@ Agora basta usarmos. Vamos escrever métodos de teste, um para cada diferente c
 
 Se você clicar com o botão direito do mouse no código-fonte, e selecionar Run -> Run as JUnit Test, verá uma tela como a abaixo. Verde, ou seja funcionou.
 
-[<img class="alignnone size-medium wp-image-692" src="http://www.aniche.com.br/wp-content/uploads/2015/08/junit-300x183.png" alt="junit" width="300" height="183" srcset="http://www.mauricioaniche.com/wp-content/uploads/2015/08/junit-300x183.png 300w, http://www.mauricioaniche.com/wp-content/uploads/2015/08/junit.png 330w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.aniche.com.br/wp-content/uploads/2015/08/junit.png)
+[<img class="alignnone size-medium wp-image-692" src="http://www.aniche.com.br/wp-content/uploads/2015/08/junit-300x183.png" alt="junit" width="300" height="183" srcset="/wp-content/uploads/2015/08/junit-300x183.png 300w, /wp-content/uploads/2015/08/junit.png 330w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.aniche.com.br/wp-content/uploads/2015/08/junit.png)
 
 Agora, faça o teste e coloque um bug na aplicação. Adivinha que cor vai ficar?
 
-[<img class="alignnone size-medium wp-image-693" src="http://www.aniche.com.br/wp-content/uploads/2015/08/falhou-300x203.png" alt="falhou" width="300" height="203" srcset="http://www.mauricioaniche.com/wp-content/uploads/2015/08/falhou-300x203.png 300w, http://www.mauricioaniche.com/wp-content/uploads/2015/08/falhou.png 334w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.aniche.com.br/wp-content/uploads/2015/08/falhou.png)
+[<img class="alignnone size-medium wp-image-693" src="http://www.aniche.com.br/wp-content/uploads/2015/08/falhou-300x203.png" alt="falhou" width="300" height="203" srcset="/wp-content/uploads/2015/08/falhou-300x203.png 300w, /wp-content/uploads/2015/08/falhou.png 334w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.aniche.com.br/wp-content/uploads/2015/08/falhou.png)
 
 Fácil, né?! Agora basta continuarmos a escrever outros métodos de teste, para os vários cenários. Veja:
 

@@ -154,7 +154,7 @@ tags:
 </p>
 
 <p class="graf--p">
-  <a href="http://www.aniche.com.br/2016/06/788/tdd-feedback/" rel="attachment wp-att-789"><img class="alignnone size-full wp-image-789" src="http://www.aniche.com.br/wp-content/uploads/2016/06/tdd-feedback.png" alt="tdd-feedback" width="505" height="247" srcset="http://www.mauricioaniche.com/wp-content/uploads/2016/06/tdd-feedback.png 505w, http://www.mauricioaniche.com/wp-content/uploads/2016/06/tdd-feedback-300x147.png 300w" sizes="(max-width: 505px) 100vw, 505px" /></a>
+  <a href="http://www.aniche.com.br/2016/06/788/tdd-feedback/" rel="attachment wp-att-789"><img class="alignnone size-full wp-image-789" src="http://www.aniche.com.br/wp-content/uploads/2016/06/tdd-feedback.png" alt="tdd-feedback" width="505" height="247" srcset="/wp-content/uploads/2016/06/tdd-feedback.png 505w, /wp-content/uploads/2016/06/tdd-feedback-300x147.png 300w" sizes="(max-width: 505px) 100vw, 505px" /></a>
 </p>
 
 <p class="graf--p">

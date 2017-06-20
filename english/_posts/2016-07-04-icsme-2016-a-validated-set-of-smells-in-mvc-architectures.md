@@ -19,5 +19,5 @@ tags:
   We surveyed and interviewed 53 MVC developers to collect bad practices to avoid while working on Web MVC applications. Then, we followed an open coding procedure on the collected answers to define a catalogue of six Web MVC smells, namely \textsc{Smart Repository, Fat Repository, Promiscuous Controller, Smart Controller, Laborious Repository Method}, and \textsc{Meddling Service}. Then, we ran a study on 100 MVC projects to assess the impact of these smells on code change- and defect-proneness. In addition, we surveyed 21 developers to verify their perception of the defined smells. The achieved results show that the Web MVC smells (i) more often than not, increase change- and defect-proneness of classes, and (ii) are perceived by developers as severe problems.</em>
 
 <p class="p1">
-  <a href="http://www.mauricioaniche.com/wp-content/uploads/2016/07/icsme2016.pdf">Download the paper</a>
+  <a href="/wp-content/uploads/2016/07/icsme2016.pdf">Download the paper</a>
 </p>

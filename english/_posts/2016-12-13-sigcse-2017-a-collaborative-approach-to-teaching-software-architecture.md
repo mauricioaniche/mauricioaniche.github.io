@@ -20,5 +20,5 @@ tags:
   We have taught this course during the past four years to classes of 50-100 students each. Our experience suggests that: (1) open source systems can be successfully used to let students gain experience with key software architecture concepts, (2) students are capable of making code contributions to the open source projects, (3) integrators (architects) from open source systems are willing to interact with students about their contributions, (4) working together on a joint book helps teams to look beyond their own work, and study the architectural descriptions produced by the other teams.
 
 <p class="p1">
-  <strong>Download:</strong> <a href="http://www.mauricioaniche.com/wp-content/uploads/2016/12/sigcse17.pdf">Paper</a>
+  <strong>Download:</strong> <a href="/wp-content/uploads/2016/12/sigcse17.pdf">Paper</a>
 </p>
