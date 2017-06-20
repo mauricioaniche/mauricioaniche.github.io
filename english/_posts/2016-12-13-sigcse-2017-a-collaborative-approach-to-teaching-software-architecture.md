@@ -3,6 +3,7 @@ id: 859
 title: 'A Collaborative Approach to Teaching Software Architecture'
 date: 2016-12-13T10:53:23+00:00
 author: mauricioaniche
+comments: true
 layout: post
 guid: http://www.mauricioaniche.com/?p=859
 permalink: /2016/12/sigcse-2017-a-collaborative-approach-to-teaching-software-architecture/

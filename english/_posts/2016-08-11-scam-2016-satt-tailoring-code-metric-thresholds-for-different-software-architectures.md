@@ -3,6 +3,7 @@ id: 825
 title: 'SATT: Tailoring Code Metric Thresholds for Different Software Architectures'
 date: 2016-08-11T14:39:15+00:00
 author: mauricioaniche
+comments: true
 layout: post
 guid: http://www.mauricioaniche.com/?p=825
 permalink: /2016/08/scam-2016-satt-tailoring-code-metric-thresholds-for-different-software-architectures/

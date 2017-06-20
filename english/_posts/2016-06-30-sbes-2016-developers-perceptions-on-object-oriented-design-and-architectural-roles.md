@@ -4,6 +4,7 @@ title: 'Developers’ Perceptions on Object-Oriented Design and Architectural Ro
 date: 2016-06-30T18:01:31+00:00
 author: mauricioaniche
 layout: post
+comments: true
 guid: http://www.mauricioaniche.com/?p=799
 permalink: /2016/06/sbes-2016-developers-perceptions-on-object-oriented-design-and-architectural-roles/
 categories:
