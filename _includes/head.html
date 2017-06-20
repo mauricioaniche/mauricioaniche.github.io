@@ -100,7 +100,18 @@
   <script type="text/javascript">
   var disqus_shortname = '{{ site.disqus_shortname }}';
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', '{{ site.google_analytics }}']);
+  
+  var ga_english = '{{ site.google_analytics }}';
+  var ga_portuguese = '{{ site.google_analytics_br }}';
+
+alert(location.hostname);
+  if(location.hostname == "mauricioaniche.com") {
+    _gaq.push(['_setAccount', ga_english]);
+  }
+  else if(location.hostname == "aniche.com.br") {
+    _gaq.push(['_setAccount', ga_portuguese]);
+  }
+
   _gaq.push(['_trackPageview']);
 
   (function() {
