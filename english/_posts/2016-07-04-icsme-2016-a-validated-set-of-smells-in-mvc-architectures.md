@@ -1,6 +1,6 @@
 ---
 id: 807
-title: 'ICSME 2016 &#8211; A Validated Set of Smells in Model-View-Controller Architectures'
+title: 'A Validated Set of Smells in Model-View-Controller Architectures'
 date: 2016-07-04T19:10:20+00:00
 author: mauricioaniche
 layout: post

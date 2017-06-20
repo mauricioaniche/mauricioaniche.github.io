@@ -1,6 +1,6 @@
 ---
 id: 859
-title: 'SIGCSE 2017 &#8211; A Collaborative Approach to Teaching Software Architecture'
+title: 'A Collaborative Approach to Teaching Software Architecture'
 date: 2016-12-13T10:53:23+00:00
 author: mauricioaniche
 layout: post

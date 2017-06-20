@@ -1,6 +1,6 @@
 ---
 id: 799
-title: 'SBES 2016 &#8211; Developers’ Perceptions on Object-Oriented Design and Architectural Roles'
+title: 'Developers’ Perceptions on Object-Oriented Design and Architectural Roles'
 date: 2016-06-30T18:01:31+00:00
 author: mauricioaniche
 layout: post

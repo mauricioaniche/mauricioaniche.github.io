@@ -1,6 +1,6 @@
 ---
 id: 825
-title: 'SCAM 2016 &#8211; SATT: Tailoring Code Metric Thresholds for Different Software Architectures'
+title: 'SATT: Tailoring Code Metric Thresholds for Different Software Architectures'
 date: 2016-08-11T14:39:15+00:00
 author: mauricioaniche
 layout: post

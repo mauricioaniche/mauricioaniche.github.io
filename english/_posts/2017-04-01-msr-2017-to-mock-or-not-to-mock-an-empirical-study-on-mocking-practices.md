@@ -1,6 +1,6 @@
 ---
 id: 876
-title: 'MSR 2017 &#8211; To Mock or Not To Mock? An Empirical Study on Mocking Practices'
+title: 'To Mock or Not To Mock? An Empirical Study on Mocking Practices'
 date: 2017-04-01T10:57:25+00:00
 author: mauricioaniche
 layout: post
