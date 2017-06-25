@@ -1,0 +1,17 @@
+---
+layout: page
+title: Bem vindo!
+---
+
+bl bla bla
+
+<h2>Blog</h2>
+
+<ul>
+{% for post in site.categories.portuguese %}
+    <li>
+    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>  — <strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong>
+    </li>
+{% endfor %}
+</ul>
+

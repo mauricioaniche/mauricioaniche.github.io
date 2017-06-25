@@ -33,9 +33,7 @@ author:
   name     : Maurício Aniche
   firstname: Maurício
   surname  : Aniche
-  job      : Software Engineering Researcher at TU Delft
-  bio      : "bla bla bla bla"
-  thumb    : /images/photo.jpg
+  thumb    : /assets/images/photo.jpg
   email    : mauricioaniche@gmail.com
   url      : http://www.mauricioaniche.com
   github   : http://github.com/mauricioaniche

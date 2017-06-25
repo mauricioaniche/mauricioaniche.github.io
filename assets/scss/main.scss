@@ -6,3 +6,22 @@
 
 @import "layout";
 @import "syntax-highlighting";
+
+ol, ul {
+	list-style-type: circle;
+	margin-left: 30px;
+	margin-bottom: 30px;
+}
+
+strong {
+	font-weight: bold;
+}
+
+.minibio {
+	font-size: 0.9em;
+	text-align: justify;
+}
+
+em {
+	font-style: italic;
+}
