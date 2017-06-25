@@ -1,6 +1,6 @@
 ---
 id: 154
-title: 1st International Workshop on Test-Driven Development (TDD 2010)
+title: O que aconteceu na conferência TDD 2010?
 date: 2010-04-29T23:35:59+00:00
 author: mauricioaniche
 layout: post

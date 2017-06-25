@@ -14,4 +14,6 @@ tags:
 ---
 Há algum tempo atrás, o [Edson Yanaga](http://www.yanaga.com.br/) me convidou para um bate-papo sobre TDD. Durante 30 minutos, falamos sobre TDD, mitos, fatos, como introduzir TDD na sua equipe, como dar os primeiros passos com a prática, e etc.
 
-Gostei bastante do resultado. Veja o vídeo completo aqui (<http://www.youtube.com/watch?v=b8Sz7_ALhEY>):
+Gostei bastante do resultado. Veja o vídeo completo aqui:
+
+<http://www.youtube.com/watch?v=b8Sz7_ALhEY>

@@ -4,7 +4,7 @@ title: TDD
 date: 2013-04-11T21:00:33+00:00
 author: mauricioaniche
 layout: page
-guid: http://www.aniche.com.br/?page_id=381
+guid: /?page_id=381
 ---
 <p align="justify">
   Test-Driven Development (TDD), sem dúvida, tornou-se uma das práticas mais populares entre desenvolvedores de software. A ideia é bem simples: escreva seus testes antes mesmo de escrever o código de produção. Mas por quê a ideia parece tão boa? Ao escrever os testes antes, o desenvolvedor garante que boa parte (ou talvez todo) do seu sistema tem um teste que garante o seu funcionamento. Além disso, muitos desenvolvedores também afirmam que os testes os guiam no projeto de classes do sistema.
@@ -15,14 +15,14 @@ guid: http://www.aniche.com.br/?page_id=381
 </p>
 
 <p align="justify">
-  Aqui, dou meu ponto de vista sobre todas elas. Se quiser aprofundar mais, veja <a href="http://www.casadocodigo.com.br/products/livro-tdd">meu livro sobre TDD</a>. Também já dei diversas <a href="http://www.aniche.com.br/publications">palestras e workshops sobre o assunto</a>, e os slides são sempre abertos. Se você fala em inglês, pode assistir também meu treinamento online &#8220;<a href="https://www.udemy.com/test-driven-development-for-professionals/">Test-Driven Development for Java Professionals</a>&#8221; no Udemy. Além disso, <a href="http://www.aniche.com.br/category/blog/">meu blog técnico</a> é também uma boa fonte de recursos.
+  Aqui, dou meu ponto de vista sobre todas elas. Se quiser aprofundar mais, veja <a href="http://www.casadocodigo.com.br/products/livro-tdd">meu livro sobre TDD</a>. Também já dei diversas <a href="/publications">palestras e workshops sobre o assunto</a>, e os slides são sempre abertos. Se você fala em inglês, pode assistir também meu treinamento online <a href="https://www.udemy.com/test-driven-development-for-professionals/">Test-Driven Development for Java Professionals</a> no Udemy. Além disso, meu blog técnico é também uma boa fonte de recursos.
 </p>
 
 <p align="justify">
-  Ou, se quiser, você pode fazer um <a href="http://www.aniche.com.br/hire-me-to-training-and-consultancy/">workshop comigo sobre TDD</a>. É bastante produtivo!
+  Ou, se quiser, você pode fazer um <a href="/hire-me-to-training-and-consultancy/">workshop comigo sobre TDD</a>. É bastante produtivo!
 </p>
 
-## Como funciona? {.title.label.article-heading}
+## Como funciona? 
 
 A mecânica da prática é simples: escreva um teste que falha, faça-o passar da maneira mais simples possível e, por fim, refatore o código. Esse ciclo é conhecido como **Ciclo Vermelho-Verde-Refatora**.
 
@@ -48,7 +48,7 @@ A mecânica da prática é simples: escreva um teste que falha, faça-o passar d
   Acabou? Claro que não. Agora é partir para a próxima funcionalidade. E começando por onde? Pelo teste.
 </p>
 
-## O que eu ganho com a prática? {.title.label.article-heading}
+## O que eu ganho com a prática? 
 
 <p align="justify">
   A prática de TDD agrega muitos benefícios ao processo de desenvolvimento. O primeiro deles, e mais claro, são os benefícios na qualidade externa do produto. Todos já sofremos os problemas de uma nova versão do produto que traz novas funcionalidades, mas faz as anteriores pararem de funcionar. A bateria de testes automatizados gerados pela prática dão mais segurança ao desenvolvedor na hora de mudanças.
@@ -66,7 +66,7 @@ A mecânica da prática é simples: escreva um teste que falha, faça-o passar d
   Perceba então que o uso da prática de TDD ajuda a equipe a garantir que os requisitos funcionam como esperado, e também auxilia o desenvolvedor a perceber problemas de código em suas implementações. Dois coelhos em uma cajadada só.
 </p>
 
-## Devo praticar TDD 100% do tempo? {.title.label.article-heading}
+## Devo praticar TDD 100% do tempo? 
 
 <p align="justify">
   A resposta para essa pergunta serve para toda e qualquer prática de engenharia de software. <b>É claro que não.</b>
@@ -80,7 +80,7 @@ A mecânica da prática é simples: escreva um teste que falha, faça-o passar d
   O desenvolvedor maduro leva em consideração a sua experiência, e entende bem as vantagens da prática. E, na hora certa, fazer uso dela.
 </p>
 
-## Qual a diferença entre fazer TDD e escrever o teste depois? {.title.label.article-heading}
+## Qual a diferença entre fazer TDD e escrever o teste depois? 
 
 <p align="justify">
   Se pararmos para analisar, o grande responsável pelo aumento da qualidade interna e externa não é o TDD, mas sim o teste automatizado, produzido perante o uso da prática. A pergunta comum é justamente então:<i>Qual a diferença entre fazer TDD e escrever o teste depois?</i>
@@ -100,7 +100,7 @@ A mecânica da prática é simples: escreva um teste que falha, faça-o passar d
 
 ![](http://s3-sa-east-1.amazonaws.com/tdd-site/feedback.png)
 
-## Serei mais ou menos produtivo? {.title.label.article-heading}
+## Serei mais ou menos produtivo? 
 
 <p align="justify">
   Assim como muitas das práticas ágeis, é difícil ver os benefícios quando não se faz uso dela. A primeira reação da maioria das pessoas é: <i>&#8220;Mas agora eu gastarei boa parte do meu tempo escrevendo testes? Isso não pode ser produtivo!&#8221;</i>
@@ -138,7 +138,7 @@ A mecânica da prática é simples: escreva um teste que falha, faça-o passar d
   Ou seja, o desenvolvedor que escreve testes automatizados gasta tempo com isso. Mas ele gasta tempo de maneira inteligente. Hoje, o desenvolvedor que faz teste manual também gasta muito tempo com testes, mas de maneira errada, improdutiva. A médio prazo, esse desenvolvedor gastará mais tempo testando a mesma funcionalidade do que o que foi esperto e os automatizou desde o começo. É tudo uma questão de pensar a médio prazo.
 </p>
 
-## Alguém já fez estudos formais sobre isso? {.title.label.article-heading}
+## Alguém já fez estudos formais sobre isso? 
 
 <p align="justify">
   É difícil acreditar em tudo que foi dito até agora, não? Pois bem, é para isso que servem trabalhos científicos. Para que fatos sejam separados de meros folclores.
@@ -157,10 +157,10 @@ A mecânica da prática é simples: escreva um teste que falha, faça-o passar d
 </p>
 
 <p align="justify">
-  Você pode ler muitos desses estudos com mais detalhes em um post do meu blog, chamado <a href="http://www.aniche.com.br/2010/04/tdd-realmente-ajuda/">TDD Realmente Ajuda?</a>.
+  Você pode ler muitos desses estudos com mais detalhes em um post do meu blog, chamado <a href="/2010/04/tdd-realmente-ajuda/">TDD Realmente Ajuda?</a>.
 </p>
 
-## Onde posso ler mais sobre isso? {.title.label.article-heading}
+## Onde posso ler mais sobre isso? 
 
 <p align="justify">
   Livros sobre TDD, apesar de não serem muitos, são bons. Todos são bastante técnicos, e devem ser lidos apenas por desenvolvedores.
@@ -183,28 +183,28 @@ A mecânica da prática é simples: escreva um teste que falha, faça-o passar d
 </p>
 
 <p align="justify">
-  Existe também muito material informal sobre o assunto. O próprio <a href="http://www.aniche.com.br/">blog do Aniche</a>, e o <a href="http://tdd.caelum.com.br/blog.caelum.com.br">blog da Caelum</a> possuem bons textos. Abaixo uma pequena relação desses posts:
+  Existe também muito material informal sobre o assunto. O próprio <a href="/">blog do Aniche</a>, e o <a href="http://tdd.caelum.com.br/blog.caelum.com.br">blog da Caelum</a> possuem bons textos. Abaixo uma pequena relação desses posts:
 </p>
 
-  * [Perguntas e Respostas sobre TDD](http://www.aniche.com.br/2014/02/perguntas-e-respostas-sobre-tdd/)
-  * [Bate papo sobre TDD na Caelum](http://www.aniche.com.br/2013/09/bate-papo-sobre-tdd-na-caelum/)
-  * [Dependência de cenários em testes de sistema](http://www.aniche.com.br/2013/04/dependencia-de-cenarios-em-testes-de-sistema/)
-  * [Quantidade de Asserts no Teste](http://www.aniche.com.br/2013/04/quantidade-de-asserts-no-teste/)
-  * [Testando datas e métodos estáticos](http://www.aniche.com.br/2011/09/testando-datas-e-metodos-estaticos/)
-  * [Será que eu preciso de 100% de cobertura de código?](http://www.aniche.com.br/2011/02/sera-que-eu-preciso-de-100-de-cobertura-de-testes/)
-  * [Um pequeno estudo sobre asserções em testes](http://www.aniche.com.br/2011/01/um-pequeno-estudo-sobre-assercoes-em-testes/)
-  * [É TDD, e não DDT](http://www.aniche.com.br/2010/12/eh-tdd-e-nao-ddt/)
+  * [Perguntas e Respostas sobre TDD](/2014/02/perguntas-e-respostas-sobre-tdd/)
+  * [Bate papo sobre TDD na Caelum](/2013/09/bate-papo-sobre-tdd-na-caelum/)
+  * [Dependência de cenários em testes de sistema](/2013/04/dependencia-de-cenarios-em-testes-de-sistema/)
+  * [Quantidade de Asserts no Teste](/2013/04/quantidade-de-asserts-no-teste/)
+  * [Testando datas e métodos estáticos](/2011/09/testando-datas-e-metodos-estaticos/)
+  * [Será que eu preciso de 100% de cobertura de código?](/2011/02/sera-que-eu-preciso-de-100-de-cobertura-de-testes/)
+  * [Um pequeno estudo sobre asserções em testes](/2011/01/um-pequeno-estudo-sobre-assercoes-em-testes/)
+  * [É TDD, e não DDT](/2010/12/eh-tdd-e-nao-ddt/)
   * [Criando cenários de teste com Fixture Factory](http://blog.caelum.com.br/criando-cenarios-de-teste-com-fixture-factory/)
   * [O que a quantidade de asserts em um teste nos diz sobre o código?](http://blog.caelum.com.br/o-que-a-quantidade-de-asserts-em-um-teste-nos-diz-sobre-o-codigo/)
   * [Facilitando a manutenção dos testes ao diminuir o acoplamento com o código](http://blog.caelum.com.br/facilitando-a-manutencao-dos-testes-ao-diminuir-o-acoplamento-com-o-codigo/)
   * [TDD e sua influência no acoplamento e coesão](http://blog.caelum.com.br/tdd-e-sua-influencia-no-acoplamento-e-coesao/)
-  * [Ganhando ou perdendo tempo com testes de unidade](http://blog.caelum.com.br/perdendo-ou-ganhando-tempo-com-testes-de-unidade/)[.](http://www.aniche.com.br/para-melhorar-meu-design-preciso-mesmo-fazer-o-teste-antes/)
-  * [Para melhorar meu design, preciso fazer testes antes?](http://www.aniche.com.br/2015/05/para-melhorar-meu-design-preciso-mesmo-fazer-o-teste-antes/)
-  * [Classes testáveis não &#8220;buscam&#8221;, mas sim &#8220;recebem&#8221;](http://www.aniche.com.br/2015/07/classes-testaveis-nao-buscam-mas-sim-recebem/)
+  * [Ganhando ou perdendo tempo com testes de unidade](http://blog.caelum.com.br/perdendo-ou-ganhando-tempo-com-testes-de-unidade/)[.](/para-melhorar-meu-design-preciso-mesmo-fazer-o-teste-antes/)
+  * [Para melhorar meu design, preciso fazer testes antes?](/2015/05/para-melhorar-meu-design-preciso-mesmo-fazer-o-teste-antes/)
+  * [Classes testáveis não &#8220;buscam&#8221;, mas sim &#8220;recebem&#8221;](/2015/07/classes-testaveis-nao-buscam-mas-sim-recebem/)
 
-Além disso, eu também tenho algumas [publicações científicas](http://www.aniche.com.br/publications) sobre o assunto.
+Além disso, eu também tenho algumas [publicações científicas](/publications) sobre o assunto.
 
-## Como treinar minha equipe? {.title.label.article-heading}
+## Como treinar minha equipe? 
 
 <p align="justify">
   Muitas vezes a melhor maneira de introduzir uma nova prática de desenvolvimento para a equipe é trazendo alguém com mais experiência sobre o assunto, para ensinar, discutir e buscar a melhor maneira para introduzi-la no processo atual de desenvolvimento de software.
