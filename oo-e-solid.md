@@ -6,11 +6,12 @@ author: mauricioaniche
 layout: page
 guid: http://www.aniche.com.br/?page_id=562
 ---
-_Escrever código de qualidade, flexível, que evolua facilmente e que seja fácil de ser mantido não é fácil. _Há muito tempo, estudo orientação a objetos e boas práticas de código.
+
+*Escrever código de qualidade, flexível, que evolua facilmente e que seja fácil de ser mantido não é fácil.* Há muito tempo, estudo orientação a objetos e boas práticas de código.
 
 Como escrever uma classe coesa? E agora que ela é coesa, como lidar com seu acoplamento? Por que coesão é importante? Como escrever algoritmos simples? Como criar pontos de flexibilização em nosso projeto de classes?
 
-Essa e outras perguntas são respondidas em [meu livro sobre OO e SOLID: &#8220;Orientação a Objetos e SOLID para Ninjas: Projetando classes flexíveis](http://www.casadocodigo.com.br/products/livro-oo-solid). Além disso, meu blog técnico também tem bastante informação interessante por lá.
+Essa e outras perguntas são respondidas em [meu livro sobre OO e SOLID](http://www.casadocodigo.com.br/products/livro-oo-solid). Além disso, meu blog técnico também tem bastante informação interessante por lá.
 
 Alguns links interessantes:
 
@@ -21,4 +22,4 @@ Alguns links interessantes:
   * [Em qual DAO coloco minha SQL?](http://blog.caelum.com.br/em-qual-dao-colocar-minha-sql/)
   * [Qual parâmetro devo receber em meus métodos?](http://blog.caelum.com.br/qual-parametro-devo-receber-em-meus-metodos/)
 
-Ou, se preferir, [faça um workshop comigo](http://www.aniche.com.br/hire-me-to-training-and-consultancy/). É bastante produtivo!
+Ou, se preferir, [faça um workshop comigo](/treinamentos/). É bastante produtivo!
