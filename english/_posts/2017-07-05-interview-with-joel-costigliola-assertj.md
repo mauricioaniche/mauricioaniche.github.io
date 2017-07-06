@@ -10,7 +10,7 @@ tags:
 ---
 
 In the 2017 edition of our 
-_Software Testing and Quality Engineering_ course at [TU Delft](http:/www.tudelft.nl), 
+_Software Testing and Quality Engineering_ course at [TU Delft](http://www.tudelft.nl), 
 we taught students how to use [AssertJ](http://joel-costigliola.github.io/assertj/) for the first time. 
 AssertJ is a fluent and extensible
 library for writing assertions in unit tests. 
