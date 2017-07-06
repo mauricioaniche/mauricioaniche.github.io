@@ -104,10 +104,10 @@
   var ga_english = '{{ site.google_analytics }}';
   var ga_portuguese = '{{ site.google_analytics_br }}';
 
-  if(location.hostname == "mauricioaniche.com") {
+  if(location.hostname.indexOf("mauricioaniche.com")!=-1) {
     _gaq.push(['_setAccount', ga_english]);
   }
-  else if(location.hostname == "aniche.com.br") {
+  else if(location.hostname.indexOf("aniche.com.br")!=-1) {
     _gaq.push(['_setAccount', ga_portuguese]);
   }
 
