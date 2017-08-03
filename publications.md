@@ -7,6 +7,8 @@ See also my [presentations at industry conferences](/industry-conferences/), [b
 
 ## 2017
 
+  * Rick Wieman, Mauricio Finavaro Aniche, Willem Lobbezoo, Sicco Verwer, Arie van Deursen. An Experience Report on Applying Passive Learning in a Large-Scale Payment Company. In 33rd IEEE International Conference on Software Maintenance and Evolution (ICSME), 2017. [Paper](https://pure.tudelft.nl/portal/en/publications/an-experience-report-on-applying-passive-learning-in-a-largescale-payment-company(b463c54a-d69f-4db4-9fcc-cbeb6e2ddf09).html)
+
   * Spadini, D., Aniche, M. F., Bruntink, M., Bacchelli, A. To Mock or Not To Mock? 
   An Empirical Study on Mocking Practices. In IEEE 14h International Conference on Mining
   Software Repositories (MSR), 2017. [Paper](/2017/04/msr-2017-to-mock-or-not-to-mock-an-empirical-study-on-mocking-practices/)
