@@ -30,9 +30,9 @@ See also my [presentations at industry conferences](/industry-conferences/), [b
 ## 2015
 
   * Aniche, M., Gerosa, M. **Does test-driven development improve class design? A qualitative study on developers’ perceptions**. Journal of the Brazilian Computer Society.2015, 21:15. <a href="http://www.aniche.com.br/publications/tdd-jbcs-2/" rel="attachment wp-att-741">Paper</a>.
+
   * Guerra, E., Aniche, M. **Achieving quality on software design through test-driven development**. In: Ivan Mistrik; Richard Soley; Nour Ali; John Grundy; Bedir Tekinerdogan. (Org.). Software Quality Assurance in Large Scale and Complex Software-Intensive Systems. 1ed.Waltham, USA: Morgan Kaufmann &#8211; Elsevier, 2015, v. , p. 201-220. [Chapter](http://www.aniche.com.br/wp-content/uploads/2013/04/asq-tdd.pdf).
 
-  * Guerra, E., Aniche, M. F. Achieving quality on software design through test-driven development. In: Ivan Mistrik; Richard Soley; Nour Ali; John Grundy; Bedir Tekinerdogan. (Org.). Software Quality Assurance in Large Scale and Complex Software-Intensive Systems. 1ed.Waltham, USA: Morgan Kaufmann – Elsevier, 2015, v. , p. 201-220.
 
 ## 2014
 
