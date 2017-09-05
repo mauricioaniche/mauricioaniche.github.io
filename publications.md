@@ -7,19 +7,19 @@ See also my [presentations at industry conferences](/industry-conferences/), [b
 
 ## 2017
 
-  * Tómasdóttir, K., Aniche, M., van Deursen, A. Why and How JavaScript Developers Use Linters. In 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE), 2017. [Paper](https://pure.tudelft.nl/portal/en/publications/why-and-how-javascript-developers-use-linters(afb408b4-3b63-4e49-9ce7-7040e3a624b4).html)
+  * Tómasdóttir, K., Aniche, M., van Deursen, A. **Why and How JavaScript Developers Use Linters**. In 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE), 2017. [Paper](https://pure.tudelft.nl/portal/en/publications/why-and-how-javascript-developers-use-linters(afb408b4-3b63-4e49-9ce7-7040e3a624b4).html)
 
-  * Wieman R., Aniche, M., Lobbezoo, W., Verwer, S., van Deursen, A. An Experience Report on Applying Passive Learning in a Large-Scale Payment Company. In 33rd IEEE International Conference on Software Maintenance and Evolution (ICSME), 2017. [Paper](https://pure.tudelft.nl/portal/en/publications/an-experience-report-on-applying-passive-learning-in-a-largescale-payment-company(b463c54a-d69f-4db4-9fcc-cbeb6e2ddf09).html)
+  * Wieman R., Aniche, M., Lobbezoo, W., Verwer, S., van Deursen, A. **An Experience Report on Applying Passive Learning in a Large-Scale Payment Company**. In 33rd IEEE International Conference on Software Maintenance and Evolution (ICSME), 2017. [Paper](https://pure.tudelft.nl/portal/en/publications/an-experience-report-on-applying-passive-learning-in-a-largescale-payment-company(b463c54a-d69f-4db4-9fcc-cbeb6e2ddf09).html)
 
-  * Spadini, D., Aniche, M. F., Bruntink, M., Bacchelli, A. To Mock or Not To Mock? 
-  An Empirical Study on Mocking Practices. In IEEE 14h International Conference on Mining
+  * Spadini, D., Aniche, M. F., Bruntink, M., Bacchelli, A. **To Mock or Not To Mock? 
+  An Empirical Study on Mocking Practices**. In IEEE 14h International Conference on Mining
   Software Repositories (MSR), 2017. [Paper](/2017/04/msr-2017-to-mock-or-not-to-mock-an-empirical-study-on-mocking-practices/)
 
   * van Deursen, A., Aniche, M., Aué, J., Slag, R., de Jong, M., Nederlof, A., Bouwers, E. _**A Collaborative Approach to Teaching Software Architecture**_. 48th ACM Technical Symposium on Computer Science Education (SIGCSE). [Paper](/2016/12/sigcse-2017-a-collaborative-approach-to-teaching-software-architecture/).
 
 ## 2016
 
-  * Aniche, M,, Bavota, G., Treude, C., van Deursen, A., Gerosa, M. <em><strong>A Validated Set of Smells in Model-View-Controller Architecture</strong></em>. Software Maintenance and Evolution (ICSME), 2016, 32th International Conference, IEEE, 2016. <a href="/2016/07/icsme-2016-a-validated-set-of-smells-in-mvc-architectures/">Paper</a> and <a href="http://www.slideshare.net/mauricioaniche/a-validated-set-of-smells-for-mvc-architectures-icsme-2016">slides</a>.
+  * Aniche, M,, Bavota, G., Treude, C., van Deursen, A., Gerosa, M. **A Validated Set of Smells in Model-View-Controller Architecture**. Software Maintenance and Evolution (ICSME), 2016, 32th International Conference, IEEE, 2016. <a href="/2016/07/icsme-2016-a-validated-set-of-smells-in-mvc-architectures/">Paper</a> and <a href="http://www.slideshare.net/mauricioaniche/a-validated-set-of-smells-for-mvc-architectures-icsme-2016">slides</a>.
 
   * Aniche, M,, Treude, C,, Gerosa, M. **Developers' Perceptions on Object-Oriented Design and System Architecture**. 30th Brazilian Symposium on Software Engineering (SBES), 2016. <a href="/2016/06/sbes-2016-developers-perceptions-on-object-oriented-design-and-architectural-roles/">Paper</a>.<br /> 
 
