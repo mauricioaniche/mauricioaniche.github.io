@@ -16,7 +16,7 @@ guid: http://www.aniche.com.br/?page_id=774
 
 **2015**
 
-  * Gerosa, M., Wiese, I., Oliva, G., Aniche, M.** Mineração de Repositórios de Software Livre. ** Revista Computação Brasil, ed 27, 02/2015. [Paper](http://www.aniche.com.br/wp-content/uploads/2013/04/sbc-revista-2015.pdf).
+  * Gerosa, M., Wiese, I., Oliva, G., Aniche, M. **Mineração de Repositórios de Software Livre.** Revista Computação Brasil, ed 27, 02/2015. [Paper](http://www.aniche.com.br/wp-content/uploads/2013/04/sbc-revista-2015.pdf).
 
   * Aniche, M., Gerosa, M. **Boas e Más Práticas no Desenvolvimento Web com MVC: Resultados de Um Questionário com Profissionais.** 3rd Workshop on Software Visualization, Evolution, and Maintenance (VEM 2015). [Paper](http://www.aniche.com.br/wp-content/uploads/2013/04/vem2015-final.pdf) e [slides](https://docs.google.com/presentation/d/1k5heGLqmMZDnlPjHzzzwkGCi7HFdkVyU7oMZcT7yQ7w/edit?usp=sharing).
 
