@@ -8,7 +8,7 @@ See also my [presentations at industry conferences](/industry-conferences/), [b
 ## 2017
 
 
-  * Aniche, M., Bavota, G., Treude, C., Gerosa, M. A., & van Deursen, A. (2017). Code smells for Model-View-Controller architectures. Empirical Software Engineering. DOI: 10.1007/s10664-017-9540-2. [Paper](https://pure.tudelft.nl/portal/en/publications/code-smells-for-modelviewcontroller-architectures(55788fc3-56ed-4756-8667-cbf3f1e885db).html), [Springer Open Access](http://link.springer.com/article/10.1007/s10664-017-9540-2)
+  * Aniche, M., Bavota, G., Treude, C., Gerosa, M. A., & van Deursen, A. (2017). **Code smells for Model-View-Controller architectures**. Empirical Software Engineering. DOI: 10.1007/s10664-017-9540-2. [Paper](https://pure.tudelft.nl/portal/en/publications/code-smells-for-modelviewcontroller-architectures(55788fc3-56ed-4756-8667-cbf3f1e885db).html), [Springer Open Access](http://link.springer.com/article/10.1007/s10664-017-9540-2)
 
   * Tómasdóttir, K., Aniche, M., van Deursen, A. **Why and How JavaScript Developers Use Linters**. In 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE), 2017. [Paper](https://pure.tudelft.nl/portal/en/publications/why-and-how-javascript-developers-use-linters(afb408b4-3b63-4e49-9ce7-7040e3a624b4).html)
 
