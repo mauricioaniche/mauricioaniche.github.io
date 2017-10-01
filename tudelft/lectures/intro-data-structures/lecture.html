@@ -1,11 +1,32 @@
 <html>
 	<head>
+		<meta charset="UTF-8">
+
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/serif.css">
 		<link rel="stylesheet" href="lib/css/zenburn.css">
 		<link rel="stylesheet" href="css/font-awesome.min.css">
 
 		<title>Introduction to Data Structures / Maurício Aniche - TU Delft</title>
+
+		<style type="text/css">
+			.rotate {
+			  -webkit-transform:rotate(25deg);
+			  -moz-transform: rotate(25deg);
+			  -ms-transform: rotate(25deg);
+			  -o-transform: rotate(25deg);
+			  transform: rotate(25deg);
+			}
+
+			.linksource {
+				font-size: 0.4em !important;
+			}
+
+			.sourcesmall {
+				font-size: 0.5em;
+			}
+
+		</style>
 	</head>
 	<body>
 		<div class="reveal">
@@ -222,20 +243,27 @@ list.remove(0); // but he does not play anymore!</code></pre>
 
 <section>
 
-	<h2>Let's get our hands dirty!</h2>
+	<h2>Let's see it in practice!</h2>
 
 </section>
 
 
 <section>
 
-	<h2>Answers: C, A, B</h2>
+	<h2>Answers</h2>
+
+	<ul>
+
+		<li>Both are equally faster in insertion (C)</li>
+		<li>Gets are fasters in ArrayLists (A)</li>
+		<li>Inserting at the beginning is faster in LinkedLists (B)</li>
+	</ul>
 
 </section>
 
 
 <section>
-	<h2>We'll open the box!</h2>
+	<h2>We'll understand the magic!</h2>
 
 	<p class="fragment fade-up">
 		<span style="font-style: italic;">"[Normal] programmers worry about the code. Good programmers worry about data structures and their relationships."</span> -- Linus Torvalds
@@ -243,12 +271,25 @@ list.remove(0); // but he does not play anymore!</code></pre>
 
 </section>
 
+<section>
+	<div style="float:left;display: inline;width: 200px;">
+	<img src="img/joshua.jpg" class="rotate" />
+	</div>
+	<div style="float:left;display: inline;width:450px;margin-left:2em">
+		<p>
+			We'll pretend to be <i>Joshua Bloch</i>, the leader of the design and implementation
+			of the Java Collections library.
+		</p>
+	</div>
+
+</section>
+
 
 <section>
 
-	<h2>ArrayList</h2>
+	<h2>First task: ArrayList</h2>
 
-	<p>Uses an Array internally!</p>
+	<p><i>Definition:</i> Uses an Array internally!</p>
 
 	<pre><code class="java">public class OurArrayList {
 	private Object[] elementData = new Object[10];
@@ -477,6 +518,30 @@ private void resize() {
 
 
 <section>
+	<h2>Joshua Bloch approves!</h2>
+
+	<pre class="sourcesmall"><code class="java">public boolean add(E e) {
+	ensureCapacityInternal(size + 1);
+	elementData[size++] = e;
+	return true;
+}
+
+private void grow(int minCapacity) {
+	// overflow-conscious code
+	int oldCapacity = elementData.length;
+	int newCapacity = oldCapacity + (oldCapacity >> 1);
+	if (newCapacity - minCapacity < 0)
+		newCapacity = minCapacity;
+	if (newCapacity - MAX_ARRAY_SIZE > 0)
+		newCapacity = hugeCapacity(minCapacity);
+	
+	elementData = Arrays.copyOf(elementData, newCapacity);
+}</code></pre>
+
+<p class="linksource">Source: http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/java/util/ArrayList.java</p>
+</section>
+
+<section>
 
 	<h2>Get an element</h2>
 
@@ -501,6 +566,28 @@ private void resize() {
 	return (int) elementData[position];
 }</code></pre>
 
+</section>
+
+<section>
+	<h2>Joshua almost approves!</h2>
+
+	<pre class="fragment fade-in"><code class="java">public E get(int index) {
+	rangeCheck(index);
+	return elementData(index);
+}
+
+private void rangeCheck(int index) {
+	if (index >= size)
+		throw new IndexOutOfBoundsException
+		(outOfBoundsMsg(index));
+	}
+}
+
+E elementData(int index) {
+	return (E) elementData[index];
+}</code></pre>
+
+<p class="linksource">Source: http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/java/util/ArrayList.java</p>
 </section>
 
 <section>
@@ -596,7 +683,7 @@ private void resize() {
 <h2>Don't forget to resize!</h2>
 <pre><code class="java">public void addFirst(int element) {
 	
-    if(size + 1 == elementData.length) {
+    if(size == elementData.length) {
         resize();
     }
 
@@ -613,15 +700,32 @@ private void resize() {
 
 
 <section>
+	<h2>Joshua approves!</h2>
+
+	<pre><code class="java">public void add(int index, E element) {
+	rangeCheckForAdd(index);
+
+	ensureCapacityInternal(size + 1);
+	System.arraycopy(elementData, index, elementData, 
+	  index + 1, size - index);
+	elementData[index] = element;
+	size++;
+}</code></pre>
+
+<p class="linksource">Source: http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/java/util/ArrayList.java</p>
+</section>
+
+<section>
 
 	<h2>Execution time</h2>
 
-<pre><code class="java">public void addFirst(int element) {
+<pre><code class="java" data-trim data-noescape>public void addFirst(int element) {
 	
     if(size + 1 == elementData.length) {
         resize();
     }
 
+    // this can run to all elements in the array! :(
     for(int i = size; i >= 0; i--) {
         elementData[i+1] = elementData[i];
     }
@@ -692,7 +796,7 @@ private void resize() {
 
 <section>
 
-	<h2>LinkedList</h2>
+	<h2>Next task: LinkedList</h2>
 
 	<ul>
 		<li>No arrays <span style="color:green;font-size: 17px;">(no need for a big chunk of sequencial memory!)</span></li>
@@ -701,8 +805,8 @@ private void resize() {
 	</ul>
 
 	<div style="margin-top:30px;">
-	<div style="width:100px;height:50px;float:left;color:red" class="fragment fade-in" data-fragment-index="1">start</div>
-	<div style="width:100px;height:50px;float:left;"  class="fragment fade-in" data-fragment-index="1"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+	<div style="width:100px;height:50px;float:left;color:red">start</div>
+	<div style="width:100px;height:50px;float:left;"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
 
 	<div style="width:100px;height:50px;float:left;border: 1px solid black;">27</div>
 	<div style="width:100px;height:50px;float:left;"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
@@ -710,8 +814,8 @@ private void resize() {
 	<div style="width:100px;height:50px;float:left;"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
 	<div style="width:100px;height:50px;float:left;border: 1px solid black;">45</div>
 	
-	<div style="width:100px;height:50px;float:left;"  class="fragment fade-in" data-fragment-index="2"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-	<div style="width:100px;height:50px;float:left;color:red"  class="fragment fade-in" data-fragment-index="2">end</div>
+	<div style="width:100px;height:50px;float:left;"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
+	<div style="width:100px;height:50px;float:left;color:red">end</div>
 	</div>
 
 </section>
@@ -766,6 +870,23 @@ public class OurLinkedList {
 }</code></pre>
 </section>
 
+<section>
+	<h2>Joshua approves!</h2>
+
+	<pre><code class="java" data-trim data-noescape>void linkLast(E e) {
+	final Node<E> l = last;
+	final Node<E> newNode = new Node<>(l, e, null);
+	last = newNode;
+	if (l == null)
+		first = newNode;
+	else
+		l.next = newNode;
+	size++;
+	modCount++;
+}</code></pre>
+
+<p class="linksource">http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/java/util/LinkedList.java</p>
+</section>
 
 <section>
 	<h2>get(2) in a LinkedList</h2>
@@ -802,6 +923,26 @@ public class OurLinkedList {
 
 </section>
 
+<section>
+<h2>Joshua is smarter!</h2>
+
+<pre class="fragment fade-in" data-fragment-index="1"><code class="java" data-trim data-noescape>Node<E> node(int index) {
+	if (index < (size >> 1)) {
+		Node<E> x = first;
+		for (int i = 0; i < index; i++)
+			x = x.next;
+		return x;
+	} else {
+		Node<E> x = last;
+		for (int i = size - 1; i > index; i--)
+			x = x.prev;
+		return x;
+	}
+}
+
+<p class="linksource">http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/java/util/LinkedList.java</p>
+</code></pre>
+</section>
 
 <section>
 
@@ -828,7 +969,7 @@ public class OurLinkedList {
 
 	<h2>Implementation</h2>
 
-<pre><code class="java">public void addFirst(int element) {
+<pre><code class="java" data-trim data-noescape>public void addFirst(int element) {
     Node newNode = new Node();
     newNode.element = element;
 
@@ -843,6 +984,24 @@ public class OurLinkedList {
 }</code></pre>
 </section>
 
+<section>
+
+<h2>Joshua approves!</h2>
+
+<pre><code class="java" data-trim data-noescape>private void linkFirst(E e) {
+	final Node<E> f = first;
+	final Node<E> newNode = new Node<>(null, e, f);
+	first = newNode;
+	if (f == null)
+		last = newNode;
+	else
+		f.prev = newNode;
+	size++;
+	modCount++;
+}</code></pre>
+
+<p class="linksource">http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/java/util/LinkedList.java</p>
+</section>
 
 <section>
 
@@ -913,16 +1072,8 @@ public class OurLinkedList {
 
 
 <section>
-	<h2>Let's check how Java does it!</h2>
 
-	<p><a href="http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/java/util/ArrayList.java">source code of ArrayList</a></p>
-
-	<p><a href-"http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/java/util/LinkedList.java">source code of LinkedList</a></p>
-
-</section>
-
-
-<section>
+	<h2>ArrayList vs LinkedList</h2>
 
 	<table>
 
