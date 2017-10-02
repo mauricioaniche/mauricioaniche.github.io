@@ -26,6 +26,10 @@
 				font-size: 0.5em;
 			}
 
+			.textsmall {
+				font-size: 0.6em !important;
+			}
+
 		</style>
 	</head>
 	<body>
@@ -95,6 +99,7 @@ for(int i = 0; i < 20; i++) { // WAY SMARTER!
 <section>
 
 	<h2>However, arrays are limited! :(</h2>
+	<p class="textsmall">(No wonder we always use ArrayLists!)</p>
 
 	<p>
 		Who can tell me some limitations?
@@ -133,17 +138,6 @@ for(int i = 0; i < 20; i++) {
 boolean contains = numbers.contains(25);
 	</code></pre>
 
-</section>
-
-
-<section>
-
-	<h2>There are many others!</h2>
-
-	<ul>
-		<li>ArrayList</li>
-		<li>???</li>
-	</ul>
 </section>
 
 
@@ -192,7 +186,9 @@ list.remove(0); // but he does not play anymore!</code></pre>
 
 
 <section>
-	<h2>Are they the same?</h2>
+	<h2>They look the same, but they are not the same!</h2>
+
+	<p>Can someone tell me a difference between both?</p>
 </section>
 
 <section>
@@ -271,6 +267,8 @@ list.remove(0); // but he does not play anymore!</code></pre>
 
 <section>
 
+	<h2>Data structures are fundamental!</h2>
+
 	<p>
 		<span style="font-style: italic;">"[Normal] programmers worry about the code. Good programmers worry about data structures and their relationships."</span> -- Linus Torvalds
 	</p>
@@ -285,93 +283,47 @@ list.remove(0); // but he does not play anymore!</code></pre>
 	</div>
 	<div style="float:left;display: inline;width:450px;margin-left:2em">
 		<p>
-			We'll pretend to be <i>Joshua Bloch</i>, the leader of the design and implementation
-			of the Java Collections library.
+			We'll replace <i>Joshua Bloch</i> back in 1997-1998, 
+			the leader of the design and implementation of the Java Collections library.
 		</p>
 	</div>
 
 </section>
 
+<section>
+	<h2>Requirements of a List</h2>
+
+	<ul>
+		<li>Should store an 'unlimited' number of elements</li>
+		<li>Should allow repeated elements</li>
+		<li>Should maintain the order of insertions</li>
+		<li>Should allow insertions in any part of the list</li>
+		<li>Should allow deletions and updates</li>
+		<li>Should be able to get elements by their index</li>
+	</ul>
+
+</section>
 
 <section>
 
-	<h2>First task: ArrayList</h2>
+	<h2>Our first data structure: ArrayList</h2>
 
-	<p><i>Definition:</i> Uses an Array internally!</p>
+	<p><i>Definition:</i> Uses an Array to store elements.</p>
 
-	<pre><code class="java">public class OurArrayList {
+	<pre class="fragment fade-in"><code class="java">public class OurArrayList {
 	private Object[] elementData = new Object[10];
 
 	public void add(int element) { /* add */ }
 	public void get(int position) { /* get */ }
 	public void addFirst(int element) { /* addFirst */ }
-}
-</code></pre>
+}</code></pre>
 
 </section>
-
-
-
 
 
 <section>
 
 	<h2>The 'add' operation</h2>
-
-	<p>Our array:</p>
-	<table style="width: 100%; border: solid 2px black;">
-		<tr>
-			<td style="border: solid 2px; black; width:10%">
-				<span class="fragment highlight-blue" data-fragment-index="1">
-					25
-				</span>
-			</td>
-			<td style="border: solid 2px; black; width:10%">
-
-				<span class="fragment highlight-blue" data-fragment-index="2">
-					32
-				</span>
-			</td>
-			<td style="border: solid 2px; black; width:10%">
-
-				<span class="fragment highlight-blue" data-fragment-index="3">
-					47
-				</span>
-			</td>
-			<td style="border: solid 2px; black; width:10%">
-				<span style="color:red;" class="fragment fade-in" data-fragment-index="4">
-					55
-				</span>
-			</td>
-			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
-			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
-			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
-			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
-			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
-			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
-		</tr>
-	</table>
-
-	<pre class="fragment fade-in"><code class="java">public class OurArrayList {
-
-    private Object[] elementData = new Object[10];
-
-    public void add(int element) {
-    	// we look for the first available position
-        for(int i = 0; i < elementData.length; i++) {
-        	if(elementData[i] == null) { // it's empty!
-        		elementData[i] = element;
-        		break;
-        	}
-    	}
-    }
-}</code></pre>
-</section>
-
-
-<section>
-
-	<p>Keeping track of the available position</p>
 
 	<p>Our array:</p>
 	<table style="width: 100%; border: solid 2px black;">
@@ -402,7 +354,131 @@ list.remove(0); // but he does not play anymore!</code></pre>
 			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
 		</tr>
 	</table>
-	<p>size = [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]</p>
+
+	<p class="fragment fade-in" data-fragment-index="4">If you had this Array in a piece of paper, how would you insert something in there?</p>
+
+</section>
+
+<section>
+
+	<h2>Finding the empty space</h2>
+
+	<pre><code class="java">public class OurArrayList {
+
+    private Object[] elementData = new Object[10];
+
+    public void add(int element) {
+    	// we look for the first available position
+        for(int i = 0; i < elementData.length; i++) {
+        	if(elementData[i] == null) { // it's empty!
+        		elementData[i] = element;
+        		break;
+        	}
+    	}
+    }
+}</code></pre>
+
+</section>
+
+
+<section>
+	<h2>How fast is it?</h2>
+
+	<div>
+	<ul>
+	<li class="textsmall"><i>Think about the number of times that 'for' will be executed.</i></li>
+	<li class="textsmall"><i>Think about what happens to it when the array already contains many elements.</i></li>
+	</ul>
+	</div>
+
+<pre><code class="java">public class OurArrayList {
+
+    private Object[] elementData = new Object[10];
+
+    public void add(int element) {
+    	// we look for the first available position
+        for(int i = 0; i < elementData.length; i++) {
+        	if(elementData[i] == null) { // it's empty!
+        		elementData[i] = element;
+        		break;
+        	}
+    	}
+    }
+}</code></pre>
+</section>
+
+<section>
+
+	<h2>It is linear!</h2>
+
+	<p>If we have 5 elements in the array, the for will iterate 5 times. If we have 5,000 elements in the array, the for will iterate 5,000 times. Thus, <strong>the execution time grows together with the number of elements</strong>. </p>
+
+	<p>We say this algorithm is <strong>O(n)</strong>, where n is the number of elements in the array.</p>
+
+	<p class="fragment fade-in" style="color:red;">However, we know that Java does better!</p>
+</section>
+
+<section>
+	<h2>What about we store the next available position?</h2>
+
+	<p>Maybe we can store it in a variable...</p>
+
+</section>
+
+<section>
+
+	<p>Our array:</p>
+	<table style="width: 100%; border: solid 2px black;">
+		<tr>
+			<td style="border: solid 2px; black; width:10%">
+				<span class="fragment fade-in" data-fragment-index="1">
+					25
+				</span>
+			</td>
+			<td style="border: solid 2px; black; width:10%">
+
+				<span class="fragment fade-in" data-fragment-index="2">
+					32
+				</span>
+			</td>
+			<td style="border: solid 2px; black; width:10%">
+
+				<span class="fragment fade-in" data-fragment-index="3">
+					47
+				</span>
+			</td>
+			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
+			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
+			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
+			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
+			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
+			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
+			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
+		</tr>
+	</table>
+	<p>next empty index = 0
+		<span class="fragment fade-in" data-fragment-index="1"> -> 1</span>
+		<span class="fragment fade-in" data-fragment-index="2"> -> 2</span>
+		<span class="fragment fade-in" data-fragment-index="3"> -> 3</span>
+	</p>
+
+	<pre class="fragment fade-in"><code class="java">public class OurArrayList {
+
+    private Object[] elementData = new Object[10];
+    private int size = 0; // track the next available position
+
+    public void add(int element) {
+        elementData[size] = element;
+        size++;
+    }
+}</code></pre>
+
+
+</section>
+
+<section>
+
+<h2>How fast is it now?</h2>
 
 	<pre><code class="java">public class OurArrayList {
 
@@ -414,14 +490,31 @@ list.remove(0); // but he does not play anymore!</code></pre>
         size++;
     }
 }</code></pre>
-</section>
 
+</section>
 
 <section>
 
-	<h2>Dealing with full arrays</h2>
+	<h2>It takes constant time!</h2>
 
-	<p>We forgot something...</p>
+<p>
+	If we have 5 elements in the array, it takes constant time. If we have 5,000 elements in the array,
+	it takes the same constant time. Thus, <strong>the execution time does is always the same regardless of the size of the array</strong>.
+</p>
+
+<p>
+	We say this algorithm is <strong>O(1)</strong>.
+</p>
+
+
+<p class="fragment fade-in"><i>Hint: Think about caching/pre-processing data 
+to make your data structure faster!</i></p>
+
+</section>
+
+<section>
+
+	<h2>We forgot something...</h2>
 
 	<table style="width: 100%; border: solid 2px black;">
 		<tr>
@@ -440,12 +533,15 @@ list.remove(0); // but he does not play anymore!</code></pre>
 					47
 				</span>
 			</td>
+			<td style="border: solid red; width:10%; border-left: solid black;" class="fragment fade-in" data-fragment-index="2">120</td>
 		</tr>
 	</table>
 
-	<p style="color: red" class="fragment fade-in" data-fragment-index="2">
-		size=10, ArrayIndexOutOfBoundsException!
+	<p>
+		size = 9 <span class="fragment fade-in" data-fragment-index="1">-> 10</span>
+		<span class="fragment fade-in" data-fragment-index="2" style="color:red;">-> index out of the bounds!!</span>
 	</p>
+
 
 	<pre><code class="java">public class OurArrayList {
 
@@ -462,8 +558,10 @@ list.remove(0); // but he does not play anymore!</code></pre>
 
 <section>
 
+	<h2>Increasing the array</h2>
+
 	<div class="fragment fade-out" data-fragment-index="2">
-	<p>old array (size = 10, length=10)</p>
+	<p>old array (size = <span style="color:red;">10</span>, length=<span style="color:red;">10</span>)</p>
 	<table style="width: 100%; border: solid 2px black;">
 		<tr>
 			<td style="border: solid 2px; black; width:5%">15</td>
@@ -524,6 +622,12 @@ private void resize() {
 
 </section>
 
+<section>
+
+	<h2>Are we being 'naive' or is this how the
+	real Java implementation works?</h2>
+
+</section>
 
 <section>
 	<h2>Joshua Bloch approves!</h2>
@@ -533,7 +637,6 @@ private void resize() {
 	elementData[size++] = e;
 	return true;
 }
-
 private void grow(int minCapacity) {
 	// overflow-conscious code
 	int oldCapacity = elementData.length;
@@ -542,7 +645,6 @@ private void grow(int minCapacity) {
 		newCapacity = minCapacity;
 	if (newCapacity - MAX_ARRAY_SIZE > 0)
 		newCapacity = hugeCapacity(minCapacity);
-	
 	elementData = Arrays.copyOf(elementData, newCapacity);
 }</code></pre>
 
@@ -550,8 +652,21 @@ private void grow(int minCapacity) {
 </section>
 
 <section>
+	<h2>How big should be the new array?</h2>
 
-	<h2>Get an element</h2>
+	<ul>
+		<li>Us: <span style="font-family: Courier New;">oldCapacity * 2</span></li>
+		<li>Oracle Java 6: <span style="font-family: Courier New;">(oldCapacity * 3)/2 + 1</span></li>
+		<li>OpenJDK 8: <span style="font-family: Courier New;">oldCapacity + oldCapacity / 2</span></li>
+	</ul>
+
+	<p class="fragment fade-in" style="margin-top:2em;">What would happen if we increase 1 by 1?</p>
+
+</section>
+
+<section>
+
+	<h2>Next operation: get(index)</h2>
 
 	<p>Our array</p>
 
@@ -570,14 +685,29 @@ private void grow(int minCapacity) {
 		</tr>
 	</table>
 
-	<pre class="fragment fade-in"><code class="java">public int get(int position) {
-	return (int) elementData[position];
-}</code></pre>
+	<ul style="margin-top: 0.5em;">
+		<li>get(0) = 15</li>
+		<li>get(1) = 42</li>
+		<li>get(2) = 7</li>
+		<li>...</li>
+	</ul>
 
 </section>
 
 <section>
-	<h2>Joshua almost approves!</h2>
+
+	<h2>Implementation</h2>
+
+<pre><code class="java">public int get(int position) {
+	return (int) elementData[position];
+}</code></pre>
+
+<p>Finally, something simple! <i class="fa fa-smile-o" aria-hidden="true"></i></p>
+
+</section>
+
+<section>
+	<h2>Joshua (almost) approves!</h2>
 
 	<pre class="fragment fade-in"><code class="java">public E get(int index) {
 	rangeCheck(index);
@@ -595,18 +725,18 @@ E elementData(int index) {
 	return (E) elementData[index];
 }</code></pre>
 
-<p class="linksource">Source: http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/java/util/ArrayList.java</p>
+<p class="textsmall">Hint: Check the pre- and post-conditions of your operations.</p>
 </section>
 
 <section>
 
-	<h2>Insert at beginning</h2>
+	<h2>Next: Insert at beginning</h2>
 
 	<p>Our array (size=6, length=10)</p>
 
 	<table style="width: 100%; border: solid 2px black;">
 		<tr>
-			<td style="border: solid 2px; black; width:10%">15</td>
+			<td class="fragment fade-in" style="border: solid red; border-right: solid black; width:10%; color:red;">15</td>
 			<td style="border: solid 2px; black; width:10%">42</td>
 			<td style="border: solid 2px; black; width:10%">7</td>
 			<td style="border: solid 2px; black; width:10%">10</td>
@@ -623,47 +753,47 @@ E elementData(int index) {
 </section>
 
 <section>
+	<h2>We already know we can't change an array...</h2>
 
-<h2>Moving to the right</h2>
+	<p>How do we do this?</p>
+</section>
+
+<section>
 
 	<p>Our array</p>
 
 	<table style="width: 100%; border: solid 2px black;">
 		<tr>
-			<td style="border: solid 2px; black; width:10%">
-				<span class="fragment fade-in" data-fragment-index="13" style="color:blue">500</span>
-				<span class="fragment fade-out" data-fragment-index="11">15</span>
-			</td>
-			<td style="border: solid 2px; black; width:10%">
-				<span class="fragment fade-in" data-fragment-index="12">15</span>
-				<span class="fragment fade-out" data-fragment-index="9">42</span>
-			</td>
-			<td style="border: solid 2px; black; width:10%">
-				<span class="fragment fade-in" data-fragment-index="10">42</span>
-				<span class="fragment fade-out" data-fragment-index="7">7</span>
-				
-			</td>
-			<td style="border: solid 2px; black; width:10%">
-				<span class="fragment fade-in" data-fragment-index="8">7</span>
-				<span class="fragment fade-out" data-fragment-index="5">10</span>
-			</td>
-			<td style="border: solid 2px; black; width:10%">
-				<span class="fragment fade-in" data-fragment-index="6">10</span>
-				<span class="fragment fade-out" data-fragment-index="3">9</span>
-				
-			</td>
-			<td style="border: solid 2px; black; width:10%">
-				<span class="fragment fade-in" data-fragment-index="4">9</span>
-				<span class="fragment fade-out" data-fragment-index="1">19</span>
-			</td>
-			<td style="border: solid 2px; black; width:10%">
-				<span class="fragment fade-in" data-fragment-index="2">19</span>
-			</td>
+			<td style="border: solid 2px; black; width:10%">15</td>
+			<td style="border: solid 2px; black; width:10%">42</td>
+			<td style="border: solid 2px; black; width:10%">7</td>
+			<td style="border: solid 2px; black; width:10%">10</td>
+			<td style="border: solid 2px; black; width:10%">9</td>
+			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
+			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
 			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
 			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
 			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
 		</tr>
 	</table>
+
+	<p class="fragment fade-in" data-fragment-index="1">After moving elements to the right...</p>
+
+	<table style="width: 100%; border: solid 2px black;" class="fragment fade-in" data-fragment-index="1">
+		<tr>
+			<td style="border: solid 2px; black; width:10%"><span class="fragment fade-in" style="color: red;">500</span></td>
+			<td style="border: solid 2px; black; width:10%">15</td>
+			<td style="border: solid 2px; black; width:10%">42</td>
+			<td style="border: solid 2px; black; width:10%">7</td>
+			<td style="border: solid 2px; black; width:10%">10</td>
+			<td style="border: solid 2px; black; width:10%">9</td>
+			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
+			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
+			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
+			<td style="border: solid 2px; black; width:10%">&nbsp;</td>
+		</tr>
+	</table>
+
 
 </section>
 
@@ -703,7 +833,7 @@ E elementData(int index) {
     size++;
 }</code></pre>
 
-
+<p class="textsmall"><i>Challenge: Can you refactor this code to avoid repetition?</i></p>
 </section>
 
 
@@ -725,7 +855,7 @@ E elementData(int index) {
 
 <section>
 
-	<h2>Execution time</h2>
+	<h2>How fast is it?</h2>
 
 <pre><code class="java" data-trim data-noescape>public void addFirst(int element) {
 	
@@ -742,7 +872,7 @@ E elementData(int index) {
     size++;
 }</code></pre>
 
-<p class="fragment fade-in">The execution time grows together with the number of elements!</p>
+<p class="fragment fade-in">It is <strong>O(N)</strong>. That's why it took so long...</p>
 
 </section>
 
@@ -769,6 +899,14 @@ E elementData(int index) {
 	<td>O(1)</td>
 	</tr>
 
+<tr class="fragment fade-in">
+	<td>Get</td>
+	<td><pre style="font-size: 11px;"><code class="java">public int get(int position) {
+	return (int) elementData[position];
+}</code></pre></td>
+	<td>O(1)</td>
+</tr>
+
 	<tr class="fragment fade-in">
 		<td>Add first</td>
 		<td>
@@ -789,328 +927,8 @@ E elementData(int index) {
 </tr>
 
 
-<tr class="fragment fade-in">
-	<td>Get</td>
-	<td><pre style="font-size: 11px;"><code class="java">public int get(int position) {
-	return (int) elementData[position];
-}</code></pre></td>
-	<td>O(1)</td>
-</tr>
 </table>
 
-</section>
-
-
-
-<section>
-
-	<h2>Next task: LinkedList</h2>
-
-	<ul>
-		<li>No arrays <span style="color:green;font-size: 17px;">(no need for a big chunk of sequencial memory!)</span></li>
-		<li>Elements know their next</li>
-		<li>You know the first and the last element</li>
-	</ul>
-
-	<div style="margin-top:30px;">
-	<div style="width:100px;height:50px;float:left;color:red">start</div>
-	<div style="width:100px;height:50px;float:left;"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-
-	<div style="width:100px;height:50px;float:left;border: 1px solid black;">27</div>
-	<div style="width:100px;height:50px;float:left;"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-	<div style="width:100px;height:50px;float:left;border: 1px solid black;">32</div>
-	<div style="width:100px;height:50px;float:left;"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-	<div style="width:100px;height:50px;float:left;border: 1px solid black;">45</div>
-	
-	<div style="width:100px;height:50px;float:left;"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-	<div style="width:100px;height:50px;float:left;color:red">end</div>
-	</div>
-
-</section>
-
-
-<section>
-	<h2>Starting our implementation</h2>
-<pre><code class="java">public class Node {
-    int element;
-    Node next;
-}
-
-public class OurLinkedList {
-    private Node start;
-    private Node end;
-}</code></pre>
-</section>
-
-<section>
-	<h2>Insertions in a LinkedList</h2>
-
-	<div style="margin-top:30px;">
-	<div style="width:100px;height:50px;float:left;color:red" class="fragment fade-in" data-fragment-index="1">start</div>
-	<div style="width:100px;height:50px;float:left;"  class="fragment fade-in" data-fragment-index="1"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-
-	<div style="width:100px;height:50px;float:left;border: 1px solid black;" class="fragment fade-in" data-fragment-index="2">27</div>
-	<div style="width:100px;height:50px;float:left;" class="fragment fade-in" data-fragment-index="4"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-	<div style="width:100px;height:50px;float:left;border: 1px solid black;" class="fragment fade-in" data-fragment-index="3">32</div>
-	<div style="width:100px;height:50px;float:left;" class="fragment fade-in" data-fragment-index="6"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-	<div style="width:100px;height:50px;float:left;border: 1px solid black;" class="fragment fade-in" data-fragment-index="5">45</div>
-	
-	<div style="width:100px;height:50px;float:left;"  class="fragment fade-in" data-fragment-index="1"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-	<div style="width:100px;height:50px;float:left;color:red"  class="fragment fade-in" data-fragment-index="1">end</div>
-	</div>
-
-</section>
-
-<section>
-	<h2>Add in a linked list</h2>
-
-<pre><code class="java">public void add(int element) {
-    Node newNode = new Node();
-    newNode.element = element;
-
-    if(end==null) { // list is empty
-        start = newNode;
-        end = newNode;
-    } else {
-        end.next = newNode; // link to the new one
-        end = newNode; // newNode is the 'end'
-    }
-}</code></pre>
-</section>
-
-<section>
-	<h2>Joshua approves!</h2>
-
-	<pre><code class="java" data-trim data-noescape>void linkLast(E e) {
-	final Node<E> l = last;
-	final Node<E> newNode = new Node<>(l, e, null);
-	last = newNode;
-	if (l == null)
-		first = newNode;
-	else
-		l.next = newNode;
-	size++;
-	modCount++;
-}</code></pre>
-
-<p class="linksource">http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/java/util/LinkedList.java</p>
-</section>
-
-<section>
-	<h2>get(2) in a LinkedList</h2>
-
-	<div style="margin-top:30px;">
-	<div style="width:100px;height:50px;float:left;color:red">start</div>
-	<div style="width:100px;height:50px;float:left;"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-
-	<div style="width:100px;height:50px;float:left;border: 1px solid black;" class="fragment highlight-blue">27</div>
-	<div style="width:100px;height:50px;float:left;"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-	<div style="width:100px;height:50px;float:left;border: 1px solid black;" class="fragment highlight-blue">32</div>
-	<div style="width:100px;height:50px;float:left;"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-	<div style="width:100px;height:50px;float:left;border: 1px solid black;" class="fragment highlight-blue">45</div>
-	
-	<div style="width:100px;height:50px;float:left;"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-	<div style="width:100px;height:50px;float:left;color:red">end</div>
-	</div>
-</section>
-
-
-<section>
-
-<h2>Implementation</h2>
-
-<pre><code class="java">public int get(int position) {
-    Node current = start;
-    while(position > 0) {
-        current = current.next;
-        position--;
-    }
-
-    return current.element;
-}</code></pre>
-
-</section>
-
-<section>
-<h2>Joshua is smarter!</h2>
-
-<pre class="fragment fade-in" data-fragment-index="1"><code class="java" data-trim data-noescape>Node<E> node(int index) {
-	if (index < (size >> 1)) {
-		Node<E> x = first;
-		for (int i = 0; i < index; i++)
-			x = x.next;
-		return x;
-	} else {
-		Node<E> x = last;
-		for (int i = size - 1; i > index; i--)
-			x = x.prev;
-		return x;
-	}
-}
-
-<p class="linksource">http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/java/util/LinkedList.java</p>
-</code></pre>
-</section>
-
-<section>
-
-<h2>Adding at the beginning</h2>
-
-	<div style="margin-top:30px;">
-	<div style="width:100px;height:50px;float:left;color:red">start</div>
-	<div style="width:100px;height:50px;float:left;" class="fragment fade-in" data-fragment-index="1"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-
-	<div style="width:100px;height:50px;float:left;border: 1px solid black;" class="fragment fade-in" data-fragment-index="1">27</div>
-	<div style="width:100px;height:50px;float:left;"><i class="fa fa-arrow-right" aria-hidden="true" class="fragment fade-in"></i></div>
-	<div style="width:100px;height:50px;float:left;border: 1px solid black;">32</div>
-	<div style="width:100px;height:50px;float:left;"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-	<div style="width:100px;height:50px;float:left;border: 1px solid black;">45</div>
-	
-	<div style="width:100px;height:50px;float:left;"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-	<div style="width:100px;height:50px;float:left;color:red">end</div>
-	</div>
-
-
-</section>
-
-<section>
-
-	<h2>Implementation</h2>
-
-<pre><code class="java" data-trim data-noescape>public void addFirst(int element) {
-    Node newNode = new Node();
-    newNode.element = element;
-
-    if(start!=null) {
-        newNode.next = start;
-    }
-    else{
-        end = newNode;
-    }
-
-    start = newNode;
-}</code></pre>
-</section>
-
-<section>
-
-<h2>Joshua approves!</h2>
-
-<pre><code class="java" data-trim data-noescape>private void linkFirst(E e) {
-	final Node<E> f = first;
-	final Node<E> newNode = new Node<>(null, e, f);
-	first = newNode;
-	if (f == null)
-		last = newNode;
-	else
-		f.prev = newNode;
-	size++;
-	modCount++;
-}</code></pre>
-
-<p class="linksource">http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/8u40-b25/java/util/LinkedList.java</p>
-</section>
-
-<section>
-
-	<table width="100%">
-		<tr>
-			<td>Operation</td>
-			<td>Code</td>
-			<td>Execution</td>
-		</tr>
-
-		<tr>
-			<td width="30%">Add at the end</td>
-			<td width="40%">
-<pre style="font-size: 11px;"><code class="java">public void add(int element) {
-    Node newNode = new Node();
-    newNode.element = element;
-
-    if(end==null) {
-        start = newNode;
-        end = newNode;
-    } else {
-        end.next = newNode;
-        end = newNode;
-    }
-}</code></pre>
-	</td>
-	<td>O(1)</td>
-	</tr>
-
-	<tr class="fragment fade-in">
-		<td>Add first</td>
-		<td>
-<pre style="font-size: 11px;"><code class="java">public void addFirst(int element) {
-    Node newNode = new Node();
-    newNode.element = element;
-
-    if(start!=null) {
-        newNode.next = start;
-    }
-    else{
-        end = newNode;
-    }
-
-    start = newNode;
-}</code></pre>
-	</td>
-	<td>O(1)</td>
-</tr>
-
-
-<tr class="fragment fade-in">
-	<td>Get</td>
-	<td><pre style="font-size: 11px;"><code class="java">public int get(int position) {
-  Node current = start;
-  while(position > 0) {
-    current = current.next;
-    position--;
-  }
-
-  return current.element;
-}
-	</code></pre></td>
-	<td>O(N)</td>
-</tr>
-</table>
-
-</section>
-
-
-<section>
-
-	<h2>ArrayList vs LinkedList</h2>
-
-	<table>
-
-		<tr>
-			<td>&nbsp;</td>
-			<td>ArrayList</td>
-			<td>LinkedList</td>
-		</tr>
-
-		<tr>
-			<td>Add at the end</td>
-			<td>O(1)</td>
-			<td>O(1)</td>
-		</tr>
-
-		<tr>
-			<td>Add at the beginning</td>
-			<td>O(N)</td>
-			<td>O(1)</td>
-		</tr>
-
-		<tr>
-			<td>Get</td>
-			<td>O(1)</td>
-			<td>O(N)</td>
-		</tr>
-	</table>
-
-	<p class="fragment fade-in" style="color:red;">There's no silver bullet!</p>
 </section>
 
 
@@ -1119,33 +937,22 @@ public class OurLinkedList {
 <h2>What you learned today?</h2>
 
 <ul>
-	<li class="fragment fade-in">Understanding data structures is fundamental for a software engineer</li>
-	<li class="fragment fade-in">Data structures are different from each other (implementation, runtime)</li>
-	<li class="fragment fade-in">ArrayLists use arrays internally. They take constant time for get() and add(), but not for addFirst()</li>
-	<li class="fragment fade-in">LinkedLists connect elements to their next ones. They take constant time for add() and addFirst(), but not for get()</li>
+	<li class="fragment fade-in">Understanding data structures is fundamental for software engineers.</li>
+	<li class="fragment fade-in">Data structures are different from each other (implementation, runtime).</li>
+	<li class="fragment fade-in">ArrayLists use arrays internally. They take constant time for get() and add(), but not for addFirst().</li>
+	<li class="fragment fade-in">We can use caching/pre-processing to speed up our algorithm.</li>
+	<li class="fragment fade-in">There are no silver bullets!</li>
 </ul>
 
 </section>
 
-
 <section>
-	<h2>Last Quizz</h2>
 
-	<p>Suppose a list with 300,000 elements, which one is faster to search for an element?</p>
+	<h2>Quizz #4</h2>
 
-	<pre><code class="java">for(int i = 0; i < 300000; i++)
-	list.add(i);
+	<p>What can we do to make the addFirst() operation faster?</p>
 
-boolean found = list.contains(42);</code></pre>
-
-	<ol style="list-style-type: upper-alpha;">
-		<li>ArrayList is faster</li>
-		<li>LinkedList is faster</li>
-		<li>Equally faster</li>
-		<li>Both are very slow</li>
-	</ol>
-
-	<p class="fragment fade-in" style="color:red;">Next lecture! <i class="fa fa-smile-o" aria-hidden="true"></i></p>
+<p class="fragment fade-in" style="color:red;">LinkedLists on the next lecture! <i class="fa fa-smile-o" aria-hidden="true"></i></p>
 </section>
 
 <!-- end --> 
