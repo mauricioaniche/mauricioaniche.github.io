@@ -61,6 +61,10 @@
 
 
 <section>
+	<h2>What's a data structure?</h2>
+</section>
+
+<section>
 
 	<h2>A (not so long) time ago</h2>
 
@@ -88,7 +92,7 @@ numbers[2] = 30;
 numbers[19] = 200;
 
 int sum = 0;
-for(int i = 0; i < 20; i++) { // WAY SMARTER!
+for(int i = 0; i < numbers.length; i++) { // WAY SMARTER!
 	sum += numbers[i];
 }</code></pre>
 
@@ -131,7 +135,7 @@ numbers.add(30);
 numbers.add(200);
 
 int sum = 0;
-for(int i = 0; i < 20; i++) {
+for(int i = 0; i < numbers.size(); i++) {
 	sum += numbers.get(i);
 }
 
@@ -816,7 +820,7 @@ E elementData(int index) {
 
 <pre><code class="java">public void addFirst(int element) {
 // push elements to the right
-    for(int i = size; i >= 0; i--) {
+    for(int i = size - 1; i >= 0; i--) {
         elementData[i+1] = elementData[i];
     }
 
