@@ -719,9 +719,22 @@ private void grow(int minCapacity) {
 	return (int) elementData[position];
 }</code></pre>
 
-<p>Finally, something simple! <i class="fa fa-smile-o" aria-hidden="true"></i></p>
+<p>Finally an advantage in using an array! <i class="fa fa-smile-o" aria-hidden="true"></i></p>
 
 </section>
+
+<section>
+
+	<h2>How fast is it?</h2>
+
+<pre><code class="java">public int get(int position) {
+	return (int) elementData[position];
+}</code></pre>
+
+<p class="fragment fade-in">It takes constant time! Therefore, <strong>O(1)</strong>!</p>
+
+</section>
+
 
 <section>
 	<h2>Joshua (almost) approves!</h2>
