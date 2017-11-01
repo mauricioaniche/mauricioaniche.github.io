@@ -22,7 +22,6 @@ guid: http://www.aniche.com.br/?page_id=774
 
   * França, D., Aniche, M., Guerra, E. **Como o Formato de Arquivos XML evolui? Um Estudo sobre sua Relação com Código-Fonte.** 3rd Workshop on Software Visualization, Evolution, and Maintenance (VEM 2015). [Paper](http://www.aniche.com.br/wp-content/uploads/2013/04/vem2015-xml.pdf).
 
-  * Aniche, M., Oliva, G., Gerosa, M. **Why Statically Estimate Code Coverage Is So Hard? A Report of Lessons Learned.** 29o Simpósio Brasileiro de Engenharia de Software (SBES2015). [Short paper](http://www.aniche.com.br/wp-content/uploads/2013/04/sbes2015-codecoverage.pdf) e [slides](https://docs.google.com/presentation/d/17xUrASzfAw1osCpZtv7lPTk4CbzhKK41zE2Qo1OpIRk/edit?usp=sharing).
 
 **2014**
 
