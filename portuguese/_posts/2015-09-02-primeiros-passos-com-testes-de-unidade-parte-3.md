@@ -20,35 +20,20 @@ O próximo passo é começar a pensar na qualidade do código que escrevemos em
 
 Nesse post, vamos começar devagar. Vamos remover o código repetido que existe em todos os nossos testes. Repare que a linha abaixo está em todos nossos testes:
 
-<div id="wrap_githubgist057ebf7153a9261db60d" style="width:100%">
-  <div style='margin-bottom:1em;padding:0;'>
-    <noscript>
-      <code>&lt;pre style='overflow:auto;margin:0;padding:0;border:1px solid #DDD;'>Not Found&lt;/pre></code>
-    </noscript>
-  </div>
-</div>
+<script src="https://gist.github.com/mauricioaniche/057ebf7153a9261db60d.js"></script>
+
 
 Além de repetida, essa é uma linha perigosa em nossos testes. Ela é a linha que instancia a classe sob teste. Isso significa que qualquer mudança em seu projeto pode fazer com que a bateria de testes inteira pare de funcionar. Faça um teste e modifique o construtor dela! Mais pra frente, mostrarei que, ao projetar para testabilidade, construtores são fundamentais e mudam com frequência.
 
 Vamos então isolar essa linha em um método só pra ele. Esse método instancia o objeto e o guarda em um atributo da classe, para que consigamos vê-lo dentro de qualquer dos métodos de teste:
 
-<div id="wrap_githubgistedc19a053e1d97b49d49" style="width:100%">
-  <div style='margin-bottom:1em;padding:0;'>
-    <noscript>
-      <code>&lt;pre style='overflow:auto;margin:0;padding:0;border:1px solid #DDD;'>Not Found&lt;/pre></code>
-    </noscript>
-  </div>
-</div>
+<script src="https://gist.github.com/mauricioaniche/edc19a053e1d97b49d49.js"></script>
+
 
 Agora podemos remover a linha repetida de todos nossos métodos de teste. E como esse é um método que queremos executar antes de cada método de teste, basta avisarmos ao JUnit para fazer isso automaticamente. E só anotar o método de setUp() com @Before. Veja como ficou todo nosso código:
 
-<div id="wrap_githubgist987dda04cbfe224c7b86" style="width:100%">
-  <div style='margin-bottom:1em;padding:0;'>
-    <noscript>
-      <code>&lt;pre style='overflow:auto;margin:0;padding:0;border:1px solid #DDD;'>Not Found&lt;/pre></code>
-    </noscript>
-  </div>
-</div>
+<script src="https://gist.github.com/mauricioaniche/987dda04cbfe224c7b86.js"></script>
+
 
 Você pode colocar um Sysout dentro do setUp() para perceber que ele é executado sempre antes de cada teste. E veja que agora se mudarmos o construtor dessa classe, mudaremos apenas em um lugar. Muito melhor e contrado.
 

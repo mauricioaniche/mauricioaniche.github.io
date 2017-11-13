@@ -17,13 +17,8 @@ No post passado, escrevemos testes para o _FizzBuzz_. E foi fácil: criamos a c
 
 Veja novamente nosso código de produção:
 
-<div id="wrap_githubgist5827b1f8c3984c675bb0" style="width:100%">
-  <div style='margin-bottom:1em;padding:0;'>
-    <noscript>
-      <code>&lt;pre style='overflow:auto;margin:0;padding:0;border:1px solid #DDD;'>Not Found&lt;/pre></code>
-    </noscript>
-  </div>
-</div>
+<script src="https://gist.github.com/mauricioaniche/5827b1f8c3984c675bb0.js"></script>
+
 
 O grande truque é olhar para o código e pensar nos vários caminhos diferentes que ele pode ter. Para isso, analisarmos cada instrução que faz o fluxo do código mudar. Por exemplo, ifs, fors, whiles, etc. Em nosso _FizzBuzz_, temos:
 
@@ -38,13 +33,8 @@ E perceba também que temos um teste para cada cenário. Preciso de mais? Geralm
 
 No entanto, nada te impede de ter um pouco mais de segurança. Quando lidamos com algoritmos que envolvem números, como é o caso desse, podemos exercitar cenários similares. Não só para garantir que funciona, mas também para facilitar o entendimento quando outro desenvolvedor ler o teste.
 
-<div id="wrap_githubgistc6da27d705d80aac4616" style="width:100%">
-  <div style='margin-bottom:1em;padding:0;'>
-    <noscript>
-      <code>&lt;pre style='overflow:auto;margin:0;padding:0;border:1px solid #DDD;'>Not Found&lt;/pre></code>
-    </noscript>
-  </div>
-</div>
+<script src="https://gist.github.com/mauricioaniche/6da27d705d80aac4616.js"></script>
+
 
 E casos excepcionais? Se você achar que seu programa precisa tratar casos excepcionais, como zero, nulo ou exceção, você então deve escrever o teste para garantir que seu programa se comportará corretamente.
 
