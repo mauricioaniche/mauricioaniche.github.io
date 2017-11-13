@@ -21,13 +21,7 @@ Para comemorar os 50 posts do meu blog, farei uma série sobre primeiros passos
 
 Bem, pra testar código, significa que precisamos ter código, certo? Então, veja o exemplo abaixo. É uma simples implementação do jogo _fizzbuzz_. Se o número é múltiplo de 5, ele imprime &#8220;fizz&#8221;. Se é múltipo de 7, ele imprime &#8220;buzz&#8221;. Se é múltplo de 5 e 7, imprime &#8220;fizzbuzz&#8221;. Caso contrário, só imprime o número.
 
-<div id="wrap_githubgist5827b1f8c3984c675bb0" style="width:100%">
-  <div style='margin-bottom:1em;padding:0;'>
-    <noscript>
-      <code>&lt;pre style='overflow:auto;margin:0;padding:0;border:1px solid #DDD;'>Not Found&lt;/pre></code>
-    </noscript>
-  </div>
-</div>
+<script src="https://gist.github.com/mauricioaniche/5827b1f8c3984c675bb0.js"></script>
 
 A pergunta é: **como testar esse código de maneira automática?** Será que existe algum robôzinho mágico que sai por aí testando? Testar não é tão legal assim. Mas é fácil! Tudo que precisamos fazer é executar essa função várias vezes, passando dados diferentes pra ela, e ver como ela se comporta.
 
@@ -35,23 +29,12 @@ Pense que o programa está rodando na web, e você precisa manualmente garantir
 
 Como somos programadores, podemos olhar para o código e ver que ele tem 4 caminhos diferentes (um para cada if, mais o caminho onde nenhum if é verdadeiro). Precisamos executar o programa com cada um deles. Vamos começar com o primeiro, onde ele precisa retornar &#8220;fizz&#8221; se o número é múltiplo de 5.
 
-<div id="wrap_githubgistb8e22eca75e81ffbbf18" style="width:100%">
-  <div style='margin-bottom:1em;padding:0;'>
-    <noscript>
-      <code>&lt;pre style='overflow:auto;margin:0;padding:0;border:1px solid #DDD;'>Not Found&lt;/pre></code>
-    </noscript>
-  </div>
-</div>
+<script src="https://gist.github.com/mauricioaniche/b8e22eca75e81ffbbf18.js"></script>
 
 Legal! Ele retorna &#8220;fizz&#8221;. Está funcionando! Mas ainda não está tão automático quanto gostaríamos. Pois, você, ser humano, precisa ver que a resposta saiu certa. Precisamos pedir pra máquina comparar. Afinal, é fácil, sabemos que se a entrada for 5, a saída é &#8220;fizz&#8221;. Basta compararmos:
 
-<div id="wrap_githubgistd1dac9d185347cf02591" style="width:100%">
-  <div style='margin-bottom:1em;padding:0;'>
-    <noscript>
-      <code>&lt;pre style='overflow:auto;margin:0;padding:0;border:1px solid #DDD;'>Not Found&lt;/pre></code>
-    </noscript>
-  </div>
-</div>
+<script src="https://gist.github.com/mauricioaniche/d1dac9d185347cf02591.js"></script>
+
 
 Se rodarmos, ele imprime &#8220;verdadeiro&#8221;. Quer dizer que a comparação deu certo e o programa comportou-se como esperado! Agora vá no código do FizzBuzz, e altere ali &#8220;% 5&#8221; para &#8220;% 6&#8221;. Sim, estamos colocando um bug em nosso código. O que acontece agora? Ele imprime &#8220;falso&#8221;. Ótimo, verdadeiro se está certo, falso se estiver errado.
 
@@ -63,13 +46,8 @@ No Eclipse, é fácil plugar o JUnit. Aperte o botão direito do mouse em cima d
 
 Agora basta usarmos. Vamos escrever métodos de teste, um para cada diferente cenário (entrada/saída) que temos para nosso programa. Todo método deve ser anotado com @Test, ser público e retornar void. E aí, no fim, ao invés de fazermos Sysout, usaremos o Assert.assertEquals(), que é quem faz a comparação que garante que a saída bate com o esperado. Veja:
 
-<div id="wrap_githubgist4427c1ea29b373912531" style="width:100%">
-  <div style='margin-bottom:1em;padding:0;'>
-    <noscript>
-      <code>&lt;pre style='overflow:auto;margin:0;padding:0;border:1px solid #DDD;'>Not Found&lt;/pre></code>
-    </noscript>
-  </div>
-</div>
+
+<script src="https://gist.github.com/mauricioaniche/4427c1ea29b373912531.js"></script>
 
 Se você clicar com o botão direito do mouse no código-fonte, e selecionar Run -> Run as JUnit Test, verá uma tela como a abaixo. Verde, ou seja funcionou.
 
@@ -81,13 +59,8 @@ Agora, faça o teste e coloque um bug na aplicação. Adivinha que cor vai ficar
 
 Fácil, né?! Agora basta continuarmos a escrever outros métodos de teste, para os vários cenários. Veja:
 
-<div id="wrap_githubgist475e9847f36a4bb7a9dc" style="width:100%">
-  <div style='margin-bottom:1em;padding:0;'>
-    <noscript>
-      <code>&lt;pre style='overflow:auto;margin:0;padding:0;border:1px solid #DDD;'>Not Found&lt;/pre></code>
-    </noscript>
-  </div>
-</div>
+<script src="https://gist.github.com/mauricioaniche/475e9847f36a4bb7a9dc.js"></script>
+
 
 Legal, né!? Sua máquina agora roda 5 testes mais rápido do que um piscar de olhos! Um ser humano nunca seria tão rápido! Testes automatizados são muito vantajosos:
 
