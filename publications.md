@@ -3,68 +3,104 @@ title: Publications
 layout: page
 ---
 
-See also my [presentations at industry conferences](/industry-conferences/), [books](/books/), [tools](/tools), and [my publications in portuguese](/publications-in-portuguese/).
-
-## 2017
+See also my [my publications in portuguese](/publications-in-portuguese/), [presentations at industry conferences](/industry-conferences/), [books](/books/), and [tools](/tools).
 
 
-  * Aniche, M., Bavota, G., Treude, C., Gerosa, M. A., & van Deursen, A. (2017). **Code smells for Model-View-Controller architectures**. Empirical Software Engineering. DOI: 10.1007/s10664-017-9540-2. [Paper](https://pure.tudelft.nl/portal/en/publications/code-smells-for-modelviewcontroller-architectures(55788fc3-56ed-4756-8667-cbf3f1e885db).html), [Springer Open Access](http://link.springer.com/article/10.1007/s10664-017-9540-2)
-
-  * Tómasdóttir, K., Aniche, M., van Deursen, A. **Why and How JavaScript Developers Use Linters**. In 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE), 2017. [Paper](https://pure.tudelft.nl/portal/en/publications/why-and-how-javascript-developers-use-linters(afb408b4-3b63-4e49-9ce7-7040e3a624b4).html)
-
-  * Wieman R., Aniche, M., Lobbezoo, W., Verwer, S., van Deursen, A. **An Experience Report on Applying Passive Learning in a Large-Scale Payment Company**. In 33rd IEEE International Conference on Software Maintenance and Evolution (ICSME), 2017. [Paper](https://pure.tudelft.nl/portal/en/publications/an-experience-report-on-applying-passive-learning-in-a-largescale-payment-company(b463c54a-d69f-4db4-9fcc-cbeb6e2ddf09).html)
-
-  * Spadini, D., Aniche, M. F., Bruntink, M., Bacchelli, A. **To Mock or Not To Mock? 
-  An Empirical Study on Mocking Practices**. In IEEE 14h International Conference on Mining
-  Software Repositories (MSR), 2017. [Paper](/2017/04/msr-2017-to-mock-or-not-to-mock-an-empirical-study-on-mocking-practices/)
-
-  * van Deursen, A., Aniche, M., Aué, J., Slag, R., de Jong, M., Nederlof, A., Bouwers, E. _**A Collaborative Approach to Teaching Software Architecture**_. 48th ACM Technical Symposium on Computer Science Education (SIGCSE). [Paper](/2016/12/sigcse-2017-a-collaborative-approach-to-teaching-software-architecture/).
-
-## 2016
-
-  * Aniche, M,, Bavota, G., Treude, C., van Deursen, A., Gerosa, M. **A Validated Set of Smells in Model-View-Controller Architecture**. Software Maintenance and Evolution (ICSME), 2016, 32th International Conference, IEEE, 2016. <a href="/2016/07/icsme-2016-a-validated-set-of-smells-in-mvc-architectures/">Paper</a> and <a href="http://www.slideshare.net/mauricioaniche/a-validated-set-of-smells-for-mvc-architectures-icsme-2016">slides</a>.
-
-  * Aniche, M,, Treude, C,, Gerosa, M. **Developers' Perceptions on Object-Oriented Design and System Architecture**. 30th Brazilian Symposium on Software Engineering (SBES), 2016. <a href="/2016/06/sbes-2016-developers-perceptions-on-object-oriented-design-and-architectural-roles/">Paper</a>.<br /> 
-
-  * Aniche, M., Treude, C., Zaidman, A., van Deursen, A., Gerosa, M.A., **SATT: Tailoring Code Metric Thresholds for Different Software Architectures**. 16th IEEE International Working Conference on Source Code Analysis and Manipulation, 2016. [Paper](/2016/08/scam-2016-satt-tailoring-code-metric-thresholds-for-different-software-architectures/), [slides](http://www.slideshare.net/mauricioaniche/satt-tailoring-code-metric-thresholds-for-different-software-architectures-scam-2016) and [online presentation](https://www.periscope.tv/w/1DXxyLdwDoLJM).
-  
-  * Aniche, M. _**Context-Based Code Quality Assessment**_. [PhD thesis](/wp-content/uploads/2013/04/tese-aniche.pdf).
-
-## 2015
-
-  * Aniche, M., Gerosa, M. **Does test-driven development improve class design? A qualitative study on developers’ perceptions**. Journal of the Brazilian Computer Society, 2015.<a href="http://www.aniche.com.br/publications/tdd-jbcs-2/" rel="attachment wp-att-741">Paper</a>.
-
-  * Guerra, E., Aniche, M. **Achieving quality on software design through test-driven development**. In: Ivan Mistrik; Richard Soley; Nour Ali; John Grundy; Bedir Tekinerdogan. (Org.). Software Quality Assurance in Large Scale and Complex Software-Intensive Systems. 1ed.Waltham, USA: Morgan Kaufmann &#8211; Elsevier, 2015, v. , p. 201-220. [Chapter](http://www.aniche.com.br/wp-content/uploads/2013/04/asq-tdd.pdf).
+### 2017
 
 
-## 2014
+  * **[Code smells for Model-View-Controller architectures](https://pure.tudelft.nl/portal/en/publications/code-smells-for-modelviewcontroller-architectures(55788fc3-56ed-4756-8667-cbf3f1e885db).html)**<br>
+  <span class="authors">Maurício Aniche, Gabriele Bavota, Christoph Treude, Marco Gerosa, Arie van Deursen.</span><br>
+  <span class="conference">Empirical Software Engineering Journal</span><br>
+  <span class="paper-description">Proposes a set of smells that can exist in MVC applications. Empirically validates the change- and defect-proneness of classes affected by the smell as well as their evolution over time. Proposes SpringLint, a tool that automatically detects these smells in Spring MVC applications.</span>
 
-  * Aniche, M., Oliva, G., and Gerosa, M.. **Are the Methods in Your Data Access Objects (DAOs) in the Right Place? A Preliminary Study.**. 6th Workshop on Managing Technical Debt, in conjunction with ICSME2014, Canada. <a href="http://www.aniche.com.br/wp-content/uploads/2013/04/mtd2014.pdf" rel="attachment wp-att-755">Short paper</a>, [Slides](http://www.slideshare.net/mauricioaniche/mtd2014-are-your-methods) and [one-minute presentation](https://www.youtube.com/watch?v=rkV3hlqw51Y).
+  * **[Why and How JavaScript Developers Use Linters](https://pure.tudelft.nl/portal/en/publications/why-and-how-javascript-developers-use-linters(afb408b4-3b63-4e49-9ce7-7040e3a624b4).html)**<br>
+  <span class="authors">Kristín Fjóla Tómasdóttir, Maurício Aniche, Arie van Deursen.</span><br>
+  <span class="conference">32nd IEEE/ACM International Conference on Automated Software Engineering (ASE)</span><br>
+  <span class="paper-description">Discusses the current reasons of why JavaScript developers use linters as well as most common strategies to configure them. Results derived after 15 interviews with developers from known-well large JavaScript systems.</span>
+
+  * **[An Experience Report on Applying Passive Learning in a Large-Scale Payment Company](https://pure.tudelft.nl/portal/en/publications/an-experience-report-on-applying-passive-learning-in-a-largescale-payment-company(b463c54a-d69f-4db4-9fcc-cbeb6e2ddf09).html)**<br>
+  <span class="authors">Rick Wieman, Maurício Aniche, Willem Lobbezoo, Sicco Verwer, Arie van Deursen.</span><br>
+  <span class="conference">33rd IEEE International Conference on Software Maintenance and Evolution (ICSME)</span><br>
+  <span class="paper-description">Describes our experience after applying passive learning techniques in log files to model the behavior of a real-world embedded system. Our industry partner was able to find and fix bugs due to our findings. Proposes a set of lessons learned as well as suggestions on how to apply passive learning in the real world.</span>
+
+  * **[To Mock or Not To Mock? 
+  An Empirical Study on Mocking Practices](https://pure.tudelft.nl/portal/en/publications/to-mock-or-not-to-mock--an-empirical-study-on-mocking-practices(a0b02521-ad00-4f96-9d96-17a85dc23f99).html)**<br>
+  <span class="authors">Davide Spadini, Maurício Aniche, Magiel Bruntink, Alberto Bacchelli.</span><br>
+  <span class="conference">IEEE 14h International Conference on Mining Software Repositories (MSR)</span><br>
+  <span class="paper-description">Empirically analyzes the usage of mocks in four different software systems. Discusses strategies taken by developers to decide whether to mock a class as well as challenges they face when mocking.</span>
+
+  * **[A Collaborative Approach to Teaching Software Architecture](https://pure.tudelft.nl/portal/en/publications/a-collaborative-approach-to-teaching-software-architecture(0c7f2aeb-f2d6-4c56-9ab7-5f47f73d133f).html)**<br>
+  <span class="authors">Arie van Deursen, Maurício Aniche, Joop Aué, Rogier Slag, Michael de Jong, Alex Nederlof, Eric Bouwers.</span><br>
+  <span class="conference">48th ACM Technical Symposium on Computer Science Education (SIGCSE)</span><br>
+  <span class="paper-description">Describes the Software Architecture course given to the MSc students of Computer Science at TU Delft. Students collaboratively write a book about several open source systems that they analyze throughout the course.</span>
+
+### 2016
 
 
-## 2013
+* **[A Validated Set of Smells in Model-View-Controller Architecture](https://pure.tudelft.nl/portal/en/publications/a-validated-set-of-smells-in-modelviewcontroller-architectures(d6845bf3-86b4-456d-8e65-03d1771f67d6).html)**<br>
+  <span class="authors">Maurício Aniche, Gabriele Bavota, Christoph Treude, Marco Gerosa, Arie van Deursen.</span><br>
+  <span class="conference">32th International Conference on Software Maintenance and Evolution (ICSME)</span><br>
+  <span class="paper-description">First step of this research, that was evolved in 2017. Proposes a set of smells that can exist in MVC applications. Empirically validates the change- and defect-proneness of classes affected by the smell. Proposes SpringLint, a tool that automatically detects these smells in Spring MVC applications.</span>
 
 
-  * Aniche, M,, Oliva, G., and Gerosa, M. **What Do the Asserts in a Unit Test Tell Us about Code Quality? A Study on Open Source and Industrial Projects.** Software Maintenance and Reengineering (CSMR), 2013 17th European Conference on. IEEE, 2013. [Paper](http://45.55.174.113/wp-content/uploads/2013/04/csmr2013-asserts.pdf) and [slides](http://45.55.174.113/wp-content/uploads/2013/04/csmsr2013-slides.pptx).
+* **[Developers' Perceptions on Object-Oriented Design and System Architecture](/2016/06/sbes-2016-developers-perceptions-on-object-oriented-design-and-architectural-roles/)**<br>
+  <span class="authors">Maurício Aniche, Christoph Treude, Marco Gerosa.</span><br>
+  <span class="conference">30th Brazilian Symposium on Software Engineering (SBES)</span><br>
+  <span class="paper-description">Investigates whether developers from within the same development team perceive differently the responsibilities of each architectural role (e.g., what kind of code should be placed in a Controller class?)</span>
 
-  * Sokol, F. Z., Aniche, M., Gerosa, M. **MetricMiner: Supporting researchers in mining software repositories.. **IEEE 13th International Working Conference on Source Code Analysis and Manipulation (SCAM), 2013. [Tool paper](http://45.55.174.113/wp-content/uploads/2013/04/scam2013.pdf) and [slides](http://www.slideshare.net/mauricioaniche/metricminer-supporting-researchers-in-mining-software-repositories-scam-2013).
+* **[SATT: Tailoring Code Metric Thresholds for Different Software Architectures](https://pure.tudelft.nl/portal/en/publications/satt-tailoring-code-metric-thresholds-for-different-software-architectures(3992a2cc-7002-44ed-8e58-f45027a81993).html)**<br>
+  <span class="authors">Maurício Aniche, Christoph Treude, Andy Zaidman, Arie van Deursen, Marco Gerosa.</span><br>
+  <span class="conference">16th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM)</span><br>
+  <span class="paper-description">Analyzes the distribution of different code metrics as to understand how traditional threshold derivation techniques behave among different architectural roles. Proposes SATT, an approach that derives specific thresholds for specific architectural roles of the system architecture.</span>
 
-## 2011
+* **[Context-Based Code Quality Assessment](/wp-content/uploads/2013/04/tese-aniche.pdf)**<br>
+  <span class="authors">Maurício Aniche</span><br>
+  <span class="conference">PhD thesis at University of São Paulo</span><br>
+  <span class="paper-description">Should metrics and code smells be generic? What happens if we add context to them?</span>
 
-  * Aniche, M,, and Silveira, G.. **Increasing learning in an agile environment: Lessons learned in an agile team. **Agile Conference (AGILE), 2011. IEEE, 2011. [Paper](http://45.55.174.113/wp-content/uploads/2013/04/agile2011-learning.pdf).
+### 2015
 
-## 2010
+* **[Does test-driven development improve class design? A qualitative study on developers’ perceptions](https://journal-bcs.springeropen.com/articles/10.1186/s13173-015-0034-z)**<br>
+  <span class="authors">Maurício Aniche, Marco Gerosa</span><br>
+  <span class="conference">Journal of the Brazilian Computer Society</span><br>
+  <span class="paper-description">Analyzes the perceptions of TDD practitioners on its advantages and disadvantages. Interviews were conducted after participants performed a short development task.</span>
 
-  * Aniche, Mauricio F., Gerosa, M. **Most common mistakes in test-driven development practice: Results from an online survey with developers.** 3rd International Conference on Software Testing, Verification, and Validation Workshops (ICSTW). IEEE, 2010. [Workshop paper](http://45.55.174.113/wp-content/uploads/2013/04/icst2010-tdd.pdf)
+### 2014
+
+* **[Are the Methods in Your Data Access Objects (DAOs) in the Right Place? A Preliminary Study](/wp-content/uploads/2013/04/mtd2014.pdf)**<br>
+  <span class="authors">Maurício Aniche, Gustavo Oliva, Marco Gerosa</span><br>
+  <span class="conference">6th Workshop on Managing Technical Debt, in conjunction with ICSME 2014</span><br>
+  <span class="paper-description">Proposes an heuristic to detect methods that are placed in the wrong Data Access Object (DAO) class. Evaluates the precision and recall of the approach which turned out to be quite high.</span>
+
+### 2013
 
 
+* **[What Do the Asserts in a Unit Test Tell Us about Code Quality? A Study on Open Source and Industrial Projects](/wp-content/uploads/2013/04/csmr2013-asserts.pdf)**<br>
+  <span class="authors">Maurício Aniche, Gustavo Oliva, Marco Gerosa</span><br>
+  <span class="conference">17th European Conference on Software Maintenance and Reengineering (CSMR)</span><br>
+  <span class="paper-description">Analyzes the relationship between the quantity of assert instructions in a JUnit test and the complexity of the class under test.</span>
 
-## Patterns
+* **[MetricMiner: Supporting researchers in mining software repositories](/wp-content/uploads/2013/04/scam2013.pdf)**<br>
+  <span class="authors">Francisco Sokol, Maurício Aniche, Gustavo Oliva, Marco Gerosa</span><br>
+  <span class="conference">IEEE 13th International Working Conference on Source Code Analysis and Manipulation (SCAM)</span><br>
+  <span class="paper-description">Proposes MetricMiner, a tool that supports researchers that intend to mine source code repositories. This project is the father of [RepoDriller](https://www.github.com/mauricioaniche/repodriller).</span>
 
-  * Aniche, M., Guerra, E., Gerosa, M. **A Set of Patterns to Improve Code Quality of Automated Functional Tests of Web Applications. **21th Conference on Pattern Languages of Programs. 2014. [Paper](http://www.aniche.com.br/wp-content/uploads/2013/04/PLoP2014__A_Set_of_Patterns_to_Improve_Code_Quality_on_Automated_Functional_Tests_of_Web_Applications.pdf).
-  * Guerra, E., Yoder, J. Aniche, M., Gerosa, M. **The Last Two Test-Driven Development Step Patterns: Bug Locator and Pause for Housekeeping. **10th Latin American Conference on Pattern Languages of Programs. 2014. [Paper](/wp-content/uploads/2013/04/sugarloafplop2014.pdf).
 
-  * Guerra, E. Aniche, M., Gerosa, M., Yoder, J. **Preparing for a Test Driven Development Session. **21th Conference on Pattern Languages of Programs. 2014. [Paper](/wp-content/uploads/2013/04/plop2014.pdf).
+### 2011
 
-  * Guerra, E., Yoder, J. Aniche, M., Gerosa, M.** Test-Driven Development Step Patterns For Designing Objects Dependencies.** 20th Conference on Pattern Languages of Programs, 2013. [Paper](http://45.55.174.113/wp-content/uploads/2013/04/TDDStepPatternsforDesigningObjectsDependencies.pdf).
+
+* **[Increasing learning in an agile environment: Lessons learned in an agile team](/wp-content/uploads/2013/04/agile2011-learning.pdf)**<br>
+  <span class="authors">Maurício Aniche, Guilherme Silveira</span><br>
+  <span class="conference">Agile Conference</span><br>
+  <span class="paper-description">Presents our lessons learned on sharing knowledge and increasing learning among members of the agile software development team at Caelum.</span>
+
+
+### 2010
+
+* **[Increasing learning in an agile environment: Lessons learned in an agile team](wp-content/uploads/2013/04/icst2010-tdd.pdf)**<br>
+  <span class="authors">Maurício Aniche, Marco Gerosa</span><br>
+  <span class="conference">1st International Workshop on Test-Driven Development, in conjuction with ICST</span><br>
+  <span class="paper-description">Presents the results of a survey on common mistakes that practitioners do when performing TDD.</span>
+
 

@@ -10,11 +10,11 @@ You can find me at some industry conferences.
 
 **2017**
 
-  1. Software Testing with Caipirinha and Stroopwafels. [Slides](https://www.slideshare.net/mauricioaniche/software-testing-with-caipirinhas-and-stroopwafels).
+  1. **Software Testing with Caipirinha and Stroopwafels**. [Slides](https://www.slideshare.net/mauricioaniche/software-testing-with-caipirinhas-and-stroopwafels).
   
 **2016**
 
-  1. Code quality in MVC systems. BENEVOL (Belgium/Dutch Software Evolution). [Slides](http://www.slideshare.net/mauricioaniche/code-quality-in-mvc-systems-benevol-2016).
+  1. **Code quality in MVC systems. BENEVOL (Belgium/Dutch Software Evolution)**. [Slides](http://www.slideshare.net/mauricioaniche/code-quality-in-mvc-systems-benevol-2016).
 
 **2015**
 
