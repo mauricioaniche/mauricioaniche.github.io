@@ -1,11 +1,9 @@
 ---
-id: 859
 title: 'A Collaborative Approach to Teaching Software Architecture'
 date: 2016-12-13T10:53:23+00:00
 author: mauricioaniche
 comments: true
 layout: post
-guid: http://www.mauricioaniche.com/?p=859
 permalink: /2016/12/sigcse-2017-a-collaborative-approach-to-teaching-software-architecture/
 categories:
   - Publications
@@ -16,10 +14,9 @@ tags:
   - software architecture
   - tu delft
 ---
-  Teaching software architecture is hard. The topic is abstract and is best understood by experiencing it, which requires proper scale to fully grasp its complexity. Furthermore, students need to practice both technical and social skills to become good software architects. To overcome these teaching challenges, we developed the Collaborative Software Architecture Course. In this course, participants work together to study and document a large, open source software system of their own choice. In the process, all communication is transparent in order to foster an open learning environment, and the end-result is published as an online book to benefit the larger open source community.
+Teaching software architecture is hard. The topic is abstract and is best understood by experiencing it, which requires proper scale to fully grasp its complexity. Furthermore, students need to practice both technical and social skills to become good software architects. To overcome these teaching challenges, we developed the Collaborative Software Architecture Course. In this course, participants work together to study and document a large, open source software system of their own choice. In the process, all communication is transparent in order to foster an open learning environment, and the end-result is published as an online book to benefit the larger open source community.
 
-  We have taught this course during the past four years to classes of 50-100 students each. Our experience suggests that: (1) open source systems can be successfully used to let students gain experience with key software architecture concepts, (2) students are capable of making code contributions to the open source projects, (3) integrators (architects) from open source systems are willing to interact with students about their contributions, (4) working together on a joint book helps teams to look beyond their own work, and study the architectural descriptions produced by the other teams.
+We have taught this course during the past four years to classes of 50-100 students each. Our experience suggests that: (1) open source systems can be successfully used to let students gain experience with key software architecture concepts, (2) students are capable of making code contributions to the open source projects, (3) integrators (architects) from open source systems are willing to interact with students about their contributions, (4) working together on a joint book helps teams to look beyond their own work, and study the architectural descriptions produced by the other teams.
 
-<p class="p1">
-  <strong>Download:</strong> <a href="/wp-content/uploads/2016/12/sigcse17.pdf">Paper</a>
-</p>
+
+[Paper](https://pure.tudelft.nl/portal/en/publications/a-collaborative-approach-to-teaching-software-architecture(0c7f2aeb-f2d6-4c56-9ab7-5f47f73d133f).html)
