@@ -4,8 +4,6 @@ title: 'To Mock or Not To Mock? An Empirical Study on Mocking Practices'
 date: 2017-04-01T10:57:25+00:00
 author: mauricioaniche
 layout: post
-comments: true
-guid: http://www.mauricioaniche.com/?p=876
 permalink: /2017/04/msr-2017-to-mock-or-not-to-mock-an-empirical-study-on-mocking-practices/
 categories:
   - Publications

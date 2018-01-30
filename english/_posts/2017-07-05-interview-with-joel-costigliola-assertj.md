@@ -1,7 +1,6 @@
 ---
 title: Interview with Joel Costigliola, creator of AssertJ
 layout: post
-comments: true
 tags:
   - assertj
   - interview

@@ -3,7 +3,6 @@ id: 807
 title: 'A Validated Set of Smells in Model-View-Controller Architectures'
 date: 2016-07-04T19:10:20+00:00
 author: mauricioaniche
-comments: true
 layout: post
 guid: http://www.mauricioaniche.com/?p=807
 permalink: /2016/07/icsme-2016-a-validated-set-of-smells-in-mvc-architectures/

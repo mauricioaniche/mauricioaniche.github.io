@@ -2,7 +2,6 @@
 title: 'A Collaborative Approach to Teaching Software Architecture'
 date: 2016-12-13T10:53:23+00:00
 author: mauricioaniche
-comments: true
 layout: post
 permalink: /2016/12/sigcse-2017-a-collaborative-approach-to-teaching-software-architecture/
 categories:
