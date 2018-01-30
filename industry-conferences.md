@@ -6,7 +6,8 @@ author: mauricioaniche
 layout: page
 guid: http://www.aniche.com.br/?page_id=770
 ---
-You can find me at some industry conferences.
+
+You can find me at some industry conferences. Check my [slideshare](https://www.slideshare.net/mauricioaniche).
 
 **2017**
 
