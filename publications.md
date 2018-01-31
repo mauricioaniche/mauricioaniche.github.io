@@ -5,6 +5,32 @@ layout: page
 
 See also my [my publications in portuguese](/publications-in-portuguese/), [presentations at industry conferences](/industry-conferences/), [books](/books/), and [tools](/tools).
 
+### 2018
+
+  * **[How Modern News Aggregators Help Development Communities Shape and Share Knowledge]()**<br>
+  <span class="authors">Maurício Aniche, Christoph Treude, Igor Steinmacher, Igor Wiese, Gustavo Henrique Lima Pinto, Margaret-Anne Storey, Marco Aurélio Gerosa</span><br>
+  <span class="conference">40th International Conference on Software Engineering (ICSE)</span><br>
+  <span class="paper-description">(to appear)</span>
+
+* **[Understanding Developers’ Needs on Deprecation as a Language Feature]()**<br>
+  <span class="authors">Anand Ashok Sawant, Maurício Aniche, Arie van Deursen, Alberto Bacchelli</span><br>
+  <span class="conference">40th International Conference on Software Engineering (ICSE)</span><br>
+  <span class="paper-description">(to appear)</span>
+
+* **[When Testing Meets Code Review: Why and How Developers Review Tests]()**<br>
+  <span class="authors">Davide Spadini, Mauricio Aniche, Margaret Storey, Magiel Bruntink, Alberto Bacchelli</span><br>
+  <span class="conference">40th International Conference on Software Engineering (ICSE)</span><br>
+  <span class="paper-description">(to appear)</span>
+
+* **[Search-Based Test Data Generation for SQL Queries]()**<br>
+  <span class="authors">Jeroen Castelein, Maurício Aniche, Mozhan Soltani, Annibale Panichella, Arie van Deursen</span><br>
+  <span class="conference">40th International Conference on Software Engineering (ICSE)</span><br>
+  <span class="paper-description">(to appear)</span>
+
+* **[An Exploratory Study on Faults in Web API Integration in a Large-Scale Payment Company]()**<br>
+  <span class="authors">Joop Aué, Maurício Aniche, Maikel Lobbezoo, Arie van Deursen</span><br>
+  <span class="conference">40th International Conference on Software Engineering (ICSE) - Industry Track</span><br>
+  <span class="paper-description">(to appear)</span>
 
 ### 2017
 
