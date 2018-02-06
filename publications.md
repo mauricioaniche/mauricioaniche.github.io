@@ -27,7 +27,7 @@ See also my [my publications in portuguese](/publications-in-portuguese/), [pre
   <span class="conference">40th International Conference on Software Engineering (ICSE)</span><br>
   <span class="paper-description">(to appear)</span>
 
-* **[An Exploratory Study on Faults in Web API Integration in a Large-Scale Payment Company]()**<br>
+* **[An Exploratory Study on Faults in Web API Integration in a Large-Scale Payment Company](https://pure.tudelft.nl/portal/en/publications/an-exploratory-study-on-faults-in-web-api-integration-in-a-largescale-payment-company(d8b594fe-f6d8-412a-83b7-cba8870f6cc9).html)**<br>
   <span class="authors">Joop Aué, Maurício Aniche, Maikel Lobbezoo, Arie van Deursen</span><br>
   <span class="conference">40th International Conference on Software Engineering (ICSE) - Industry Track</span><br>
   <span class="paper-description">(to appear)</span>
