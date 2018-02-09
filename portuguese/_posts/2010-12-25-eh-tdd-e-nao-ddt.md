@@ -27,7 +27,7 @@ E é a mesma coisa com TDD: a prática não resolverá todos os problemas de des
 Mas um programador que tenha alto conhecimento e experiência em desenvolvimento também pode criar um design com a mesma qualidade. A diferença é que TDD (e os testes gerados) dão feedback muito mais rápido sobre a qualidade. O gráfico abaixo, feito pelo Gleen Vanderburg, mostra o [tempo de feedback de várias práticas ágeis](http://portal.acm.org/citation.cfm?id=1103845.1094854). Veja que TDD dá feedback em minutos, ou seja, em alguns minutos o programador tem informações sobre o seu design. Através dos testes ele pode obter informações como a coesão da classe, o acoplamento, a simplicidade, etc. Novamente, o programador usa sua experiência para receber e entender esse feedback.
 
 <p style="text-align: center;">
-  <img class="alignnone" src="http://45.55.174.113/wp-content/uploads/2010/12/PráticaságeisefeedbackVanderburg.jpg" alt="" width="428" height="352" />
+  <img class="alignnone" src="wp-content/uploads/2010/12/PráticaságeisefeedbackVanderburg.jpg" alt="" width="428" height="352" />
 </p>
 
 <p style="text-align: center;">
