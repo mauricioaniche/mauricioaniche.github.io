@@ -7,10 +7,10 @@ See also my [my publications in portuguese](/publications-in-portuguese/), [pre
 
 ### 2018
 
-  * **[How Modern News Aggregators Help Development Communities Shape and Share Knowledge]()**<br>
+  * **[How Modern News Aggregators Help Development Communities Shape and Share Knowledge](https://pure.tudelft.nl/portal/en/publications/how-modern-news-aggregators-help-development-communities-shape-and-share-knowledge(cc0d82aa-c533-4402-8287-7ad96d9f4e54).html)**<br>
   <span class="authors">Maurício Aniche, Christoph Treude, Igor Steinmacher, Igor Wiese, Gustavo Henrique Lima Pinto, Margaret-Anne Storey, Marco Aurélio Gerosa</span><br>
   <span class="conference">40th International Conference on Software Engineering (ICSE)</span><br>
-  <span class="paper-description">(to appear)</span>
+  <span class="paper-description">We studied how and why developers have been using modern news aggregators, such as Reddit and HackerNews. Our paper provides cues for developers to maximize their benefits when using such tools, as well as for tool builders on how to improve such aggregators.</span>
 
 * **[Understanding Developers’ Needs on Deprecation as a Language Feature]()**<br>
   <span class="authors">Anand Ashok Sawant, Maurício Aniche, Arie van Deursen, Alberto Bacchelli</span><br>
@@ -18,19 +18,19 @@ See also my [my publications in portuguese](/publications-in-portuguese/), [pre
   <span class="paper-description">(to appear)</span>
 
 * **[When Testing Meets Code Review: Why and How Developers Review Tests]()**<br>
-  <span class="authors">Davide Spadini, Mauricio Aniche, Margaret Storey, Magiel Bruntink, Alberto Bacchelli</span><br>
+  <span class="authors">Davide Spadini, Maurício Aniche, Margaret Storey, Magiel Bruntink, Alberto Bacchelli</span><br>
   <span class="conference">40th International Conference on Software Engineering (ICSE)</span><br>
   <span class="paper-description">(to appear)</span>
 
-* **[Search-Based Test Data Generation for SQL Queries]()**<br>
+* **[Search-Based Test Data Generation for SQL Queries](https://pure.tudelft.nl/portal/en/publications/searchbased-test-data-generation-for-sql-queries(90a6431f-f78f-4ac3-bf87-c052cd9cd5d4).html)**<br>
   <span class="authors">Jeroen Castelein, Maurício Aniche, Mozhan Soltani, Annibale Panichella, Arie van Deursen</span><br>
   <span class="conference">40th International Conference on Software Engineering (ICSE)</span><br>
-  <span class="paper-description">(to appear)</span>
+  <span class="paper-description">We propose a search-based algorithm that generates test data for a given SQL query, using MC/DC coverage criteria. Our approach is highly superior to others (as they tend to model the problem as CSP, which fails in most complex queries).</span>
 
 * **[An Exploratory Study on Faults in Web API Integration in a Large-Scale Payment Company](https://pure.tudelft.nl/portal/en/publications/an-exploratory-study-on-faults-in-web-api-integration-in-a-largescale-payment-company(d8b594fe-f6d8-412a-83b7-cba8870f6cc9).html)**<br>
   <span class="authors">Joop Aué, Maurício Aniche, Maikel Lobbezoo, Arie van Deursen</span><br>
   <span class="conference">40th International Conference on Software Engineering (ICSE) - Industry Track</span><br>
-  <span class="paper-description">(to appear)</span>
+  <span class="paper-description">We studied and catalogued the common mistakes that developers make when trying to integrate to a (complex) web API after analysis 2MM exception log entries. We hope developers will avoid such mistakes from now on. We also provide suggestions for API developers and researchers on how to facilitate such process.</span>
 
 ### 2017
 
