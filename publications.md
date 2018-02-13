@@ -12,15 +12,15 @@ See also my [my publications in portuguese](/publications-in-portuguese/), [pre
   <span class="conference">40th International Conference on Software Engineering (ICSE)</span><br>
   <span class="paper-description">We studied how and why developers have been using modern news aggregators, such as Reddit and HackerNews. Our paper provides cues for developers to maximize their benefits when using such tools, as well as for tool builders on how to improve such aggregators.</span>
 
-* **[Understanding Developers’ Needs on Deprecation as a Language Feature]()**<br>
+* **[Understanding Developers’ Needs on Deprecation as a Language Feature](https://pure.tudelft.nl/portal/en/publications/understanding-developers-needs-on-deprecation-as-a-language-feature(f7a10177-82fa-4b23-ae4b-090fc9502fc9).html)**<br>
   <span class="authors">Anand Ashok Sawant, Maurício Aniche, Arie van Deursen, Alberto Bacchelli</span><br>
   <span class="conference">40th International Conference on Software Engineering (ICSE)</span><br>
-  <span class="paper-description">(to appear)</span>
+  <span class="paper-description">We investigated how developers perceive the deprecation mechanism and whether the new JEP covers all their needs. We ended up proposing three further enhancements that we believe languages should adopt.</span>
 
-* **[When Testing Meets Code Review: Why and How Developers Review Tests]()**<br>
+* **[When Testing Meets Code Review: Why and How Developers Review Tests](https://pure.tudelft.nl/portal/en/publications/when-testing-meets-code-review-why-and-how-developers-review-tests(256e7d56-352f-44ae-919b-97fad0eafe69).html)**<br>
   <span class="authors">Davide Spadini, Maurício Aniche, Margaret Storey, Magiel Bruntink, Alberto Bacchelli</span><br>
   <span class="conference">40th International Conference on Software Engineering (ICSE)</span><br>
-  <span class="paper-description">(to appear)</span>
+  <span class="paper-description">We studied the effort that developers put in reviewing test code (when compared to production code). We observed that developers tend to give more attention to production code when both are on the same patch, that developers mostly point code quality issues in their review (rather than missing tests, as they claim they do), and that review tools do not really help them in reviewing both the test and the class under test.</span>
 
 * **[Search-Based Test Data Generation for SQL Queries](https://pure.tudelft.nl/portal/en/publications/searchbased-test-data-generation-for-sql-queries(90a6431f-f78f-4ac3-bf87-c052cd9cd5d4).html)**<br>
   <span class="authors">Jeroen Castelein, Maurício Aniche, Mozhan Soltani, Annibale Panichella, Arie van Deursen</span><br>
