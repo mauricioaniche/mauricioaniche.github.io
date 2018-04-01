@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mauricioaniche
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mauricioaniche.com
+  * I am mauricioaniche (https://keybase.io/mauricioaniche) on keybase.
+  * I have a public key ASBIPMh9BSyo3p9uMkDVaRhWYb3J74I4qDMdv_Fv5GcF5go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208c436bc64086e56351348f02af91ec6d549c9ac995fcb6199c4f0d4d18f530060a",
+      "host": "keybase.io",
+      "kid": "0120483cc87d052ca8de9f6e3240d569185661bdc9ef8238a8331dbff16fe46705e60a",
+      "uid": "ac6caaf4a5efc795a79baa34d1230319",
+      "username": "mauricioaniche"
+    },
+    "merkle_root": {
+      "ctime": 1522613732,
+      "hash": "db0b49868016b9fe00cb288f11a18032e7900e43b49c90873940dca270a423b6ec894fe0ccdf0d7d44d2266bf5074c133ff498f96d802e682cacff3815f759f6",
+      "hash_meta": "5f3db201c1fd6dd83f42b51ab3422c53b7133e60a5334df5dfe4fb461711643d",
+      "seqno": 2320228
+    },
+    "service": {
+      "hostname": "mauricioaniche.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1522613738,
+  "expire_in": 504576000,
+  "prev": "ba80ea6178f59dc7961bd06f9967d5584ab1cc23fcdc1c4005ecedd07a171ce2",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSDzIfQUsqN6fbjJA1WkYVmG9ye+COKgzHb/xb+RnBeYKp3BheWxvYWTFA1B7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOGM0MzZiYzY0MDg2ZTU2MzUxMzQ4ZjAyYWY5MWVjNmQ1NDljOWFjOTk1ZmNiNjE5OWM0ZjBkNGQxOGY1MzAwNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDgzY2M4N2QwNTJjYThkZTlmNmUzMjQwZDU2OTE4NTY2MWJkYzllZjgyMzhhODMzMWRiZmYxNmZlNDY3MDVlNjBhIiwidWlkIjoiYWM2Y2FhZjRhNWVmYzc5NWE3OWJhYTM0ZDEyMzAzMTkiLCJ1c2VybmFtZSI6Im1hdXJpY2lvYW5pY2hlIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIyNjEzNzMyLCJoYXNoIjoiZGIwYjQ5ODY4MDE2YjlmZTAwY2IyODhmMTFhMTgwMzJlNzkwMGU0M2I0OWM5MDg3Mzk0MGRjYTI3MGE0MjNiNmVjODk0ZmUwY2NkZjBkN2Q0NGQyMjY2YmY1MDc0YzEzM2ZmNDk4Zjk2ZDgwMmU2ODJjYWNmZjM4MTVmNzU5ZjYiLCJoYXNoX21ldGEiOiI1ZjNkYjIwMWMxZmQ2ZGQ4M2Y0MmI1MWFiMzQyMmM1M2I3MTMzZTYwYTUzMzRkZjVkZmU0ZmI0NjE3MTE2NDNkIiwic2Vxbm8iOjIzMjAyMjh9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWF1cmljaW9hbmljaGUuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40NSJ9LCJjdGltZSI6MTUyMjYxMzczOCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJiYTgwZWE2MTc4ZjU5ZGM3OTYxYmQwNmY5OTY3ZDU1ODRhYjFjYzIzZmNkYzFjNDAwNWVjZWRkMDdhMTcxY2UyIiwic2Vxbm8iOjE1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQCQnSAjSJsG5ymbfNG2u/AyKiiMOIbbxFWJ3GqqMhQFDeIk28x3D8ND5i0bojSb7thpGbv+E7vgFujpNwav90ACoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDrbkbqRz+gT1JnDXb/EfJ/5f9NwJROkzbiSMthZF9icKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mauricioaniche
+
+==================================================================
