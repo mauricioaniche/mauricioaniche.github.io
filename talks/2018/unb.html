@@ -3,34 +3,11 @@
 		<meta charset="UTF-8">
 
 		<link rel="stylesheet" href="../css/reveal.css">
-		<link rel="stylesheet" href="../css/theme/serif.css">
+		<link rel="stylesheet" href="../css/theme/league.css">
 		<link rel="stylesheet" href="../lib/css-highlight/atom-one-light.css">
 		<link rel="stylesheet" href="../css/font-awesome.min.css">
 
 		<title>Como eu aprendi que testar é importante</title>
-
-		<style type="text/css">
-			.rotate {
-			  -webkit-transform:rotate(25deg);
-			  -moz-transform: rotate(25deg);
-			  -ms-transform: rotate(25deg);
-			  -o-transform: rotate(25deg);
-			  transform: rotate(25deg);
-			}
-
-			.linksource {
-				font-size: 0.4em !important;
-			}
-
-			.sourcesmall {
-				font-size: 0.5em;
-			}
-
-			.textsmall {
-				font-size: 0.6em !important;
-			}
-
-		</style>
 	</head>
 	<body>
 		<div class="reveal">
@@ -160,6 +137,10 @@
 </section>
 
 <section>
+	<h2>Design for testability</h2>
+</section>
+
+<section>
 	<h2>Diferentes partes do sistema merecem diferentes tipos de testes</h2>
 	<p>(Ou mesmo mais ou menos testes)</p>
 </section>
@@ -217,8 +198,8 @@
 				dependencies: [
 
 				// Syntax highlight for <code class="java"> elements
-				{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-				{ src: 'plugin/chalkboard/chalkboard.js' }
+				{ src: '../plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+				{ src: '../plugin/chalkboard/chalkboard.js' }
 				],
 				keyboard: {
 					    67: function() { RevealChalkboard.toggleNotesCanvas() },	// toggle notes canvas when 'c' is pressed
