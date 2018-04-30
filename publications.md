@@ -32,6 +32,16 @@ See also my [my publications in portuguese](/publications-in-portuguese/), [pre
   <span class="conference">40th International Conference on Software Engineering (ICSE) - Industry Track</span><br>
   <span class="paper-description">We studied and catalogued the common mistakes that developers make when trying to integrate to a (complex) web API after analysis 2MM exception log entries. We hope developers will avoid such mistakes from now on. We also provide suggestions for API developers and researchers on how to facilitate such process.</span>
 
+* **[Unusual Events in GitHub Repositories](https://pure.tudelft.nl/portal/en/publications/unusual-events-in-github-repositories(4d1fa591-0d01-4255-a2bb-7145324ab273).html)**<br>
+  <span class="authors">Christoph Treude, Larissa Leite, Maurício Aniche</span><br>
+  <span class="conference">Journal of Systems and Software (JSS)</span><br>
+  <span class="paper-description">Several different events may happen in a GitHub repository. Which ones should developers care about? Probably the unusual ones. We devised a comprehensive list of unusual events and validated their usefulness with 140 developers.</span>
+
+* **[Where does Google find API documentation?](https://pure.tudelft.nl/portal/en/publications/where-does-google-find-api-documentation(7aaede2a-b7b5-4cfb-9665-d456a32cfc35).html)**<br>
+  <span class="authors">Christoph Treude, Maurício Aniche</span><br>
+  <span class="conference">2nd International Workshop on API Usage and Evolution</span><br>
+  <span class="paper-description">API documentation are spread everywhere on the internet. We understand the document landscape by analyzing where Google searches for the elements of 10 popular APIs. We found that their documentation is widely dispersed among many sources, that GitHub and Stack Overflow play a prominent role among the search results, and that most sources are quick to document new API functionalities.</span>
+
 ### 2017
 
 
