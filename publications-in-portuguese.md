@@ -8,8 +8,6 @@ layout: page
 
 **2017**
 
-  * Sousa, E., Guerra, E., Oliva, G.A., Aniche, M. F. **Arquitetura de Aplicações Spring MVC: Uma Análise Baseada no Acoplamento Lógico**. In 5th Workshop on Software Visualization, Evolution, and Maintenance (VEM), 2017. 
-
   * Wessel, M., Wiese, I., Aniche, M. F., Oliva, G., Gerosa, M. 
   **Tweaking Association Rules to Optimize Soware Change Recommendations**. In: 31st Brazilian Symposium on Software Engineering (SBES), 2017. [Paper](https://figshare.com/articles/Tweaking_Association_Rules_to_Optimize_Software_Change_Recommendations/5379355)
 
