@@ -3,7 +3,7 @@ title: Publications
 layout: page
 ---
 
-See also my [my publications in portuguese](/publications-in-portuguese/), [presentations at industry conferences](/industry-conferences/), [books](/books/), and [tools](/tools).
+See also my [presentations at industry conferences](/industry-conferences/) and [books](/books/).
 
 ### 2018
 
