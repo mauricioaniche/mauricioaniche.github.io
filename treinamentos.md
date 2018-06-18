@@ -4,7 +4,6 @@ title: Treinamentos
 date: 2013-04-11T21:00:55+00:00
 author: mauricioaniche
 layout: page
-guid: http://www.aniche.com.br/?page_id=385
 ---
 
 *Quantas vezes você escreveu um bug? Quantas vezes você mudou seu software e não testou tudo?* Testar software é uma tarde. E surpreendentemente fácil. No entanto, aprender sozinho pode ser desafiador e levar mais tempo do que você esperava.

@@ -4,7 +4,6 @@ title: Publications in Portuguese
 date: 2016-06-23T23:11:10+00:00
 author: mauricioaniche
 layout: page
-guid: http://www.aniche.com.br/?page_id=774
 ---
 
 **2017**

@@ -4,7 +4,6 @@ title: Informações para Conferências
 date: 2014-09-25T14:26:56+00:00
 author: mauricioaniche
 layout: page
-guid: http://www.aniche.com.br/?page_id=505
 ---
 Estou geralmente disponíveis para dar palestras em eventos brasileiros. Conferências em São Paulo (cidade que amo e vivo!), é muito mais fácil; fora daqui, geralmente peço para o evento pagar todos os custos da viagem. Mande-me um e-mail.
 

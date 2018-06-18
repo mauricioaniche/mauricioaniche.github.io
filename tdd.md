@@ -4,7 +4,6 @@ title: TDD
 date: 2013-04-11T21:00:33+00:00
 author: mauricioaniche
 layout: page
-guid: /?page_id=381
 ---
 <p align="justify">
   Test-Driven Development (TDD), sem dúvida, tornou-se uma das práticas mais populares entre desenvolvedores de software. A ideia é bem simples: escreva seus testes antes mesmo de escrever o código de produção. Mas por quê a ideia parece tão boa? Ao escrever os testes antes, o desenvolvedor garante que boa parte (ou talvez todo) do seu sistema tem um teste que garante o seu funcionamento. Além disso, muitos desenvolvedores também afirmam que os testes os guiam no projeto de classes do sistema.

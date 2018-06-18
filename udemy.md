@@ -4,7 +4,6 @@ title: My TDD course at Udemy
 date: 2015-05-27T15:34:26+00:00
 author: mauricioaniche
 layout: page
-guid: http://www.aniche.com.br/?page_id=541
 ---
 If you want to learn about software testing and Test-Driven Development, in english, here&#8217;s my Udemy course: <https://www.udemy.com/test-driven-development-for-professionals>. It costs only $49. **And if you use the &#8220;SITE&#8221; coupon, you will pay only $29** &#8212; a very good investment.
 

@@ -4,7 +4,6 @@ title: Industry Conferences / Presentations
 date: 2016-06-23T23:08:28+00:00
 author: mauricioaniche
 layout: page
-guid: http://www.aniche.com.br/?page_id=770
 ---
 
 You can find me at some industry conferences. Check my [slideshare](https://www.slideshare.net/mauricioaniche).
