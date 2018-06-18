@@ -9,7 +9,7 @@ permalink: /research/phd-position-secure-se
 
 We are looking for applicants that will play a significant role in building up new empirical knowledge concerning security vulnerabilities regarding input data flow in software systems; devise affordable approaches to safely deal with malicious communication among software systems; devise new techniques that combine pragmatic formal methods verification, design-by-contracts, and static analysis, providing developers with a way to automatically express formal security checks into their source code bases. 
 
-Our main goals of this project are:
+The main goals of this project are:
 * Characterize security vulnerabilities related to data flow.
 * Automatic detection of security vulnerabilities related to data flow.
 * Automatic generation of contracts against vulnerabilities.
