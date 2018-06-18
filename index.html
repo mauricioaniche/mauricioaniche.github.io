@@ -16,14 +16,17 @@ title: Home
 <section class="post-list">
   <div class="container">
 
-    <h2>My thoughts on software engineering</h2>
+    <h2>Latest News</h2>
 
     <ul>
-    {% for post in site.categories.english limit:50 %}
-    <li>
-    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>  — <strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong>
-    </li>
-    {% endfor %}
+      <li>
+        <i>June/18</i>: I have an open PhD position on secure software engineering. <a href="/research/phd-position-secure-se">Apply!</a>
+      </li>
+
+      <li>
+        <i>December/17</i>: We published 4 papers at ICSE 2018. See <a href="/publications">publications</a> page for preprints.</a>
+      </li>
+
     </ul>
 
   </div>
