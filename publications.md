@@ -45,28 +45,28 @@ See also my [presentations at industry conferences](/industry-conferences/) and
 ### 2017
 
 
-  * **[Code smells for Model-View-Controller architectures](/2017/01/code-smells-in-mvc-architectures/)**<br>
+  * **[Code smells for Model-View-Controller architectures](https://pure.tudelft.nl/portal/en/publications/code-smells-for-modelviewcontroller-architectures(55788fc3-56ed-4756-8667-cbf3f1e885db).html)**<br>
   <span class="authors">Maurício Aniche, Gabriele Bavota, Christoph Treude, Marco Gerosa, Arie van Deursen.</span><br>
   <span class="conference">Empirical Software Engineering Journal</span><br>
   <span class="paper-description">Proposes a set of smells that can exist in MVC applications. Empirically validates the change- and defect-proneness of classes affected by the smell as well as their evolution over time. Proposes SpringLint, a tool that automatically detects these smells in Spring MVC applications.</span>
 
-  * **[Why and How JavaScript Developers Use Linters](/2017/09/why-and-how-javascript-developers-use-linters/)**<br>
+  * **[Why and How JavaScript Developers Use Linters](https://pure.tudelft.nl/portal/en/publications/why-and-how-javascript-developers-use-linters(afb408b4-3b63-4e49-9ce7-7040e3a624b4).html)**<br>
   <span class="authors">Kristín Fjóla Tómasdóttir, Maurício Aniche, Arie van Deursen.</span><br>
   <span class="conference">32nd IEEE/ACM International Conference on Automated Software Engineering (ASE)</span><br>
   <span class="paper-description">Discusses the current reasons of why JavaScript developers use linters as well as most common strategies to configure them. Results derived after 15 interviews with developers from known-well large JavaScript systems.</span>
 
-  * **[An Experience Report on Applying Passive Learning in a Large-Scale Payment Company](/2017/01/experience-report-passive-learning-adyen/)**<br>
+  * **[An Experience Report on Applying Passive Learning in a Large-Scale Payment Company](https://pure.tudelft.nl/portal/en/publications/an-experience-report-on-applying-passive-learning-in-a-largescale-payment-company(b463c54a-d69f-4db4-9fcc-cbeb6e2ddf09).html)**<br>
   <span class="authors">Rick Wieman, Maurício Aniche, Willem Lobbezoo, Sicco Verwer, Arie van Deursen.</span><br>
   <span class="conference">33rd IEEE International Conference on Software Maintenance and Evolution (ICSME)</span><br>
   <span class="paper-description">Describes our experience after applying passive learning techniques in log files to model the behavior of a real-world embedded system. Our industry partner was able to find and fix bugs due to our findings. Proposes a set of lessons learned as well as suggestions on how to apply passive learning in the real world.</span>
 
   * **[To Mock or Not To Mock? 
-  An Empirical Study on Mocking Practices](/2017/04/msr-2017-to-mock-or-not-to-mock-an-empirical-study-on-mocking-practices/)**<br>
+  An Empirical Study on Mocking Practices](https://pure.tudelft.nl/portal/en/publications/to-mock-or-not-to-mock(a0b02521-ad00-4f96-9d96-17a85dc23f99).html)**<br>
   <span class="authors">Davide Spadini, Maurício Aniche, Magiel Bruntink, Alberto Bacchelli.</span><br>
   <span class="conference">IEEE 14h International Conference on Mining Software Repositories (MSR)</span><br>
   <span class="paper-description">Empirically analyzes the usage of mocks in four different software systems. Discusses strategies taken by developers to decide whether to mock a class as well as challenges they face when mocking.</span>
 
-  * **[A Collaborative Approach to Teaching Software Architecture](/2016/12/sigcse-2017-a-collaborative-approach-to-teaching-software-architecture/)**<br>
+  * **[A Collaborative Approach to Teaching Software Architecture](https://pure.tudelft.nl/portal/en/publications/a-collaborative-approach-to-teaching-software-architecture(0c7f2aeb-f2d6-4c56-9ab7-5f47f73d133f).html)**<br>
   <span class="authors">Arie van Deursen, Maurício Aniche, Joop Aué, Rogier Slag, Michael de Jong, Alex Nederlof, Eric Bouwers.</span><br>
   <span class="conference">48th ACM Technical Symposium on Computer Science Education (SIGCSE)</span><br>
   <span class="paper-description">Describes the Software Architecture course given to the MSc students of Computer Science at TU Delft. Students collaboratively write a book about several open source systems that they analyze throughout the course.</span>
@@ -74,7 +74,7 @@ See also my [presentations at industry conferences](/industry-conferences/) and
 ### 2016
 
 
-* **[A Validated Set of Smells in Model-View-Controller Architecture](/2016/07/icsme-2016-a-validated-set-of-smells-in-mvc-architectures/)**<br>
+* **[A Validated Set of Smells in Model-View-Controller Architecture](https://pure.tudelft.nl/portal/en/publications/a-validated-set-of-smells-in-modelviewcontroller-architectures(d6845bf3-86b4-456d-8e65-03d1771f67d6).html)**<br>
   <span class="authors">Maurício Aniche, Gabriele Bavota, Christoph Treude, Marco Gerosa, Arie van Deursen.</span><br>
   <span class="conference">32th International Conference on Software Maintenance and Evolution (ICSME)</span><br>
   <span class="paper-description">First step of this research, that was evolved in 2017. Proposes a set of smells that can exist in MVC applications. Empirically validates the change- and defect-proneness of classes affected by the smell. Proposes SpringLint, a tool that automatically detects these smells in Spring MVC applications.</span>
@@ -85,7 +85,7 @@ See also my [presentations at industry conferences](/industry-conferences/) and
   <span class="conference">30th Brazilian Symposium on Software Engineering (SBES)</span><br>
   <span class="paper-description">Investigates whether developers from within the same development team perceive differently the responsibilities of each architectural role (e.g., what kind of code should be placed in a Controller class?)</span>
 
-* **[SATT: Tailoring Code Metric Thresholds for Different Software Architectures](/2016/08/scam-2016-satt-tailoring-code-metric-thresholds-for-different-software-architectures/)**<br>
+* **[SATT: Tailoring Code Metric Thresholds for Different Software Architectures](https://pure.tudelft.nl/portal/en/publications/satt-tailoring-code-metric-thresholds-for-different-software-architectures(3992a2cc-7002-44ed-8e58-f45027a81993).html)**<br>
   <span class="authors">Maurício Aniche, Christoph Treude, Andy Zaidman, Arie van Deursen, Marco Gerosa.</span><br>
   <span class="conference">16th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM)</span><br>
   <span class="paper-description">Analyzes the distribution of different code metrics as to understand how traditional threshold derivation techniques behave among different architectural roles. Proposes SATT, an approach that derives specific thresholds for specific architectural roles of the system architecture.</span>
