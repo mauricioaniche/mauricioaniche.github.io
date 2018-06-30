@@ -21,6 +21,7 @@ See also my [presentations at industry conferences](/industry-conferences/) and
   <span class="authors">Davide Spadini, Maurício Aniche, Margaret Storey, Magiel Bruntink, Alberto Bacchelli</span><br>
   <span class="conference">40th International Conference on Software Engineering (ICSE)</span><br>
   <span class="paper-description">We studied the effort that developers put in reviewing test code (when compared to production code). We observed that developers tend to give more attention to production code when both are on the same patch, that developers mostly point code quality issues in their review (rather than missing tests, as they claim they do), and that review tools do not really help them in reviewing both the test and the class under test.
+  <br>
   [[Video summary](https://www.youtube.com/watch?v=1Atodcct_ro)]
   [[Vídeo em português](https://www.youtube.com/watch?v=iHMJyHfl0Tg)]
   </span>
@@ -28,7 +29,7 @@ See also my [presentations at industry conferences](/industry-conferences/) and
 * **[Search-Based Test Data Generation for SQL Queries](https://pure.tudelft.nl/portal/en/publications/searchbased-test-data-generation-for-sql-queries(90a6431f-f78f-4ac3-bf87-c052cd9cd5d4).html)**<br>
   <span class="authors">Jeroen Castelein, Maurício Aniche, Mozhan Soltani, Annibale Panichella, Arie van Deursen</span><br>
   <span class="conference">40th International Conference on Software Engineering (ICSE)</span><br>
-  <span class="paper-description">We propose a search-based algorithm that generates test data for a given SQL query, using MC/DC coverage criteria. Our approach is able to generate test data for more than 90% of our dataset, and it is highly superior to others (as they tend to model the problem as CSP, which fails in most complex queries). The tool is available in our [GitHub](https://github.com/SERG-Delft/evosql). 
+  <span class="paper-description">We propose a search-based algorithm that generates test data for a given SQL query, using MC/DC coverage criteria. Our approach is able to generate test data for more than 90% of our dataset, and it is highly superior to others (as they tend to model the problem as CSP, which fails in most complex queries). The tool is available in our [GitHub](https://github.com/SERG-Delft/evosql). <br>
   [[Video summary](https://www.youtube.com/watch?v=W3zmRIcQcHI)]
   [[Vídeo em português](https://www.youtube.com/watch?v=qVOPt8wZlHM)]
 </span>
@@ -55,6 +56,7 @@ See also my [presentations at industry conferences](/industry-conferences/) and
   <span class="authors">Maurício Aniche, Gabriele Bavota, Christoph Treude, Marco Gerosa, Arie van Deursen.</span><br>
   <span class="conference">Empirical Software Engineering Journal</span><br>
   <span class="paper-description">Proposes a set of smells that can exist in MVC applications. Empirically validates the change- and defect-proneness of classes affected by the smell as well as their evolution over time. Proposes SpringLint, a tool that automatically detects these smells in Spring MVC applications. 
+    <br>
   [[Video summary](https://www.youtube.com/watch?v=KPnNpTsZB40)]
   [[Vídeo em português](https://www.youtube.com/watch?v=Pd5CdV5sPbo)]
 </span>
