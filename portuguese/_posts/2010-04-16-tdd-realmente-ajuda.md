@@ -53,4 +53,4 @@ Entretanto, mais experimentos devem ser conduzidos, levando em consideração di
 
 **Referências**
 
-Podem ser encontradas <a href="http://www.aniche.com.br/2010/04/referencias-sobre-tdd/" target="_self">aqui</a>.
+Podem ser encontradas <a href="/2010/04/referencias-sobre-tdd/" target="_self">aqui</a>.
