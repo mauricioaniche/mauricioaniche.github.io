@@ -7,6 +7,11 @@ See also my [presentations at industry conferences](/industry-conferences/) and
 
 ### 2018
 
+  * **[PyDriller: Python Framework for Mining Software Repositories](https://pure.tudelft.nl/portal/en/publications/pydriller-python-framework-for-mining-software-repositories(5985f510-058b-4f79-93b0-c30730f561d9).html)**<br>
+  <span class="authors">Davide Spadini, Maurício Aniche, Alberto Bacchelli</span><br>
+  <span class="conference">26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</span><br>
+  <span class="paper-description">We propose PyDriller, a tool that helps researchers in doing mining software repositories. The tool is freely available on [GitHub](https://github.com/ishepard/pydriller).</span>
+
   * **[How Modern News Aggregators Help Development Communities Shape and Share Knowledge](https://pure.tudelft.nl/portal/en/publications/how-modern-news-aggregators-help-development-communities-shape-and-share-knowledge(cc0d82aa-c533-4402-8287-7ad96d9f4e54).html)**<br>
   <span class="authors">Maurício Aniche, Christoph Treude, Igor Steinmacher, Igor Wiese, Gustavo Henrique Lima Pinto, Margaret-Anne Storey, Marco Aurélio Gerosa</span><br>
   <span class="conference">40th International Conference on Software Engineering (ICSE)</span><br>
