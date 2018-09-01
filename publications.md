@@ -3,8 +3,6 @@ title: Publications
 layout: page
 ---
 
-See also my [presentations at industry conferences](/industry-conferences/) and [books](/books/).
-
 ### 2018
 
   * **[PyDriller: Python Framework for Mining Software Repositories](https://pure.tudelft.nl/portal/en/publications/pydriller-python-framework-for-mining-software-repositories(5985f510-058b-4f79-93b0-c30730f561d9).html)**<br>
@@ -156,3 +154,4 @@ See also my [presentations at industry conferences](/industry-conferences/) and
   <span class="paper-description">Presents the results of a survey on common mistakes that practitioners do when performing TDD.</span>
 
 
+See also my [presentations at industry conferences](/industry-conferences/) and [books](/books/).
