@@ -98,18 +98,11 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
   <script type="text/javascript">
-  var disqus_shortname = '{{ site.disqus_shortname }}';
   var _gaq = _gaq || [];
   
   var ga_english = '{{ site.google_analytics }}';
-  var ga_portuguese = '{{ site.google_analytics_br }}';
 
-  if(location.hostname.indexOf("mauricioaniche.com")!=-1) {
-    _gaq.push(['_setAccount', ga_english]);
-  }
-  else if(location.hostname.indexOf("aniche.com.br")!=-1) {
-    _gaq.push(['_setAccount', ga_portuguese]);
-  }
+  _gaq.push(['_setAccount', ga_english]);
 
   _gaq.push(['_trackPageview']);
 
