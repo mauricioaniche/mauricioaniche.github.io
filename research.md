@@ -16,7 +16,7 @@ My research mostly focus on three areas:
 
 **TU Delft MSc students**: Are you looking for thesis ideas on these topics? Message me.
 
-### Code quality
+## Code quality
 
 Lots of research have been focusing on high-level quality measurements, such as
 coupling and cohesion in object-oriented systems.
@@ -42,7 +42,7 @@ part of the model.
   <span class="conference">32nd IEEE/ACM International Conference on Automated Software Engineering (ASE), 2017.</span>
 
 
-### Software testing
+## Software testing
 
 In modern software development, testing is code. My research focuses on
 helping developers in understanding what are the charateristics of a
@@ -65,7 +65,7 @@ maintainable test code suite.
 
 
 
-### Runtime monitoring
+## Runtime monitoring
 
 Testing might not be enough in large-scale complex systems. Thus, monitoring
 is fundamental to their maintenance. My research focuses on better understanding
