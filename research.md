@@ -3,18 +3,21 @@ title: Research
 layout: page
 ---
 
-Maintaining software typically consumes around 60% of its total costs (Glass, 2001).
-Most of maintainance costs go to enhancements and bug fixes.
-My research aims at supporting developers in better doing maintenance, and thus,
-reducing this cost.
+Software maintenance can be quite expensive in practice. Researchers actually
+estimate that 60% of the costs of a software
+is dedicated to its evolution, e.g., enhancements and bug fixes.
 
-My research mostly focus on three areas:
+**Can we help developers in maintain their software?**
+To that aim, I focus my research on three topics:
 
-1. Code quality
-2. Software testing
-3. Runtime monitoring
+- **Code quality**: can we help developers in writing more maintainable and
+easy-to-evolve code? can we help developers in detecting problematic (i.e., hard
+to read, more prone to changes) pieces of code?
+- **Software testing**: can we help developers in testing their software? can we
+help developers in maintaining the large automated test suites they write?
+- **Runtime monitoring**: can we help developers in monitoring their systems?
 
-**TU Delft MSc students**: Are you looking for thesis ideas on these topics? Message me.
+_TU Delft MSc students_: Are you looking for thesis ideas on these topics? Message me.
 
 ## Code quality
 
@@ -44,8 +47,8 @@ part of the model.
 
 ## Software testing
 
-In modern software development, testing is code. My research focuses on
-helping developers in understanding what are the charateristics of a
+In modern software development, testing _is_ code. My research focuses on
+helping developers in understanding what are the characteristics of a
 maintainable test code suite. 
 
 **Key publications:**

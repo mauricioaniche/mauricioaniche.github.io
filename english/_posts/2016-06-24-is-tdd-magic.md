@@ -4,15 +4,7 @@ title: Is TDD magic?
 date: 2016-06-24T01:43:48+00:00
 author: mauricioaniche
 layout: post
-guid: http://www.aniche.com.br/?p=788
 permalink: /2016/06/is-tdd-magic/
-categories:
-  - Blog in English
-tags:
-  - class design
-  - tdd
-  - test-driven development
-  - unit testing
 ---
 <p class="graf--p">
   <em class="markup--em markup--p-em">Will I create a better class design if I use Test-Driven Development? </em><strong class="markup--strong markup--p-strong"><em class="markup--em markup--p-em">Well, yes and no; TDD doesn&#8217;t do magic.</em></strong><em class="markup--em markup--p-em"> In this article, we discuss the effects of the practice, and how the practice can help developers during class design. We do it by interviewing developers from different companies.</em>

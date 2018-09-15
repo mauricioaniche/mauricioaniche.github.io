@@ -3,7 +3,7 @@ title: Contact
 layout: page
 ---
 
-**Maurício Aniche**<br>
+**Maurício F. Aniche**<br>
 **E-mail:** m.f.aniche [at] tudelft [dot] nl<br>
 **Address:** TU Delft (Building 28, room W5.560)<br>
 Van Mourik Broekmanweg 6<br>

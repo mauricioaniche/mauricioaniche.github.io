@@ -1,11 +1,7 @@
 ---
 title: Interview with Joel Costigliola, creator of AssertJ
 layout: post
-tags:
-  - assertj
-  - interview
-  - tu delft
-  - stqe 2017
+permalink: /2017/07/interview-with-joel-costigliola-assertj/
 ---
 
 In the 2017 edition of our 

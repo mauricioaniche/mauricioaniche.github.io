@@ -132,4 +132,3 @@ layout: page
   <span class="paper-description">Presents the results of a survey on common mistakes that practitioners do when performing TDD.</span>
 
 
-See also my [presentations at industry conferences](/industry-conferences/) and [books](/books/).
