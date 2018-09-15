@@ -23,7 +23,7 @@ destination: _site
 
 # Sass configuration
 sass:
-  sass_dir: _sass
+  sass_dir: assets/_sass
   style: compressed # expanded
 
 # Author settings
