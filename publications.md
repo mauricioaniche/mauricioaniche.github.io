@@ -116,34 +116,12 @@ layout: page
   <span class="conference">Journal of the Brazilian Computer Society</span><br>
   <span class="paper-description">Analyzes the perceptions of TDD practitioners on its advantages and disadvantages. Interviews were conducted after participants performed a short development task.</span>
 
-### 2014
-
-* **[Are the Methods in Your Data Access Objects (DAOs) in the Right Place? A Preliminary Study](/wp-content/uploads/2013/04/mtd2014.pdf)**<br>
-  <span class="authors">Maurício Aniche, Gustavo Oliva, Marco Gerosa</span><br>
-  <span class="conference">6th Workshop on Managing Technical Debt, in conjunction with ICSME 2014</span><br>
-  <span class="paper-description">Proposes an heuristic to detect methods that are placed in the wrong Data Access Object (DAO) class. Evaluates the precision and recall of the approach which turned out to be quite high.</span>
-
 ### 2013
-
 
 * **[What Do the Asserts in a Unit Test Tell Us about Code Quality? A Study on Open Source and Industrial Projects](/wp-content/uploads/2013/04/csmr2013-asserts.pdf)**<br>
   <span class="authors">Maurício Aniche, Gustavo Oliva, Marco Gerosa</span><br>
   <span class="conference">17th European Conference on Software Maintenance and Reengineering (CSMR)</span><br>
   <span class="paper-description">Analyzes the relationship between the quantity of assert instructions in a JUnit test and the complexity of the class under test.</span>
-
-* **[MetricMiner: Supporting researchers in mining software repositories](/wp-content/uploads/2013/04/scam2013.pdf)**<br>
-  <span class="authors">Francisco Sokol, Maurício Aniche, Gustavo Oliva, Marco Gerosa</span><br>
-  <span class="conference">IEEE 13th International Working Conference on Source Code Analysis and Manipulation (SCAM)</span><br>
-  <span class="paper-description">Proposes MetricMiner, a tool that supports researchers that intend to mine source code repositories. This project is the father of [RepoDriller](https://www.github.com/mauricioaniche/repodriller).</span>
-
-
-### 2011
-
-
-* **[Increasing learning in an agile environment: Lessons learned in an agile team](/wp-content/uploads/2013/04/agile2011-learning.pdf)**<br>
-  <span class="authors">Maurício Aniche, Guilherme Silveira</span><br>
-  <span class="conference">Agile Conference</span><br>
-  <span class="paper-description">Presents our lessons learned on sharing knowledge and increasing learning among members of the agile software development team at Caelum.</span>
 
 
 ### 2010

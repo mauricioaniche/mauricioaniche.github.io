@@ -5,7 +5,7 @@ layout: page
 
 To support my training and consultancy activities, I have authored <a href="/books">books</a> about TDD, automated software testing in practice, Object-Oriented design, and introduction to C Programming, which have sold more than 8k copies. The TDD book, in particular, has been used at many universities in Brazil.
 
-_Unfortunately, they are in Brazilian portuguese. English versions will come._
+_They are in Brazilian portuguese. English versions will come._
 
 * **Test-Driven Development: Teste e Design no Mundo Real (or TDD: Test and Design in the Real World).** Casa do Código, 2012. [Java](http://www.casadocodigo.com.br/products/livro-tdd), [C#](http://www.casadocodigo.com.br/products/livro-tdd-dotnet), [Ruby](http://www.casadocodigo.com.br/products/livro-tdd-ruby), [PHP](http://www.casadocodigo.com.br/products/livro-tdd-php).
 
