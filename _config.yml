@@ -4,8 +4,6 @@ title: Maurício Aniche
 description: "Maurício Aniche, Assistant Professor at TU Delft"
 keywords: "mauricio aniche, aniche, tudelft, tu delft, software engineering, research"
 url: http://www.mauricioaniche.com
-#baseurl: "/simplest"
-baseurl: null
 
 google_analytics: UA-10934071-4
 repo: http://github.com/mauricioaniche/
@@ -25,7 +23,7 @@ destination: _site
 
 # Sass configuration
 sass:
-  sass_dir: assets/scss
+  sass_dir: _sass
   style: compressed # expanded
 
 # Author settings
@@ -51,5 +49,3 @@ gems:
 
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
-
-theme: jekyll-whiteglass
