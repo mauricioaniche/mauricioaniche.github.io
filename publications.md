@@ -5,6 +5,13 @@ layout: page
 
 ### 2018
 
+  * **[The Adoption of JavaScript Linters in Practice: A Case Study on ESLint](https://pure.tudelft.nl/portal/en/publications/the-adoption-of-javascript-linters-in-practice-a-case-study-on-eslint(375bf549-f2a2-49a7-8d3d-a4489a579f4c).html)**<br>
+  <span class="authors">Kristín Fjóla Tómasdóttir, Maurício Aniche, Arie van Deursen.</span><br>
+  <span class="conference">Transactions on Software Engineering</span><br>
+  <span class="paper-description">We examine developers' perceptions on JavaScript linters. Our results provide practitioners with reasons for using linters in their JavaScript projects as well as several configuration strategies and their advantages. We also provide a list of linter rules that are often enabled and disabled, which can be interpreted as the most important rules to reason about when configuring linters.</span>
+
+
+
   * **[PyDriller: Python Framework for Mining Software Repositories](https://pure.tudelft.nl/portal/en/publications/pydriller-python-framework-for-mining-software-repositories(5985f510-058b-4f79-93b0-c30730f561d9).html)**<br>
   <span class="authors">Davide Spadini, Maurício Aniche, Alberto Bacchelli</span><br>
   <span class="conference">26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</span><br>
