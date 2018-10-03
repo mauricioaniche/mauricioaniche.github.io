@@ -1,4 +1,9 @@
 
+* **[The Adoption of JavaScript Linters in Practice: A Case Study on ESLint](https://pure.tudelft.nl/portal/en/publications/the-adoption-of-javascript-linters-in-practice-a-case-study-on-eslint(375bf549-f2a2-49a7-8d3d-a4489a579f4c).html)**<br>
+  <span class="authors">Kristín Fjóla Tómasdóttir, Maurício Aniche, Arie van Deursen.</span><br>
+  <span class="conference">Transactions on Software Engineering, 2018.</span><br>
+  <span class="paper-description">We examine developers' perceptions on JavaScript linters. Our results provide practitioners with reasons for using linters in their JavaScript projects as well as several configuration strategies and their advantages. We also provide a list of linter rules that are often enabled and disabled, which can be interpreted as the most important rules to reason about when configuring linters.</span>
+
 * **[Code smells for Model-View-Controller architectures](https://pure.tudelft.nl/portal/en/publications/code-smells-for-modelviewcontroller-architectures(55788fc3-56ed-4756-8667-cbf3f1e885db).html)**<br>
 <span class="authors">Maurício Aniche, Gabriele Bavota, Christoph Treude, Marco Gerosa, Arie van Deursen.</span><br>
 <span class="conference">Empirical Software Engineering Journal, 2017.</span><br>
@@ -29,9 +34,3 @@
   [[Video summary](https://www.youtube.com/watch?v=1Atodcct_ro)]
   [[Vídeo em português](https://www.youtube.com/watch?v=iHMJyHfl0Tg)]
   </span>
-
-
-* **[An Exploratory Study on Faults in Web API Integration in a Large-Scale Payment Company](https://pure.tudelft.nl/portal/en/publications/an-exploratory-study-on-faults-in-web-api-integration-in-a-largescale-payment-company(d8b594fe-f6d8-412a-83b7-cba8870f6cc9).html)**<br>
-  <span class="authors">Joop Aué, Maurício Aniche, Maikel Lobbezoo, Arie van Deursen</span><br>
-  <span class="conference">40th International Conference on Software Engineering (ICSE) - Industry Track, 2018</span><br>
-  <span class="paper-description">We studied and catalogued the common mistakes that developers make when trying to integrate to a (complex) web API after analysis 2MM exception log entries. We hope developers will avoid such mistakes from now on. We also provide suggestions for API developers and researchers on how to facilitate such process.</span>
