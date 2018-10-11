@@ -3,11 +3,18 @@ title: Publications
 layout: page
 ---
 
+### 2019
+
+* **[Pragmatic Software Testing Education](https://pure.tudelft.nl/portal/en/publications/the-adoption-of-javascript-linters-in-practice-a-case-study-on-eslint(375bf549-f2a2-49a7-8d3d-a4489a579f4c).html)**<br>
+  <span class="authors">Maurício Aniche, Felienne Hermans, Arie van Deursen.</span><br>
+  <span class="conference">50th ACM Technical Symposium on Computer Science Education, 2019</span><br>
+  <span class="paper-description">This paper discusses how we have been teaching software testing in a pragmatic way. More specifically, we list 9 key elements we introduce in our course. Later, we then analyze students' performance by reading their assignments and providing them feedback, and report the most common mistakes they make, challenges they face, and learning methods they prefer.</span>
+
 ### 2018
 
   * **[The Adoption of JavaScript Linters in Practice: A Case Study on ESLint](https://pure.tudelft.nl/portal/en/publications/the-adoption-of-javascript-linters-in-practice-a-case-study-on-eslint(375bf549-f2a2-49a7-8d3d-a4489a579f4c).html)**<br>
   <span class="authors">Kristín Fjóla Tómasdóttir, Maurício Aniche, Arie van Deursen.</span><br>
-  <span class="conference">Transactions on Software Engineering</span><br>
+  <span class="conference">Transactions on Software Engineering (TSE), 2018</span><br>
   <span class="paper-description">We examine developers' perceptions on JavaScript linters. Our results provide practitioners with reasons for using linters in their JavaScript projects as well as several configuration strategies and their advantages. We also provide a list of linter rules that are often enabled and disabled, which can be interpreted as the most important rules to reason about when configuring linters.</span>
 
 
