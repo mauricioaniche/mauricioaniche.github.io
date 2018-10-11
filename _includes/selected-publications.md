@@ -1,12 +1,12 @@
 
 * **[The Adoption of JavaScript Linters in Practice: A Case Study on ESLint](https://pure.tudelft.nl/portal/en/publications/the-adoption-of-javascript-linters-in-practice-a-case-study-on-eslint(375bf549-f2a2-49a7-8d3d-a4489a579f4c).html)**<br>
   <span class="authors">Kristín Fjóla Tómasdóttir, Maurício Aniche, Arie van Deursen.</span><br>
-  <span class="conference">Transactions on Software Engineering, 2018.</span><br>
+  <span class="conference">Transactions on Software Engineering (TSE), 2018.</span><br>
   <span class="paper-description">We examine developers' perceptions on JavaScript linters. Our results provide practitioners with reasons for using linters in their JavaScript projects as well as several configuration strategies and their advantages. We also provide a list of linter rules that are often enabled and disabled, which can be interpreted as the most important rules to reason about when configuring linters.</span>
 
 * **[Code smells for Model-View-Controller architectures](https://pure.tudelft.nl/portal/en/publications/code-smells-for-modelviewcontroller-architectures(55788fc3-56ed-4756-8667-cbf3f1e885db).html)**<br>
 <span class="authors">Maurício Aniche, Gabriele Bavota, Christoph Treude, Marco Gerosa, Arie van Deursen.</span><br>
-<span class="conference">Empirical Software Engineering Journal, 2017.</span><br>
+<span class="conference">Empirical Software Engineering Journal (EMSE), 2017.</span><br>
   <span class="paper-description">Proposes a set of smells that can exist in MVC applications. Empirically validates the change- and defect-proneness of classes affected by the smell as well as their evolution over time. Proposes SpringLint, a tool that automatically detects these smells in Spring MVC applications. 
     <br>
   [[Video summary](https://www.youtube.com/watch?v=KPnNpTsZB40)]
