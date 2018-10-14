@@ -1,3 +1,4 @@
 [Per year](/publications) | 
 [Per venue](/publications/venue) |
-[Per topic](/publications/topic)
+[Per topic](/publications/topic) |
+[Books](/books)
