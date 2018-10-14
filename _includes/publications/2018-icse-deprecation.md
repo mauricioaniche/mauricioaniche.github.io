@@ -1,0 +1,4 @@
+* **[Understanding Developers’ Needs on Deprecation as a Language Feature](https://pure.tudelft.nl/portal/en/publications/understanding-developers-needs-on-deprecation-as-a-language-feature(f7a10177-82fa-4b23-ae4b-090fc9502fc9).html)**<br>
+  <span class="authors">Anand Ashok Sawant, Maurício Aniche, Arie van Deursen, Alberto Bacchelli</span><br>
+  <span class="conference">40th International Conference on Software Engineering (ICSE), 2018.</span><br>
+  <span class="paper-description">We investigated how developers perceive the deprecation mechanism and whether the new JEP covers all their needs. We ended up proposing three further enhancements that we believe languages should adopt.</span>

@@ -1,0 +1,4 @@
+* **[Does test-driven development improve class design? A qualitative study on developers’ perceptions](https://journal-bcs.springeropen.com/articles/10.1186/s13173-015-0034-z)**<br>
+  <span class="authors">Maurício Aniche, Marco Gerosa</span><br>
+  <span class="conference">Journal of the Brazilian Computer Society (JBCS), 2015.</span><br>
+  <span class="paper-description">Analyzes the perceptions of TDD practitioners on its advantages and disadvantages. Interviews were conducted after participants performed a short development task.</span>

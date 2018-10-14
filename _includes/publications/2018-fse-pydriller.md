@@ -1,0 +1,4 @@
+* **[PyDriller: Python Framework for Mining Software Repositories](https://pure.tudelft.nl/portal/en/publications/pydriller-python-framework-for-mining-software-repositories(5985f510-058b-4f79-93b0-c30730f561d9).html)**<br>
+<span class="authors">Davide Spadini, Maurício Aniche, Alberto Bacchelli</span><br>
+<span class="conference">26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2018.</span><br>
+<span class="paper-description">We propose PyDriller, a tool that helps researchers in doing mining software repositories. The tool is freely available on [GitHub](https://github.com/ishepard/pydriller).</span>

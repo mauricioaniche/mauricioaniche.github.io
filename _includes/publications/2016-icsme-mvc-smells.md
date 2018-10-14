@@ -1,0 +1,4 @@
+* **[A Validated Set of Smells in Model-View-Controller Architecture](https://pure.tudelft.nl/portal/en/publications/a-validated-set-of-smells-in-modelviewcontroller-architectures(d6845bf3-86b4-456d-8e65-03d1771f67d6).html)**<br>
+  <span class="authors">Maurício Aniche, Gabriele Bavota, Christoph Treude, Marco Gerosa, Arie van Deursen.</span><br>
+  <span class="conference">32th International Conference on Software Maintenance and Evolution (ICSME), 2016.</span><br>
+  <span class="paper-description">First step of this research, that was evolved in 2017. Proposes a set of smells that can exist in MVC applications. Empirically validates the change- and defect-proneness of classes affected by the smell. Proposes SpringLint, a tool that automatically detects these smells in Spring MVC applications.</span>

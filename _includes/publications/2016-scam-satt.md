@@ -1,0 +1,4 @@
+* **[SATT: Tailoring Code Metric Thresholds for Different Software Architectures](https://pure.tudelft.nl/portal/en/publications/satt-tailoring-code-metric-thresholds-for-different-software-architectures(3992a2cc-7002-44ed-8e58-f45027a81993).html)**<br>
+  <span class="authors">Maurício Aniche, Christoph Treude, Andy Zaidman, Arie van Deursen, Marco Gerosa.</span><br>
+  <span class="conference">16th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), 2016.</span><br>
+  <span class="paper-description">Analyzes the distribution of different code metrics as to understand how traditional threshold derivation techniques behave among different architectural roles. Proposes SATT, an approach that derives specific thresholds for specific architectural roles of the system architecture.</span>
