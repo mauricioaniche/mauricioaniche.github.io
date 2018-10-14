@@ -3,6 +3,8 @@ title: Books
 layout: page
 ---
 
+{% include publications-menu.md %}
+
 To support my training and consultancy activities, I have authored <a href="/books">books</a> about TDD, automated software testing in practice, Object-Oriented design, and introduction to C Programming, which have sold more than 8k copies. The TDD book, in particular, has been used at many universities in Brazil.
 
 _They are in Brazilian portuguese. English versions will come._

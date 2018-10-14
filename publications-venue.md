@@ -74,9 +74,15 @@ permalink: /publications/venue
 
 {% include publications/2016-scam-satt.md %}
 
+{% include publications/2013-scam-metricminer.md %}
+
 ### Brazilian Symposium on Software Engineering (SBES)
 
 {% include publications/2016-sbes-perceptions.md %}
+
+### Agile Conference (AGILE)
+
+{% include publications/2011-agile-learning.md %}
 
 ## Workshops
 
@@ -87,3 +93,7 @@ permalink: /publications/venue
 ### Workshop on Test-Driven Development (TDD)
 
 {% include publications/2010-tdd-mistakes.md %}
+
+### Workshop on Managing Technical Debt (MTD)
+
+{% include publications/2014-mtd-dao.md %}

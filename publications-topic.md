@@ -22,6 +22,7 @@ permalink: /publications/topic
 
 {% include publications/2016-scam-satt.md %}
 
+{% include publications/2014-mtd-dao.md %}
 
 ## Software Testing
 
@@ -47,11 +48,12 @@ permalink: /publications/topic
 
 {% include publications/2018-jss-events-gh.md %}
 
+{% include publications/2011-agile-learning.md %}
 
 ## Mining Software Repository
 
 {% include publications/2018-fse-pydriller.md %}
-
+{% include publications/2013-scam-metricminer.md %}
 
 ## Software Engineering Education
 

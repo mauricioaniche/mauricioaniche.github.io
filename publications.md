@@ -51,14 +51,22 @@ layout: page
 
 {% include publications/2016-phd.md %}
 
-
 ### 2015
 
 {% include publications/2015-jbcs-tdd.md %}
 
+### 2014
+
+{% include publications/2014-mtd-dao.md %}
+
 ### 2013
 
 {% include publications/2013-csmr-asserts.md %}
+{% include publications/2013-scam-metricminer.md %}
+
+### 2011
+
+{% include publications/2011-agile-learning.md %}
 
 ### 2010
 
