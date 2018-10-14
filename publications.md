@@ -108,7 +108,7 @@ layout: page
   <span class="paper-description">First step of this research, that was evolved in 2017. Proposes a set of smells that can exist in MVC applications. Empirically validates the change- and defect-proneness of classes affected by the smell. Proposes SpringLint, a tool that automatically detects these smells in Spring MVC applications.</span>
 
 
-* **[Developers' Perceptions on Object-Oriented Design and System Architecture](/2016/06/sbes-2016-developers-perceptions-on-object-oriented-design-and-architectural-roles/)**<br>
+* **[Developers' Perceptions on Object-Oriented Design and System Architecture](https://ctreude.files.wordpress.com/2016/07/sbes16.pdf)**<br>
   <span class="authors">Maurício Aniche, Christoph Treude, Marco Gerosa.</span><br>
   <span class="conference">30th Brazilian Symposium on Software Engineering (SBES)</span><br>
   <span class="paper-description">Investigates whether developers from within the same development team perceive differently the responsibilities of each architectural role (e.g., what kind of code should be placed in a Controller class?)</span>
