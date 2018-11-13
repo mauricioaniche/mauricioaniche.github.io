@@ -26,6 +26,8 @@ permalink: /publications/topic
 
 ## Software Testing
 
+{% include publications/2018-emse-mocks.md %}
+
 {% include publications/2018-icse-evosql.md %}
 
 {% include publications/2018-icse-code-review.md %}

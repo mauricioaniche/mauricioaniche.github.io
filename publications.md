@@ -11,6 +11,8 @@ layout: page
 
 ### 2018
 
+{% include publications/2018-emse-mocks.md %}
+
 {% include publications/2018-tse-eslint.md %}
 
 {% include publications/2018-fse-pydriller.md %}
