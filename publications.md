@@ -7,6 +7,10 @@ layout: page
 
 ### 2019
 
+{% include publications/2019-icse-challenges-oop.md %}
+
+{% include publications/2019-icse-cloud-ing.md %}
+
 {% include publications/2019-sigcse-testing.md %}
 
 ### 2018

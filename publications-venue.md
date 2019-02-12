@@ -33,6 +33,10 @@ permalink: /publications/venue
 
 ### International Conference on Software Engineering (ICSE)
 
+{% include publications/2019-icse-challenges-oop.md %}
+
+{% include publications/2019-icse-cloud-ing.md %}
+
 {% include publications/2018-icse-reddit.md %}
 
 {% include publications/2018-icse-deprecation.md %}
