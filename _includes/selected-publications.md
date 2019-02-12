@@ -1,6 +1,4 @@
 
-{% include publications/2010-icse-challenges-oop.md %}
-
 {% include publications/2018-tse-eslint.md %}
 
 {% include publications/2017-emse-mvc-smells.md %}
