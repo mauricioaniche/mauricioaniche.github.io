@@ -9,6 +9,8 @@ layout: page
 
 {% include publications/2019-icse-challenges-oop.md %}
 
+{% include publications/2019-msr-tracing-back-logs.md %}
+
 {% include publications/2019-icse-cloud-ing.md %}
 
 {% include publications/2019-sigcse-testing.md %}

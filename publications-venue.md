@@ -60,6 +60,8 @@ permalink: /publications/venue
 
 ### Mining Software Repositories (MSR)
 
+{% include publications/2019-msr-tracing-back-logs.md %}
+
 {% include publications/2017-msr-mocks.md %}
 
 ### Automated Software Engineering (ASE)

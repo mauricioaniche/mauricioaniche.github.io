@@ -44,7 +44,9 @@ permalink: /publications/topic
 
 {% include publications/2010-tdd-mistakes.md %}
 
-## Runtime monitoring and DevOps
+## Runtime monitoring, log analysis, and DevOps
+
+{% include publications/2019-msr-tracing-back-logs.md %}
 
 {% include publications/2018-icse-webapi.md %}
 
