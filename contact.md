@@ -4,7 +4,7 @@ layout: page
 ---
 
 **Maurício F. Aniche**<br>
-**E-mail:** m.f.aniche [at] tudelft [dot] nl<br>
+**E-mail:** M.FinavaroAniche [at] tudelft [dot] nl<br>
 **Address:** TU Delft (Building 28, office 4.W660)<br>
 Van Mourik Broekmanweg 6<br>
 2628 XE Delft - The Netherlands<br>
