@@ -105,3 +105,9 @@ permalink: /publications/venue
 ### Workshop on Managing Technical Debt (MTD)
 
 {% include publications/2014-mtd-dao.md %}
+
+### Conference on Pattern Languages of Programs
+
+{% include publications/2014-plop-tdd.md %}
+
+{% include publications/2014-plop-web-testing.md %}

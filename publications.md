@@ -67,6 +67,10 @@ layout: page
 
 {% include publications/2014-mtd-dao.md %}
 
+{% include publications/2014-plop-tdd.md %}
+
+{% include publications/2014-plop-web-testing.md %}
+
 ### 2013
 
 {% include publications/2013-csmr-asserts.md %}

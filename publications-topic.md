@@ -42,6 +42,10 @@ permalink: /publications/topic
 
 {% include publications/2015-jbcs-tdd.md %}
 
+{% include publications/2014-plop-tdd.md %}
+
+{% include publications/2014-plop-web-testing.md %}
+
 {% include publications/2010-tdd-mistakes.md %}
 
 ## Runtime monitoring, log analysis, and DevOps
