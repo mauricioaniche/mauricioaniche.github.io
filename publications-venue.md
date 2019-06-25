@@ -49,6 +49,8 @@ permalink: /publications/venue
 
 ### Foundations on Software Engineering (FSE)
 
+{% include publications/2019-fse-monitoring-aware-ides.md %}
+
 {% include publications/2018-fse-pydriller.md %}
 
 

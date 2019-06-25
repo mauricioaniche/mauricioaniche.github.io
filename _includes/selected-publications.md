@@ -1,3 +1,4 @@
+{% include publications/2019-fse-monitoring-aware-ides.md %}
 
 {% include publications/2018-tse-eslint.md %}
 

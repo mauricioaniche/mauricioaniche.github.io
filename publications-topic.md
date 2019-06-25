@@ -14,6 +14,8 @@ permalink: /publications/topic
 
 ## Software Maintenance
 
+{% include publications/2019-fse-monitoring-aware-ides.md %}
+
 {% include publications/2018-icse-deprecation.md %}
 
 {% include publications/2017-emse-mvc-smells.md %}
@@ -49,6 +51,8 @@ permalink: /publications/topic
 {% include publications/2010-tdd-mistakes.md %}
 
 ## Runtime monitoring, log analysis, and DevOps
+
+{% include publications/2019-fse-monitoring-aware-ides.md %}
 
 {% include publications/2019-msr-tracing-back-logs.md %}
 

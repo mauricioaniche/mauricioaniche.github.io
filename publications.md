@@ -7,6 +7,8 @@ layout: page
 
 ### 2019
 
+{% include publications/2019-fse-monitoring-aware-ides.md %}
+
 {% include publications/2019-icse-challenges-oop.md %}
 
 {% include publications/2019-msr-tracing-back-logs.md %}
