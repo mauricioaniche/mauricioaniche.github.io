@@ -14,6 +14,8 @@ permalink: /publications/venue
 
 ### Empirical Software Engineering (EMSE)
 
+{% include publications/2019-emse-android-smells.md %}
+
 {% include publications/2018-emse-mocks.md %}
 
 {% include publications/2017-emse-mvc-smells.md %}

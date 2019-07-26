@@ -14,6 +14,8 @@ permalink: /publications/topic
 
 ## Software Maintenance
 
+{% include publications/2019-emse-android-smells.md %}
+
 {% include publications/2019-fse-monitoring-aware-ides.md %}
 
 {% include publications/2018-icse-deprecation.md %}
