@@ -58,6 +58,8 @@ permalink: /publications/venue
 
 ### International Conference on Software Maintenance and Evolution (ICSME)
 
+{% include publications/2019-icsme-test-code-comprehension.md %}
+
 {% include publications/2017-icsme-passive-learning.md %}
 
 {% include publications/2016-icsme-mvc-smells.md %}

@@ -7,6 +7,8 @@ layout: page
 
 ### 2019
 
+{% include publications/2019-icsme-test-code-comprehension.md %}
+
 {% include publications/2019-emse-android-smells.md %}
 
 {% include publications/2019-fse-monitoring-aware-ides.md %}
