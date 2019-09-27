@@ -11,4 +11,4 @@ I teach the following courses:
 
 * Software Engineering Methods ([TI3115TU](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51334), CS minor): [2019](http://se.ewi.tudelft.nl/ti3115tu-2019/), [2018](http://se.ewi.tudelft.nl/ti3115tu-2018/)
 
-* Software Architecture ([IN4315](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45594): [2019](https://se.ewi.tudelft.nl/delftswa2019/)
+* Software Architecture ([IN4315](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45594)): [2019](https://se.ewi.tudelft.nl/delftswa2019/)
