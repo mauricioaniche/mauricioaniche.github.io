@@ -9,6 +9,4 @@ layout: page
 
 * (Dec, 2017) [What do we (not) know about Domain-Driven Design?](https://codeburst.io/what-do-we-not-know-about-ddd-93727bc5908c)
 
-* (May, 2017) [Interview with Joel Costigliola, creator of AssertJ](/2017/07/interview-with-joel-costigliola-assertj/)
 
-* (Jun, 2016) [Is TDD magic?](/2016/06/is-tdd-magic/)
