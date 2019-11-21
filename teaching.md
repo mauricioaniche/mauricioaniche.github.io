@@ -3,7 +3,7 @@ title: Teaching
 layout: page
 ---
 
-I teach the following courses:
+I teach (or have taught) the following courses:
 
 * Software Testing and Quality ([CSE1110](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48430)): [2019](https://se.ewi.tudelft.nl/cse1110-2019/), 2018, 2017
 
