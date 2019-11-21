@@ -10,16 +10,16 @@ is dedicated to its evolution, e.g., enhancements and bug fixes.
 **Can we help developers in maintain their software?**
 To that aim, I focus my research on three topics:
 
-- **Code quality**: can we help developers in writing more maintainable and
+- **Software refactoring and code quality**: can we help developers in writing more maintainable and
 easy-to-evolve code? can we help developers in detecting problematic (i.e., hard
-to read, more prone to changes) pieces of code?
+to read, more prone to changes) pieces of code? Can we help them in refactor their code?
 - **Software testing**: can we help developers in testing their software? can we
 help developers in maintaining the large automated test suites they write?
-- **Runtime monitoring**: can we help developers in monitoring their systems?
+- **Runtime monitoring and log analysis**: can we help developers in monitoring their systems? How can we leverage log data to give developers insights about how their systems behave in production?
 
 _TU Delft MSc students_: Are you looking for thesis ideas on these topics? Message me.
 
-## Code quality
+## Code quality and software refactoring
 
 Lots of research have been focusing on high-level quality measurements, such as
 coupling and cohesion in object-oriented systems.
@@ -33,6 +33,8 @@ part of the model.
 **Key publications:**
 
 {% include publications/2017-emse-mvc-smells.md %}
+
+{% include publications/2019-icse-challenges-oop.md %}
 
 {% include publications/2018-tse-eslint.md %}
 
@@ -54,7 +56,7 @@ maintainable test code suite.
 {% include publications/2017-msr-mocks.md %}
 
 
-## Runtime monitoring
+## Runtime monitoring and log analysis
 
 Testing might not be enough in large-scale complex systems. Thus, monitoring
 is fundamental to their maintenance. My research focuses on better understanding
@@ -63,6 +65,8 @@ with [Adyen B.V.](http://www.adyen.com), a large-scale payment company that prov
 services for more than 4,500 companies all around the world. 
 
 **Key publications:**
+
+{% include publications/2019-fse-monitoring-aware-ides.md %}
 
 {% include publications/2018-icse-webapi.md %}
 
