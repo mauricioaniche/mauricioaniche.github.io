@@ -112,7 +112,7 @@ permalink: /publications/venue
 
 {% include publications/2014-mtd-dao.md %}
 
-### Conference on Pattern Languages of Programs
+### Conference on Pattern Languages of Programs (PLoP)
 
 {% include publications/2014-plop-tdd.md %}
 

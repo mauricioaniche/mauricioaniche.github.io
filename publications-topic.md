@@ -6,19 +6,17 @@ permalink: /publications/topic
 
 {% include publications-menu.md %}
 
-## Software design
+## Software Maintenance
 
 {% include publications/2019-icse-challenges-oop.md %}
-
-{% include publications/2019-icse-cloud-ing.md %}
-
-## Software Maintenance
 
 {% include publications/2019-icsme-test-code-comprehension.md %}
 
 {% include publications/2019-emse-android-smells.md %}
 
 {% include publications/2019-fse-monitoring-aware-ides.md %}
+
+{% include publications/2019-icse-cloud-ing.md %}
 
 {% include publications/2018-icse-deprecation.md %}
 
