@@ -11,6 +11,9 @@ Presented at:
 
 * 13/December/2019: [IWESEP 2019, the 10th International Workshop on Empirical Software Engineering in Practice](https://iwesep2019.github.io).
 
-Video: 
+Media: 
 
-(to appear)
+* [Slides on SpeakerDeck](https://speakerdeck.com/mauricioaniche/testing-in-production-a-gentle-walk-on-software-monitoring-research)
+
+* [A video of my second rehearsal](https://youtu.be/MzkxwOZnDic) (final version is a bit different, but 95% of the content is the same; if you missed the talk, this video represents it well enough!).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MzkxwOZnDic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
