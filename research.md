@@ -3,14 +3,15 @@ title: Research
 layout: page
 ---
 
-Software maintenance can be quite expensive in practice. Researchers actually
+**Software maintenance** can be quite expensive in practice. Researchers 
 estimate that 60% of the costs of a software
 is dedicated to its evolution, e.g., enhancements and bug fixes.
+Therefore, tools and techniques that help developers in better maintaining their
+software systems are of utmost importance to our society.
 
-**Can we help developers in maintain their software?**
 To that aim, I focus my research on three topics:
 
-- **Software refactoring and code quality**: can we help developers in writing more maintainable and
+- **Software maintenance and refactoring**: can we help developers in writing more maintainable and
 easy-to-evolve code? can we help developers in detecting problematic (i.e., hard
 to read, more prone to changes) pieces of code? Can we help them in refactor their code?
 - **Software testing**: can we help developers in testing their software? can we
@@ -19,7 +20,7 @@ help developers in maintaining the large automated test suites they write?
 
 _TU Delft MSc students_: Are you looking for thesis ideas on these topics? Message me.
 
-## Code quality and software refactoring
+## Software maintenance and refactoring
 
 Lots of research have been focusing on high-level quality measurements, such as
 coupling and cohesion in object-oriented systems.
