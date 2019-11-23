@@ -1,6 +1,6 @@
 ---
 title: "What do we (not) know about Domain-Driven Design?"
-layout: page
+layout: post
 ---
 
 
