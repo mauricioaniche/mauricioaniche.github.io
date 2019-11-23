@@ -1,4 +1,0 @@
-* **[Monitoring-Aware IDEs](https://pure.tudelft.nl/portal/en/publications/monitoringaware-ides(88f9c01f-eae2-4514-b49b-c3a388eeda53).html)**<br>
-  <span class="authors">Jos Winter, Maurício Aniche, Jürgen Cito, Arie van Deursen.</span><br>
-  <span class="conference">27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2019</span><br>
-  <span class="paper-description">We want IDEs to be more aware of what happens to the software in production. To that aim, we propose what we call a 'monitoring-aware IDE'. After implementing a prototype, we experimented with it at Adyen, with 12 of their developers using it for a month. Our results show that such IDEs can indeed make developers more productive (and more aware about what happens with their software in the wild!)</span>
