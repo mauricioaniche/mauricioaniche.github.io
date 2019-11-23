@@ -5,9 +5,18 @@ layout: page
 
 (Want me to talk at your conference? Just send me a message.)
 
-* Talk: ["Testing in production": A Gentle Walk on Software Monitoring Research](/talks/testing-in-production)
+## Talks
 
-* Talk: [Besides the obvious tools: improving your testing with state-of-the-art techniques](/talks/testing-with-the-start-of-the-art)
+{% for talk in site.posts %}
+{% if talk.categories contains "talk" %}
+
+* {{ talk.date | date: "%d-%b-%Y" }}: [{{ talk.title }}]({{ talk.url }})
+
+{% endif %}
+{% endfor %}
+
+
+## Blog posts
 
 * Blog post: [Testing vs writing tests](https://medium.com/@mauricioaniche/testing-vs-writing-tests-d817bffea6bc)
 

@@ -5,14 +5,11 @@
     <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     <nav class="site-nav">
-      {% for link in site.data.navigation.main %}
-        {% if link.url contains "http" %}
-          {% assign url = link.url %}
-        {% else %}
-          {% assign url = link.url | relative_url %}
-        {% endif %}
-        <a class="page-link" href="{{ url }}">{{ link.title }}</a>
-      {% endfor %}
+        <a class="page-link" href="/research">Research</a>
+        <a class="page-link" href="/publications">Publications</a>
+        <a class="page-link" href="/teaching">Teaching</a>
+        <a class="page-link" href="/blog-and-talks">Blog and Talks</a>
+        <a class="page-link" href="/contact">Contact</a>
     </nav>
 
   </div>

@@ -12,7 +12,7 @@ software systems are of utmost importance to our society.
 
 To that aim, I focus my research on three topics:
 
-- **Software maintenance**: can we help developers in writing more maintainable and
+- **Software maintenance, refactoring, and evolution**: can we help developers in writing more maintainable and
 easy-to-evolve code? Can we help developers in better comprehending the source code of complex systems? Can we help developers in detecting problematic pieces of code that need to be refactored? Can we help them in refactor their code?
 
 - **Software testing**: Can we help developers in testing their software? Can we

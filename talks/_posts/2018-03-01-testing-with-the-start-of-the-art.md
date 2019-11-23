@@ -1,6 +1,8 @@
 ---
 title: "Besides the obvious tools: improving your testing with state-of-the-art techniques"
 layout: page
+permalink: /talks/testing-with-the-start-of-the-art
+categories: ["talk"]
 ---
 
 Testing software is definitely a creative activity! However, the machine can help us on focusing our brain cycles on what's really important. In this talk, I'll cover different the theory and practice behind: 
