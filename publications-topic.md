@@ -6,10 +6,12 @@ permalink: /publications/topic
 
 {% include publications-menu.md %}
 
+{% assign sorted = site.publications | reverse %}
+
 ## Software Maintenance (evolution, refactoring, and comprehension)
 
 
-{% for post in site.posts %}
+{% for post in sorted %}
 {% if post.categories contains "maintenance" %}
 {% include publication-snippet.md %}
 {% endif %}
@@ -18,7 +20,7 @@ permalink: /publications/topic
 
 ## Software Testing
 
-{% for post in site.posts %}
+{% for post in sorted %}
 {% if post.categories contains "testing" %}
 {% include publication-snippet.md %}
 {% endif %}
@@ -27,7 +29,7 @@ permalink: /publications/topic
 
 ## Runtime monitoring, log analysis, and DevOps
 
-{% for post in site.posts %}
+{% for post in sorted %}
 {% if post.categories contains "monitoring" %}
 {% include publication-snippet.md %}
 {% endif %}
@@ -37,7 +39,7 @@ permalink: /publications/topic
 
 ## APIs
 
-{% for post in site.posts %}
+{% for post in sorted %}
 {% if post.categories contains "api" %}
 {% include publication-snippet.md %}
 {% endif %}
@@ -45,7 +47,7 @@ permalink: /publications/topic
 
 ## Human Factors in Software Engineering
 
-{% for post in site.posts %}
+{% for post in sorted %}
 {% if post.categories contains "human-factors" %}
 {% include publication-snippet.md %}
 {% endif %}
@@ -53,7 +55,7 @@ permalink: /publications/topic
 
 ## Mining Software Repository
 
-{% for post in site.posts %}
+{% for post in sorted %}
 {% if post.categories contains "msr" %}
 {% include publication-snippet.md %}
 {% endif %}
@@ -61,7 +63,7 @@ permalink: /publications/topic
 
 ## Software Engineering Education
 
-{% for post in site.posts %}
+{% for post in sorted %}
 {% if post.categories contains "education" %}
 {% include publication-snippet.md %}
 {% endif %}

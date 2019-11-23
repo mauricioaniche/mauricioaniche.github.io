@@ -6,13 +6,18 @@ keywords: "mauricio aniche, aniche, tudelft, tu delft, software engineering, res
 url: http://www.mauricioaniche.com
 
 google_analytics: UA-10934071-4
-repo: http://github.com/mauricioaniche/
-disqus_shortname: "mauricio-aniche"
 
 # Build settings
-permalink   : /:year/:month/:title/
+permalink   : /:year/:title/
 markdown    : kramdown
 highlighter : rouge
+
+collections:
+  publications:
+    permalink: /:collection/title/
+  talks:
+    permalink: /:collection/title/
+    output: true
 
 paginate: 4
 paginate_path: "/page/:num/"
@@ -36,13 +41,8 @@ author:
   url      : http://www.mauricioaniche.com
   github   : http://github.com/mauricioaniche
   twitter  : http://twitter.com/mauricioaniche
-  facebook : http://facebook.com/TDDNoMundoReal
   linkedin : http://linkedin.com/in/mauricioaniche
 
-# social settings
-og_locale: "pt_BR"
-twitter_card: "summary_large_image"
-twitter_site: "@mauricioaniche"
 
 gems:
   - jekyll-paginate

@@ -4,6 +4,8 @@ layout: page
 permalink: /research
 ---
 
+{% assign sorted = site.publications | reverse %}
+
 **Software maintenance** can be quite expensive in practice. Researchers 
 estimate that 60% of the costs of a software
 is dedicated to its evolution, e.g., enhancements and bug fixes.
@@ -35,7 +37,7 @@ part of the model.
 
 **Key publications:**
 
-{% for post in site.posts %}
+{% for post in sorted %}
 {% if post.categories contains "selected-maintenance" %}
 {% include publication-snippet.md %}
 {% endif %}
@@ -50,7 +52,7 @@ maintainable test code suite.
 
 **Key publications:**
 
-{% for post in site.posts %}
+{% for post in sorted %}
 {% if post.categories contains "selected-testing" %}
 {% include publication-snippet.md %}
 {% endif %}
@@ -67,7 +69,7 @@ services for more than 4,500 companies all around the world.
 
 **Key publications:**
 
-{% for post in site.posts %}
+{% for post in sorted %}
 {% if post.categories contains "selected-monitoring" %}
 {% include publication-snippet.md %}
 {% endif %}

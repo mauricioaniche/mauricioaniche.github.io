@@ -7,12 +7,10 @@ layout: page
 
 ## Talks
 
-{% for talk in site.posts %}
-{% if talk.categories contains "talk" %}
+{% for talk in site.talks %}
 
 * {{ talk.date | date: "%d-%b-%Y" }}: [{{ talk.title }}]({{ talk.url }})
 
-{% endif %}
 {% endfor %}
 
 

@@ -6,5 +6,4 @@ conference: "Empirical Software Engineering journal (EMSE)"
 abstract: "This paper proposes a catalog of code smells that might happen in the presentation layer of Android apps. The paper also empirically evaluates how often these smells happen in ~600 open source Android apps."
 categories: ["publication", "journal", "emse", "maintenance"]
 year: 2019
-layout: publication
 ---

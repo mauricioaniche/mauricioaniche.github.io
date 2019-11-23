@@ -6,10 +6,8 @@ permalink: /publications
 
 {% include publications-menu.md %}
 
-
-{% for post in site.posts %}
-{% if post.categories contains "publication" %}
+{% assign sorted = site.publications | reverse %}
+{% for post in sorted %}
 {% include publication-snippet.md %}
-{% endif %}
 {% endfor %}
 
