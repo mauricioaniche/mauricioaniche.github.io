@@ -6,5 +6,4 @@ conference: "IEEE 13th International Working Conference on Source Code Analysis 
 abstract: "Metricminer is a framework that helps researchers in mining software engineering repositories. This project has been deprecated. See our FSE 2018 publication on Pydriller."
 categories: ["publication", "conference", "scam", "msr"]
 year: 2013
-layout: publication
 ---

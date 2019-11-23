@@ -9,6 +9,5 @@ categories: ["publication", "conference", "sigcse", "testing", "selected",
 year: 2018
 videoen: "https://www.youtube.com/watch?v=W3zmRIcQcHI"
 videopt: "https://www.youtube.com/watch?v=qVOPt8wZlHM"
-layout: publication
 ---
 

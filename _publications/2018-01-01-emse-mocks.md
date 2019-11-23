@@ -7,5 +7,4 @@ abstract: "Mocks are highly dependent on the responsibility and the architectura
 categories: ["publication", "journal", "emse", "maintenance", "testing", 
  "selected-testing"]
 year: 2018
-layout: publication
 ---

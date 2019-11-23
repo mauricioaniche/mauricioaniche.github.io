@@ -6,5 +6,4 @@ conference: "40th International Conference on Software Engineering (ICSE)"
 abstract: "We investigated how developers perceive the deprecation mechanism and whether the new JEP covers all their needs. We ended up proposing three further enhancements that we believe languages should adopt."
 categories: ["publication", "conference", "icse", "maintenance", "api"]
 year: 2018
-layout: publication
 ---

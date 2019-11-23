@@ -6,5 +6,4 @@ conference: "48th ACM Technical Symposium on Computer Science Education (SIGCSE)
 abstract: "This paper describes the Software Architecture course given to the MSc students of Computer Science at TU Delft. Students collaboratively write a book about several open source systems that they analyze throughout the course."
 categories: ["publication", "conference", "sigcse", "education"]
 year: 2017
-layout: publication
 ---

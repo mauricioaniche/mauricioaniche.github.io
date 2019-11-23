@@ -6,5 +6,4 @@ conference: "Journal of Systems and Software (JSS)"
 abstract: "Several different events may happen in a GitHub repository. Which ones should developers care about? Probably the unusual ones. We devised a comprehensive list of unusual events and validated their usefulness with 140 developers."
 categories: ["publication", "journal", "jss", "human-factors"]
 year: 2018
-layout: publication
 ---

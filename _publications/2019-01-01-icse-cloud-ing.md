@@ -7,5 +7,4 @@ abstract: "We benchmark ING's Cloud Infra-Services, and explore which factors af
 by our analysis."
 categories: ["publication", "conference", "ing", "monitoring"]
 year: 2019
-layout: publication
 ---

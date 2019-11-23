@@ -6,5 +6,4 @@ conference: "17th European Conference on Software Maintenance and Reengineering 
 abstract: "This paper analyzes the relationship between the quantity of assert instructions in a JUnit test and the complexity of the class under test."
 categories: ["publication", "conference", "saner", "testing"]
 year: 2013
-layout: publication
 ---

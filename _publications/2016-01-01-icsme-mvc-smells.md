@@ -6,5 +6,4 @@ conference: "32th International Conference on Software Maintenance and Evolution
 abstract: "The first step of this research, that was evolved in 2017 and published at EMSE. Proposes a set of smells that can exist in MVC applications. Empirically validates the change- and defect-proneness of classes affected by the smell. Proposes SpringLint, a tool that automatically detects these smells in Spring MVC applications."
 categories: ["publication", "conference", "icsme", "maintenance"]
 year: 2016
-layout: publication
 ---

@@ -6,5 +6,4 @@ conference: "26th ACM Joint European Software Engineering Conference and Symposi
 abstract: "We propose PyDriller, a tool that helps researchers in doing mining software repositories. PyDriller offers a very simple API/abstract layer on top of GitPython. The tool is freely available on [GitHub](https://github.com/ishepard/pydriller)."
 categories: ["publication", "conference", "fse", "msr", "tool"]
 year: 2018
-layout: publication
 ---

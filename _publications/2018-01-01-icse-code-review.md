@@ -8,5 +8,4 @@ categories: ["publication", "conference", "icse", "maintenance", "code reviews",
 year: 2018
 videopt: "https://www.youtube.com/watch?v=iHMJyHfl0Tg"
 videoen: "https://www.youtube.com/watch?v=1Atodcct_ro"
-layout: publication
 ---

@@ -7,7 +7,8 @@ layout: page
 
 ## Talks
 
-{% for talk in site.talks %}
+{% assign sorted_talks = site.talks | reverse %}
+{% for talk in sorted_talks %}
 
 * {{ talk.date | date: "%d-%b-%Y" }}: [{{ talk.title }}]({{ talk.url }})
 
@@ -16,8 +17,9 @@ layout: page
 
 ## Blog posts
 
-* Blog post: [Testing vs writing tests](https://medium.com/@mauricioaniche/testing-vs-writing-tests-d817bffea6bc)
+{% assign sorted_posts = site.blog | reverse %}
+{% for post in sorted_posts %}
 
-* Blog post: [What do we (not) know about Domain-Driven Design?](https://codeburst.io/what-do-we-not-know-about-ddd-93727bc5908c)
+* {{ post.date | date: "%d-%b-%Y" }}: [{{ post.title }}]({{ post.url }})
 
-
+{% endfor %}

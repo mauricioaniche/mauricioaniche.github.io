@@ -6,5 +6,4 @@ conference: "16th International Conference on Mining Software Repositories, shor
 abstract: "Log analysis techniques often require the link between the log messages in the raw log file and the log statements in the source code that produce them. We implemented the state-of-the-art research on log parsing in Adyen's logging environment and evaluated their accuracy and performance. Our results show that, with some adaptation, the current static analysis techniques are highly efficient and performant. In other words, ready for use."
 categories: ["publication", "conference", "msr", "monitoring", "selected-monitoring"]
 year: 2019
-layout: publication
 ---

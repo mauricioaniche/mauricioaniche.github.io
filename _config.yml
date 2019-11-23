@@ -8,15 +8,17 @@ url: http://www.mauricioaniche.com
 google_analytics: UA-10934071-4
 
 # Build settings
-permalink   : /:year/:title/
 markdown    : kramdown
 highlighter : rouge
 
 collections:
   publications:
-    permalink: /:collection/title/
+    permalink: /:collection/:title/
   talks:
-    permalink: /:collection/title/
+    permalink: /:collection/:title/
+    output: true
+  blog:
+    permalink: /:collection/:title/
     output: true
 
 paginate: 4

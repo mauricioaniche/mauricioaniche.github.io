@@ -6,5 +6,4 @@ conference: "40th International Conference on Software Engineering (ICSE)"
 abstract: "We studied how and why developers have been using modern news aggregators, such as Reddit and HackerNews. Our paper provides cues for developers to maximize their benefits when using such tools, as well as for tool builders on how to improve such aggregators."
 categories: ["publication", "conference", "icse", "human-factors"]
 year: 2018
-layout: publication
 ---

@@ -8,5 +8,4 @@ categories: ["publication", "conference", "icsme", "maintenance", "selected", "s
 videopt: https://www.youtube.com/watch?v=Pd5CdV5sPbo
 videoen: https://www.youtube.com/watch?v=KPnNpTsZB40
 year: 2017
-layout: publication
 ---

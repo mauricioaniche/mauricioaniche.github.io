@@ -6,6 +6,5 @@ conference: "40th International Conference on Software Engineering (ICSE), Indus
 abstract: "We studied and catalogued the common mistakes that developers make when trying to integrate to a (complex) web API after analysis 2MM exception log entries. We hope developers will avoid such mistakes from now on. We also provide suggestions for API developers and researchers on how to facilitate such process."
 categories: ["publication", "conference", "icse", "monitoring", "api", "adyen", "selected-monitoring"]
 year: 2018
-layout: publication
 ---
 

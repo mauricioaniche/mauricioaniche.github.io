@@ -6,5 +6,4 @@ conference: "Agile Conference"
 abstract: "An experience report on how agile teams share knowledge. More spefically, this paper shows how to build a learning environment by doing some well-known practices, such as Book Club, Brown Bags, Dojo sessions, Pair Programming, Open Spaces, etc."
 categories: ["publication", "conference", "agile", "human-factors"]
 year: 2011
-layout: publication
 ---

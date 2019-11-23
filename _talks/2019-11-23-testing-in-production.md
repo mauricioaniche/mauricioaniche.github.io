@@ -1,7 +1,6 @@
 ---
 title: "Testing in production: A Gentle Walk on Software Monitoring Research"
 layout: page
-permalink: /talks/testing-in-production
 categories: ["talk"]
 ---
 

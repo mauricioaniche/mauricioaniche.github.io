@@ -1,7 +1,6 @@
 ---
 title: "Besides the obvious tools: improving your testing with state-of-the-art techniques"
 layout: page
-permalink: /talks/testing-with-the-start-of-the-art
 categories: ["talk"]
 ---
 

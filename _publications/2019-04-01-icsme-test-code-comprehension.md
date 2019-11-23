@@ -9,5 +9,4 @@ In this paper, we report on the results of an empirical study with 44 developers
 categories: ["publication", "conference", "icsme", "maintenance", "comprehension", 
  "testing", "selected-testing"]
 year: 2019
-layout: publication
 ---

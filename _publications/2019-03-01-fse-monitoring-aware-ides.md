@@ -6,5 +6,4 @@ conference: "27th ACM Joint European Software Engineering Conference and Symposi
 abstract: "We want IDEs to be more aware of what happens to the software in production. To that aim, we propose what we call a 'monitoring-aware IDE'. After implementing a prototype, we experimented with it at Adyen, with 12 of their developers using it for a month. Our results show that such IDEs can indeed make developers more productive (and more aware about what happens with their software in the wild!)"
 categories: ["publication", "conference", "fse", "monitoring", "selected", "selected-monitoring"]
 year: 2019
-layout: publication
 ---

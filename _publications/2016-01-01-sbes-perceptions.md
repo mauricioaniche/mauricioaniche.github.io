@@ -6,5 +6,4 @@ conference: "30th Brazilian Symposium on Software Engineering (SBES)"
 abstract: "This paper investigates whether developers from within the same development team perceive differently the responsibilities of each architectural role (e.g., what kind of code should be placed in a Controller class?)"
 categories: ["publication", "conference", "sbes", "maintenance"]
 year: 2016
-layout: publication
 ---
