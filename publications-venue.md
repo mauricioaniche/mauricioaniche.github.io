@@ -167,3 +167,11 @@ permalink: /publications/venue
 {% include publication-snippet.md %}
 {% endif %}
 {% endfor %}
+
+## Arxiv
+
+{% for post in sorted %}
+{% if post.categories contains "arxiv" %}
+{% include publication-snippet.md %}
+{% endif %}
+{% endfor %}
