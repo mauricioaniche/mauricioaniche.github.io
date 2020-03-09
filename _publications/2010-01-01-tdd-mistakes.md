@@ -4,6 +4,6 @@ link: "https://figshare.com/articles/Most_common_mistakes_in_test-driven_develop
 authors: "Maurício Aniche, Marco Aurélio Gerosa"
 conference: "1st International Workshop on Test-Driven Development"
 abstract: "This paper presents the results of a survey on common mistakes that practitioners do when applying TDD."
-categories: ["publication", "conference", "tdd", "testing"]
+categories: ["publication", "workshop", "testing"]
 year: 2014
 ---

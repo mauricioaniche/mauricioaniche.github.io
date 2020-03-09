@@ -35,6 +35,21 @@ permalink: /publications/topic
 {% endif %}
 {% endfor %}
 
+## Machine Learning for Software Engineering
+
+{% for post in sorted %}
+{% if post.categories contains "ml4se" %}
+{% include publication-snippet.md %}
+{% endif %}
+{% endfor %}
+
+## Software Security
+
+{% for post in sorted %}
+{% if post.categories contains "security" %}
+{% include publication-snippet.md %}
+{% endif %}
+{% endfor %}
 
 
 ## APIs

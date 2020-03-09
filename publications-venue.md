@@ -36,15 +36,6 @@ permalink: /publications/venue
 {% endif %}
 {% endfor %}
 
-### Journal of Brazilian Computer Society (JBCS)
-
-{% for post in sorted %}
-{% if post.categories contains "jbcs" %}
-{% include publication-snippet.md %}
-{% endif %}
-{% endfor %}
-
-
 ## Conferences
 
 
@@ -136,37 +127,12 @@ permalink: /publications/venue
 
 ## Workshops
 
-### Workshop on APIs (WAPI)
-
 {% for post in sorted %}
-{% if post.categories contains "wapi" %}
+{% if post.categories contains "workshop" %}
 {% include publication-snippet.md %}
 {% endif %}
 {% endfor %}
 
-### Workshop on Test-Driven Development (TDD)
-
-{% for post in sorted %}
-{% if post.categories contains "tdd" %}
-{% include publication-snippet.md %}
-{% endif %}
-{% endfor %}
-
-### Workshop on Managing Technical Debt (MTD)
-
-{% for post in sorted %}
-{% if post.categories contains "mtd" %}
-{% include publication-snippet.md %}
-{% endif %}
-{% endfor %}
-
-### Conference on Pattern Languages of Programs (PLoP)
-
-{% for post in sorted %}
-{% if post.categories contains "plop" %}
-{% include publication-snippet.md %}
-{% endif %}
-{% endfor %}
 
 ## Arxiv
 
