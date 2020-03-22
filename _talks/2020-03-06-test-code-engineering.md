@@ -1,5 +1,5 @@
 ---
-title: "Test Code Engineering"
+title: "A Hands-on Workshop on Test Code Engineering"
 layout: page
 categories: ["talk"]
 ---
