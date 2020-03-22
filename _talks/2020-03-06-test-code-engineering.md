@@ -31,6 +31,8 @@ Writing good test code is not easy. In this workshop, I discuss:
 
 * Video: _(Coming soon)_
 
+* Source code: [live coding at Innsbruck](https://github.com/mauricioaniche/workshop-innsbruck-2020)
+
 ## Reading material
 
 * [Software Testing: From Theory to Practice](https://sttp.site/chapters/pragmatic-testing/), chapters on pragmatic testing.
