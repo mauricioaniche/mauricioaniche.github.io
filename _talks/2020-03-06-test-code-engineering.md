@@ -1,10 +1,10 @@
 ---
-title: "Test Code Engineering: Workshop at University of Innsbruck"
+title: "Test Code Engineering"
 layout: page
 categories: ["talk"]
 ---
 
-Writing good test code is not easy. In this workshop (QSP labs at University of Innsbruck, 6/March/2020), I discussed:
+Writing good test code is not easy. In this workshop, I discuss:
 
 * The testing pyramid
 * Design for testability
@@ -25,7 +25,7 @@ Writing good test code is not easy. In this workshop (QSP labs at University of 
 
 ## Media
 
-* Slides: https://speakerdeck.com/mauricioaniche/test-code-engineering-workshop-at-university-of-innsbruck-2020
+* Slides (QSP Labs, University of Innsbruck, 6/March 2020): https://speakerdeck.com/mauricioaniche/test-code-engineering-workshop-at-university-of-innsbruck-2020
 
 <script async class="speakerdeck-embed" data-id="691a6f95d6824fb795af68bb068453e8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script><script async class="speakerdeck-embed" data-id="691a6f95d6824fb795af68bb068453e8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
