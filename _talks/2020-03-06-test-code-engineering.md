@@ -25,7 +25,7 @@ Writing good test code is not easy. In this workshop, I discuss:
 
 ## Media
 
-* Slides (QSP Labs, University of Innsbruck, 6/March 2020): https://speakerdeck.com/mauricioaniche/test-code-engineering-workshop-at-university-of-innsbruck-2020
+* [Slides](https://speakerdeck.com/mauricioaniche/test-code-engineering-workshop-at-university-of-innsbruck-2020) (QSP Labs, University of Innsbruck, 6/March 2020)
 
 <script async class="speakerdeck-embed" data-id="691a6f95d6824fb795af68bb068453e8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
