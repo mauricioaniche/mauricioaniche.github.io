@@ -12,6 +12,8 @@ Presented at:
 
 * 13/December/2019: [IWESEP 2019, the 10th International Workshop on Empirical Software Engineering in Practice](https://iwesep2019.github.io).
 
+* 06/March/2020: Research talk at University of Innsbruck.
+
 Media: 
 
 * [Slides on SpeakerDeck](https://speakerdeck.com/mauricioaniche/testing-in-production-a-gentle-walk-on-software-monitoring-research)
