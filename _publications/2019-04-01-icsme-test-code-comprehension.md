@@ -1,6 +1,6 @@
 ---
 title: "Comprehending Test Code: An Empirical Study"
-link: "https://pure.tudelft.nl/portal/en/publications/comprehending-test-code-an-empirical-study(8c997432-398c-44da-8ec4-5b00fa7a4416).html"
+link: "https://research.tudelft.nl/en/publications/comprehending-test-code-an-empirical-study"
 authors: "Chak Shun Yu, Christoph Treude, Maurício Aniche"
 conference: "35th IEEE International Conference on Software Maintenance and Evolution (ICSME)"
 abstract: "Developers spend a large portion of their time and effort on comprehending source code.

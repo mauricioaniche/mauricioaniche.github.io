@@ -1,6 +1,6 @@
 ---
 title: "Code smells for Model-View-Controller architectures"
-link: "https://pure.tudelft.nl/portal/en/publications/code-smells-for-modelviewcontroller-architectures(55788fc3-56ed-4756-8667-cbf3f1e885db).html"
+link: "https://research.tudelft.nl/en/publications/code-smells-for-model-view-controller-architectures"
 authors: "Maurício Aniche, Gabriele Bavota, Christoph Treude, Marco Gerosa, Arie van Deursen"
 conference: "Empirical Software Engineering Journal (EMSE)"
 abstract: "This paper proposes a set of smells that can exist in MVC applications. Empirically validates the change- and defect-proneness of classes affected by the smell as well as their evolution over time. Proposes SpringLint, a tool that automatically detects these smells in Spring MVC applications."
