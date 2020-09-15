@@ -32,6 +32,7 @@ Em resumo:
 
 ## Apresentações
 
+* Semana da Computação da USP, 12/Setembro/2020
 * Gympass, 22/Maio/2020
 
 ## Referências
