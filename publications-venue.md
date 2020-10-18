@@ -112,7 +112,7 @@ permalink: /publications/venue
 ### Brazilian Symposium on Software Engineering (SBES)
 
 {% for post in sorted %}
-{% if post.categories contains "scam" %}
+{% if post.categories contains "sbes" %}
 {% include publication-snippet.md %}
 {% endif %}
 {% endfor %}

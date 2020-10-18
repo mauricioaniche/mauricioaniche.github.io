@@ -4,7 +4,7 @@ link: "https://research.tudelft.nl/en/publications/search-based-test-data-genera
 authors: "Jeroen Castelein, Maurício Aniche, Mozhan Soltani, Annibale Panichella, Arie van Deursen"
 conference: "40th International Conference on Software Engineering (ICSE)"
 abstract: "We propose a search-based algorithm that generates test data for a given SQL query, using MC/DC coverage criteria. Our approach is able to generate test data for more than 90% of our dataset, and it is highly superior to others (as they tend to model the problem as CSP, which fails in most complex queries). The tool is available in our [GitHub](https://github.com/SERG-Delft/evosql)."
-categories: ["publication", "conference", "sigcse", "testing", "selected", 
+categories: ["publication", "conference", "icse", "testing", "selected", 
  "selected-testing"]
 year: 2018
 videoen: "https://www.youtube.com/watch?v=W3zmRIcQcHI"
