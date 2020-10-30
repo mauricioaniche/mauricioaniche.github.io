@@ -8,9 +8,9 @@ In this page, I describe all the information you need to know about doing your M
 
 Also check:
 
-* [Guidelines on how to conduct your research](/msc-students/research)
-* [Guidelines on how to write your thesis](/msc-students/writing)
-* [Guidelines on how to defend your thesis](/msc-students/defense)
+* [My guidelines on how to conduct your research](/msc-students/research)
+* [My guidelines on how to write your thesis](/msc-students/writing)
+* [My guidelines on how to defend your thesis](/msc-students/defense)
 
 ## Topics
 
