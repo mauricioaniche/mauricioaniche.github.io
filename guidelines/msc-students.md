@@ -75,3 +75,19 @@ Starting 2021, we have three formal feedback moments:
 Note that you are responsible for scheduling the midterm and the green light with me, as well as remembering me when it is time to find a committee. Try to put those dates in my agenda soon!
 
 In case you fail the midterm or green light, you are entitled to a resit. Please, read our regulations to understand how this works and how it impacts your progress.
+
+## Defense
+
+This is the day you shine! The procedure is as follows:
+
+* You give a 30 minutes presentation. See my [presentation guidelines](guidelines/defense) for your defense.
+* You answer 30 minutes of questions. Those questions come from the audience and from the committee.
+* The committee retreats and assess your thesis in terms of quality of work, report, performance, and presentation.
+* We give you a detailed explanation of the assessment, together with a final grade.
+
+Empirically, what I observe is:
+
+* A thesis receives a 9 whenever it contains two strong research chapters, and we believe it can be published in a top venue without any extra work.
+* A thesis receives a 8 whenever it contains one strong research chapter, it is well-written, and we believe it requires little work before it can be published in a top venue.
+* A thesis receives a 7 whenever it contains a fair research chapter, it is somewhat well-written, and we believe it requires little work before being published in a second-tier conference.
+* A thesis receives less than that when it fails to accomplish any of the points above.
