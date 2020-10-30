@@ -1,10 +1,16 @@
 ---
-title: MSc students @ TU Delft
+title: Guidelines for MSc students
 layout: page
-permalink: /guidelines/msc-students/
+permalink: /msc-students/
 ---
 
 In this page, I describe all the information you need to know about doing your MSc thesis topic with me.
+
+Also check:
+
+* [Guidelines on how to conduct your research](/msc-students/research)
+* [Guidelines on how to write your thesis](/msc-students/writing)
+* [Guidelines on how to defend your thesis](/msc-students/defense)
 
 ## Topics
 
