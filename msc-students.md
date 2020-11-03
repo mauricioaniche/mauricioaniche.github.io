@@ -13,7 +13,7 @@ I exclusively supervise MSc thesis on software engineering topics. See my [resea
 Short summary: 
 
 * Topics: software maintenance (evolution, refactoring, comprehension), technical debt, software testing. 
-* Methods: empirical research, machine learning for software engineering.
+* Methods: empirical research (qualitative research and theory building, mining software repositories, biometric sensors such as eye tracking and EEG), machine learning for software engineering (machine learning, deep learning, NLP models).
 
 ## How to approach me?
 
