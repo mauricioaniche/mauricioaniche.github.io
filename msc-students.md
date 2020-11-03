@@ -6,19 +6,18 @@ permalink: /msc-students/
 
 In this page, I describe all the information you need to know about doing your MSc thesis topic with me.
 
-Also check:
-
-* [My guidelines on how to conduct your research](/msc-students/research)
-* [My guidelines on how to write your thesis](/msc-students/writing)
-* [My guidelines on how to defend your thesis](/msc-students/defense)
-
 ## Topics
 
-I exclusively supervise MSc thesis on the software engineering topics I list in my [research page](/research).
+I exclusively supervise MSc thesis on software engineering topics. See my [research page](/research). 
+
+Short summary: 
+
+* Topics: software maintenance (evolution, refactoring, comprehension), technical debt, software testing. 
+* Methods: empirical research, machine learning for software engineering.
 
 ## How to approach me?
 
-If you are interested in doing your research in one of the topics, send me an e-mail showing your interest (more recently, you should approach me using our [project forum](http://projectforum.tudelft.nl/)). We will schedule a meeting. 
+If you are interested in doing your research in one of the topics, send me an e-mail showing your interest (more recently, you should approach me using our [project forum](http://projectforum.tudelft.nl/)). We will schedule a 30 minutes meeting. 
 
 I need you to come prepared to this meeting:
 
@@ -29,9 +28,9 @@ I need you to come prepared to this meeting:
 * Do you have a side job? _(Note that your side job can take only a day a week. I allow exceptions only in specific cases.)_
 * What's your ambition? Are you going for a 9+ thesis or a 7ish thesis?
 
-Both of us will take some time and reflect about this meeting, and understand if we want to proceed. At this moment, you register yourself in our [MaRe](https://mare.ewi.tudelft.nl) system.
+Both of us will take some time and reflect about this meeting, and understand if we want to proceed. 
 
-## Concrete thesis proposal
+## Thesis proposal
 
 Once we agree on working together, your first step will be to write a one or two pages proposal:
 
@@ -42,26 +41,11 @@ Once we agree on working together, your first step will be to write a one or two
 * What are the project milestones? 
 
 
-## Your MSc thesis journey
-
-* Most important rule: you are _fully_ responsible for your own progress, research, and organization.
-* You should take care of all the required documents, e.g., IEP, TEP, committee forms, etc.
-* I expect you to discuss your progress with me in a weekly manner. More on that in the following sections. You are responsible for scheduling meetings with me. My agenda changes every quarter, and I'll let you know the days I'm available.
-* I expect you to join our group's activities. We offer weekly presentations for the entire SERG, regular students' presentations, reading clubs, etc. You do not need to join them all, but definitely some of them.
-
-## The research
-
-The cool part of the entire process: the research! I usually suggest the following schedule to students:
-
-* Month 1: explore the literature related to your topic, and fine-tune your research proposal.
-* Month 2-7: research! You will devise approaches, propose experiments, analyze data. You learn from it. You repeat.
-* Month 8-9: we round up the thesis document. You probably started writing your thesis since month 1, but a good report requires hard work. You should expect 2 months of work. I'll provide you with several rounds of feedback.
-
-Doing research is challenging, and this is probably the first time you do it! Please, read my [research guidelines](/guidelines/research) and my [writing guidelines](/guidelines/writing).
-
 ## Weekly meetings
 
-We will to meet in a weekly basis, for 30 minutes. To make it productive, I suggest the following agenda:
+I expect you to discuss your progress with me in a weekly manner. You are responsible for scheduling meetings with me. My agenda changes every quarter, and I'll let you know the days I'm available.
+
+To make it productive, I suggest the following agenda:
 
 * You give me a 10-minutes presentation on your current progress, challenges you are facing, and what are your next steps. Slides are appreciated.
 * We discuss for 20 minutes. You take notes of these points.
@@ -82,14 +66,7 @@ Note that you are responsible for scheduling the midterm and the green light wit
 
 In case you fail the midterm or green light, you are entitled to a resit. Please, read our regulations to understand how this works and how it impacts your progress.
 
-## Defense
-
-This is the day you shine! The procedure is as follows:
-
-* You give a 30 minutes presentation. See my [presentation guidelines](guidelines/defense) for your defense.
-* You answer 30 minutes of questions. Those questions come from the audience and from the committee.
-* The committee retreats and assess your thesis in terms of quality of work, report, performance, and presentation.
-* We give you a detailed explanation of the assessment, together with a final grade.
+## Getting a good grade
 
 Empirically, what I observe is:
 
@@ -97,3 +74,17 @@ Empirically, what I observe is:
 * A thesis receives a 8 whenever it contains one strong research chapter, it is well-written, and we believe it requires little work before it can be published in a top venue.
 * A thesis receives a 7 whenever it contains a fair research chapter, it is somewhat well-written, and we believe it requires little work before being published in a second-tier conference.
 * A thesis receives less than that when it fails to accomplish any of the points above.
+
+## Other tips
+
+* The most important rule for a successful journey: make yourself _fully_ responsible for your own progress, research, and organization.
+* Remember that you should take care of all the required documents, e.g., IEP, TEP, committee forms, etc, in a timely manner. Delays can be caused if you don't start this process soon enough.
+* I expect you to join our group's activities. We offer weekly presentations for the entire SERG, regular students' presentations, reading clubs, etc. You do not need to join them all, but definitely some of them.
+
+## A note on self care
+
+The MSc journey can be quite intense for some. Please take good care of yourself throughout this process. 
+
+Make sure you maintain a healthy lifestyle and that the MSc thesis does not become the main thing in your life. Exercise, eat healthy, get enough sleep, and taking some time to relax and have fun. 
+
+Remember that you are not alone. This might be even more important during corona times. Feel free to message me whenever you need someone to talk to.
