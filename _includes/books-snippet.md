@@ -1,0 +1,11 @@
+To support my training and consultancy activities, I have authored <a href="/books">books</a> about TDD, automated software testing in practice, Object-Oriented design, and introduction to C Programming, which have sold more than 10k copies. The TDD book, in particular, has been used at many universities in Brazil.
+
+_They are in Brazilian portuguese. English versions will come._
+
+* **Test-Driven Development: Teste e Design no Mundo Real (or TDD: Test and Design in the Real World).** Casa do Código, 2012. [Java](http://www.casadocodigo.com.br/products/livro-tdd), [C#](http://www.casadocodigo.com.br/products/livro-tdd-dotnet), [Ruby](http://www.casadocodigo.com.br/products/livro-tdd-ruby), [PHP](http://www.casadocodigo.com.br/products/livro-tdd-php).
+
+* **Orientação a Objetos e SOLID para Ninjas: Projetando Classes Flexíveis (or Object-Orientation and SOLID for Ninjas: Designing Flexible Classes).** Casa do Código, 2015. Versions: [Java](http://www.casadocodigo.com.br/products/livro-oo-solid).
+
+* **Testes Automatizados de Software: Um Guia Prático (or Automated Software Testing: A Practical Guide).** Casa do Código, 2015. [Java](http://www.casadocodigo.com.br/products/livro-testes-de-software).
+
+* **Introdução à Programação em C: Os primeiros passos de um desenvolvedor (or Introduction to Programming in C: The first steps of a developer).** Casa do Código, 2015. [Book](http://www.casadocodigo.com.br/products/livro-introducao-c).
