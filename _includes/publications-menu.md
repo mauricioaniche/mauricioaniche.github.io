@@ -1,4 +1,5 @@
 [Per year](/publications) | 
 [Per venue](/publications/venue) |
 [Per topic](/publications/topic) |
-[Books](/books)
+[Selected](/publications/selected) | 
+[Technical Books](/books)
