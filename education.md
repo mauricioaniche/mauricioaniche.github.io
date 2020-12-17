@@ -48,6 +48,14 @@ I am a TU Delft Education Fellow 2021-2022.
 
 {% include books-snippet.md %}
 
+## Computer Science Education (CSEd) Research
 
+I often write computer science education papers, based on my experience as a teacher:
+
+{% for post in sorted %}
+{% if post.categories contains "education" %}
+{% include publication-snippet.md %}
+{% endif %}
+{% endfor %}
 
 
