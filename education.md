@@ -3,6 +3,15 @@ title: Education
 layout: page
 ---
 
+In this page, see:
+
+* The courses I teach
+* MSc students I supervise (and how to become one)
+* Learn more about my TU Delft fellowship
+* See the open courses and materials I have devised
+* The technical books I have published
+* The research papers I wrote on computer science education
+
 ## Courses I teach
 
 I teach the following courses at TU Delft:
