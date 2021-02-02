@@ -77,3 +77,12 @@ services for more than 4,500 companies all around the world.
 
 
 
+## Industry collaboration
+
+I highly value applied research. See the list of publications I have with industrial partners. If you are a (Dutch) company, feel free to contact me!
+
+{% for post in sorted %}
+{% if post.categories contains "industry-collaboration" %}
+{% include publication-snippet.md %}
+{% endif %}
+{% endfor %}

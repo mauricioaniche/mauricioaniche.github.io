@@ -83,3 +83,11 @@ permalink: /publications/topic
 {% include publication-snippet.md %}
 {% endif %}
 {% endfor %}
+
+## Industry collaboration
+
+{% for post in sorted %}
+{% if post.categories contains "industry-collaboration" %}
+{% include publication-snippet.md %}
+{% endif %}
+{% endfor %}
