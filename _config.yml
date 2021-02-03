@@ -21,10 +21,6 @@ collections:
     permalink: /:collection/:title/
     output: true
 
-paginate: 4
-paginate_path: "/page/:num/"
-comments: false
-page.comments: false
 
 destination: _site
 
@@ -45,9 +41,6 @@ author:
   twitter  : http://twitter.com/mauricioaniche
   linkedin : http://linkedin.com/in/mauricioaniche
 
-
-gems:
-  - jekyll-paginate
 
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
