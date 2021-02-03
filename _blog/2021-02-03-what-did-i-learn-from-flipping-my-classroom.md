@@ -7,9 +7,9 @@ I experimented with flipped classroom in the 2019-2020 edition of our Software T
 
 To be honest, I wasn't fully certain this would work. My honest thought was that students would not do their tasks before the lecture. I was afraid of not having questions to answer or topics to debate. I even made sure to have the slides I used in the previous years as backup plan in case this did not work. I could not be more wrong: 
 
-- The number of questions in the forum was very high throughout the quarter. At the end, we had 201 questions and 443 replies (I never had so many questions in the online forum before). Many of questions did happen before the lecture, although I do not have concrete numbers to share. I made sure to reply those questions every morning before the lecture started and I used these questions as discussion points in the lecture.
+- The **number of questions in the forum was very high throughout the quarter**. At the end, we had 201 questions and 443 replies (I never had so many questions in the online forum before). Many of questions did happen before the lecture, although I do not have concrete numbers to share. I made sure to reply those questions every morning before the lecture started and I used these questions as discussion points in the lecture.
 
-- My perception was also that the level of the questions that students asked me during the lecture were definitely one level higher than in previous years. Some of the questions were so more advanced that, in many times, I had to improvise new examples to make my point.
+- My perception was also that the **level of the questions that students asked me during the lecture were definitely one level higher than in previous years**. Some of the questions were so more advanced that, in many times, I had to improvise new examples to make my point.
 
 To confirm my perception, I decided to survey students about their experiences with flipper classroom together with their final exam. At the end, I obtained 329 responses (out of around 500 students that take the course).
 
