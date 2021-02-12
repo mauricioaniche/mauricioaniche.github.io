@@ -5,7 +5,9 @@ layout: post
 
 I experimented with flipped classroom in the 2019-2020 edition of our Software Testing and Quality (CSE1110). This was the first time I tried it "for real". I asked students to [read the material](https://sttp.site), solve some exercises, and ask questions in the online forum _before_ the lecture; the lecture itself was going to be used only for debating.
 
-To be honest, I wasn't fully certain this would work. My honest thought was that students would not do their tasks before the lecture. I was afraid of not having questions to answer or topics to debate. I even made sure to have the slides I used in the previous years as backup plan in case this did not work. I could not be more wrong: 
+To be honest, I wasn't fully certain this would work. My honest thought was that students would not do their tasks before the lecture. I was afraid of not having questions to answer or topics to debate; I even made sure to have the slides I used in the previous years as backup plan in case this did not work. 
+
+But, at the end, I could not be more wrong: 
 
 - The **number of questions in the forum was very high throughout the quarter**. At the end, we had 201 questions and 443 replies (I never had so many questions in the online forum before). Many of questions did happen before the lecture, although I do not have concrete numbers to share. I made sure to reply those questions every morning before the lecture started and I used these questions as discussion points in the lecture.
 
