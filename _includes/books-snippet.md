@@ -9,3 +9,22 @@ _They are in Brazilian portuguese. English versions will come._
 * **Testes Automatizados de Software: Um Guia Prático (or Automated Software Testing: A Practical Guide).** Casa do Código, 2015. [Java](http://www.casadocodigo.com.br/products/livro-testes-de-software).
 
 * **Introdução à Programação em C: Os primeiros passos de um desenvolvedor (or Introduction to Programming in C: The first steps of a developer).** Casa do Código, 2015. [Book](http://www.casadocodigo.com.br/products/livro-introducao-c).
+
+<div class="book-list">
+<a href="http://www.casadocodigo.com.br/products/livro-tdd" target="_blank">
+<img src="/assets/images/books/tdd.png" class="book-cover">
+</a>
+
+<a href="http://www.casadocodigo.com.br/products/livro-oo-solid" target="_blank">
+<img src="/assets/images/books/solid.png" class="book-cover">
+</a>
+
+<a href="http://www.casadocodigo.com.br/products/livro-testes-de-software" target="_blank">
+<img src="/assets/images/books/testes.png" class="book-cover">
+</a>
+
+<a href="http://www.casadocodigo.com.br/products/livro-introducao-c" target="_blank">
+<img src="/assets/images/books/c.png" class="book-cover">
+</a>
+
+</div>
