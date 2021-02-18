@@ -40,18 +40,18 @@ I supervise MSc students on the topic of software engineering.
 
 I am a TU Delft Education Fellow 2021-2022. 
 
-* Read about my proposal in the official website: https://www.tudelft.nl/tu-delft-teaching-academy/get-inspired/education-fellows/
+* Read about my proposal in the [official website](https://www.tudelft.nl/tu-delft-teaching-academy/get-inspired/education-fellows/).
 
 * Wait for more news on the topic here.
 
 
 ## Open courses and material
 
-* Open lecture notes on software testing: https://sttp.site
+* Open lecture notes on software testing: [https://sttp.site](https://sttp.site)
 
-* Check our edX professional certificate on software testing: https://www.edx.org/professional-certificate/delftx-automated-software-testing 
+* Check our [edX professional certificate on software testing](https://www.edx.org/professional-certificate/delftx-automated-software-testing), on its 3rd run now. 
 
-* A set of video lectures where I implement a very simple PacMan game in Python to help students improving their programming skills: https://www.mauricioaniche.com/simple-pacman. 
+* A set of video lectures where I implement a very [simple PacMan game](https://www.mauricioaniche.com/simple-pacman) in Python to help students improving their programming skills. 
 
 ## Books
 
