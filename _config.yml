@@ -14,6 +14,7 @@ highlighter : rouge
 collections:
   publications:
     permalink: /:collection/:title/
+    output: true
   talks:
     permalink: /:collection/:title/
     output: true
@@ -21,6 +22,12 @@ collections:
     permalink: /:collection/:title/
     output: true
 
+defaults:
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publication"
 
 destination: _site
 

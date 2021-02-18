@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+
+      <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+
+    <div class="post-meta">
+      <div>{{ page.authors }}</div>
+      <div>{{ page.conference }}</div>
+      <div>{{ page.year }}</div>
+    </div>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ page.abstract }}
+  </div>
+
+  <div class="publication-links">
+    <a class="publication-button" target="_blank" href="{{ page.link }}">Download the paper</a>
+
+  </div>
+
+  <div class="publication-videos">
+{% if page.videoen %}
+<div class="publication-video">
+<p>Watch a summary of the paper (in English):</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.videoen }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+{% endif %}    
+{% if page.videopt %}
+<div class="publication-video">
+<p>Watch a summary of the paper (in Brazilian Portuguese):</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.videopt }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+{% endif %}
+
+  </div>
+
+
+</div>
