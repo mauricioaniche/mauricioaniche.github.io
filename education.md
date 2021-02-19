@@ -64,7 +64,7 @@ I often write computer science education papers, based on my experience as a tea
 {% assign sorted = site.publications | reverse %}
 {% for post in sorted %}
 {% if post.categories contains "education" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 

@@ -9,13 +9,15 @@ layout: default
 
     <div class="post-meta">
       <div>{{ page.authors }}</div>
-      <div>{{ page.conference }}</div>
-      <div>{{ page.year }}</div>
+      <div>{{ page.conference }}, {{ page.year }}</div>
+      {% if page.doi %}
+      <div>DOI: <a href="https://doi.org/{{ page.doi }}">{{ page.doi }}</a></div>
+      {% endif %}
     </div>
   </header>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ page.abstract }}
+  <div class="post-content publication-abstract" itemprop="articleBody">
+    {{ content }}
   </div>
 
   <div class="publication-links">
@@ -37,6 +39,46 @@ layout: default
 </div>
 {% endif %}
 
+  </div>
+
+{% assign bibslug = '{' | append: page.slug %}
+  <div class="publication-bibtex">
+    <p>BibTeX:</p>
+
+{% if page.categories contains 'journal' %}
+    <pre>
+@article{{ bibslug }},
+    author  = "{{ page.authors | replace: ", ", " and " }}",
+    title   = "{{ page.title }}",
+    journal = "{{ page.conference }}",
+    year    = {{ page.year}},
+    doi     = "{{ page.doi }}"
+}
+</pre>
+{% endif %}
+
+{% if page.categories contains 'conference' or page.categories contains 'workshop' %}
+    <pre>
+@inproceedings{{ bibslug }},
+    author  = "{{ page.authors | replace: ", ", " and " }}",
+    title   = "{{ page.title }}",
+    booktitle = "Proceedings of {{ page.conference | replace: 'The ' , 'the ' }}",
+    year    = {{ page.year}},
+    doi     = "{{ page.doi }}"
+}
+</pre>
+{% endif %}
+
+{% if page.categories contains 'arxiv' %}
+    <pre>
+@misc{{ bibslug }},
+    author  = "{{ page.authors | replace: ", ", " and " }}",
+    title   = "{{ page.title }}",
+    howpublished = "{{ page.conference }}",
+    year    = {{ page.year}}
+}
+</pre>
+{% endif %}
   </div>
 
 

@@ -41,7 +41,7 @@ part of the model.
 
 {% for post in sorted %}
 {% if post.categories contains "selected-maintenance" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -56,7 +56,7 @@ maintainable test code suite.
 
 {% for post in sorted %}
 {% if post.categories contains "selected-testing" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -73,7 +73,7 @@ services for more than 4,500 companies all around the world.
 
 {% for post in sorted %}
 {% if post.categories contains "selected-monitoring" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -85,6 +85,6 @@ I highly value applied research. See the list of publications I have with indust
 
 {% for post in sorted %}
 {% if post.categories contains "industry-collaboration" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}

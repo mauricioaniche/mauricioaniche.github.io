@@ -2,6 +2,6 @@
 
 {% for post in sorted %}
 {% if post.categories contains "selected" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}

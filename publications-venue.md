@@ -14,7 +14,7 @@ permalink: /publications/venue
 
 {% for post in sorted %}
 {% if post.categories contains "tse" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -23,7 +23,7 @@ permalink: /publications/venue
 
 {% for post in sorted %}
 {% if post.categories contains "emse" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -32,7 +32,7 @@ permalink: /publications/venue
 
 {% for post in sorted %}
 {% if post.categories contains "jss" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -44,7 +44,7 @@ permalink: /publications/venue
 
 {% for post in sorted %}
 {% if post.categories contains "icse" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -54,7 +54,7 @@ permalink: /publications/venue
 
 {% for post in sorted %}
 {% if post.categories contains "fse" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -63,7 +63,7 @@ permalink: /publications/venue
 
 {% for post in sorted %}
 {% if post.categories contains "icsme" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -71,7 +71,7 @@ permalink: /publications/venue
 
 {% for post in sorted %}
 {% if post.categories contains "msr" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -79,7 +79,7 @@ permalink: /publications/venue
 
 {% for post in sorted %}
 {% if post.categories contains "ase" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -87,7 +87,7 @@ permalink: /publications/venue
 
 {% for post in sorted %}
 {% if post.categories contains "saner" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -96,7 +96,7 @@ permalink: /publications/venue
 
 {% for post in sorted %}
 {% if post.categories contains "sigcse" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -105,7 +105,7 @@ permalink: /publications/venue
 
 {% for post in sorted %}
 {% if post.categories contains "scam" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -113,7 +113,7 @@ permalink: /publications/venue
 
 {% for post in sorted %}
 {% if post.categories contains "sbes" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -121,7 +121,7 @@ permalink: /publications/venue
 
 {% for post in sorted %}
 {% if post.categories contains "agile" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -129,7 +129,7 @@ permalink: /publications/venue
 
 {% for post in sorted %}
 {% if post.categories contains "workshop" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -138,6 +138,6 @@ permalink: /publications/venue
 
 {% for post in sorted %}
 {% if post.categories contains "arxiv" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}

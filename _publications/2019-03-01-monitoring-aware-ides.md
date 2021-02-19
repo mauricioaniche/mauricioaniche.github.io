@@ -3,7 +3,14 @@ title: "Monitoring-Aware IDEs"
 link: "https://research.tudelft.nl/en/publications/monitoring-aware-ides"
 authors: "Jos Winter, Maurício Aniche, Jürgen Cito, Arie van Deursen"
 conference: "27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)"
-abstract: "We want IDEs to be more aware of what happens to the software in production. To that aim, we propose what we call a 'monitoring-aware IDE'. After implementing a prototype, we experimented with it at Adyen, with 12 of their developers using it for a month. Our results show that such IDEs can indeed make developers more productive (and more aware about what happens with their software in the wild!)"
+doi: 10.1145/3338906.3338926
 categories: ["publication", "conference", "fse", "monitoring", "selected", "selected-monitoring", "industry-collaboration"]
 year: 2019
 ---
+
+
+Engineering modern large-scale software requires software developers to not solely focus on writing code, but also to continuously examine monitoring data to reason about the dynamic behavior of their systems. These additional monitoring responsibilities for developers have only emerged recently, in the light of DevOps culture. Interestingly, software development activities happen mainly in the IDE, while reasoning about production monitoring happens in separate monitoring tools. 
+
+We propose an approach that integrates monitoring signals into the development environment and workflow. We conjecture that an IDE with such capability improves the performance of developers as time spent continuously context switching from development to monitoring would be eliminated. 
+
+This paper takes a first step towards understanding the benefits of a possible monitoring-aware IDE. We implemented a prototype of a monitoring-aware IDE, connected to the monitoring systems of Adyen, a large-scale payment company that performs intense monitoring in their software systems. Given our results, we firmly believe that monitoring-aware IDEs can play an essential role in improving how developers perform monitoring.

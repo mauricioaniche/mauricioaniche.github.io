@@ -17,6 +17,11 @@
 
 .conference, .authors {
 	font-size: 0.9em;
+	display: block;
+}
+
+a.paper-link {
+	font-weight: bold;
 }
 
 .book-list {
@@ -42,4 +47,27 @@ a.publication-button {
 
 .publication-video {
 	margin-top: 1em;
+}
+
+.publication-snippet {
+	margin-bottom: 0.5em;	
+}
+
+.publication-bibtex {
+	margin-top: 2em; 
+}
+
+.publication-bibtex.pre {
+	padding: 2em;
+	font-size: inherit;
+	color: inherit;
+	white-space: pre-wrap;
+	background-color: transparent;
+	border-radius: 0;
+
+}
+
+.publication-abstract {
+	text-align: justify;
+  text-justify: inter-word;
 }

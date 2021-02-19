@@ -8,6 +8,6 @@ permalink: /publications
 
 {% assign sorted = site.publications | reverse %}
 {% for post in sorted %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endfor %}
 

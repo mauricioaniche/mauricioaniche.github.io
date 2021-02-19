@@ -13,7 +13,7 @@ permalink: /publications/topic
 
 {% for post in sorted %}
 {% if post.categories contains "maintenance" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -22,7 +22,7 @@ permalink: /publications/topic
 
 {% for post in sorted %}
 {% if post.categories contains "testing" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -31,7 +31,7 @@ permalink: /publications/topic
 
 {% for post in sorted %}
 {% if post.categories contains "monitoring" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -39,7 +39,7 @@ permalink: /publications/topic
 
 {% for post in sorted %}
 {% if post.categories contains "ml4se" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -47,7 +47,7 @@ permalink: /publications/topic
 
 {% for post in sorted %}
 {% if post.categories contains "security" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -56,7 +56,7 @@ permalink: /publications/topic
 
 {% for post in sorted %}
 {% if post.categories contains "api" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -64,7 +64,7 @@ permalink: /publications/topic
 
 {% for post in sorted %}
 {% if post.categories contains "human-factors" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -72,7 +72,7 @@ permalink: /publications/topic
 
 {% for post in sorted %}
 {% if post.categories contains "msr" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -80,7 +80,7 @@ permalink: /publications/topic
 
 {% for post in sorted %}
 {% if post.categories contains "education" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
@@ -88,6 +88,6 @@ permalink: /publications/topic
 
 {% for post in sorted %}
 {% if post.categories contains "industry-collaboration" %}
-{% include publication-snippet.md %}
+{% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
