@@ -24,7 +24,7 @@ help developers in maintaining the large automated test suites they write?
 
 _TU Delft MSc students_: Are you looking for thesis ideas on these topics? Read my [guidelines for MSc students](/msc-students) and message me.
 
-_(Dutch) industrial partners_: If you are interested in partnering up for research in any of these topics, just message me. See [the  research I have been doing with them](/publications/industry).
+_(Dutch) industrial partners_: If you are interested in partnering up for research in any of these topics, just message me. See my [list of publications with industry](/publications/industry).
 
 ## Software maintenance (evolution, refactoring, comprehension)
 
