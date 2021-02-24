@@ -1,6 +1,6 @@
 ---
 title: "MetricMiner: Supporting Researchers in Mining Software Repositories"
-link: "https://figshare.com/articles/MetricMiner_Supporting_Researchers_in_Mining_Software_Repositories/11033240"
+download: "https://figshare.com/articles/MetricMiner_Supporting_Researchers_in_Mining_Software_Repositories/11033240"
 authors: "Francisco Zigmund Sokol, Maurício Finavaro Aniche, Marco Aurélio Gerosa"
 conference: "IEEE 13th International Working Conference on Source Code Analysis and Manipulation (SCAM)"
 categories: ["publication", "conference", "scam", "msr"]

@@ -1,6 +1,6 @@
 ---
 title: "Selecting third-party libraries: The practitioners' perspective"
-link: "https://arxiv.org/abs/2005.12574"
+download: "https://arxiv.org/abs/2005.12574"
 authors: "Enrique Larios Vargas, Maurício Aniche, Christoph Treude, Magiel Bruntink, Georgios Gousios"
 conference: "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)"
 doi: 10.1145/3368089.3409711

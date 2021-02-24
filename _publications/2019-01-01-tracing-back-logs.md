@@ -1,6 +1,6 @@
 ---
 title: "Tracing Back Log Data to its Log Statement: From Research to Practice"
-link: "https://research.tudelft.nl/en/publications/tracing-back-log-data-to-its-log-statement-from-research-to-pract"
+download: "https://research.tudelft.nl/en/publications/tracing-back-log-data-to-its-log-statement-from-research-to-pract"
 authors: "Daan Schipper, Maurício Aniche, Arie van Deursen"
 conference: "IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)"
 doi: 10.1109/MSR.2019.00081

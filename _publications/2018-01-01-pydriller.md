@@ -1,6 +1,6 @@
 ---
 title: "PyDriller: Python Framework for Mining Software Repositories"
-link: "https://research.tudelft.nl/en/publications/pydriller-python-framework-for-mining-software-repositories"
+download: "https://research.tudelft.nl/en/publications/pydriller-python-framework-for-mining-software-repositories"
 authors: "Davide Spadini, Maurício Aniche, Alberto Bacchelli"
 conference: "26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)"
 doi: 10.1145/3236024.3264598

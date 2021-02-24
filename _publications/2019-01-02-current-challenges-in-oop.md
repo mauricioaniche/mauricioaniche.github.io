@@ -1,6 +1,6 @@
 ---
 title: "Current Challenges in Practical Object-Oriented Software Design"
-link: "https://research.tudelft.nl/en/publications/current-challenges-in-practical-object-oriented-software-design"
+download: "https://research.tudelft.nl/en/publications/current-challenges-in-practical-object-oriented-software-design"
 authors: "Maurício Aniche, Joseph W. Yoder, Fabio Kon"
 conference: "41st ACM/IEEE International Conference on Software Engineering, short paper"
 doi: 10.1109/ICSE-NIER.2019.00037

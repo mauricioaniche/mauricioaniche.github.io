@@ -1,6 +1,6 @@
 ---
 title: "When Testing Meets Code Review: Why and How Developers Review Tests"
-link: "https://research.tudelft.nl/en/publications/when-testing-meets-code-review-why-and-how-developers-review-test"
+download: "https://research.tudelft.nl/en/publications/when-testing-meets-code-review-why-and-how-developers-review-test"
 authors: "Davide Spadini, Maurício Aniche, Margaret-Anne Storey, Magiel Bruntink, Alberto Bacchelli"
 conference: "40th International Conference on Software Engineering (ICSE)"
 doi: 10.1145/3180155.3180192

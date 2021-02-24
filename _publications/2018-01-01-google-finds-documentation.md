@@ -1,6 +1,6 @@
 ---
 title: "Where does Google find API documentation?"
-link: "https://research.tudelft.nl/en/publications/where-does-google-find-api-documentation"
+download: "https://research.tudelft.nl/en/publications/where-does-google-find-api-documentation"
 authors: "Christoph Treude, Maurício Aniche"
 conference: "2nd International Workshop on API Usage and Evolution"
 doi: 10.1145/3194793.3194796

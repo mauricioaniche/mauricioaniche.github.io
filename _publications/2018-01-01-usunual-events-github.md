@@ -1,6 +1,6 @@
 ---
 title: "Unusual Events in GitHub Repositories"
-link: "https://research.tudelft.nl/en/publications/unusual-events-in-github-repositories"
+download: "https://research.tudelft.nl/en/publications/unusual-events-in-github-repositories"
 authors: "Christoph Treude, Larissa Leite, Maurício Aniche"
 conference: "Journal of Systems and Software (JSS)"
 doi: 10.1016/j.jss.2018.04.063

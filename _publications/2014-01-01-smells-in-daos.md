@@ -1,6 +1,6 @@
 ---
 title: "Are the Methods in Your Data Access Objects (DAOs) in the Right Place? A Preliminary Study"
-link: "https://figshare.com/articles/Are_the_Methods_in_Your_Data_Access_Objects_DAOs_in_the_Right_Place_A_Preliminary_Study/11032967"
+download: "https://figshare.com/articles/Are_the_Methods_in_Your_Data_Access_Objects_DAOs_in_the_Right_Place_A_Preliminary_Study/11032967"
 authors: "Maurício Aniche, Gustavo Oliva, Marco Aurélio Gerosa"
 conference: "6th International Workshop on Managing Technical Debt (MTD)"
 categories: ["publication", "workshop", "maintenance"]

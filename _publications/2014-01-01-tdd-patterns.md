@@ -1,6 +1,6 @@
 ---
 title: "Preparing for a Test Driven Development Session"
-link: "https://figshare.com/articles/Preparing_for_a_Test_Driven_Development_Session/11037062"
+download: "https://figshare.com/articles/Preparing_for_a_Test_Driven_Development_Session/11037062"
 authors: "Eduardo Guerra, Maurício Aniche, Marco A. Gerosa, Joe Yoder"
 conference: "Conference on Pattern Languages of Programs (PLoP)"
 categories: ["publication", "workshop", "testing", "patterns"]

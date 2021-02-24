@@ -1,6 +1,6 @@
 ---
 title: "What Do the Asserts in a Unit Test Tell Us about Code Quality? A Study on Open Source and Industrial Projects"
-link: "https://figshare.com/articles/What_Do_the_Asserts_in_a_Unit_Test_Tell_Us_about_Code_Quality_A_Study_on_Open_Source_and_Industrial_Projects/9638942"
+download: "https://figshare.com/articles/What_Do_the_Asserts_in_a_Unit_Test_Tell_Us_about_Code_Quality_A_Study_on_Open_Source_and_Industrial_Projects/9638942"
 authors: "Maurício Aniche, Gustavo Oliva, Marco Gerosa"
 conference: "17th European Conference on Software Maintenance and Reengineering (CSMR)"
 categories: ["publication", "conference", "saner", "testing"]

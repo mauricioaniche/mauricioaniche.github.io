@@ -1,6 +1,6 @@
 ---
 title: "The Adoption of JavaScript Linters in Practice: A Case Study on ESLint"
-link: "https://research.tudelft.nl/en/publications/the-adoption-of-javascript-linters-in-practice-a-case-study-on-es"
+download: "https://research.tudelft.nl/en/publications/the-adoption-of-javascript-linters-in-practice-a-case-study-on-es"
 authors: "Kristín Fjóla Tómasdóttir, Maurício Aniche, Arie van Deursen"
 conference: "Transactions on Software Engineering (TSE)"
 doi: 10.1109/TSE.2018.2871058

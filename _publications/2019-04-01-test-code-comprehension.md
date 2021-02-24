@@ -1,6 +1,6 @@
 ---
 title: "Comprehending Test Code: An Empirical Study"
-link: "https://research.tudelft.nl/en/publications/comprehending-test-code-an-empirical-study"
+download: "https://research.tudelft.nl/en/publications/comprehending-test-code-an-empirical-study"
 authors: "Chak Shun Yu, Christoph Treude, Maurício Aniche"
 conference: "35th IEEE International Conference on Software Maintenance and Evolution (ICSME)"
 doi: 10.1109/ICSME.2019.00084

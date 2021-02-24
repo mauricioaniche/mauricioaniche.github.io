@@ -1,6 +1,6 @@
 ---
 title: "Developers' Perceptions on Object-Oriented Design and System Architecture"
-link: "https://ctreude.files.wordpress.com/2016/07/sbes16.pdf"
+download: "https://ctreude.files.wordpress.com/2016/07/sbes16.pdf"
 authors: "Maurício Aniche, Christoph Treude, Marco Gerosa"
 conference: "30th Brazilian Symposium on Software Engineering (SBES)"
 categories: ["publication", "conference", "sbes", "maintenance"]

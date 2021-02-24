@@ -1,6 +1,6 @@
 ---
 title: "Why and How JavaScript Developers Use Linters"
-link: "https://research.tudelft.nl/en/publications/why-and-how-javascript-developers-use-linters"
+download: "https://research.tudelft.nl/en/publications/why-and-how-javascript-developers-use-linters"
 authors: "Kristín Fjóla Tómasdóttir, Maurício Aniche, Arie van Deursen"
 conference: "32nd IEEE/ACM International Conference on Automated Software Engineering (ASE)"
 doi: 10.1109/ASE.2017.8115668

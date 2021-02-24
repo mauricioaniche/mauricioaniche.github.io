@@ -1,6 +1,6 @@
 ---
 title: "Domain-Based Fuzzing for Supervised Learning of Anomaly Detection in Cyber-Physical Systems"
-link: "https://research.tudelft.nl/en/publications/domain-based-fuzzing-for-supervised-learning-of-anomaly-detection"
+download: "https://research.tudelft.nl/en/publications/domain-based-fuzzing-for-supervised-learning-of-anomaly-detection"
 authors: "Herman Wijaya, Maurício Aniche, Aditya Mathur"
 conference: "The 1st International Workshop on Engineering and Cybersecurity of Critical Systems (EnCyCriS)"
 doi: 10.1145/3387940.3391486

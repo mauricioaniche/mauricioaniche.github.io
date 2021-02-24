@@ -1,6 +1,6 @@
 ---
 title: "A Validated Set of Smells in Model-View-Controller Architecture"
-link: "https://research.tudelft.nl/en/publications/a-validated-set-of-smells-in-model-view-controller-architectures"
+download: "https://research.tudelft.nl/en/publications/a-validated-set-of-smells-in-model-view-controller-architectures"
 authors: "Maurício Aniche, Gabriele Bavota, Christoph Treude, Marco Gerosa, Arie van Deursen"
 conference: "32th International Conference on Software Maintenance and Evolution (ICSME)"
 categories: ["publication", "conference", "icsme", "maintenance"]

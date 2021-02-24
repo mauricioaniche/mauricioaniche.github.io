@@ -1,6 +1,6 @@
 ---
 title: "A Collaborative Approach to Teaching Software Architecture"
-link: "https://research.tudelft.nl/en/publications/a-collaborative-approach-to-teaching-software-architecture"
+download: "https://research.tudelft.nl/en/publications/a-collaborative-approach-to-teaching-software-architecture"
 authors: "Arie van Deursen, Maurício Aniche, Joop Aué, Rogier Slag, Michael de Jong, Alex Nederlof, Eric Bouwers"
 conference: "48th ACM Technical Symposium on Computer Science Education (SIGCSE)"
 doi: 10.1145/3017680.3017737

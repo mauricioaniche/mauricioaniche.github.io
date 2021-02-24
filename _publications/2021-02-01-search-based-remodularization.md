@@ -1,6 +1,6 @@
 ---
 title: "Search-Based Software Re-Modularization: A Case Study at Adyen"
-link: "https://arxiv.org/abs/2102.00701"
+download: "https://arxiv.org/abs/2102.00701"
 authors: "Casper Schröder, Adriaan van der Feltz, Annibale Panichella, Maurício Aniche"
 conference: "IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)"
 doi:

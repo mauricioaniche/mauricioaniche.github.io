@@ -1,6 +1,6 @@
 ---
 title: "How Modern News Aggregators Help Development Communities Shape and Share Knowledge"
-link: "https://research.tudelft.nl/en/publications/how-modern-news-aggregators-help-development-communities-shape-an"
+download: "https://research.tudelft.nl/en/publications/how-modern-news-aggregators-help-development-communities-shape-an"
 authors: "Maurício Aniche, Christoph Treude, Igor Steinmacher, Igor Wiese, Gustavo Henrique Lima Pinto, Margaret-Anne Storey, Marco Aurélio Gerosa"
 conference: "40th International Conference on Software Engineering (ICSE)"
 doi: 10.1145/3180155.3180180

@@ -1,6 +1,6 @@
 ---
 title: "Mock objects for testing java systems: Why and how developers use them, and how they evolve"
-link: "https://research.tudelft.nl/en/publications/mock-objects-for-testing-java-systems-why-and-how-developers-use-"
+download: "https://research.tudelft.nl/en/publications/mock-objects-for-testing-java-systems-why-and-how-developers-use-"
 authors: "Davide Spadini, Maurício Aniche, Magiel Bruntink, Alberto Bacchelli"
 conference: "Empirical Software Engineering (EMSE)"
 doi: 10.1007/s10664-018-9663-0

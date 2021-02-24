@@ -20,10 +20,15 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.download %}
   <div class="publication-links">
-    <a class="publication-button" target="_blank" href="{{ page.link }}">Download the paper</a>
-
+    <a class="publication-button" target="_blank" href="{{ page.download }}">Download the paper</a>
   </div>
+  {% else %}
+  <div class="publication-links">
+    (Pre-print soon!)
+  </div>
+  {% endif %}
 
   <div class="publication-videos">
 {% if page.videoen %}

@@ -1,6 +1,6 @@
 ---
 title: "An Exploratory Study on Faults in Web API Integration in a Large-Scale Payment Company"
-link: "https://research.tudelft.nl/en/publications/an-exploratory-study-on-faults-in-web-api-integration-in-a-large-"
+download: "https://research.tudelft.nl/en/publications/an-exploratory-study-on-faults-in-web-api-integration-in-a-large-"
 authors: "Joop Aué, Maurício Aniche, Maikel Lobbezoo, Arie van Deursen"
 conference: "ICSE-SEIP '18: 40th International Conference on Software Engineering: Software Engineering in Practice Track"
 doi: 10.1145/3183519.3183537

@@ -1,9 +1,9 @@
 ---
 title: "Increasing Learning in an Agile Environment: Lessons Learned in an Agile Team"
-link: "https://figshare.com/articles/Increasing_Learning_in_an_Agile_Environment_Lessons_Learned_in_an_Agile_Team/11033177"
+download: "https://figshare.com/articles/Increasing_Learning_in_an_Agile_Environment_Lessons_Learned_in_an_Agile_Team/11033177"
 authors: "Maurício Aniche, Guilherme Silveira"
 conference: "Agile Conference"
-categories: ["publication", "conference", "agile", "human-factors"]
+categories: ["publication", "conference", "agile", "human-factors", "industry-collaboration"]
 year: 2011
 ---
 

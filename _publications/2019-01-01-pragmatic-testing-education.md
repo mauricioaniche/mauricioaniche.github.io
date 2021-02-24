@@ -1,6 +1,6 @@
 ---
 title: "Pragmatic Software Testing Education"
-link: "https://research.tudelft.nl/en/publications/pragmatic-software-testing-education"
+download: "https://research.tudelft.nl/en/publications/pragmatic-software-testing-education"
 authors: "Maurício Aniche, Felienne Hermans, Arie van Deursen"
 conference: "50th ACM Technical Symposium on Computer Science Education"
 doi: 10.1145/3287324.3287461

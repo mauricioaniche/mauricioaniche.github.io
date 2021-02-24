@@ -1,10 +1,10 @@
 ---
 title: "Grading 600+ students: A Case Study on Peer and Self Grading"
-link: "https://research.tudelft.nl/en/publications/grading-600-students-a-case-study-on-peer-and-self-grading"
+download: "https://research.tudelft.nl/en/publications/grading-600-students-a-case-study-on-peer-and-self-grading"
 authors: "Maurício Aniche, Frank Mulder, Felienne Hermans"
 conference: "43rd International Conference on Software Engineering: Joint Track on Software Engineering Education and Training (ICSE-JSEET)"
 doi: 
-categories: ["publication", "education", "icse-jseet", "conference"]
+categories: ["publication", "education", "icse", "conference"]
 year: 2021
 ---
 

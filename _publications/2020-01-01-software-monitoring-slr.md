@@ -1,6 +1,6 @@
 ---
 title: "Contemporary Software Monitoring: A Systematic Literature Review"
-link: "https://arxiv.org/abs/1912.05878"
+download: "https://arxiv.org/abs/1912.05878"
 authors: "Jeanderson Candido, Maurício Aniche, Arie van Deursen"
 conference: "Arxiv (under submission on TSE)"
 categories: ["publication", "arxiv", "monitoring", "selected-monitoring"]

@@ -1,10 +1,10 @@
 ---
 title: "Automatically Identifying Parameter Constraints in Complex Web APIs: A Case Study at Adyen"
-link: "https://arxiv.org/abs/2102.00871"
+download: "https://arxiv.org/abs/2102.00871"
 authors: "Henk Grent, Aleksei Akimov, Maurício Aniche"
 conference: "IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)"
 doi: 
-categories: ["publication", "maintenance", "ml4se", "icse", "conference", "industry-collaboration", "adyen"]
+categories: ["publication", "maintenance", "icse", "conference", "industry-collaboration", "adyen"]
 year: 2021
 ---
 

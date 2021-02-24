@@ -1,6 +1,6 @@
 ---
 title: "Understanding Developers’ Needs on Deprecation as a Language Feature"
-link: "https://research.tudelft.nl/en/publications/understanding-developers-needs-on-deprecation-as-a-language-featu"
+download: "https://research.tudelft.nl/en/publications/understanding-developers-needs-on-deprecation-as-a-language-featu"
 authors: "Anand Ashok Sawant, Maurício Aniche, Arie van Deursen, Alberto Bacchelli"
 conference: "40th International Conference on Software Engineering (ICSE)"
 doi: 10.1145/3180155.3180170
