@@ -36,6 +36,14 @@ permalink: /publications/venue
 {% endif %}
 {% endfor %}
 
+### Journal of the Brazilian Computer Society
+
+{% for post in sorted %}
+{% if post.categories contains "jbcs" %}
+{% include publication-snippet.html %}
+{% endif %}
+{% endfor %}
+
 ## Conferences
 
 
