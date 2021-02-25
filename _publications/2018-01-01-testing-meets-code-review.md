@@ -4,7 +4,7 @@ download: "https://research.tudelft.nl/en/publications/when-testing-meets-code-r
 authors: "Davide Spadini, Maurício Aniche, Margaret-Anne Storey, Magiel Bruntink, Alberto Bacchelli"
 conference: "40th International Conference on Software Engineering (ICSE)"
 doi: 10.1145/3180155.3180192
-categories: ["publication", "conference", "icse", "maintenance", "code reviews", "selected", "selected-maintenance"]
+categories: ["publication", "conference", "icse", "maintenance", "code reviews", "favorite", "selected-maintenance"]
 year: 2018
 videopt: "iHMJyHfl0Tg"
 videoen: "1Atodcct_ro"

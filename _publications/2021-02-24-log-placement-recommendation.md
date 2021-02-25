@@ -4,7 +4,7 @@ download:
 authors: "Jeanderson Cândido, Jan Haesen, Maurício Aniche, Arie van Deursen"
 conference: "Mining Software Repositories Conference (MSR)"
 doi:
-categories: ["publication", "monitoring", "selected-monitoring", "ml4se", "msr", "conference", "industry-collaboration", "adyen", "selected"]
+categories: ["publication", "monitoring", "selected-monitoring", "ml4se", "msr", "conference", "industry-collaboration", "adyen", "favorite"]
 year: 2021
 ---
 

@@ -3,7 +3,7 @@ title: "Code smells for Model-View-Controller architectures"
 download: "https://research.tudelft.nl/en/publications/code-smells-for-model-view-controller-architectures"
 authors: "Maurício Aniche, Gabriele Bavota, Christoph Treude, Marco Gerosa, Arie van Deursen"
 conference: "Empirical Software Engineering Journal (EMSE)"
-categories: ["publication", "journal", "emse", "maintenance", "selected", "selected-maintenance"]
+categories: ["publication", "journal", "emse", "maintenance", "favorite", "selected-maintenance"]
 videopt: "Pd5CdV5sPbo"
 videoen: "KPnNpTsZB40"
 year: 2017

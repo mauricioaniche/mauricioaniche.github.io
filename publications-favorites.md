@@ -1,7 +1,7 @@
 ---
-title: Selected publications
+title: Favorite publications
 layout: page
-permalink: /publications/selected
+permalink: /publications/favorites
 ---
 
 {% include publications-menu.md %}

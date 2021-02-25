@@ -4,7 +4,7 @@ download: "https://research.tudelft.nl/en/publications/monitoring-aware-ides"
 authors: "Jos Winter, Maurício Aniche, Jürgen Cito, Arie van Deursen"
 conference: "27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)"
 doi: 10.1145/3338906.3338926
-categories: ["publication", "conference", "fse", "monitoring", "selected", "selected-monitoring", "industry-collaboration"]
+categories: ["publication", "conference", "fse", "monitoring", "favorite", "selected-monitoring", "industry-collaboration"]
 year: 2019
 ---
 

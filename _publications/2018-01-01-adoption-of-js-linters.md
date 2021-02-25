@@ -4,7 +4,7 @@ download: "https://research.tudelft.nl/en/publications/the-adoption-of-javascrip
 authors: "Kristín Fjóla Tómasdóttir, Maurício Aniche, Arie van Deursen"
 conference: "Transactions on Software Engineering (TSE)"
 doi: 10.1109/TSE.2018.2871058
-categories: ["publication", "journal", "tse", "maintenance", "selected", "selected-maintenance"]
+categories: ["publication", "journal", "tse", "maintenance", "favorite", "selected-maintenance"]
 year: 2018
 ---
 
