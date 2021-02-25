@@ -1,5 +1,5 @@
 ---
-title: Guidelines for MSc students
+title: MSc students
 layout: page
 permalink: /msc-students/
 ---
