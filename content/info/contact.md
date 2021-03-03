@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: page
+permalink: /contact
 ---
 
 **Maurício F. Aniche**<br>

@@ -1,6 +1,7 @@
 ---
 title: Blog and Talks
 layout: page
+permalink: /blog-and-talks
 ---
 
 ## Blog posts

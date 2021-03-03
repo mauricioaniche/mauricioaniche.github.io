@@ -5,6 +5,7 @@ authors: "Maurício Aniche, Erick Maziero, Rafael Durelli, Vinicius Durelli"
 conference: "Transaction on Software Engineering (TSE)"
 categories: ["publication", "maintenance", "ml4se", "favorite", "selected-maintenance", "tse", "journal"]
 doi: 10.1109/TSE.2020.3021736
+posters: ["icse21"]
 year: 2020
 ---
 

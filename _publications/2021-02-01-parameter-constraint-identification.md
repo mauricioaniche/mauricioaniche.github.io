@@ -5,6 +5,7 @@ authors: "Henk Grent, Aleksei Akimov, Maurício Aniche"
 conference: "IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)"
 doi: 
 categories: ["publication", "maintenance", "icse", "conference", "industry-collaboration", "adyen"]
+posters: ["icse21"]
 year: 2021
 ---
 

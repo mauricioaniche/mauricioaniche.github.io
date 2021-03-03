@@ -1,6 +1,7 @@
 ---
 title: Education
 layout: page
+permalink: /education
 ---
 
 In this page, see:

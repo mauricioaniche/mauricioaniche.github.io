@@ -21,7 +21,7 @@ collections:
   blog:
     permalink: /:collection/:title/
     output: true
-
+    
 defaults:
   - scope:
       path: ""

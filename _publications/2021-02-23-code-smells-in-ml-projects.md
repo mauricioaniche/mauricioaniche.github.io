@@ -6,6 +6,7 @@ conference: "1st Workshop on AI Engineering – Software Engineering for AI – 
 doi:
 categories: ["publication", "maintenance", "wain", "workshop"]
 year: 2021
+posters: ["icse21"]
 ---
 
 Artificial Intelligence (AI) and Machine Learning (ML) are pervasive in the current computer science landscape. Yet, there still exists a lack of software engineering experience and best practices in this field. One such best practice, static code analysis, can be used to find code smells, i.e., (potential) defects in the source code, refactoring opportunities, and violations of common coding standards. 

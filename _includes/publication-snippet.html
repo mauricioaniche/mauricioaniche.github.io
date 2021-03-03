@@ -2,7 +2,13 @@
 <div class="publication-snippet">
 	<a class="paper-link" href="{{ post.url }}">{{ post.title }}</a>
 	<span class="authors">{{ post.authors }}</span>
-	<span class="conference">{{ post.conference }}, {{ post.year }}</span>
+
+      {% if page.conference %}
+      	<span class="conference">{{ post.conference }}, {{ post.year }}</span>
+      {% else %}
+      	<span class="conference">Non peer-reviewed version (under submission), {{ post.year }}</span>
+      {% endif %}
+
 	<div class="paper-description">
 	{{ post.content | strip_html | truncate: 350  }}
 	</div>
