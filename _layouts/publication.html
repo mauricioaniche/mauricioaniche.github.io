@@ -9,7 +9,11 @@ layout: default
 
     <div class="post-meta">
       <div>{{ page.authors }}</div>
+      {% if page.conference %}
       <div>{{ page.conference }}, {{ page.year }}</div>
+      {% else %}
+      <div>Non-peer reviewed version (under submission), {{ page.year }}</div>
+      {% endif %}
       {% if page.doi %}
       <div>DOI: <a href="https://doi.org/{{ page.doi }}">{{ page.doi }}</a></div>
       {% endif %}
