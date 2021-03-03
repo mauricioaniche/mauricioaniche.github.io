@@ -3,7 +3,7 @@
 	<a class="paper-link" href="{{ post.url }}">{{ post.title }}</a>
 	<span class="authors">{{ post.authors }}</span>
 
-      {% if page.conference %}
+      {% if post.conference %}
       	<span class="conference">{{ post.conference }}, {{ post.year }}</span>
       {% else %}
       	<span class="conference">Non peer-reviewed version (under submission), {{ post.year }}</span>
