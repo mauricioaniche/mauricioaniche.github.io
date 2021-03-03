@@ -65,9 +65,7 @@ maintainable test code suite.
 
 Testing might not be enough in large-scale complex systems. Thus, monitoring
 is fundamental to their maintenance. My research focuses on better understanding
-and providing tools for modern software monitoring. This research is done together
-with [Adyen B.V.](http://www.adyen.com), a large-scale payment company that provides
-services for more than 4,500 companies all around the world. 
+and providing tools for modern software monitoring. 
 
 **Key publications:**
 
