@@ -3,19 +3,19 @@
 	<div class="poster-title">{{ post.title }}</div>
 	<span class="authors">{{ post.authors }}</span>
 	<span class="conference">{{ post.conference }}, {{ post.year }}</span>
-	
+
 	<div class="poster-description">
 	{{ post.content }}
 	</div>
 
   <div class="publication-videos">
-{% if page.videoen %}
+{% if post.videoen %}
 <div class="publication-video">
 <p>Watch a summary of the paper (in English):</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.videoen }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 {% endif %}    
-{% if page.videopt %}
+{% if post.videopt %}
 <div class="publication-video">
 <p>Watch a summary of the paper (in Brazilian Portuguese):</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.videopt }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -24,9 +24,14 @@
 
   </div>
 
+  {% if post.download %}
 	<div class="publication-button-div">
 	<a class="publication-button" target="_blank" href="{{ poster.download }}">Download the paper</a>
 	</div>
-
+  {% else %}
+	<div class="publication-button-div">
+	(Pre-print soon)
+	</div>
+  {% endif %}
 </div>
 
