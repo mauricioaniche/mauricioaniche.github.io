@@ -4,7 +4,7 @@ layout: page
 permalink: /icse21
 ---
 
-[ICSE 2021](https://conf.researchr.org/home/icse-2021) is the premier venue in software engineering. My research group is proudly presenting nine (!) papers in the different co-located events. 
+[ICSE 2021](https://conf.researchr.org/home/icse-2021) is the premier venue in software engineering. My research group is proudly presenting nine papers in the different co-located events. 
 
 _I thank all my 20 collaborators (listed in any order): Jeanderson Cândido, Jan Haesen, Arie van Deursen, Hendrig Sellik, Onno van Paridon, Georgios Gousios, Bart van Oort, Luís Cruz, Casper Schröder, Adriaan van der Feltz, Annibale Panichella, Henk Grent, Aleksei Akimov, Frank Mulder, Felienne Hermans, Eric Maziero, Rafael Durelli, Vinicius Durelli, Jürgen Cito, and Aaron Beigelbeck._
 
