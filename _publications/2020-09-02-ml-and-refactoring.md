@@ -2,7 +2,7 @@
 title: "The Effectiveness of Supervised Machine Learning Algorithms in Predicting Software Refactoring"
 download: "https://arxiv.org/abs/2001.03338"
 authors: "Maurício Aniche, Erick Maziero, Rafael Durelli, Vinicius Durelli"
-conference: "Transaction on Software Engineering (TSE)"
+conference: "Transactions on Software Engineering (TSE)"
 categories: ["publication", "maintenance", "ml4se", "favorite", "selected-maintenance", "tse", "journal"]
 doi: 10.1109/TSE.2020.3021736
 posters: ["icse21"]
