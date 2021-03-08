@@ -75,6 +75,14 @@ permalink: /publications/venue
 {% endif %}
 {% endfor %}
 
+### International Conference on Program Comprehension (ICPC)
+
+{% for post in sorted %}
+{% if post.categories contains "icpc" %}
+{% include publication-snippet.html %}
+{% endif %}
+{% endfor %}
+
 ### Mining Software Repositories (MSR)
 
 {% for post in sorted %}
