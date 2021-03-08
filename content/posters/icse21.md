@@ -8,7 +8,7 @@ permalink: /icse21
 
 _I thank all my 20 collaborators (listed in any order): Jeanderson Cândido, Jan Haesen, Arie van Deursen, Hendrig Sellik, Onno van Paridon, Georgios Gousios, Bart van Oort, Luís Cruz, Casper Schröder, Adriaan van der Feltz, Annibale Panichella, Henk Grent, Aleksei Akimov, Frank Mulder, Felienne Hermans, Eric Maziero, Rafael Durelli, Vinicius Durelli, Jürgen Cito, and Aaron Beigelbeck._
 
-{% assign sorted = site.publications | reverse %}
+{% assign sorted = site.publications %}
 {% for post in sorted %}
 {% if post.posters contains "icse21" %}
 {% include poster-snippet.html %}
