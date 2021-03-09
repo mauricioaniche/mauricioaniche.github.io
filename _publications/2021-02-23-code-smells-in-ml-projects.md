@@ -1,6 +1,6 @@
 ---
 title: "The Prevalence of Code Smells in Machine Learning projects"
-download: 
+download: "https://arxiv.org/abs/2103.04146"
 authors: "Bart van Oort, Luís Cruz, Maurício Aniche, Arie van Deursen"
 conference: "1st Workshop on AI Engineering – Software Engineering for AI – WAIN'21"
 doi:
