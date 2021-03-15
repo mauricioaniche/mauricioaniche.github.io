@@ -4,7 +4,7 @@ download: "https://research.tudelft.nl/en/publications/tracing-back-log-data-to-
 authors: "Daan Schipper, Maurício Aniche, Arie van Deursen"
 conference: "IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)"
 doi: 10.1109/MSR.2019.00081
-categories: ["publication", "conference", "msr", "monitoring", "industry-collaboration", "adyen"]
+categories: ["publication", "conference", "msr", "monitoring", "industry-collaboration", "adyen", "short-paper"]
 year: 2019
 ---
 

@@ -107,6 +107,14 @@ permalink: /publications/venue
 {% endif %}
 {% endfor %}
 
+### MobileSoft
+
+{% for post in sorted %}
+{% if post.categories contains "mobilesoft" %}
+{% include publication-snippet.html %}
+{% endif %}
+{% endfor %}
+
 ### Technical Symposium on Computer Science Education (SIGCSE)
 
 
