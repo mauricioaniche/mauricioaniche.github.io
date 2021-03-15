@@ -6,9 +6,7 @@ permalink: /publications/topic
 
 {% include publications-menu.md %}
 
-{% assign top = site.publications | where: "bottom", nil | reverse %}
-{% assign bottom = site.publications | where: "bottom", "true" %}
-{% assign sorted = top | concat: bottom %}
+{% include get-all-publications.md %}
 
 ## Software Maintenance (evolution, refactoring, and comprehension)
 
