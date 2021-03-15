@@ -6,6 +6,7 @@ conference: "41st ACM/IEEE International Conference on Software Engineering, Sof
 doi: 10.1109/ICSE-SEIP.2019.00033
 categories: ["publication", "conference", "ing", "monitoring", "industry-collaboration"]
 year: 2019
+bottom: true
 ---
 
 

@@ -6,6 +6,7 @@ conference: "29th IEEE/ACM International Conference on Program Comprehension (IC
 doi:
 categories: ["publication", "icpc", "monitoring", "short-paper"]
 posters: ["icse21"]
+bottom: true
 year: 2021
 ---
 
