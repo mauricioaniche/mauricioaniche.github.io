@@ -4,7 +4,7 @@ download:
 authors: "Aaron Beigelbeck, Maurício Aniche, Jürgen Cito"
 conference: "29th IEEE/ACM International Conference on Program Comprehension (ICPC 2021)"
 doi:
-categories: ["publication", "icpc", "monitoring", "short-paper"]
+categories: ["publication", "icpc", "monitoring", "short-paper", "conference"]
 posters: ["icse21"]
 bottom: true
 year: 2021

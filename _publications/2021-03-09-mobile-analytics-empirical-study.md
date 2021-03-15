@@ -4,7 +4,7 @@ download:
 authors: "Julian Harty, Haonan Zhang, Lili Wei, Luca Pascarella, Maurício Aniche, Weiyi Shang"
 conference: "MOBILESoft"
 doi:
-categories: ["publication", "mobilesoft", "monitoring", "short-paper"]
+categories: ["publication", "mobilesoft", "monitoring", "short-paper", "conference"]
 posters: ["icse21"]
 bottom: true
 year: 2021
