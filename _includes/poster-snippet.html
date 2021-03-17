@@ -10,17 +10,11 @@
 
   <div class="publication-videos">
 {% if post.videoen %}
-<div class="publication-video">
+<div class="publication-video wise-iframe-wrapper">
 <p>Watch a summary of the paper (in English):</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.videoen }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 {% endif %}    
-{% if post.videopt %}
-<div class="publication-video">
-<p>Watch a summary of the paper (in Brazilian Portuguese):</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.videopt }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-{% endif %}
 
   </div>
 
