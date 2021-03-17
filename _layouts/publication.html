@@ -56,7 +56,7 @@ layout: default
 
 {% if page.categories contains 'journal' %}
     <pre>
-@article{aniche-{ bibslug }},
+@article{aniche-{{ bibslug }},
     author  = "{{ page.authors | replace: ", ", " and " }}",
     title   = "{{ page.title }}",
     journal = "{{ page.conference }}",
@@ -68,7 +68,7 @@ layout: default
 
 {% if page.categories contains 'conference' or page.categories contains 'workshop' %}
     <pre>
-@inproceedings{aniche-{ bibslug }},
+@inproceedings{aniche-{{ bibslug }},
     author  = "{{ page.authors | replace: ", ", " and " }}",
     title   = "{{ page.title }}",
     booktitle = "Proceedings of {{ page.conference | replace: 'The ' , 'the ' }}",
@@ -80,7 +80,7 @@ layout: default
 
 {% if page.categories contains 'arxiv' %}
     <pre>
-@misc{aniche-{ bibslug }},
+@misc{aniche-{{ bibslug }},
     author  = "{{ page.authors | replace: ", ", " and " }}",
     title   = "{{ page.title }}",
     howpublished = "{{ page.download }}",
