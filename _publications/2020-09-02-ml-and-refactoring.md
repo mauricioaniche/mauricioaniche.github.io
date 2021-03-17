@@ -7,6 +7,7 @@ categories: ["publication", "maintenance", "ml4se", "favorite", "selected-mainte
 doi: 10.1109/TSE.2020.3021736
 posters: ["icse21"]
 year: 2020
+videoen: "MWUROy5MtNM"
 ---
 
 Refactoring is the process of changing the internal structure of software to improve its quality without modifying its external behavior. Before carrying out refactoring activities, developers need to identify refactoring opportunities. Currently, refactoring opportunity identification heavily relies on developers' expertise and intuition. 
