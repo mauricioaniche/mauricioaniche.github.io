@@ -1,5 +1,5 @@
 ---
-title: "Log-based software monitoring: a systematic mapping study"
+title: "Log-based Software Monitoring: A Systematic Mapping Study"
 download: "https://arxiv.org/abs/1912.05878"
 authors: "Jeanderson Candido, Maurício Aniche, Arie van Deursen"
 conference: "PeerJ"
