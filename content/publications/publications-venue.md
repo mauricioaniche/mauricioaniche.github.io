@@ -36,6 +36,14 @@ permalink: /publications/venue
 {% endif %}
 {% endfor %}
 
+### PeerJ
+
+{% for post in sorted %}
+{% if post.categories contains "peerj" %}
+{% include publication-snippet.html %}
+{% endif %}
+{% endfor %}
+
 ### Journal of the Brazilian Computer Society (JBCS)
 
 {% for post in sorted %}
@@ -43,6 +51,7 @@ permalink: /publications/venue
 {% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
+
 
 ## Conferences
 
