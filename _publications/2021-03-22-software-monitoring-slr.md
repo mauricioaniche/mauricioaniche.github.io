@@ -4,7 +4,7 @@ download: "https://arxiv.org/abs/1912.05878"
 authors: "Jeanderson Candido, Maurício Aniche, Arie van Deursen"
 conference: "PeerJ"
 categories: ["publication", "journal", "monitoring", "peerj"]
-year: 2020
+year: 2021
 ---
 
 Modern software development and operations rely on monitoring to understand how systems behave in production. The data provided by application logs and runtime environment are essential to detect and diagnose undesired behavior and improve system reliability. However, despite the rich ecosystem around industry-ready log solutions, monitoring complex systems and getting insights from log data remains a challenge. 
