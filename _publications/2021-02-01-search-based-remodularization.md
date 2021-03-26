@@ -4,7 +4,7 @@ download: "https://arxiv.org/abs/2102.00701"
 authors: "Casper Schröder, Adriaan van der Feltz, Annibale Panichella, Maurício Aniche"
 conference: "IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)"
 doi:
-categories: ["publication", "maintenance", "ml4se", "icse", "conference", "industry-collaboration", "adyen"]
+categories: ["publication", "maintenance", "ml4se", "icse", "conference", "industry-collaboration", "adyen", "selected-maintenance"]
 posters: ["icse21"]
 year: 2021
 ---
