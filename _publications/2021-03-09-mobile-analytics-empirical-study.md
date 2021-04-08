@@ -1,6 +1,6 @@
 ---
 title: "Logging Practices with Mobile Analytics: An Empirical Study on Firebase"
-download: 
+download: "https://arxiv.org/abs/2104.02513"
 authors: "Julian Harty, Haonan Zhang, Lili Wei, Luca Pascarella, Maurício Aniche, Weiyi Shang"
 conference: "8th IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft)"
 doi:
