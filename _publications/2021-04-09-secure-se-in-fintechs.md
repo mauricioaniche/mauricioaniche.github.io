@@ -2,7 +2,6 @@
 title: "Secure Software Engineering in the Financial Services: A Practitioners' Perspective"
 download: "https://arxiv.org/abs/2104.03476"
 authors: "Vivek Arora, Enrique Larios Vargas, Maurício Aniche, Arie van Deursen"
-conference: ""
 categories: ["publication", "arxiv", "security"]
 year: 2021
 ---
