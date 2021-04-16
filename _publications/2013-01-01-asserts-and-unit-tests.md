@@ -5,6 +5,7 @@ authors: "Maurício Aniche, Gustavo Oliva, Marco Gerosa"
 conference: "17th European Conference on Software Maintenance and Reengineering (CSMR)"
 categories: ["publication", "conference", "saner", "testing"]
 year: 2013
+doi: "10.1109/CSMR.2013.21"
 ---
 
 Unit tests and production code are intrinsically connected. A class that is easy to test usually presents desirable characteristics, such as low coupling and high cohesion. Thus, finding hard-to-test classes may help developers identify problematic code. Many different test feedbacks that warn developers about problematic code were already catalogued. 

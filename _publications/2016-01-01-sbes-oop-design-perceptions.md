@@ -5,6 +5,7 @@ authors: "Maurício Aniche, Christoph Treude, Marco Gerosa"
 conference: "30th Brazilian Symposium on Software Engineering (SBES)"
 categories: ["publication", "conference", "sbes", "maintenance"]
 year: 2016
+doi: "10.1145/2973839.2973846"
 ---
 
 Software developers commonly rely on well-known software architecture patterns, such as MVC, to build their applications. In many of these patterns, classes play specific roles in the system, such as Controllers or Entities, which means that each of these classes has specific characteristics in terms of object-oriented class design and implementation. Indeed, as we have shown in a previous study, architectural roles are different from each other in terms of code metrics. 

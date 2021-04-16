@@ -5,6 +5,7 @@ authors: "Maurício Aniche, Guilherme Silveira"
 conference: "Agile Conference"
 categories: ["publication", "conference", "agile", "human-factors", "industry-collaboration"]
 year: 2011
+doi: "10.1109/AGILE.2011.13"
 ---
 
 Learning is an important part of the software development process. There are many advantages for developers willing to learn: increased internal and external quality of the produced software, and a reduced learning curve as beginners become high-skilled developers much faster than usual. However, learning is not taken seriously by many teams. 

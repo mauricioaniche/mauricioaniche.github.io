@@ -5,6 +5,7 @@ authors: "Maurício Aniche, Christoph Treude, Andy Zaidman, Arie van Deursen, Ma
 conference: "16th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM)"
 categories: ["publication", "conference", "scam", "maintenance"]
 year: 2016
+doi: "10.1109/SCAM.2016.19"
 ---
 
 Code metric analysis is a well-known approach for assessing the quality of a software system. However, current tools and techniques do not take the system architecture (e.g., MVC, Android) into account. This means that all classes are assessed similarly, regardless of their specific responsibilities. 
