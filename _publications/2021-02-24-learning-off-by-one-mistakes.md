@@ -7,6 +7,7 @@ doi:
 categories: ["publication", "maintenance", "ml4se", "msr", "conference", "industry-collaboration", "adyen"]
 posters: ["icse21"]
 year: 2021
+videoen: "8RUAeKsjho4"
 ---
 
 Mistakes in binary conditions are a source of error in many software systems. They happen when developers use, e.g., < or > instead of <= or >=. These boundary mistakes are hard to find and impose manual, labor-intensive work for software developers. While previous research has been proposing solutions to identify errors in boundary conditions, the problem remains open. 
