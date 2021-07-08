@@ -3,7 +3,7 @@ title: "Interactive Static Software Performance Analysis in the IDE"
 download: "https://arxiv.org/abs/2105.02023"
 authors: "Aaron Beigelbeck, Maurício Aniche, Jürgen Cito"
 conference: "29th IEEE/ACM International Conference on Program Comprehension (ICPC)"
-doi:
+doi: "10.1109/ICPC52881.2021.00057"
 categories: ["publication", "icpc", "monitoring", "short-paper", "conference"]
 posters: ["icse21"]
 bottom: true

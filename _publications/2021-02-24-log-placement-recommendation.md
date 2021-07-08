@@ -3,7 +3,7 @@ title: "An Exploratory Study of Log Placement Recommendation in an Enterprise Sy
 download: "https://arxiv.org/abs/2103.01755"
 authors: "Jeanderson Cândido, Jan Haesen, Maurício Aniche, Arie van Deursen"
 conference: "Mining Software Repositories Conference (MSR)"
-doi:
+doi: "10.1109/MSR52588.2021.00027"
 videoen: "1Q6ZE0N47ew"
 categories: ["publication", "monitoring", "selected-monitoring", "ml4se", "msr", "conference", "industry-collaboration", "adyen", "favorite"]
 posters: ["icse21"]

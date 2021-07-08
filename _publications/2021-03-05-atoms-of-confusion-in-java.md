@@ -3,7 +3,7 @@ title: "Atoms of Confusion in Java"
 download: "https://arxiv.org/abs/2103.05424"
 authors: "Chris Langhout, Maurício Aniche"
 conference: "29th IEEE/ACM International Conference on Program Comprehension (ICPC)"
-doi:
+doi: "10.1109/ICPC52881.2021.00012"
 videoen: "GhPqqFB3Qfw"
 categories: ["publication", "icpc", "maintenance", "conference"]
 posters: ["icse21"]
