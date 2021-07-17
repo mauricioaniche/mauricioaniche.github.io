@@ -3,7 +3,7 @@ title: "What did I learn from flipping my classroom?"
 layout: post
 ---
 
-I experimented with flipped classroom in the 2019-2020 and the 2020-2021 editions of our Software Testing and Quality (CSE1110). This was the first and second times I tried it "for real". I asked students to [read the material](https://sttp.site), solve some exercises, and ask questions in the online forum _before_ the lecture; the lecture itself was going to be used only for debating.
+I experimented with flipped classroom in the 2019-2020 and the 2020-2021 editions of our Software Testing and Quality (CSE1110). This was the first and second time I tried it "for real". I asked students to [read the material](https://sttp.site), solve some exercises, and ask questions in the online forum _before_ the lecture; the lecture itself was going to be used only for debating.
 
 In the first year I did it, I wasn't fully certain this would work. My honest thought was that students would not do their tasks before the lecture. I was afraid of not having questions to answer or topics to debate; I even made sure to have the slides I used in the previous years as backup plan in case this did not work. I could not be more wrong! 
 
