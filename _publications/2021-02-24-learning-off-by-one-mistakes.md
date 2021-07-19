@@ -4,7 +4,7 @@ download: "https://arxiv.org/abs/2102.12429"
 authors: "Hendrig Sellik, Onno van Paridon, Georgios Gousios, Maurício Aniche"
 conference: "Mining Software Repositories Conference (MSR)"
 doi: "10.1109/MSR52588.2021.00019"
-categories: ["publication", "maintenance", "ml4se", "msr", "conference", "industry-collaboration", "adyen"]
+categories: ["publication", "maintenance", "ml4se", "msr", "selected-ml4se", "conference", "industry-collaboration", "adyen"]
 posters: ["icse21"]
 year: 2021
 videoen: "8RUAeKsjho4"

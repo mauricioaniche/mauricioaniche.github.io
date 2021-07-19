@@ -20,6 +20,8 @@ easy-to-evolve code? Can we help developers in better comprehending the source c
 - **Software testing**: Can we help developers in testing their software? Can we
 help developers in maintaining the large automated test suites they write?
 
+- **Machine learning for software engineering**: Can we leverage machine learning models to support software developers in their maintenance tasks?
+
 - **Software monitoring and log analysis**: Can we help developers in monitoring their systems? How can we leverage log data to give developers insights about how their systems behave in production?
 
 _TU Delft MSc students_: Are you looking for thesis ideas on these topics? Read my [guidelines for MSc students](/msc-students) and message me.
@@ -60,6 +62,16 @@ maintainable test code suite.
 {% endif %}
 {% endfor %}
 
+
+## Machine learning for software engineering
+
+Some software engineering problems are very hard to be modeled manually. This is where machine learning and deep learning steps in. My research focuses on training machine learning models to support developers in different maintenance tasks.
+
+{% for post in sorted %}
+{% if post.categories contains "selected-ml4se" %}
+{% include publication-snippet.html %}
+{% endif %}
+{% endfor %}
 
 ## Software monitoring and log analysis
 
