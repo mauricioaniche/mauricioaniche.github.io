@@ -65,4 +65,5 @@ What did I have to change in my course to make it flipped? Three things:
 Finally, I must say I have been really enjoying the flipped classroom experience. In both years, I feel it was good for me and for the students. I did not feel bored at all in any of the lectures (a common feeling when you are giving the same lecture for the Nth time). 
 
 
-**Acknowledgments:** This would not be possible without the help of so many people. First, Frank Mulder, my partner in this course. Also, I should thank Wouter Pollet and Sará Juhusová, my head TAs (Wouter being my head TA for the third time in a row). Also, to Marsha Ginsberg, for lots of grammar improvements on the lecture notes themselves. Finally, to all the 2019-2020 and 2020-2021 CSE1110 students for being so nice.
+**Acknowledgments:** This would not be possible without the help of so many people. First, Frank Mulder, my partner in this course. Also, I should thank Wouter Polet and Sará Juhusová, my head TAs (Wouter being my head TA for the third time in a row). Also, to Marsha Ginsberg, for lots of grammar improvements on the lecture notes themselves. Finally, to all the 2019-2020 and 2020-2021 CSE1110 students for being so nice.
+
