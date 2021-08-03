@@ -1,5 +1,5 @@
 ---
-title: "The adventures of a SE research with ML4SE"
+title: "The adventures of a SE researcher with ML4SE"
 layout: page
 categories: ["talk"]
 ---
