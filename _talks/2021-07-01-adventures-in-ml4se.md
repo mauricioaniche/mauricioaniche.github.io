@@ -22,7 +22,7 @@ In this talk, I will walk you through my adventures in applying machine learning
 * University of California, Davis
 * Universidade Federal do Ceará, campus Quixadá
 * Lambda3
-
+* RunaHR
 
 ## References
 
