@@ -10,10 +10,15 @@ Now, the question is: can we use AI, machine and deep learning to help software 
 
 In this talk, I will walk you through my adventures in applying machine learning to different SE problems, and the challenges I observe whenever we deploy them in software companies.
 
+## Video (in english)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v9uD-aiAEl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Video (in pt-br)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NUGQTDRWTik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Presentations
 
