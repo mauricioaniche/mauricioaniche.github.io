@@ -2,9 +2,9 @@
 title: "How Developers Engineer Test Cases: An Observational Study"
 download: "https://arxiv.org/abs/2103.01783"
 authors: "Maurício Aniche, Christoph Treude, Andy Zaidman"
-conference:
+conference: "Transactions on Software Engineering (TSE)"
 doi:
-categories: ["publication", "arxiv", "favorite", "testing", "selected-testing"]
+categories: ["publication", "tse", "favorite", "testing", "selected-testing"]
 year: 2021
 ---
 
