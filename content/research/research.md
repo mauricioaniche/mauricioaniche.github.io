@@ -4,6 +4,8 @@ layout: page
 permalink: /research
 ---
 
+{% include publications-menu.md %}
+
 {% assign sorted = site.publications | reverse %}
 
 **Software maintenance** can be quite expensive in practice. Researchers 
@@ -24,9 +26,7 @@ help developers in maintaining the large automated test suites they write?
 
 - **Software monitoring and log analysis**: Can we help developers in monitoring their systems? How can we leverage log data to give developers insights about how their systems behave in production?
 
-_TU Delft MSc students_: Are you looking for thesis ideas on these topics? Read my [guidelines for MSc students](/msc-students) and message me.
-
-_(Dutch) industrial partners_: If you are interested in partnering up for research in any of these topics, just message me. See my [list of publications with industry](/publications/industry).
+_TU Delft MSc students_: Are you looking for an interesting MSc thesis internship at Adyen? Just message me!
 
 ## Software maintenance (evolution, refactoring, comprehension)
 

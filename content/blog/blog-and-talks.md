@@ -4,6 +4,8 @@ layout: page
 permalink: /blog-and-talks
 ---
 
+{% include publications-menu.md %}
+
 ## Blog posts
 
 Some non-peer-reviewed stuff: 
@@ -14,6 +16,8 @@ Some non-peer-reviewed stuff:
 * {{ post.date | date: "%d-%b-%Y" }}: [{{ post.title }}]({{ post.url }})
 
 {% endfor %}
+
+I also write testing related stuff in the <a href="https://www.effective-software-testing.com">website of my Effective Software Testing</a> book.
 
 ## Talks
 

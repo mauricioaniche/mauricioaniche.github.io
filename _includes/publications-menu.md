@@ -1,6 +1,9 @@
+[Research](/research) |
 [Per year](/publications) | 
 [Per venue](/publications/venue) |
 [Per topic](/publications/topic) |
-[Industry collaboration](/publications/industry) |
+[Adyen](/research/adyen) |
+[Education](/research/education) |
 [Favorites](/publications/favorites) | 
-[Technical Books](/books)
+[Books](/books) |
+[Blogs and talks](/blog-and-talks)
