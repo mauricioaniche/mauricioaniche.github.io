@@ -71,10 +71,19 @@
 	<textarea id="elements"></textarea>
 </div>
 
-<div id="result">
-</div>
-<div id="gif" class="hidden">
-	<iframe src="https://giphy.com/embed/5GoVLqeAOo6PK" width="480" height="375" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/excited-screaming-jonah-hill-5GoVLqeAOo6PK">via GIPHY</a></p>
+<div id="show" class="hidden">
+	<h2>Combinations</h2>
+	<div id="result">
+	</div>
+
+	<h2>Matrix</h2>
+	<div id="result2">
+	</div>
+
+	<h2>Fun dude</h2>
+	<div id="gif">
+		<iframe src="https://giphy.com/embed/5GoVLqeAOo6PK" width="480" height="375" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/excited-screaming-jonah-hill-5GoVLqeAOo6PK">via GIPHY</a></p>
+	</div>
 </div>
 
 <div>
@@ -84,7 +93,7 @@
 <script type="text/javascript">
 	function magic() {
 		const text = document.getElementById("text").value
-		const elements = document.getElementById("elements").value.split("\n");
+		const elements = document.getElementById("elements").value.split("\n").filter(e => e.trim().length > 0);
 
 		// create empty matrix with elements x elements size
 		const matrix = new Array(elements.length)
@@ -96,7 +105,7 @@
 			.map(ar => ar[1])
 			.forEach(group => {
 				// get each element within the parenthesis
-				const elementsInGroup = group.split(", ")
+				const elementsInGroup = group.split(",")
 					.map(t => t.trim()) 
 					.filter(t => elements.includes(t))
 				
@@ -110,7 +119,7 @@
 				));
 			});
 
-		// calculate the total. we can have numbers in both sides of the matrix
+		// first output: text
 		var finalMsg = "<ul>"
 		elements.flatMap((v, i) => elements.slice(i+1).map(w => {
 			const first = elements.indexOf(v);
@@ -122,7 +131,41 @@
 		finalMsg += "</ul>"
 
 		document.getElementById("result").innerHTML = finalMsg;
-		document.getElementById("gif").style.display = 'inline';
+
+		// second output: table
+		const matrix2 = new Array(elements.length)
+			.fill(0)
+			.map(() => new Array(elements.length).fill(0));		
+
+		elements.flatMap((v, i) => elements.slice(i+1).map(w => {
+			const first = elements.indexOf(v);
+			const second = elements.indexOf(w);
+
+			total = matrix[first][second] + matrix[second][first];
+
+			matrix2[first < second ? first : second][first < second ? second : first] = total;			
+		}));
+		var generatedTable = "<table width='50%'>";
+		generatedTable += "<tr><td>-</td>";
+		elements.forEach(e => generatedTable+= "<td>" + e + "</td>");
+		generatedTable += "</tr>";
+
+		for(let i = 0; i < elements.length; i++) {
+			generatedTable += "<tr>";
+			generatedTable += "<td>" + elements[i] + "</td>";
+			for(let j = 0; j < elements.length; j++) {
+				generatedTable += "<td>" + (matrix2[i][j] == 0 ? "-" : matrix2[i][j]) + "</td>"
+			}
+			generatedTable += "</tr>";
+		}
+		generatedTable += "</table>";
+
+		document.getElementById("result2").innerHTML = generatedTable;
+
+
+
+		// fun guy
+		document.getElementById("show").style.display = 'inline';
 	}
 
 
