@@ -1,0 +1,132 @@
+<html>
+<style type="text/css">
+	textarea {
+		height: 200px;
+		width: 50%;
+		border: solid 5px orange;
+	}
+
+	div {
+		margin: 1em;
+	}
+
+	.button-5 {
+	  align-items: center;
+	  background-clip: padding-box;
+	  background-color: #fa6400;
+	  border: 1px solid transparent;
+	  border-radius: .25rem;
+	  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+	  box-sizing: border-box;
+	  color: #fff;
+	  cursor: pointer;
+	  display: inline-flex;
+	  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	  font-size: 16px;
+	  font-weight: 600;
+	  justify-content: center;
+	  line-height: 1.25;
+	  margin: 0;
+	  min-height: 3rem;
+	  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+	  position: relative;
+	  text-decoration: none;
+	  transition: all 250ms;
+	  user-select: none;
+	  -webkit-user-select: none;
+	  touch-action: manipulation;
+	  vertical-align: baseline;
+	  width: auto;
+	}
+
+	.button-5:hover,
+	.button-5:focus {
+	  background-color: #fb8332;
+	  box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+	}
+
+	.button-5:hover {
+	  transform: translateY(-1px);
+	}
+
+	.button-5:active {
+	  background-color: #c85000;
+	  box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
+	  transform: translateY(0);
+	}
+
+	.hidden {
+		display: none;
+	}
+
+</style>
+<body>
+<h1>Tampa's tool</h1>
+<div>
+	<p>Your amazing piece of research here!</p>
+	<textarea id="text"></textarea>
+</div>
+<div>
+	<p>The elements that can appear in parenthesis here (one per line, please!)</p>
+	<textarea id="elements"></textarea>
+</div>
+
+<div id="result">
+</div>
+<div id="gif" class="hidden">
+	<iframe src="https://giphy.com/embed/5GoVLqeAOo6PK" width="480" height="375" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/excited-screaming-jonah-hill-5GoVLqeAOo6PK">via GIPHY</a></p>
+</div>
+
+<div>
+	<button class="button-5" onclick="magic()">Do the magic!</button>
+</div>
+
+<script type="text/javascript">
+	function magic() {
+		const text = document.getElementById("text").value
+		const elements = document.getElementById("elements").value.split("\n");
+
+		// create empty matrix with elements x elements size
+		const matrix = new Array(elements.length)
+			.fill(0)
+			.map(() => new Array(elements.length).fill(0));
+
+		// extract info in parenthesis
+		var groups = [...text.matchAll(/\((.*?)\)/gm)] 
+			.map(ar => ar[1])
+			.forEach(group => {
+				// get each element within the parenthesis
+				const elementsInGroup = group.split(", ")
+					.map(t => t.trim()) 
+					.filter(t => elements.includes(t))
+				
+				// combine the elements
+				elementsInGroup.flatMap((v, i) => elementsInGroup.slice(i+1).map(w => {
+						const first = elements.indexOf(v);
+						const second = elements.indexOf(w);
+
+						matrix[first][second]++;
+					}
+				));
+			});
+
+		// calculate the total. we can have numbers in both sides of the matrix
+		var finalMsg = "<ul>"
+		elements.flatMap((v, i) => elements.slice(i+1).map(w => {
+			const first = elements.indexOf(v);
+			const second = elements.indexOf(w);
+
+			total = matrix[first][second] + matrix[second][first];
+			finalMsg += "<li>" + v + ' with ' + w + '=' + total + "</li>";
+		}))
+		finalMsg += "</ul>"
+
+		document.getElementById("result").innerHTML = finalMsg;
+		document.getElementById("gif").style.display = 'inline';
+	}
+
+
+
+</script>
+</body>
+</html>
