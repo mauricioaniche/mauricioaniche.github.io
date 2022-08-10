@@ -10,6 +10,17 @@
 		margin: 1em;
 	}
 
+	table {
+		table-layout: fixed;
+	}
+
+	table, th, td {
+  		border: 1px solid black;
+  		border-collapse: collapse;
+  		padding: 6px;
+  		text-align: center;
+	}
+
 	.button-5 {
 	  align-items: center;
 	  background-clip: padding-box;
@@ -145,14 +156,14 @@
 
 			matrix2[first < second ? first : second][first < second ? second : first] = total;			
 		}));
-		var generatedTable = "<table width='50%'>";
-		generatedTable += "<tr><td>-</td>";
-		elements.forEach(e => generatedTable+= "<td>" + e + "</td>");
+		var generatedTable = "<table width='80%'>";
+		generatedTable += "<tr><td>Elements</td>";
+		elements.forEach(e => generatedTable+= "<td><b>" + e + "</b></td>");
 		generatedTable += "</tr>";
 
 		for(let i = 0; i < elements.length; i++) {
 			generatedTable += "<tr>";
-			generatedTable += "<td>" + elements[i] + "</td>";
+			generatedTable += "<td><b>" + elements[i] + "</b></td>";
 			for(let j = 0; j < elements.length; j++) {
 				generatedTable += "<td>" + (matrix2[i][j] == 0 ? "-" : matrix2[i][j]) + "</td>"
 			}
