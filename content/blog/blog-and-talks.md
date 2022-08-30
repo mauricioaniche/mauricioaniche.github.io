@@ -66,7 +66,9 @@ I love being part of podcasts. Here's some of participations. I'm sorry most of 
 
 * [Testing anti patterns at Codurance's podcast](https://www.codurance.com/publications/testing-anti-patterns)
 
-* [An interview with me at HIDEV](https://podcasts.apple.com/us/podcast/maur%C3%ADcio-aniche-trajet%C3%B3rias-8/id1514464662?i=1000527857377) _(in portuguese)_
+* [An interview with me at HIDEV](https://open.spotify.com/episode/3Sp8qQ8GNAPihGJtpvYdfn?si=aahL3EILQ0aE0Kb-HmuoVA&utm_source=copy-link&nd=1) _(in portuguese)_
+
+* [AI for software testing at HIDEV](https://open.spotify.com/episode/7oZo3N0s4guhnedufoCjMG?si=NcNcAv34S-KNDZSMJ9-PJQ&utm_source=copy-link&nd=1) _(in portuguese)_
 
 * [Machine Learning for Software Engineering at Fronteiras da Engenharia de Software](https://anchor.fm/fronteirases/episodes/Aprendizado-de-Mquina-em-Engenharia-de-Software--com-Maurcio-Aniche-TU-Delft-e1acmcc) _(in portuguese)_
 
@@ -74,13 +76,13 @@ I love being part of podcasts. Here's some of participations. I'm sorry most of 
 
 * [Pesquisa em Engenharia de Software at Hipsters.tech](https://www.hipsters.tech/pesquisa-em-engenharia-de-software-hipsters-84/) _(in portuguese)_ 
 
-* [SOLID at Hipsters.tech](https://www.hipsters.tech/solid-codigo-bom-e-bonito-hipsters-ponto-tech-219/)
+* [SOLID at Hipsters.tech](https://www.hipsters.tech/solid-codigo-bom-e-bonito-hipsters-ponto-tech-219/) _(in portuguese)_ 
 
 * [Testes automatizados at Hipsters.tech](https://www.hipsters.tech/testes-automatizados-hipsters-51/) _(in portuguese)_
 
 * [Academic carrer at Lambda 3](https://www.lambda3.com.br/2021/12/lambda3-podcast-277-carreira-academica-em-ti/) _(in portuguese)_
 
-* [TDD at Lambda3](https://www.lambda3.com.br/2017/03/podcast-36-tdd/)
+* [TDD at Lambda3](https://www.lambda3.com.br/2017/03/podcast-36-tdd/) _(in portuguese)_ 
 
 * [An interview with me, by Adolfo Neto](https://www.youtube.com/watch?v=008ZT3aM87w) _(in portuguese)_
 
