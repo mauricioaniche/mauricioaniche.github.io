@@ -82,9 +82,10 @@ I love being part of podcasts. Here's some of participations. I'm sorry most of 
 
 * [Academic carrer at Lambda 3](https://www.lambda3.com.br/2021/12/lambda3-podcast-277-carreira-academica-em-ti/) _(in portuguese)_
 
-* [TDD at Lambda3](https://www.lambda3.com.br/2017/03/podcast-36-tdd/) _(in portuguese)_ 
-
 * [An interview with me, by Adolfo Neto](https://www.youtube.com/watch?v=008ZT3aM87w) _(in portuguese)_
 
-* [TDD at Bluesoft](https://www.youtube.com/watch?v=4scehXjiTCc) _(in portuguese)_
+* [Industry vs Academia with Maurício Aniche, by The Wise Dev](https://www.youtube.com/watch?v=H2wS2Ql1X2I) _(in portuguese)_
 
+* [TDD at Lambda3](https://www.lambda3.com.br/2017/03/podcast-36-tdd/) _(in portuguese)_ 
+
+* [TDD at Bluesoft](https://www.youtube.com/watch?v=4scehXjiTCc) _(in portuguese)_
