@@ -58,6 +58,12 @@ Some of my public talks below. If you want me to speak for your company, drop me
 
 {% endfor %}
 
+## Youtube videos
+
+* Mar, 2022 - [How coverage can be used and abused to guide testing](https://www.youtube.com/watch?v=f1DueZcSxRs)
+
+* 2017 - [What's MC/DC coverage?](https://www.youtube.com/watch?v=bwtALQVx86w)
+
 ## Podcasts
 
 I love being part of podcasts. Here's some of participations. I'm sorry most of them are in Brazilian Portuguese:
