@@ -111,23 +111,33 @@
 			.fill(0)
 			.map(() => new Array(elements.length).fill(0));
 
+		const uniqueCounts = new Array(elements.length).fill(0);
+
+		let numberOfParenthesis = 0;
+
 		// extract info in parenthesis
 		var groups = [...text.matchAll(/\((.*?)\)/gm)] 
 			.map(ar => ar[1])
 			.forEach(group => {
+				numberOfParenthesis++;
+
 				// get each element within the parenthesis
 				const elementsInGroup = group.split(",")
 					.map(t => t.trim()) 
 					.filter(t => elements.includes(t))
-				
-				// combine the elements
-				elementsInGroup.flatMap((v, i) => elementsInGroup.slice(i+1).map(w => {
-						const first = elements.indexOf(v);
-						const second = elements.indexOf(w);
 
-						matrix[first][second]++;
-					}
-				));
+				if(elementsInGroup.length == 1) {
+					uniqueCounts[elements.indexOf(elementsInGroup[0])]++;
+				} else {
+					// combine the elements
+					elementsInGroup.flatMap((v, i) => elementsInGroup.slice(i+1).map(w => {
+							const first = elements.indexOf(v);
+							const second = elements.indexOf(w);
+
+							matrix[first][second]++;
+						}
+					));
+				}
 			});
 
 		// first output: text
@@ -140,6 +150,15 @@
 			finalMsg += "<li>" + v + ' with ' + w + '=' + total + "</li>";
 		}))
 		finalMsg += "</ul>"
+
+		finalMsg += "Unique: <ul>"
+		elements.forEach(e => {
+			finalMsg += "<li>" + e + ":" + uniqueCounts[elements.indexOf(e)] + "</li>";
+		});
+
+		finalMsg += "</ul>"
+
+		finalMsg += "Total: " + numberOfParenthesis;
 
 		document.getElementById("result").innerHTML = finalMsg;
 
