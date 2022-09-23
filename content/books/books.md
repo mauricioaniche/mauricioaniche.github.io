@@ -11,7 +11,7 @@ permalink: /books
 <h2>Effective software testing</h2>
 
 <img src="/assets/images/books/effective-software-testing.png" style="display: inline; float: left;">
-<p><strong>Effective Software Testing: A Developer's Guide</strong> is my new book on software testing, published by Manning in 2021.</p>
+<p><strong>Effective Software Testing: A Developer's Guide</strong> is my new book on software testing, published by Manning in 2022.</p>
 
 <p>
 	This book teaches developers how to go beyond basic test cases, by means of systematic and effective testing practices. Learn how to engineer test cases based on the requirements of the program, how to augment the test suite via structural testing and coverage, how to design strong contracts for your methods and classes, when to mock dependencies, when to go for larger tests, and more.
