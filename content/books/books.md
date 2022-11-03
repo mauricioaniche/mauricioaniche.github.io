@@ -17,7 +17,9 @@ permalink: /books
 	This book teaches developers how to go beyond basic test cases, by means of systematic and effective testing practices. Learn how to engineer test cases based on the requirements of the program, how to augment the test suite via structural testing and coverage, how to design strong contracts for your methods and classes, when to mock dependencies, when to go for larger tests, and more.
 </p>
 
-<p>Take a look at the <a href="https://www.effective-software-testing.com">dedicated website of the book</a>!</p>
+<p>Take a look at the <a href="https://www.effective-software-testing.com">dedicated website of the book</a>, full of free articles on software testing, and subscribe to the free newsletter!</p>
+
+<iframe src="https://effectivesoftwaretesting.substack.com/embed" style="border:1px solid #EEE; background:white;margin-top:1em;width:80%;height:250px;" frameborder="0" scrolling="no"></iframe>
 
 </div>
 
