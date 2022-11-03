@@ -30,5 +30,6 @@ permalink: /podcasts-br
 
 * [Academia vs indústria, pelo The Wise Dev](https://www.youtube.com/watch?v=H2wS2Ql1X2I) 
 
-* [TDD na Lambda3](https://www.lambda3.com.br/2017/03/podcast-36-tdd/)  
+* [TDD na Lambda3](https://www.lambda3.com.br/2017/03/podcast-36-tdd/)
+
 * [TDD na Bluesoft](https://www.youtube.com/watch?v=4scehXjiTCc) 
