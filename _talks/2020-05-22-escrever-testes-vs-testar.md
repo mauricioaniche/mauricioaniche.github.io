@@ -2,6 +2,7 @@
 title: "Escrever testes vs testar (pt-br)"
 layout: page
 categories: ["talk"]
+hide_from_list: true
 ---
 
 _(Content in Brazilian Portuguese)_

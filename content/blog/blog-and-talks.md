@@ -18,9 +18,9 @@ If you want me to speak for your company, drop me a message.
 
 {% assign sorted_talks = site.talks | reverse %}
 {% for talk in sorted_talks %}
-
-* [{{ talk.title }}]({{ talk.url }}): {{ talk.short_desc }}
-
+{% if talk.hide_from_list %}
+* [{{ talk.title }}]({{ talk.url }})
+{% endif %}
 {% endfor %}
 
 ## Podcasts
