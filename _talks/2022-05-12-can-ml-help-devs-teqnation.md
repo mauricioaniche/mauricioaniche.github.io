@@ -1,5 +1,5 @@
 ---
-title: "Can ML help software developers? @ TEQnation 2022"
+title: "Can ML help software developers?"
 layout: page
 categories: ["talk"]
 ---
