@@ -22,8 +22,6 @@ The most recent version of this presentation focuses on 11 most important things
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1fChtGlm1MYaXkIzPGMU5nPbJrgk_iZ0Lu6C7lTFGQ_KrM407V8vWzb_9zQBeIYR97FMV0--orR3l/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Link to the Google Docs presentation, if you want to reuse it](https://docs.google.com/presentation/d/1MVmcp-I8FtVyN0cZ-qzWaKPt6iXtXykRemrFvBvyDPs/edit?usp=sharing)
+[Link to the Google Docs presentation, if you want to reuse it](https://docs.google.com/presentation/d/1MVmcp-I8FtVyN0cZ-qzWaKPt6iXtXykRemrFvBvyDPs/edit?usp=sharing).
 
-There are [older versions of this presentation](https://docs.google.com/presentation/d/17MVXOgCQ9J_pBvwuko12GvUvgIbPv0716nY540eEM_A/edit?usp=sharing), maybe you have seen them?
-
-The slides might differ a bit from the version you saw, as I keep improving them as I go!
+(There are [older versions of this presentation](https://docs.google.com/presentation/d/17MVXOgCQ9J_pBvwuko12GvUvgIbPv0716nY540eEM_A/edit?usp=sharing), maybe you have seen them? The slides might differ a bit from the version you saw, as I keep improving them as I go!)
