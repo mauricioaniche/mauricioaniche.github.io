@@ -32,7 +32,7 @@ I love being part of podcasts. If you are looking for my participation in Brazil
 * [Testing anti patterns at Codurance's podcast](https://www.codurance.com/publications/testing-anti-patterns)
 
 
-## Personal posts
+## Other blog posts
 
 Some other stuff that didn't fit any other category: 
 
