@@ -1,5 +1,5 @@
 ---
-title: "Effective developer testing"
+title: "Effective developer testing: lessons I learned over time"
 layout: page
 categories: ["talk"]
 ---
@@ -18,7 +18,6 @@ In this talk, I share lessons I learned over time:
 1. TDD or not TDD: what matters is quick feedback
 1. Making code testable is key to happiness
 1. You should trust your test suite
-1. Good test code looks stupid
 1. Testing isn't magical!
 
 This talk is based on my recent [Effective Software Testing: A Developer's Guide](https://www.effective-software-testing.com/), published by Manning. You can buy is with 35% discount by using the "au35ani" discount code.
