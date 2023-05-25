@@ -13,8 +13,8 @@ permalink: /bio
 <img src="assets/images/photo2018.jpg" class="my-photo">
 
 
-<a href="/assets/images/photo2022-highres.jpg">Download</a>
+<a href="/assets/images/photo-2022-highres.jpg">Download</a>
 
-<img src="assets/images/photo2022.jpg" class="my-photo">
+<img src="assets/images/photo-2022.jpg" class="my-photo">
 
 
