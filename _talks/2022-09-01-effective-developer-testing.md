@@ -28,6 +28,10 @@ This talk is based on my recent [Effective Software Testing: A Developer's Guide
 
 I thank CODAM for the beautifully recorded video!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jh1CiWZDAQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Thanks ACM Tech Talks for the invite!
+
 ## Slides
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1fChtGlm1MYaXkIzPGMU5nPbJrgk_iZ0Lu6C7lTFGQ_KrM407V8vWzb_9zQBeIYR97FMV0--orR3l/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
