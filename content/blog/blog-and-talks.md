@@ -23,9 +23,13 @@ If you want me to speak for your company, drop me a message.
 {% endif %}
 {% endfor %}
 
-## Podcasts
+## Podcasts and interviews
 
-I love being part of podcasts. If you are looking for my participation in Brazilian Portuguese podcasts, <a href="/podcasts-br">click here</a>.
+I love being part of podcasts and interviews. If you are looking for my participation in Brazilian Portuguese podcasts, <a href="/podcasts-br">click here</a>.
+
+* [#139 - A Developer's Guide to Effective Software Testing - Mauricio Aniche](https://techleadjournal.dev/episodes/139/)
+
+* [Discussion with Mauricio Aniche on Object Oriented Design!](https://www.youtube.com/watch?v=vcrWLsChof4), in Laurentiu Spilca's Youtube channel
 
 * [Effective Software Testing at SE Unlocked](https://www.software-engineering-unlocked.com/tests-find-bugs/)
 
