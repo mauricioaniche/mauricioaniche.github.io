@@ -6,17 +6,7 @@ permalink: /podcasts-br
 
 {% include publications-menu.md %}
 
-## Hipsters.tech
-
-* [Design patterns no Hipsters.tech](https://www.hipsters.tech/design-patterns-hipsters-206/) 
-
-* [Pesquisa em Engenharia de Software no Hipsters.tech](https://www.hipsters.tech/pesquisa-em-engenharia-de-software-hipsters-84/)  
-
-* [SOLID no Hipsters.tech](https://www.hipsters.tech/solid-codigo-bom-e-bonito-hipsters-ponto-tech-219/)  
-
-* [Testes automatizados no Hipsters.tech](https://www.hipsters.tech/testes-automatizados-hipsters-51/) 
-
-## Outros
+* [Criando uma Tech Academy no Tech Leadership Rocks](https://techleadership.rocks/2022/12/04/tech-academy-com-mauricio-aniche/)
 
 * [Entrevista no HIDEV](https://open.spotify.com/episode/3Sp8qQ8GNAPihGJtpvYdfn?si=aahL3EILQ0aE0Kb-HmuoVA&utm_source=copy-link&nd=1) 
 
@@ -33,3 +23,13 @@ permalink: /podcasts-br
 * [TDD na Lambda3](https://www.lambda3.com.br/2017/03/podcast-36-tdd/)
 
 * [TDD na Bluesoft](https://www.youtube.com/watch?v=4scehXjiTCc) 
+
+## Hipsters.tech
+
+* [Design patterns no Hipsters.tech](https://www.hipsters.tech/design-patterns-hipsters-206/) 
+
+* [Pesquisa em Engenharia de Software no Hipsters.tech](https://www.hipsters.tech/pesquisa-em-engenharia-de-software-hipsters-84/)  
+
+* [SOLID no Hipsters.tech](https://www.hipsters.tech/solid-codigo-bom-e-bonito-hipsters-ponto-tech-219/)  
+
+* [Testes automatizados no Hipsters.tech](https://www.hipsters.tech/testes-automatizados-hipsters-51/) 
