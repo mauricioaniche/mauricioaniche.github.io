@@ -26,6 +26,8 @@ permalink: /podcasts-br
 
 ## Hipsters.tech
 
+* [Estratégias de Testes e Dev Leaders](https://www.hipsters.tech/estrategias-de-testes-e-dev-leaders-hipsters-ponto-tech-367/) 
+
 * [Design patterns no Hipsters.tech](https://www.hipsters.tech/design-patterns-hipsters-206/) 
 
 * [Pesquisa em Engenharia de Software no Hipsters.tech](https://www.hipsters.tech/pesquisa-em-engenharia-de-software-hipsters-84/)  
