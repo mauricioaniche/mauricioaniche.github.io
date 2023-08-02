@@ -29,7 +29,7 @@ permalink: /books
 <a href="https://www.simple-object-oriented-design.com"><img src="/assets/images/books/simple-object-oriented-design.png" style="display: inline; float: left;"></a>
 
 <p>
-Simple Object-Oriented Design presents a set of principles that help developers keep the complexity of their designs under control -- in other words, keep it simple.
+<strong>Simple Object-Oriented Design</strong> presents a set of principles that help developers keep the complexity of their designs under control -- in other words, keep it simple.
 
 The principles can be grouped into six higher-level ideas: simple code, consistent objects, proper dependency management, good abstractions, infrastructure properly handled, and well modularized.
 </p>
