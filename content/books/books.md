@@ -19,8 +19,6 @@ permalink: /books
 
 <p>Take a look at the <a href="https://www.effective-software-testing.com">dedicated website of the book</a>, full of free articles on software testing, and subscribe to the free newsletter!</p>
 
-<iframe src="https://effectivesoftwaretesting.substack.com/embed" style="border:1px solid #EEE; background:white;margin-top:1em;width:80%;height:250px;" frameborder="0" scrolling="no"></iframe>
-
 </div>
 
 <div style="clear: both; margin-top: 1em;">
