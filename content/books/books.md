@@ -10,7 +10,7 @@ permalink: /books
 
 <h2>Effective software testing</h2>
 
-<img src="/assets/images/books/effective-software-testing.png" style="display: inline; float: left;">
+<a href="https://www.effective-software-testing.com"><img src="/assets/images/books/effective-software-testing.png" style="display: inline; float: left;"></a>
 <p><strong>Effective Software Testing: A Developer's Guide</strong> is my new book on software testing, published by Manning in 2022.</p>
 
 <p>
@@ -26,7 +26,7 @@ permalink: /books
 
 <h2>Simple Object-Oriented Design</h2>
 
-<img src="/assets/images/books/simple-object-oriented-design.png" style="display: inline; float: left;">
+<a href="https://www.simple-object-oriented-design.com"><img src="/assets/images/books/simple-object-oriented-design.png" style="display: inline; float: left;"></a>
 
 <p>
 Simple Object-Oriented Design presents a set of principles that help developers keep the complexity of their designs under control -- in other words, keep it simple.
