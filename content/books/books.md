@@ -25,6 +25,25 @@ permalink: /books
 
 <div style="clear: both; margin-top: 1em;">
 
+
+<h2>Simple Object-Oriented Design</h2>
+
+<img src="/assets/images/books/simple-object-oriented-design.png" style="display: inline; float: left;">
+
+<p>
+Simple Object-Oriented Design presents a set of principles that help developers keep the complexity of their designs under control -- in other words, keep it simple.
+
+The principles can be grouped into six higher-level ideas: simple code, consistent objects, proper dependency management, good abstractions, infrastructure properly handled, and well modularized.
+</p>
+
+<p>Take a look at the <a href="https://www.simple-object-oriented-design.com">dedicated website of the book</a>!</p>
+
+
+
+</div>
+
+<div style="clear: both; margin-top: 1em;">
+
 <h2>Other books</h2>
 
 I have also authored four books, as part of my activities at Caelum. All of them are in Brazilian Portuguese and were published by <a href="https://www.casadocodigo.com.br">Casa do Código</a>:
