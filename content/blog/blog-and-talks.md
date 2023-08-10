@@ -27,13 +27,13 @@ If you want me to speak for your company, drop me a message.
 
 I love being part of podcasts and interviews. If you are looking for my participation in Brazilian Portuguese podcasts, <a href="/podcasts-br">click here</a>.
 
-* [#139 - A Developer's Guide to Effective Software Testing - Mauricio Aniche](https://techleadjournal.dev/episodes/139/)
+* [#139 - A Developer's Guide to Effective Software Testing - Mauricio Aniche](https://techleadjournal.dev/episodes/139/) in the Tech Lead Podcast.
 
 * [Discussion with Mauricio Aniche on Object Oriented Design!](https://www.youtube.com/watch?v=vcrWLsChof4), in Laurentiu Spilca's Youtube channel
 
-* [Effective Software Testing at SE Unlocked](https://www.software-engineering-unlocked.com/tests-find-bugs/)
+* [Effective Software Testing](https://www.software-engineering-unlocked.com/tests-find-bugs/) at the SE Unlocked podcast.
 
-* [Testing anti patterns at Codurance's podcast](https://www.codurance.com/publications/testing-anti-patterns)
+* [Testing anti patterns](https://www.codurance.com/publications/testing-anti-patterns) at the Codurance's podcast.
 
 
 ## Other blog posts
