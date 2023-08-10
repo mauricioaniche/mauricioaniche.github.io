@@ -4,8 +4,6 @@ layout: page
 permalink: /blog-and-talks
 ---
 
-{% include publications-menu.md %}
-
 ## Software testing
 
 Did you know I write a newsletter on software testing? You can see the previous published articles <a href="https://www.effective-software-testing.com/#articles">here</a> or subscribe to the newsletter right away!

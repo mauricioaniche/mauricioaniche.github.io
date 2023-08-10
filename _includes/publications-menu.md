@@ -4,6 +4,4 @@
 [Per topic](/publications/topic) |
 [Adyen](/research/adyen) |
 [Education](/research/education) |
-[Favorites](/publications/favorites) | 
-[Books](/books) |
-[Blogs and talks](/blog-and-talks)
+[Favorites](/publications/favorites)

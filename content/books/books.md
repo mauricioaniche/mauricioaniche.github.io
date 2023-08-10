@@ -4,8 +4,6 @@ layout: page
 permalink: /books
 ---
 
-{% include publications-menu.md %}
-
 <div style="position:relative; overflow: hidden;">
 
 <h2>Effective software testing</h2>
