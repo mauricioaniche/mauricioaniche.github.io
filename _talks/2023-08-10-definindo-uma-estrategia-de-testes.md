@@ -1,7 +1,8 @@
 ---
-title: "Definindo uma estratégia de testes (PT-BR, english version soon)"
+title: "Definindo uma estratégia de testes"
 layout: page
 categories: ["talk"]
+extra: " (PT-BR)"
 ---
 
 Definir uma boa estratégia de testes é um importante passo quando se fala em qualidade de software. Nesta apresentação, eu comento sobre os principais pontos na hora de se definir uma:
