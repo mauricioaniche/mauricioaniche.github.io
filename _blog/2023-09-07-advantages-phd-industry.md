@@ -22,3 +22,5 @@ However, here's the caveat: PhD programs immerse you deeply in a specific and na
 This is arguably the PhD program's most significant drawback compared to traditional engineers. Nevertheless, I firmly believe that it's far easier to teach someone the current industry practices, principles, and tools than to instill the skills I've mentioned earlier. So, if you're nearing the conclusion of your PhD journey and aspire to embark on an industry career, set aside some time to familiarize yourself with practical software engineering.
 
 Wishing you the best of luck on your journey!
+
+(Written by me, copy edited by ChatGPT)
