@@ -34,9 +34,9 @@ I love being part of podcasts and interviews. If you are looking for my particip
 * [Testing anti patterns](https://www.codurance.com/publications/testing-anti-patterns) at the Codurance's podcast.
 
 
-## Other blog posts
+## Blog posts
 
-Some other stuff that didn't fit any other category: 
+I randomly blog about stuff:
 
 {% assign sorted_posts = site.blog | reverse %}
 {% for post in sorted_posts %}
