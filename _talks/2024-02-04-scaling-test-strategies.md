@@ -6,16 +6,16 @@ categories: ["talk"]
 
 Defining a good testing strategy is an important step when talking about software quality. In this presentation, I comment on the main points when defining one:
 
-* Focus on quick tests
+* Focus on fast tests
+* Pre-merge tests as a priority
 * Define your own testing pyramid
 * Ensure tests are independent
-* It has to be easy to write tests
-* Identify the difficulties of testing yourself and work on it!
-* Understand the cost of testing in your pipeline
+* Make it easy to write tests
+* Identify the challenges and work on it!
 * Focus on smaller scope tests
 * Refactoring will never come first
-* Plan the minimum amount of testing needed for the team to gain confidence
-* Every team needs someone passionate about testing
+* Create test plans
+* Assign test champions
 * Have tracking metrics
 * Learn from colleagues
 * Go beyond testing
