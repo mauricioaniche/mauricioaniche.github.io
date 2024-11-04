@@ -4,7 +4,7 @@ download: "https://www.adyen.com/knowledge-hub/taking-onboarding-and-upskilling-
 authors: "Maurício Aniche, Alexander Tiplea, Carianne Pretorius and Erik de Gooijer"
 conference: "Adyen's blog post"
 categories: ["blog", "upskilling", "adyen"]
-year: 2024
+year: 2022
 ---
 
 Helping engineers get up to speed quickly and get even better at their jobs is a must for any tech company. It’s also an enormous challenge.Fortunately, we at the Adyen Tech Academy are here and ready to help our engineers on their learning journey!
