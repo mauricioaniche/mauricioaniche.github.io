@@ -3,7 +3,7 @@ title: "Test selection at Adyen: saving time and resources"
 download: "https://www.adyen.com/knowledge-hub/test-selection-at-adyen"
 authors: "Mauricio Aniche"
 conference: "Adyen's blog post"
-categories: ["blog", "testing", "adyen"]
+categories: ["blog", "testing", "adyen", "selected-testing"]
 year: 2024
 ---
 
