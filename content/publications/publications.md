@@ -8,6 +8,14 @@ permalink: /publications
 
 {% include get-all-publications.md %}
 
+## 2024
+
+{% for post in sorted %}
+{% if post.year == 2024 %}
+{% include publication-snippet.html %}
+{% endif %}
+{% endfor %}
+
 ## 2022
 
 {% for post in sorted %}

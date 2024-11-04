@@ -4,12 +4,6 @@ layout: page
 permalink: /blog-and-talks
 ---
 
-## Software testing
-
-Did you know I write a newsletter on software testing? You can see the previous published articles <a href="https://www.effective-software-testing.com/#articles">here</a> or subscribe to the newsletter right away!
-
-<iframe src="https://effectivesoftwaretesting.substack.com/embed" style="border:1px solid #EEE; background:white;margin-top:1em;width:80%;height:250px;" frameborder="0" scrolling="no"></iframe>
-
 ## Talks
 
 If you want me to speak for your company, drop me a message.
@@ -24,6 +18,8 @@ If you want me to speak for your company, drop me a message.
 ## Podcasts and interviews
 
 I love being part of podcasts and interviews. If you are looking for my participation in Brazilian Portuguese podcasts, <a href="/podcasts-br">click here</a>.
+
+* [#177 - Simple Object-Oriented Design: Principles for Writing Clean & Maintainable Software - Mauricio Aniche](https://techleadjournal.dev/episodes/177/) in Tech Lead Podcast.
 
 * [#139 - A Developer's Guide to Effective Software Testing - Mauricio Aniche](https://techleadjournal.dev/episodes/139/) in the Tech Lead Podcast.
 
@@ -44,3 +40,9 @@ I randomly blog about stuff:
 * {{ post.date | date: "%d-%b-%Y" }}: [{{ post.title }}]({{ post.url }})
 
 {% endfor %}
+
+## Software testing newsletter
+
+Did you know I write a newsletter on software testing? You can see the previous published articles <a href="https://www.effective-software-testing.com/#articles">here</a> or subscribe to the newsletter right away!
+
+<iframe src="https://effectivesoftwaretesting.substack.com/embed" style="border:1px solid #EEE; background:white;margin-top:1em;width:80%;height:250px;" frameborder="0" scrolling="no"></iframe>

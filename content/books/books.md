@@ -24,7 +24,7 @@ permalink: /books
 
 <h2>Simple Object-Oriented Design</h2>
 
-<a href="https://www.simple-object-oriented-design.com"><img src="/assets/images/books/simple-object-oriented-design.png" style="display: inline; float: left;"></a>
+<a href="https://www.simple-object-oriented-design.com"><img src="/assets/images/books/simple-object-oriented-design.jpg" style="display: inline; float: left;"></a>
 
 <p>
 <strong>Simple Object-Oriented Design</strong> presents a set of principles that help developers keep the complexity of their designs under control -- in other words, keep it simple.
