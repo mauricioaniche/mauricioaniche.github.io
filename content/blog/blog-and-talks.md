@@ -4,16 +4,11 @@ layout: page
 permalink: /blog-and-talks
 ---
 
-## Talks
+## Adyen
 
-If you want me to speak for your company, drop me a message.
+* [Test selection at Adyen: saving time and resources](https://www.adyen.com/knowledge-hub/test-selection-at-adyen)
 
-{% assign sorted_talks = site.talks | reverse %}
-{% for talk in sorted_talks %}
-{% if talk.hide_from_list == nil %}
-* [{{ talk.title }}{{ talk.extra }}]({{ talk.url }})
-{% endif %}
-{% endfor %}
+* [Adyen Tech Academy: Taking Onboarding and Upskilling to The Next Level](https://www.adyen.com/knowledge-hub/taking-onboarding-and-upskilling-to-the-next-level)
 
 ## Podcasts and interviews
 
@@ -29,12 +24,6 @@ I love being part of podcasts and interviews. If you are looking for my particip
 
 * [Testing anti patterns](https://www.codurance.com/publications/testing-anti-patterns) at the Codurance's podcast.
 
-## Adyen
-
-* [Test selection at Adyen: saving time and resources](https://www.adyen.com/knowledge-hub/test-selection-at-adyen)
-
-* [Adyen Tech Academy: Taking Onboarding and Upskilling to The Next Level](https://www.adyen.com/knowledge-hub/taking-onboarding-and-upskilling-to-the-next-level)
-
 ## Blog posts
 
 I randomly blog about stuff:
@@ -45,6 +34,17 @@ I randomly blog about stuff:
 * {{ post.date | date: "%d-%b-%Y" }}: [{{ post.title }}]({{ post.url }})
 
 {% endfor %}
+
+## Talks
+
+{% assign sorted_talks = site.talks | reverse %}
+{% for talk in sorted_talks %}
+{% if talk.hide_from_list == nil %}
+* [{{ talk.title }}{{ talk.extra }}]({{ talk.url }})
+{% endif %}
+{% endfor %}
+
+If you want me to speak for your company, drop me a message.
 
 ## Software testing newsletter
 
