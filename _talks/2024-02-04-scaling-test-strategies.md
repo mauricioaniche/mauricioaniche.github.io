@@ -23,4 +23,4 @@ Defining a good testing strategy is an important step when talking about softwar
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSUYsArwcqPs4-awU2h8GiBqnEPTx-2ZqdoFIEM4HmmFezGdL5v_fij-lM3Zs5KHJws8WGnKqL_cWPa/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdpyIFsW4xvx8yKHjpUWU6bmcw146GcoQ9uq1xu_pYK9l3qncQSEdIUeXz7cCS-PapKxZtGjDwDlpD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
