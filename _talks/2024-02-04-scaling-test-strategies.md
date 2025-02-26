@@ -4,22 +4,25 @@ layout: page
 categories: ["talk"]
 ---
 
-Defining a good testing strategy is an important step when talking about software quality. In this presentation, I comment on the main points when defining one:
+Defining a good testing strategy is an important step when talking about software quality. In this presentation, I talk about:
 
-* Focus on fast tests
-* Pre-merge tests as a priority
-* Define your own testing pyramid
-* Ensure tests are independent
-* Make it easy to write tests
-* Identify the challenges and work on it!
-* Focus on smaller scope tests
-* Refactoring will never come first
-* Create test plans
-* Assign test champions
-* Have tracking metrics
-* Learn from colleagues
-* Go beyond testing
-
+* Scaling
+  * Focus on fast tests
+  * Pre-merge tests as a priority
+  * Define your own testing strategy
+  * Focus on smaller scope tests
+  * Apply thorough testing techniques
+* Testing the legacy
+  * Refactoring will never come first
+  * Create test plans
+  * Assign test champions
+* Organization and tracking
+  * Get the company's buy in
+  * Have tracking metrics
+* Developer experience
+  * Make it easy to write tests
+  * Make your CI fast
+  * Build a community
 
 ## Slides
 
