@@ -14,6 +14,6 @@ In this talk, I'll cover seven coding practices that have been helping me design
 * Design flexible abstractions
 * Modularize large systems
 
-This talk is perfect for engineers who know object-oriented programming. This talk is also a summary of my [Simple Object-Oriented Design](https://www.simple-object-oriented-design.com/) book, published my Manning.
+This talk is perfect for engineers who know object-oriented programming. This talk is also a summary of my [Simple Object-Oriented Design](https://www.simple-object-oriented-design.com/) book, published by Manning.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLWJduG0X5kPvKMcT4CIAB-CW2P0Diad-V7sIh7rgJiCovEQTF6Zca3AKeBciB51VO7eUW_krk2QTt/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
