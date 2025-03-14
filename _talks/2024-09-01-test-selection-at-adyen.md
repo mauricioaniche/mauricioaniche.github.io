@@ -10,4 +10,4 @@ This talk is based on our blog post [Test selection at Adyen: saving time and re
 
 ## Slides
 
-<embed src="{{ site.url }}/assets/pdf/test-selection-at-adyen.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="/assets/pdf/test-selection-at-adyen.pdf" type="application/pdf" width="100%" height="600px" />
