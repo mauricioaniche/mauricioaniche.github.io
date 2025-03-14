@@ -40,7 +40,7 @@ The principles can be grouped into six higher-level ideas: simple code, consiste
 
 <div style="clear: both; margin-top: 1em;">
 
-<h2>Other books</h2>
+<h2>Books in Brazilian Portuguese</h2>
 
 I have also authored four books, as part of my activities at Caelum. All of them are in Brazilian Portuguese and were published by <a href="https://www.casadocodigo.com.br">Casa do Código</a>:
 
