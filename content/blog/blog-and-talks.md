@@ -14,6 +14,8 @@ permalink: /blog-and-talks
 
 I love being part of podcasts and interviews. If you are looking for my participation in Brazilian Portuguese podcasts, <a href="/podcasts-br">click here</a>.
 
+* [Beyond Coding Podcast #191 - What Most Engineers Get Wrong About Testing](https://www.youtube.com/watch?v=oFO85YFuXjg)
+
 * [#177 - Simple Object-Oriented Design: Principles for Writing Clean & Maintainable Software - Mauricio Aniche](https://techleadjournal.dev/episodes/177/) in Tech Lead Podcast.
 
 * [#139 - A Developer's Guide to Effective Software Testing - Mauricio Aniche](https://techleadjournal.dev/episodes/139/) in the Tech Lead Podcast.
