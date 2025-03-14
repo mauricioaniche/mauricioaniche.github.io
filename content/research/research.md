@@ -5,7 +5,9 @@ permalink: /research
 ---
 
 ---
+
 **Doing research isn't my current focus anymore.** But I've done a lot of it before, including some pretty good stuff, so this page stays! Feel free to message me about anything that's here!
+
 ---
 
 {% include publications-menu.md %}
