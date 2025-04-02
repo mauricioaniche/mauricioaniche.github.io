@@ -12,7 +12,7 @@ permalink: /blog-and-talks
 
 ## Podcasts and interviews
 
-I love being part of podcasts and interviews. If you are looking for my participation in Brazilian Portuguese podcasts, <a href="/podcasts-br">click here</a>.
+I love being part of podcasts and interviews. In you speak Portuguese, also listen to my participation in several <a href="/podcasts-br">Brazilian podcasts</a>.
 
 * [Beyond Coding Podcast #191 - What Most Engineers Get Wrong About Testing](https://www.youtube.com/watch?v=oFO85YFuXjg)
 
