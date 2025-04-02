@@ -1,10 +1,8 @@
 ---
-title: Podcasts em portugugês
+title: Podcasts em português
 layout: page
 permalink: /podcasts-br
 ---
-
-{% include publications-menu.md %}
 
 * [Criando uma Tech Academy no Tech Leadership Rocks](https://techleadership.rocks/2022/12/04/tech-academy-com-mauricio-aniche/)
 
