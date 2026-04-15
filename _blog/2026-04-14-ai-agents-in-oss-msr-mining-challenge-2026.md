@@ -7,7 +7,13 @@ layout: post
 
 This synthesis integrates findings from 62 papers, published at MSR Mining Challenge 2026, analyzing AI coding agent contributions to open-source software. The research reveals a complex landscape where AI agents exhibit significant capability but introduce distinct challenges across code quality, review dynamics, and integration patterns. While agents demonstrate comparable structural code changes to humans in many contexts, critical gaps emerge in validation rigor, technical debt accumulation, and task-specific performance.
 
-**Important:** This entire text was created via Claude Cowork and Codex. 1/ I gave Codex with GPT5.4 high effort the initial prompt, 2/ I gave Claude Opus high reasoning the same input, 3/ I asked Codex to review both synthesis, double check for inconsistencies, and merge the findings. I made random checks to ensure references were pointing to correct papers. Nevertheless, this text may contain errors or factually incorrect information.
+**Important:** This entire text was created via Claude Cowork and Codex. The procedure was as follows: 
+
+* I gave Codex with GPT5.4 high effort the initial prompt
+* I gave Claude Opus high reasoning the same input
+* I asked Codex to review both synthesis, double check for inconsistencies, and merge the findings. 
+
+I made random checks to ensure references were pointing to correct papers. Nevertheless, this text may contain errors or factually incorrect information.
 
 ## Dataset Context
 
