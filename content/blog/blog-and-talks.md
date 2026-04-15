@@ -4,7 +4,7 @@ layout: page
 permalink: /blog-and-talks
 ---
 
-## Adyen
+## External blogs
 
 * [Test selection at Adyen: saving time and resources](https://www.adyen.com/knowledge-hub/test-selection-at-adyen)
 
