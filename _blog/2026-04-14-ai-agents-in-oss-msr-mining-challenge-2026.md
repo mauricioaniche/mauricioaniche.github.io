@@ -13,7 +13,7 @@ This synthesis integrates findings from 62 papers, published at MSR Mining Chall
 * I gave Claude Opus high reasoning the same input
 * I asked Codex to review both synthesis, double check for inconsistencies, and merge the findings. 
 
-I made random checks to ensure references were pointing to correct papers. Nevertheless, this text may contain errors or factually incorrect information.
+I made random checks to ensure references were pointing to correct papers. Nevertheless, this text may contain errors or factually incorrect information. The findings do match with my feelings during the conference after talking to so many authors.
 
 ## TL;DR
 
