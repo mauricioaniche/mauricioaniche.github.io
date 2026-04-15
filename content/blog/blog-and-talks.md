@@ -14,6 +14,8 @@ permalink: /blog-and-talks
 
 I love being part of podcasts and interviews. In you speak Portuguese, also listen to my participation in several <a href="/podcasts-br">Brazilian podcasts</a>.
 
+* [Test Scalability with Mauricio Aniche - Hillside PatternCast](https://podcasts.apple.com/pt/podcast/15-test-scalability-with-mauricio-aniche/id1746508789?i=1000717362663)
+
 * [Beyond Coding Podcast #191 - What Most Engineers Get Wrong About Testing](https://www.youtube.com/watch?v=oFO85YFuXjg)
 
 * [#177 - Simple Object-Oriented Design: Principles for Writing Clean & Maintainable Software - Mauricio Aniche](https://techleadjournal.dev/episodes/177/) in Tech Lead Podcast.

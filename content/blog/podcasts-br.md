@@ -24,6 +24,8 @@ permalink: /podcasts-br
 
 ## Hipsters.tech
 
+* [Coding Agents na Prática: Claude Code, Cursor e Cia.](https://www.hipsters.tech/coding-agents-na-pratica-claude-code-cursor-e-cia-hipsters-ponto-tech-511/)
+
 * [Estratégias de Testes e Dev Leaders](https://www.hipsters.tech/estrategias-de-testes-e-dev-leaders-hipsters-ponto-tech-367/) 
 
 * [Design patterns no Hipsters.tech](https://www.hipsters.tech/design-patterns-hipsters-206/) 
