@@ -15,6 +15,20 @@ This synthesis integrates findings from 62 papers, published at MSR Mining Chall
 
 I made random checks to ensure references were pointing to correct papers. Nevertheless, this text may contain errors or factually incorrect information.
 
+## TL;DR
+
+* AI coding agents are already a large OSS phenomenon: the AIDev dataset captures 932,791 agent-authored pull requests across 116,211 repositories and 72,189 developers, so these findings reflect real-world usage at scale.
+* Agent-authored PRs are usually more rejection-prone than human PRs, but the gap depends much more on task type, PR size, repository norms, and the specific agent than on "AI authorship" alone.
+* Documentation, chores, and small bug fixes are the safest entry points for agents, while features, refactoring, performance work, and large maintenance changes remain much harder to land successfully.
+* Code quality is the biggest long-term concern: even merged agentic PRs often carry code smells, redundancy, complexity growth, and maintainability problems that reviewers do not always catch.
+* Testing is getting better but remains uneven. Many agentic PRs now include tests and can reach decent coverage, yet zero-coverage PRs are still common and validation evidence is often weaker than it should be.
+* Security outcomes are mixed rather than uniformly worse: agents can introduce serious flaws such as hard-coded secrets or command injection, but on narrow, well-scoped fixes they can sometimes match or outperform humans.
+* Human review is still doing the real integration work. Maintainers often need to constrain scope, fix build or test issues, and align changes with project expectations, especially when agentic PRs are under-explained.
+* Agents are not interchangeable. Codex, Claude Code, Cursor, Devin, and Copilot show distinct edit patterns, communication styles, and task-specific strengths, which means teams should choose agents based on the job rather than assume a generic "AI agent" profile.
+* PR communication matters more than many teams expect: weak descriptions, silent PRs, and message-code inconsistency reduce merge probability and slow review substantially.
+* Merge rate is not enough as a success metric. To understand whether agentic development is actually working, teams and researchers need to track reversions, downstream references, post-merge fixes, and the human cleanup burden after integration.
+
+
 ## Dataset Context
 
 The MSR 2026 Mining Challenge is grounded in the AIDev dataset, which captures 932,791 agent-authored pull requests across 116,211 repositories and 72,189 developers. The dataset spans five widely studied coding agents: OpenAI Codex, Devin, GitHub Copilot, Cursor, and Claude Code [63].
