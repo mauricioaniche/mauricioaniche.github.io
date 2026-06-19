@@ -1,4 +1,4 @@
----
+\---
 title: Short bio and photo
 layout: page
 permalink: /bio
@@ -14,7 +14,7 @@ Before joining Alun, Maurício was a Staff Engineer at Uber, led the Testing Ena
 
 His contributions to education earned him the Computer Science Teacher of the Year 2021 award and the prestigious TU Delft Education Fellowship, awarded to innovative and impactful educators. Maurício is also the author of Effective Software Testing: A Developer’s Guide (2022) and Simple Object-Oriented Design: Create Clean, Maintainable Applications (2024), both published by Manning.
 
-Versão em português (Brasil)
+### Versão em português (Brasil)
 
 Maurício Aniche é CTO da Alun, o maior ecossistema de tecnologia, negócios e IA da América Latina. Sua trajetória combina liderança na indústria e pesquisa acadêmica, reunindo experiência profunda em engenharia de software, qualidade de software, e liderança de times.
 
