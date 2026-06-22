@@ -1,4 +1,4 @@
-\---
+---
 title: Short bio and photo
 layout: page
 permalink: /bio
