@@ -7,10 +7,10 @@ categories: ["publication", "conference", "plop", "testing", "patterns"]
 year: 2014
 ---
 
-There are different levels of automated testing, such as unit, integration or system
-testing. When dealing with web applications, the act of writing automated tests usually requires a
-huge effort from developers, like tests that usually open the browser and navigate through the
-web page. However, the more integrated the test, the more complicated it is to write an easy to
-read and maintain test code. In this paper, we present a set of patterns that deals with real world
-problems when writing automated tests for web applications, such as the difficulty in building
-scenarios and the constant change of the HTML element's attributes.
+Existem diferentes níveis de testes automatizados, como unidade, integração ou sistema
+testando. Ao lidar com aplicações web, o ato de escrever testes automatizados geralmente requer um
+enorme esforço dos desenvolvedores, como testes que geralmente abrem o navegador e navegam pelo
+página da web. Contudo, quanto mais integrado for o teste, mais complicado será escrever um teste fácil de
+ler e manter o código de teste. Neste artigo, apresentamos um conjunto de padrões que lida com o mundo real
+problemas ao escrever testes automatizados para aplicações web, como a dificuldade na construção
+cenários e a constante mudança dos atributos do elemento HTML.

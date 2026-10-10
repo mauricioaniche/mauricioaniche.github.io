@@ -10,8 +10,8 @@ posters: ["icse21"]
 year: 2021
 ---
 
-Although writing code seems trivial at times, problems arise when humans misinterpret what the code actually does. One of the potential causes are "atoms of confusion", the smallest possible patterns of misinterpretable source code. Previous research has investigated the impact of atoms of confusion in C code. Results show that developers make significantly more mistakes in code where atoms are present.
+Embora escrever código às vezes pareça trivial, surgem problemas quando os humanos interpretam mal o que o código realmente faz. Uma das causas potenciais são os “átomos de confusão”, os menores padrões possíveis de código-fonte mal interpretado. Pesquisas anteriores investigaram o impacto dos átomos de confusão no código C. Os resultados mostram que os desenvolvedores cometem significativamente mais erros no código onde os átomos estão presentes.
 
-In this paper, we replicate the work of Gopstein et al. to the Java language. After deriving a set of atoms of confusion for Java, we perform a two-phase experiment with 132 computer science students (i.e., novice developers). 
+Neste artigo, replicamos o trabalho de Gopstein et al. para a linguagem Java. Depois de derivar um conjunto de átomos de confusão para Java, realizamos um experimento de duas fases com 132 estudantes de ciência da computação (ou seja, desenvolvedores novatos).
 
-Our results show that participants are 2.7 up to 56 times more likely to make mistakes in code snippets affected by 7 out of the 14 studied atoms of confusion, and when faced with both versions of the code snippets, participants perceived the version affected by the atom of confusion to be more confusing and/or less readable in 10 out of the 14 studied atoms of confusion.
+Nossos resultados mostram que os participantes têm de 2,7 a 56 vezes mais probabilidade de cometer erros em trechos de código afetados por 7 dos 14 átomos de confusão estudados e, quando confrontados com ambas as versões dos trechos de código, os participantes perceberam a versão afetada pelo átomo de confusão como mais confusa e/ou menos legível em 10 dos 14 átomos de confusão estudados.

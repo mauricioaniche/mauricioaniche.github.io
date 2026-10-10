@@ -1,13 +1,13 @@
 ---
-title: "Designing at Scale: Challenges, Pitfalls, and Lessons Learned (DESIGNING 2026)"
+title: "Design em escala: desafios, armadilhas e aprendizados (DESIGNING 2026)"
 layout: page
 categories: ["talk"]
 ---
 
-Large-scale software systems have an inconvenient truth: every architectural decision eventually turns into a mistake. The only uncertainty is when. In this talk, I’ll talk about real architectural and design choices that once looked reasonable, or even “the best one”, but later became liabilities that constrained teams, slowed delivery, and complicated evolution. From these failures, I’ll extract recurring patterns of pain in large-scale design and challenge some of the assumptions we commonly rely on when “designing for the future.” This is not a talk about best practices or silver bullets. It’s about making trade-offs consciously, accepting that regret is inevitable, and learning how to leave fewer landmines for the engineers who will inherit your system, including your future self.
+Os sistemas de software de grande escala têm uma verdade inconveniente: toda decisão arquitetônica eventualmente se transforma em um erro. A única incerteza é quando. Nesta palestra, falarei sobre escolhas reais de arquitetura e design que antes pareciam razoáveis, ou mesmo “as melhores”, mas que mais tarde se tornaram responsabilidades que restringiram as equipes, retardaram a entrega e complicaram a evolução. A partir dessas falhas, extrairei padrões recorrentes de sofrimento em projetos de grande escala e desafiarei algumas das suposições nas quais normalmente confiamos quando “projetamos para o futuro”. Esta não é uma conversa sobre melhores práticas ou soluções mágicas. Trata-se de fazer concessões conscientemente, aceitar que o arrependimento é inevitável e aprender como deixar menos minas terrestres para os engenheiros que herdarão o seu sistema, incluindo o seu eu futuro.
 
-Keynote at DESIGNING 2026, workshop co-located with ICSE 2026 in Rio de Janeiro.
+Keynote no DESIGNING 2026, workshop co-localizado com ICSE 2026 no Rio de Janeiro.
 
-## Slides
+## Apresentações
 
-[Link to slides](https://mauricioaniche.com/keynote-design-2026-at-icse/)
+[Link para slides](https://mauricioaniche.com/keynote-design-2026-at-icse/)

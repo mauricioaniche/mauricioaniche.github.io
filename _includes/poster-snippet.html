@@ -11,20 +11,20 @@
   <div class="publication-videos">
 {% if post.videoen %}
 <div class="publication-video wise-iframe-wrapper">
-<p>Watch a summary of the paper (in English):</p>
+<p>Assista a um resumo do artigo em inglês:</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ post.videoen }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-{% endif %}    
+{% endif %}
 
   </div>
 
   {% if post.download %}
 	<div class="publication-links">
-	<a class="publication-button" href="{{ post.download }}">Download the paper</a>
+	<a class="publication-button" href="{{ post.download }}">Baixar o artigo</a>
 	</div>
   {% else %}
 	<div class="publication-links">
-	(Pre-print soon)
+	(Preprint em breve)
 	</div>
   {% endif %}
 </div>

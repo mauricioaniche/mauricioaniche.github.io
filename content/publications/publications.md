@@ -1,84 +1,22 @@
 ---
-title: Publications
+title: Publicações científicas
 layout: page
 permalink: /publications
+description: Acervo de pesquisas de Maurício Aniche sobre testes, qualidade e evolução de software, organizado por ano, tema e veículo.
 ---
+
+Pesquisas sobre testes, manutenibilidade, evolução de software e práticas de engenharia. Explore o acervo por ano, tema ou veículo de publicação.
+
+Os títulos bibliográficos são mantidos no idioma original para facilitar a busca e a citação. Os resumos estão em português.
 
 {% include publications-menu.md %}
 
-{% include get-all-publications.md %}
+{% assign years = site.publications | map: 'year' | uniq | sort | reverse %}
+{% for year in years %}
+## {{ year }}
 
-## 2024
-
-{% for post in sorted %}
-{% if post.year == 2024 %}
+{% assign year_posts = site.publications | where: 'year', year | sort: 'date' | reverse %}
+{% for post in year_posts %}
 {% include publication-snippet.html %}
-{% endif %}
 {% endfor %}
-
-## 2022
-
-{% for post in sorted %}
-{% if post.year == 2022 %}
-{% include publication-snippet.html %}
-{% endif %}
 {% endfor %}
-
-## 2021
-
-{% for post in sorted %}
-{% if post.year == 2021 %}
-{% include publication-snippet.html %}
-{% endif %}
-{% endfor %}
-
-## 2020
-
-{% for post in sorted %}
-{% if post.year == 2020 %}
-{% include publication-snippet.html %}
-{% endif %}
-{% endfor %}
-
-## 2019
-
-{% for post in sorted %}
-{% if post.year == 2019 %}
-{% include publication-snippet.html %}
-{% endif %}
-{% endfor %}
-
-## 2018
-
-{% for post in sorted %}
-{% if post.year == 2018 %}
-{% include publication-snippet.html %}
-{% endif %}
-{% endfor %}
-
-## 2017
-
-{% for post in sorted %}
-{% if post.year == 2017 %}
-{% include publication-snippet.html %}
-{% endif %}
-{% endfor %}
-
-## 2016
-
-{% for post in sorted %}
-{% if post.year == 2016 %}
-{% include publication-snippet.html %}
-{% endif %}
-{% endfor %}
-
-## 2015-2010
-
-{% for post in sorted %}
-{% if post.year <= 2015 %}
-{% include publication-snippet.html %}
-{% endif %}
-{% endfor %}
-
-
-

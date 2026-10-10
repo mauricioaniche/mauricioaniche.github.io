@@ -10,8 +10,8 @@ year: 2020
 videoen: "nr1uXAhDBog"
 ---
 
-Refactoring is the process of changing the internal structure of software to improve its quality without modifying its external behavior. Before carrying out refactoring activities, developers need to identify refactoring opportunities. Currently, refactoring opportunity identification heavily relies on developers' expertise and intuition. 
+Refatoração é o processo de alteração da estrutura interna do software para melhorar sua qualidade sem modificar seu comportamento externo. Antes de realizar atividades de refatoração, os desenvolvedores precisam identificar oportunidades de refatoração. Atualmente, a refatoração da identificação de oportunidades depende muito da experiência e da intuição dos desenvolvedores.
 
-In this paper, we investigate the effectiveness of machine learning algorithms in predicting software refactorings. More specifically, we train six different machine learning algorithms with a dataset comprising over two million refactorings from 11,149 real-world projects from the Apache, F-Droid, and GitHub ecosystems. 
+Neste artigo, investigamos a eficácia dos algoritmos de aprendizado de máquina na previsão de refatorações de software. Mais especificamente, treinamos seis algoritmos de aprendizado de máquina diferentes com um conjunto de dados que compreende mais de dois milhões de refatorações de 11.149 projetos do mundo real dos ecossistemas Apache, F-Droid e GitHub.
 
-The resulting models predict 20 different refactorings at class, method, and variable-levels with an accuracy often higher than 90%. Our results show that (i) Random Forests are the best models for predicting software refactoring, (ii) process and ownership metrics seem to play a crucial role in the creation of better models, and (iii) models generalize well in different contexts.
+Os modelos resultantes prevêem 20 refatorações diferentes em níveis de classe, método e variável com uma precisão geralmente superior a 90%. Nossos resultados mostram que (i) Random Forests são os melhores modelos para prever a refatoração de software, (ii) as métricas de processo e propriedade parecem desempenhar um papel crucial na criação de melhores modelos e (iii) os modelos generalizam bem em diferentes contextos.

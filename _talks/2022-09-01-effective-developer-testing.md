@@ -1,41 +1,41 @@
 ---
-title: "Effective developer testing: lessons I learned over time"
+title: "Testes eficazes para desenvolvedores: lições que aprendi ao longo do tempo"
 layout: page
 categories: ["talk"]
 ---
 
-We all know by now how to write automated tests. But can we get better at it? For example, how can we make sure we go beyond "happy path testing" and create really strong test suites? Is code coverage a bad metric we should ignore, or can it actually help us? Should we go for unit or integration tests? Or are E2E tests much better for more complex systems? Is TDD really a must? Or can we design testable systems without it?
+Todos nós já sabemos como escrever testes automatizados. Mas podemos melhorar nisso? Por exemplo, como podemos ter certeza de que iremos além do “teste do caminho feliz” e criaremos conjuntos de testes realmente fortes? A cobertura de código é uma métrica ruim que devemos ignorar ou ela pode realmente nos ajudar? Devemos fazer testes unitários ou de integração? Ou os testes E2E são muito melhores para sistemas mais complexos? O TDD é realmente obrigatório? Ou podemos projetar sistemas testáveis sem ele?
 
-In this talk, I share lessons I learned over time:
+Nesta palestra, compartilho lições que aprendi ao longo do tempo:
 
-1. Testing supports development and bug finding
-1. Being systematic helps you create better test cases
-1. Bugs love boundaries
-1. Code coverage is a good tool
-1. Unit vs integration tests don't matter; fast tests do
-1. Dividing and conquer is the way to test complex systems
-1. Testing has to be easy, otherwise no one will do it
-1. TDD or not TDD: what matters is quick feedback
-1. Making code testable is key to happiness
-1. You should trust your test suite
-1. Testing isn't magical!
+1. O teste oferece suporte ao desenvolvimento e localização de bugs
+1. Ser sistemático ajuda a criar melhores casos de teste
+1. Insetos adoram limites
+1. A cobertura de código é uma boa ferramenta
+1. Testes de unidade versus testes de integração não importam; testes rápidos fazem
+1. Dividir para conquistar é a maneira de testar sistemas complexos
+1. O teste tem que ser fácil, caso contrário ninguém o fará
+1. TDD ou não TDD: o que importa é feedback rápido
+1. Tornar o código testável é a chave para a felicidade
+1. Você deve confiar no seu conjunto de testes
+1. Testar não é mágico!
 
-This talk is based on my recent [Effective Software Testing: A Developer's Guide](https://www.effective-software-testing.com/), published by Manning. You can buy is with 35% discount by using the "au35ani" discount code.
+Esta palestra é baseada em meu recente [Teste de software eficaz: guia do desenvolvedor](https://www.effective-software-testing.com/), publicado por Manning. Você pode comprar com 35% de desconto usando o código de desconto "au35ani".
 
-## Video
+## Vídeo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RYnLwYoLz3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-I thank CODAM for the beautifully recorded video!
+Agradeço ao CODAM pelo vídeo lindamente gravado!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jh1CiWZDAQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Thanks ACM Tech Talks for the invite!
+Obrigado ACM Tech Talks pelo convite!
 
-## Slides
+## Apresentações
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1fChtGlm1MYaXkIzPGMU5nPbJrgk_iZ0Lu6C7lTFGQ_KrM407V8vWzb_9zQBeIYR97FMV0--orR3l/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Link to the Google Docs presentation, if you want to reuse it](https://docs.google.com/presentation/d/1MVmcp-I8FtVyN0cZ-qzWaKPt6iXtXykRemrFvBvyDPs/edit?usp=sharing).
+[Link para a apresentação do Google Docs, se quiser reutilizá-la](https://docs.google.com/presentation/d/1MVmcp-I8FtVyN0cZ-qzWaKPt6iXtXykRemrFvBvyDPs/edit?usp=sharing).
 
-(There are [older versions of this presentation](https://docs.google.com/presentation/d/17MVXOgCQ9J_pBvwuko12GvUvgIbPv0716nY540eEM_A/edit?usp=sharing), maybe you have seen them? The slides might differ a bit from the version you saw, as I keep improving them as I go!)
+(Existem [versões mais antigas desta apresentação](https://docs.google.com/presentation/d/17MVXOgCQ9J_pBvwuko12GvUvgIbPv0716nY540eEM_A/edit?usp=sharing), talvez você os tenha visto? Os slides podem ser um pouco diferentes da versão que você viu, pois vou melhorando-os à medida que avança!)

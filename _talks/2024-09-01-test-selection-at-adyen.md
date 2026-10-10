@@ -1,13 +1,13 @@
 ---
-title: "Test selection at Adyen"
+title: "Seleção de testes na Adyen"
 layout: page
 categories: ["talk"]
 ---
 
-If you work on a large-scale software system, odds are that a significant part of your build goes to test execution. It so often happens that you change one line of code but you get thousands of tests running, even though the majority of those tests don't even get close to that line of code. This happens because build tools don't know much about what your tests really cover and because they are quite conservative. Test selection is a problem that software engineering researchers have been working on for decades now. In this talk, I'll describe all the technical details of how we've implemented our own test selection algorithm at Adyen. The benefits were significant: 30x reduction in test case execution, 12x reduction in CPU time, and pipelines 10%-30% faster.
+Se você trabalha em um sistema de software de grande escala, é provável que uma parte significativa de sua construção seja destinada à execução de testes. Muitas vezes acontece que você altera uma linha de código, mas executa milhares de testes, mesmo que a maioria desses testes nem chegue perto dessa linha de código. Isso acontece porque as ferramentas de construção não sabem muito sobre o que seus testes realmente cobrem e porque são bastante conservadoras. A seleção de testes é um problema no qual os pesquisadores de engenharia de software vêm trabalhando há décadas. Nesta palestra, descreverei todos os detalhes técnicos de como implementamos nosso próprio algoritmo de seleção de testes na Adyen. Os benefícios foram significativos: redução de 30x na execução de casos de teste, redução de 12x no tempo de CPU e pipelines 10% a 30% mais rápidos.
 
-This talk is based on our blog post [Test selection at Adyen: saving time and resources](https://www.adyen.com/knowledge-hub/test-selection-at-adyen).
+Esta palestra é baseada em nossa postagem no blog [Seleção de teste na Adyen: economizando tempo e recursos](https://www.adyen.com/knowledge-hub/test-selection-at-adyen).
 
-## Slides
+## Apresentações
 
 <embed src="/assets/pdf/test-selection-at-adyen.pdf" type="application/pdf" width="100%" height="600px" />

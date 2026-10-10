@@ -1,5 +1,5 @@
 ---
-title: "How coverage can be used and misused"
+title: "Como a cobertura de testes pode ser usada e mal utilizada"
 layout: page
 categories: ["talk"]
 ---

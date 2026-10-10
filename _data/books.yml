@@ -1,0 +1,37 @@
+- title: Effective Software Testing
+  publisher: Manning
+  language: Inglês
+  image: /assets/images/books/effective-software-testing.png
+  url: https://www.effective-software-testing.com
+  description: Vá além de escrever testes. Aprenda a encontrar bugs com técnicas sistemáticas, bons contratos e uma estratégia de testes eficaz.
+- title: Simple Object-Oriented Design
+  publisher: Manning
+  language: Inglês
+  image: /assets/images/books/simple-object-oriented-design.jpg
+  url: https://www.simple-object-oriented-design.com/
+  description: Princípios para controlar a complexidade e criar código simples, com boas abstrações, objetos consistentes e dependências bem definidas.
+- title: Orientação a Objetos e SOLID para Ninjas
+  publisher: Casa do Código
+  language: Português
+  image: /assets/images/books/solid.png
+  url: https://www.casadocodigo.com.br/products/livro-oo-solid
+  description: Aprenda a projetar classes flexíveis e aplicar os princípios SOLID às decisões de design do dia a dia.
+- title: 'Test-Driven Development: Teste e Design no Mundo Real'
+  publisher: Casa do Código
+  language: Português
+  image: /assets/images/books/tdd.png
+  url: https://www.casadocodigo.com.br/products/livro-tdd
+  description: Uma abordagem prática de TDD para usar o feedback dos testes e melhorar o design do código. Edições em Java, C#, Ruby e PHP.
+- title: 'Introdução à Programação em C'
+  publisher: Casa do Código
+  language: Português
+  image: /assets/images/books/c.png
+  url: https://www.casadocodigo.com.br/products/livro-introducao-c
+  description: Os primeiros passos na programação em C, construindo jogos e aprendendo os fundamentos na prática.
+- title: Testes Automatizados de Software
+  publisher: Casa do Código
+  language: Português
+  image: /assets/images/books/testes.png
+  url: https://www.casadocodigo.com.br/products/livro-testes-de-software
+  description: Um guia prático das ferramentas JUnit, Mockito e Selenium, publicado em 2015.
+  note: Para uma leitura atual sobre testes, recomendo Effective Software Testing.

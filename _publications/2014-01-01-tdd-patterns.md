@@ -7,4 +7,4 @@ categories: ["publication", "workshop", "testing", "patterns"]
 year: 2014
 ---
 
-Test­-driven development (TDD) is a development technique used to design classes in a software system by first creating tests before implementing the actual code. However, even before you start creating tests, there are some preparation tasks that the developer should do. This involves gathering information about the class(es) that will be worked on along with how the test(s) should be created. This paper presents some patterns that represent practices which should be applied before starting a TDD session.
+O desenvolvimento orientado a testes (TDD) é uma técnica de desenvolvimento usada para projetar classes em um sistema de software, primeiro criando testes antes de implementar o código real. Porém, antes mesmo de começar a criar testes, existem algumas tarefas de preparação que o desenvolvedor deve realizar. Isso envolve coletar informações sobre a(s) aula(s) que serão trabalhadas e como o(s) teste(s) deverá(m) ser criado(s). Este artigo apresenta alguns padrões que representam práticas que devem ser aplicadas antes de iniciar uma sessão de TDD.

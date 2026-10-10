@@ -1,0 +1,5 @@
+<div class="book-grid">
+{% for book in site.data.books limit: include.limit %}
+<article class="book-card"><a class="book-cover-link" href="{{ book.url }}" tabindex="-1" aria-hidden="true"><img src="{{ book.image | relative_url }}" alt="" width="220" height="290" loading="lazy"></a><div class="book-info"><span class="eyebrow">{{ book.publisher }} · {{ book.language }}</span><h3><a href="{{ book.url }}">{{ book.title }}</a></h3><p>{{ book.description }}</p>{% if book.note %}<p class="book-note">{{ book.note }}</p>{% endif %}<a class="text-link" href="{{ book.url }}">Conhecer o livro <span aria-hidden="true">↗</span><span class="sr-only">: {{ book.title }}</span></a></div></article>
+{% endfor %}
+</div>

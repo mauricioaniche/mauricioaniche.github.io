@@ -1,5 +1,5 @@
 ---
-title: Research at Adyen
+title: Pesquisas na Adyen
 layout: page
 permalink: /research/adyen
 ---

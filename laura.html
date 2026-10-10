@@ -1,4 +1,4 @@
-<html>
+<html lang="pt-BR">
 <style type="text/css">
 	textarea {
 		height: 200px;
@@ -72,33 +72,33 @@
 
 </style>
 <body>
-<h1>Tampa's tool</h1>
+<h1>Ferramenta de combinações</h1>
 <div>
-	<p>Your amazing piece of research here!</p>
+	<p>Cole seu texto de pesquisa aqui.</p>
 	<textarea id="text"></textarea>
 </div>
 <div>
-	<p>The elements that can appear in parenthesis here (one per line, please!)</p>
+	<p>Elementos que podem aparecer entre parênteses (um por linha).</p>
 	<textarea id="elements"></textarea>
 </div>
 
 <div id="show" class="hidden">
-	<h2>Combinations</h2>
+	<h2>Combinações</h2>
 	<div id="result">
 	</div>
 
-	<h2>Matrix</h2>
+	<h2>Matriz</h2>
 	<div id="result2">
 	</div>
 
-	<h2>Fun dude</h2>
+	<h2>Hora de comemorar</h2>
 	<div id="gif">
 		<iframe src="https://giphy.com/embed/5GoVLqeAOo6PK" width="480" height="375" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/excited-screaming-jonah-hill-5GoVLqeAOo6PK">via GIPHY</a></p>
 	</div>
 </div>
 
 <div>
-	<button class="button-5" onclick="magic()">Do the magic!</button>
+	<button class="button-5" onclick="magic()">Gerar combinações</button>
 </div>
 
 <script type="text/javascript">
@@ -116,14 +116,14 @@
 		let numberOfParenthesis = 0;
 
 		// extract info in parenthesis
-		var groups = [...text.matchAll(/\((.*?)\)/gm)] 
+		var groups = [...text.matchAll(/\((.*?)\)/gm)]
 			.map(ar => ar[1])
 			.forEach(group => {
 				numberOfParenthesis++;
 
 				// get each element within the parenthesis
 				const elementsInGroup = group.split(",")
-					.map(t => t.trim()) 
+					.map(t => t.trim())
 					.filter(t => elements.includes(t))
 
 				if(elementsInGroup.length == 1) {
@@ -147,11 +147,11 @@
 			const second = elements.indexOf(w);
 
 			total = matrix[first][second] + matrix[second][first];
-			finalMsg += "<li>" + v + ' with ' + w + '=' + total + "</li>";
+			finalMsg += "<li>" + v + ' com ' + w + '=' + total + "</li>";
 		}))
 		finalMsg += "</ul>"
 
-		finalMsg += "Unique: <ul>"
+		finalMsg += "Ocorrências únicas: <ul>"
 		elements.forEach(e => {
 			finalMsg += "<li>" + e + ":" + uniqueCounts[elements.indexOf(e)] + "</li>";
 		});
@@ -165,7 +165,7 @@
 		// second output: table
 		const matrix2 = new Array(elements.length)
 			.fill(0)
-			.map(() => new Array(elements.length).fill(0));		
+			.map(() => new Array(elements.length).fill(0));
 
 		elements.flatMap((v, i) => elements.slice(i+1).map(w => {
 			const first = elements.indexOf(v);
@@ -173,10 +173,10 @@
 
 			total = matrix[first][second] + matrix[second][first];
 
-			matrix2[first < second ? first : second][first < second ? second : first] = total;			
+			matrix2[first < second ? first : second][first < second ? second : first] = total;
 		}));
 		var generatedTable = "<table width='80%'>";
-		generatedTable += "<tr><td>Elements</td>";
+		generatedTable += "<tr><td>Elementos</td>";
 		elements.forEach(e => generatedTable+= "<td><b>" + e + "</b></td>");
 		generatedTable += "</tr>";
 

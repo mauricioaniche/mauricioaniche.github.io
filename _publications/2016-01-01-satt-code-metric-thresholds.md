@@ -8,8 +8,8 @@ year: 2016
 doi: "10.1109/SCAM.2016.19"
 ---
 
-Code metric analysis is a well-known approach for assessing the quality of a software system. However, current tools and techniques do not take the system architecture (e.g., MVC, Android) into account. This means that all classes are assessed similarly, regardless of their specific responsibilities. 
+A análise métrica de código é uma abordagem bem conhecida para avaliar a qualidade de um sistema de software. No entanto, as ferramentas e técnicas atuais não levam em consideração a arquitetura do sistema (por exemplo, MVC, Android). Isto significa que todas as turmas são avaliadas de forma semelhante, independentemente das suas responsabilidades específicas.
 
-In this paper, we propose SATT (Software Architecture Tailored Thresholds), an approach that detects whether an architectural role is considerably different from others in the system in terms of code metrics, and provides a specific threshold for that role. We evaluated our approach on 2 different architectures (MVC and Android) in more than 400 projects. We also interviewed 6 experts in order to explain why some architectural roles are different from others. 
+Neste artigo, propomos SATT (Software Architecture Tailored Thresholds), uma abordagem que detecta se uma função arquitetural é consideravelmente diferente de outras no sistema em termos de métricas de código, e fornece um limite específico para essa função. Avaliamos nossa abordagem em 2 arquiteturas diferentes (MVC e Android) em mais de 400 projetos. Também entrevistamos 6 especialistas para explicar por que algumas funções arquitetônicas são diferentes de outras.
 
-Our results shows that SATT can overcome issues that traditional approaches have, especially when some architectural role presents very different metric values than others.
+Nossos resultados mostram que o SATT pode superar problemas que as abordagens tradicionais enfrentam, especialmente quando alguma função arquitetural apresenta valores métricos muito diferentes de outras.

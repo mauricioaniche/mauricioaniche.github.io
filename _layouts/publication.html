@@ -12,7 +12,7 @@ layout: default
       {% if page.conference %}
       <div>{{ page.conference }}, {{ page.year }}</div>
       {% else %}
-      <div>Non-peer reviewed version (under submission), {{ page.year }}</div>
+      <div>Versão ainda não revisada por pares (em avaliação), {{ page.year }}</div>
       {% endif %}
       {% if page.doi %}
       <div>DOI: <a href="https://doi.org/{{ page.doi }}">{{ page.doi }}</a></div>
@@ -26,25 +26,25 @@ layout: default
 
   {% if page.download %}
   <div class="publication-links">
-    <a class="publication-button" href="{{ page.download }}">Download the paper</a>
+    <a class="publication-button" href="{{ page.download }}">Baixar o artigo</a>
   </div>
   {% else %}
   <div class="publication-links">
-    (Pre-print soon!)
+    (Preprint em breve)
   </div>
   {% endif %}
 
   <div class="publication-videos">
 {% if page.videoen %}
-<p>Watch a summary of the paper (in English):</p>
+<p>Assista a um resumo do artigo em inglês:</p>
 <div class="publication-video wise-iframe-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.videoen }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" title="Resumo do artigo em inglês" loading="lazy" src="https://www.youtube.com/embed/{{ page.videoen }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-{% endif %}    
+{% endif %}
 {% if page.videopt %}
 <div class="publication-video wise-iframe-wrapper">
-<p>Watch a summary of the paper (in Brazilian Portuguese):</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.videopt }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>Assista a um resumo do artigo em português:</p>
+<iframe width="560" height="315" title="Resumo do artigo em português" loading="lazy" src="https://www.youtube.com/embed/{{ page.videopt }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 {% endif %}
 

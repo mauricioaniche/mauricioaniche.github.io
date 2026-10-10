@@ -1,22 +1,22 @@
 ---
-title: "Testing in production: A Gentle Walk on Software Monitoring Research"
+title: "Testes em produção: uma introdução à pesquisa em monitoramento de software"
 layout: page
 categories: ["talk"]
 ---
 
-"Testing in production" used to be a joke among developers. However, given the complexity of the large and distributed systems that take care of important parts of our lives, "testing in development", or, in other words, prevention, might not be enough anymore. In this talk, I'll discuss the importance of systems monitoring, logging, and log analysis to modern software systems. I'll reflect on the current state-of-the-art in industry and research fields, as well as the current open challenges. A great part of this talk is based on the research we conducted at Adyen, a large-scale payment company, that serves companies such as Facebook, Uber, and Spotify.
+“Testes em produção” costumava ser uma piada entre os desenvolvedores. No entanto, dada a complexidade dos sistemas grandes e distribuídos que cuidam de partes importantes das nossas vidas, os “testes em desenvolvimento”, ou, por outras palavras, a prevenção, podem já não ser suficientes. Nesta palestra, discutirei a importância do monitoramento, registro e análise de log de sistemas para sistemas de software modernos. Refletirei sobre o estado da arte atual nos campos da indústria e da pesquisa, bem como sobre os atuais desafios em aberto. Grande parte desta palestra é baseada na pesquisa que realizamos na Adyen, uma empresa de pagamentos em grande escala, que atende empresas como Facebook, Uber e Spotify.
 
-Presented at:
+Apresentado em:
 
-* 22/November/2019: [2019 CHOOSE forum in Software Testing](https://choose.swissinformatics.org/events/choose-forum-2019-software-testing/).
+* 22/novembro/2019: [ESCOLHER fórum 2019 em Teste de Software](https://choose.swissinformatics.org/events/choose-forum-2019-software-testing/).
 
-* 13/December/2019: [IWESEP 2019, the 10th International Workshop on Empirical Software Engineering in Practice](https://iwesep2019.github.io).
+* 13/dezembro/2019: [IWESEP 2019, o 10º Workshop Internacional sobre Engenharia de Software Empírica na Prática](https://iwesep2019.github.io).
 
-* 06/March/2020: Research talk at University of Innsbruck.
+* 06/março/2020: Palestra de pesquisa na Universidade de Innsbruck.
 
-Media: 
+Mídia:
 
-* [Slides on SpeakerDeck](https://speakerdeck.com/mauricioaniche/testing-in-production-a-gentle-walk-on-software-monitoring-research)
+* [Slides no SpeakerDeck](https://speakerdeck.com/mauricioaniche/testing-in-production-a-gentle-walk-on-software-monitoring-research)
 
-* [A video of my second rehearsal](https://youtu.be/MzkxwOZnDic) (final version is a bit different, but 95% of the content is the same; if you missed the talk, this video represents it well enough!).
+* [Um vídeo do meu segundo ensaio](https://youtu.be/MzkxwOZnDic) (a versão final é um pouco diferente, mas 95% do conteúdo é o mesmo; se você perdeu a palestra, este vídeo representa bem!).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzkxwOZnDic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,11 +1,14 @@
 ---
-title: Contact
+title: Vamos conversar
 layout: page
 permalink: /contact
 ---
 
-**Maurício F. Aniche**
+Para conversar sobre mentoria, palestras, livros ou engenharia de software:
 
-* **Personal e-mail:** mauricioaniche [at] gmail [dot] com
+* **E-mail:** [mauricioaniche@gmail.com](mailto:mauricioaniche@gmail.com)
+* **LinkedIn:** [Maurício Aniche](https://www.linkedin.com/in/mauricioaniche/)
+* **GitHub:** [mauricioaniche](https://github.com/mauricioaniche)
 * **Twitter:** [@mauricioaniche](https://www.twitter.com/mauricioaniche)
-* **LinkedIn:** [mauricioaniche](https://www.linkedin.com/in/mauricioaniche/)
+
+Se o assunto for [mentoria](/mentoria), conte seu papel atual, os desafios que está enfrentando e o que gostaria de desenvolver.

@@ -10,8 +10,8 @@ posters: ["icse21"]
 year: 2021
 ---
 
-Grading large classes has become a challenging and expensive task for many universities. The Delft University of Technology (TU Delft), located in the Netherlands, has observed a large increase in student numbers over the past few years. Given the large growth of the student population, grading all the submissions results in high costs. 
+Classificar turmas grandes tornou-se uma tarefa desafiadora e cara para muitas universidades. A Universidade de Tecnologia de Delft (TU Delft), localizada na Holanda, observou um grande aumento no número de estudantes nos últimos anos. Dado o grande crescimento da população estudantil, avaliar todas as submissões resulta em custos elevados.
 
-We made use of self and peer grading in the 2018-2019 edition of our software testing course. Students worked in teams of two, and self and peer graded three assignments in our course. We ended up with 906 self and peer graded submissions, which we compared to 248 submission that were graded by our TAs. 
+Utilizamos autoavaliação e avaliação por pares na edição 2018-2019 de nosso curso de teste de software. Os alunos trabalharam em equipes de dois, e eles mesmos e seus colegas avaliaram três tarefas em nosso curso. Acabamos com 906 envios avaliados por nós mesmos e por pares, que comparamos com 248 envios avaliados por nossos TAs.
 
-In this paper, we report on the differences we observed between self, peer, and TA grading. Our findings show that: (i) self grades tend to be 8-10% higher than peer grades on average, (ii) peer grades seem to be a good approximator of TA grades; in cases where self and peer grade differ significantly, the TA grade seems to lie in between, and (iii) the gender and the nationality of the student do not seem to affect self and peer grading.
+Neste artigo, relatamos as diferenças que observamos entre a classificação própria, dos pares e do TA. Nossas descobertas mostram que: (i) as notas próprias tendem a ser 8-10% mais altas do que as notas dos colegas, em média; (ii) as notas dos pares parecem ser um bom aproximador das notas do TA; nos casos em que a classificação própria e a dos pares diferem significativamente, a classificação do TA parece situar-se no meio, e (iii) o género e a nacionalidade do aluno não parecem afectar a classificação própria e dos pares.

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#d5e2d4" />
+  <g opacity=".18" stroke="#234a3a" stroke-width="1">
+    <path d="M0 0V500" />
+    <path d="M50 0V500" />
+    <path d="M100 0V500" />
+    <path d="M150 0V500" />
+    <path d="M200 0V500" />
+    <path d="M250 0V500" />
+    <path d="M300 0V500" />
+    <path d="M350 0V500" />
+    <path d="M400 0V500" />
+    <path d="M450 0V500" />
+    <path d="M500 0V500" />
+    <path d="M550 0V500" />
+    <path d="M600 0V500" />
+    <path d="M650 0V500" />
+    <path d="M700 0V500" />
+    <path d="M750 0V500" />
+    <path d="M800 0V500" />
+    <path d="M0 0H800" />
+    <path d="M0 50H800" />
+    <path d="M0 100H800" />
+    <path d="M0 150H800" />
+    <path d="M0 200H800" />
+    <path d="M0 250H800" />
+    <path d="M0 300H800" />
+    <path d="M0 350H800" />
+    <path d="M0 400H800" />
+    <path d="M0 450H800" />
+    <path d="M0 500H800" />
+  </g>
+  <path
+    d="M400 165Q310 110 190 150V360Q310 320 400 375Q490 320 610 360V150Q490 110 400 165Z"
+    fill="#f7f6eb"
+    stroke="#315641"
+    stroke-width="3"
+  />
+  <path
+    d="M400 165V375M235 205Q310 185 360 215M235 250Q310 230 360 260M235 295Q310 275 360 305M440 215Q490 185 565 205M440 260Q490 230 565 250M440 305Q490 275 565 295"
+    fill="none"
+    stroke="#82957a"
+    stroke-width="3"
+  />
+  <path
+    d="M345 90Q400 35 455 90"
+    fill="none"
+    stroke="#82957a"
+    stroke-width="2"
+  />
+  <circle cx="400" cy="70" r="8" fill="#315641" />
+  <text
+    x="32"
+    y="466"
+    font-family="sans-serif"
+    font-size="13"
+    letter-spacing="3"
+    fill="#234a3a"
+  >
+    EDUCAÇÃO &amp; APRENDIZADO
+  </text>
+  <text x="738" y="466" font-family="sans-serif" font-size="20" fill="#234a3a">
+    ↗
+  </text>
+</svg>

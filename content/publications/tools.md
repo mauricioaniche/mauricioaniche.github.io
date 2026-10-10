@@ -1,18 +1,16 @@
 ---
-title: Tools
+title: Ferramentas de pesquisa
 layout: page
 permalink: /research/tools
 ---
 
-
 {% include publications-menu.md %}
-{% assign sorted = site.publications | reverse %}
 
-A short of list of tools or prototypes I've work on at some point:
+Ferramentas e protótipos com os quais trabalhei ao longo da minha trajetória de pesquisa:
 
-* [Springlint](https://github.com/mauricioaniche/springlint) is a code smell detection tool for Spring Boot/MVC projects. It was featured by the Spring community many years ago and uses Eclipse JDT behind the scenes.
-* [CK](https://github.com/mauricioaniche/ck) is a simple Java metric calculator written in source code. It uses Eclipse JDT to build the AST, so it doesn't require compiled code.
-* [Andy](https://github.com/SERG-Delft/andy) is an automated grader who assesses TU Delft's software testing students. It makes use of different metrics such as coverage, mutation coverage, and static analysis to come up with a final grade.
-* [Hyperion](https://github.com/SERG-Delft/hyperion) is a tool that brings monitoring information (from your ELK stack) to the IDE so the developer can see how often an exception happens in production in their code.
-* [TestKnight](https://github.com/SERG-Delft/TestKnight) helps people be more productive when writing tests. It helps engineers with MC/DC, contextualized coverage information, assertion suggestions, etc.
-* [EvoSQL](https://github.com/SERG-Delft/evosql) is a search-based prototype that generates thorough tests for given SQL queries.
+* [Springlint](https://github.com/mauricioaniche/springlint): detecta code smells em projetos Spring Boot/MVC usando Eclipse JDT. Foi divulgado pela comunidade Spring.
+* [CK](https://github.com/mauricioaniche/ck): calcula métricas de código Java a partir do código-fonte. Usa Eclipse JDT para construir a árvore sintática, sem exigir código compilado.
+* [Andy](https://github.com/SERG-Delft/andy): avalia automaticamente os trabalhos dos alunos de testes de software da TU Delft, usando cobertura, cobertura de mutação e análise estática.
+* [Hyperion](https://github.com/SERG-Delft/hyperion): leva informações de monitoramento da stack ELK para a IDE, permitindo ver a frequência de exceções em produção.
+* [TestKnight](https://github.com/SERG-Delft/TestKnight): ajuda engenheiros a escrever testes com mais produtividade, usando MC/DC, cobertura contextualizada e sugestões de asserções.
+* [EvoSQL](https://github.com/SERG-Delft/evosql): protótipo baseado em busca que gera testes para consultas SQL.

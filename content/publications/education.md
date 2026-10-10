@@ -1,5 +1,5 @@
 ---
-title: Research at Adyen
+title: Pesquisa em educação
 layout: page
 permalink: /research/education
 ---
@@ -8,7 +8,7 @@ permalink: /research/education
 {% include publications-menu.md %}
 {% assign sorted = site.publications | reverse %}
 
-I often write computer science education papers, based on my experience as a teacher:
+Artigos sobre educação em Ciência da Computação, baseados na minha experiência como professor:
 
 
 {% for post in sorted %}

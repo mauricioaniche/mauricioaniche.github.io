@@ -11,11 +11,11 @@ videoen: "-GqPb_YZMOs"
 year: 2021
 ---
 
-Detecting performance issues due to suboptimal code during the development process can be a daunting task, especially when it comes to localizing them after noticing performance degradation after deployment. Static analysis has the potential to provide early feedback on performance problems to developers without having to run profilers with expensive (and often unavailable) performance tests.
+Detectar problemas de desempenho devido a código abaixo do ideal durante o processo de desenvolvimento pode ser uma tarefa difícil, especialmente quando se trata de localizá-los após perceber a degradação do desempenho após a implantação. A análise estática tem o potencial de fornecer feedback antecipado sobre problemas de desempenho aos desenvolvedores, sem a necessidade de executar criadores de perfil com testes de desempenho caros (e muitas vezes indisponíveis).
 
-We develop a VSCode tool that integrates the static performance analysis results from Infer via code annotations and decorations (surfacing complexity analysis results in context) and side panel views showing details and overviews (enabling explainability of the results). Additionally, we design our system for interactivity to allow for more responsiveness to code changes as they happen. We evaluate the efficacy of our tool by measuring the overhead that the static performance analysis integration introduces in the development workflow.
+Desenvolvemos uma ferramenta VSCode que integra os resultados da análise de desempenho estático do Infer por meio de anotações e decorações de código (revelando os resultados da análise de complexidade no contexto) e visualizações de painel lateral mostrando detalhes e visões gerais (permitindo a explicabilidade dos resultados). Além disso, projetamos nosso sistema para interatividade para permitir maior capacidade de resposta às alterações de código à medida que elas acontecem. Avaliamos a eficácia de nossa ferramenta medindo a sobrecarga que a integração da análise estática de desempenho introduz no fluxo de trabalho de desenvolvimento.
 
-Further, we report on a case study that illustrates how our system can be used to reason about software performance in the context of a real performance bug in the ElasticSearch open-source project.
+Além disso, relatamos um estudo de caso que ilustra como nosso sistema pode ser usado para raciocinar sobre o desempenho do software no contexto de um bug de desempenho real no projeto de código aberto ElasticSearch.
 
-* Demo video: https://www.youtube.com/watch?v=-GqPb_YZMOs
-* Repository: https://github.com/ipa-lab/vscode-infer-performance
+* Vídeo de demonstração: https://www.youtube.com/watch?v=-GqPb_YZMOs
+* Repositório: https://github.com/ipa-lab/vscode-infer-performance

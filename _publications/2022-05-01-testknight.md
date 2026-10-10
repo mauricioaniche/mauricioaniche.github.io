@@ -8,8 +8,8 @@ categories: ["publication", "conference", "testing"]
 year: 2022
 ---
 
-Software testing is one of the most important aspects of modern software development. To ensure the quality of the software, developers should ideally write and execute automated tests regularly as their code-base evolves. TestKnight, a plugin for the IntelliJ IDEA integrated development environment (IDE), aims to help Java developers improve the testing process through support for creating and maintaining high-quality test suites.
+O teste de software é um dos aspectos mais importantes do desenvolvimento de software moderno. Para garantir a qualidade do software, o ideal é que os desenvolvedores escrevam e executem testes automatizados regularmente à medida que sua base de código evolui. TestKnight, um plugin para o ambiente de desenvolvimento integrado (IDE) IntelliJ IDEA, tem como objetivo ajudar os desenvolvedores Java a melhorar o processo de teste por meio do suporte para a criação e manutenção de suítes de testes de alta qualidade.
 
-* [Github repo](https://github.com/SERG-Delft/testknightJetbrains)
-* [TestKnight in the marketplace](https://plugins.jetbrains.com/plugin/17072-testknight)
-* [Short demo video](https://www.youtube.com/watch?v=BSaL-K7ug6M)
+* [repositório GitHub](https://github.com/SERG-Delft/testknightJetbrains)
+* [TestKnight no mercado](https://plugins.jetbrains.com/plugin/17072-testknight)
+* [Vídeo de demonstração curto](https://www.youtube.com/watch?v=BSaL-K7ug6M)

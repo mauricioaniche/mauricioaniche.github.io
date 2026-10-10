@@ -1,16 +1,12 @@
 <header class="site-header">
-
-  <div class="wrapper">
-
-    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
-    <nav class="site-nav">
-        <a class="page-link" href="/books">Books</a>
-        <a class="page-link" href="/blog-and-talks">Blogs, talks, and podcasts</a>
-        <a class="page-link" href="/research">Research</a>
-        <a class="page-link" href="/contact">Contact</a>
+  <div class="wrapper header-inner">
+    <a class="site-title" href="{{ '/' | relative_url }}" aria-label="Maurício Aniche — início">maurício aniche<span class="brand-dot">.</span></a>
+    <nav class="site-nav" aria-label="Navegação principal">
+      <a href="{{ '/#sobre' | relative_url }}">Sobre</a>
+      <a href="{{ '/books' | relative_url }}" {% if page.url == '/books' %}aria-current="page"{% endif %}>Livros</a>
+      <a href="{{ '/blog' | relative_url }}" {% if page.url == '/blog' or page.layout == 'post' %}aria-current="page"{% endif %}>Blog</a>
+      <a href="{{ '/publications' | relative_url }}" {% if page.url contains '/publications' %}aria-current="page"{% endif %}>Publicações</a>
+      <a class="nav-cta" href="{{ '/mentoria' | relative_url }}" {% if page.url == '/mentoria' %}aria-current="page"{% endif %}>Mentoria <span aria-hidden="true">↗</span></a>
     </nav>
-
   </div>
-
 </header>

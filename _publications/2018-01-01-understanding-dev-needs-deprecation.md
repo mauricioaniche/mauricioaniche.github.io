@@ -8,6 +8,6 @@ categories: ["publication", "conference", "icse", "maintenance", "api"]
 year: 2018
 ---
 
-Deprecation is a language feature that allows API producers to mark a feature as obsolete. We aim to gain a deep understanding of the needs of API producers and consumers alike regarding deprecation. To that end, we investigate why API producers deprecate features, whether they remove deprecated features, how they expect consumers to react, and what prompts an API consumer to react to deprecation. 
+A descontinuação é um recurso de linguagem que permite aos produtores de API marcar um recurso como obsoleto. Nosso objetivo é obter uma compreensão profunda das necessidades dos produtores e consumidores de APIs em relação à depreciação. Para esse fim, investigamos por que os produtores de API descontinuam recursos, se eles removem recursos obsoletos, como esperam que os consumidores reajam e o que leva um consumidor de API a reagir à descontinuação.
 
-To achieve this goal we conduct semi-structured interviews with 17 third-party Java API producers and survey 170 Java developers. We observe that the current deprecation mechanism in Java and the proposal to enhance it does not address all the needs of a developer. This leads us to propose and evaluate three further enhancements to the deprecation mechanism.
+Para atingir esse objetivo, conduzimos entrevistas semiestruturadas com 17 produtores terceirizados de API Java e entrevistamos 170 desenvolvedores Java. Observamos que o atual mecanismo de descontinuação em Java e a proposta para aprimorá-lo não atendem a todas as necessidades de um desenvolvedor. Isso nos leva a propor e avaliar três melhorias adicionais no mecanismo de depreciação.

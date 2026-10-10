@@ -8,6 +8,6 @@ year: 2011
 doi: "10.1109/AGILE.2011.13"
 ---
 
-Learning is an important part of the software development process. There are many advantages for developers willing to learn: increased internal and external quality of the produced software, and a reduced learning curve as beginners become high-skilled developers much faster than usual. However, learning is not taken seriously by many teams. 
+O aprendizado é uma parte importante do processo de desenvolvimento de software. Há muitas vantagens para os desenvolvedores dispostos a aprender: maior qualidade interna e externa do software produzido e uma curva de aprendizado reduzida, à medida que iniciantes se tornam desenvolvedores altamente qualificados muito mais rápido do que o normal. No entanto, o aprendizado não é levado a sério por muitas equipes.
 
-This paper shows how to build a learning environment by doing some well-known practices, such as Book Club, Brown Bags, Dojo sessions, Pair Programming, Open Spaces, etc. It also presents some adaptations we developed in these techniques in order to improve their effects in our work environment.
+Este artigo mostra como construir um ambiente de aprendizagem realizando algumas práticas bem conhecidas, como Clube do Livro, Brown Bags, sessões de Dojo, Programação em Pares, Espaços Abertos, etc.

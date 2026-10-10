@@ -1,11 +1,4 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <p>
-      {% include footer_content.html %}
-    </p>
-
-  </div>
-
-</footer>
+<footer class="site-footer"><div class="wrapper">
+  <div class="footer-top"><a class="site-title" href="{{ '/' | relative_url }}">maurício aniche<span class="brand-dot">.</span></a><p>Engenharia com profundidade.<br>Liderança com intenção.</p><div class="footer-links"><a href="mailto:{{ site.author.email }}">E-mail ↗</a><a href="https://www.linkedin.com/in/mauricioaniche/">LinkedIn ↗</a><a href="https://github.com/mauricioaniche">GitHub ↗</a></div></div>
+  <div class="footer-bottom"><span>© {{ site.time | date: '%Y' }} Maurício Aniche</span><a href="{{ '/bio' | relative_url }}">Bio e fotos para imprensa</a><a href="{{ '/blog-and-talks' | relative_url }}">Palestras e podcasts</a></div>
+</div></footer>

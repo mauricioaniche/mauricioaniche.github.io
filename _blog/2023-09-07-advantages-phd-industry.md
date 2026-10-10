@@ -1,26 +1,29 @@
 ---
-title: "Advantages of having a software engineering PhD in industry"
+title: "As vantagens de um doutorado em engenharia de software na indústria"
 layout: post
+image: /assets/images/blog/career.svg
+category: Carreira
+description: "Como as habilidades desenvolvidas no doutorado ajudam a resolver problemas complexos, comunicar ideias e gerar impacto na indústria."
 ---
 
-A common question I often hear from colleagues who are nearing the completion of their software engineering PhDs and contemplating a transition to the industry is, "How can I leverage my PhD skills in the corporate world?"
+Uma pergunta que ouço com frequência de colegas que estão quase concluindo seu doutorado em engenharia de software e considerando uma transição para a indústria é: “Como posso aproveitar minhas habilidades de doutorado no mundo corporativo?”
 
-The PhD journey is undoubtedly a challenging one, but the good news is that it equips you with a somewhat rare set of skills that can significantly enhance your career prospects in industry.
+A jornada de doutorado é sem dúvida desafiadora, mas a boa notícia é que ela fornece um conjunto raro de habilidades que podem melhorar significativamente suas perspectivas de carreira na indústria.
 
-* **Tackling Complex Projects Independently.** While the path to a PhD may be solitary, it teaches you the invaluable skill of breaking down complex and vaguely defined problems into manageable components. In industry, the demand for individuals who can navigate intricate projects with minimal hand-holding is ever-present.
+* **Enfrentando projetos complexos de forma independente.** Embora o caminho para um doutorado possa ser solitário, ele ensina a habilidade inestimável de dividir problemas complexos e vagamente definidos em componentes gerenciáveis. Na indústria, a demanda por indivíduos que possam navegar em projetos complexos com o mínimo de ajuda está sempre presente.
 
-* **Proficiency in Problem Generalization.** PhDs possess a unique ability to generalize observations after just a few instances. This knack for working at higher levels of abstraction, honed through years of research, equips them to tackle the root causes of problems rather than merely addressing their symptoms —- an attribute highly sought after in the corporate world.
+* **Generalização de problemas.** Quem tem doutorado possuem uma habilidade de generalizar observações após apenas alguns casos. Esta habilidade para trabalhar em níveis mais elevados de abstração, aprimorada ao longo de anos de pesquisa, os prepara para enfrentar as causas profundas dos problemas, em vez de apenas abordar seus sintomas — um atributo muito procurado no mundo corporativo.
 
-* **Effective Communication.** Much of an engineer's role involves describing and persuading others about their brilliant ideas. The quality of one's writing plays a pivotal role in this regard. PhDs excel at articulating ideas objectively, supporting them with data, and presenting clear pros and cons. After all, the process of writing research papers and convincing peer reviewers revolves around these skills. Industry craves individuals who can efficiently delineate the advantages and disadvantages of various paths before them.
+* **Comunicação eficaz.** Grande parte do papel de um engenheiro envolve descrever e persuadir outras pessoas sobre suas ideias brilhantes. A qualidade da escrita desempenha um papel fundamental nesse sentido. Quem tem doutorado são excelentes em articular ideias de forma objetiva, apoiando-as com dados e apresentando prós e contras claros. Afinal, o processo de redação de artigos de pesquisa e de convencimento dos revisores gira em torno dessas habilidades. A indústria anseia por indivíduos que possam explicar com clareza as vantagens e desvantagens dos vários caminhos que enfrentam.
 
-* **Staying Current with State-of-the-Art.** Engineers typically rely on technical books and online courses for 99% of their day-to-day work. However, in that critical 1% of the time, knowledge of cutting-edge developments still confined to the academic realm can make a world of difference. Fresh PhD graduates are well-versed in the future trajectory of their field, even if these ideas have yet to permeate the industry. They are also adept at reading scientific papers productively, enabling them to stay abreast of the latest concepts.
+* **Conhecimento do estado da arte.** Os engenheiros normalmente dependem de livros técnicos e cursos on-line para 99% de seu trabalho diário. No entanto, nesse período crítico de 1% do tempo, o conhecimento dos desenvolvimentos de ponta ainda confinados ao domínio acadêmico pode fazer uma enorme diferença. Os recém-formados com doutorado estão bem familiarizados com a trajetória futura de sua área, mesmo que essas ideias ainda não tenham permeado a indústria. Eles também são adeptos da leitura produtiva de artigos científicos, o que lhes permite ficar atualizados sobre os conceitos mais recentes.
 
-I'm not suggesting that those without PhDs are devoid of these skills or incapable of acquiring them. Rather, a PhD program is perhaps the only societal offering that explicitly hones these abilities. You don't get to practice them during your schooling, bachelor's degree, bootcamp, or in-house training.
+Não estou sugerindo que aqueles sem doutorado sejam desprovidos dessas habilidades ou incapazes de adquiri-las. Em vez disso, um programa de doutorado é talvez a única oferta social que aprimora explicitamente essas habilidades. Em geral, você não pratica essas habilidades explicitamente durante sua escolaridade, bacharelado, bootcamp ou treinamento interno.
 
-However, here's the caveat: PhD programs immerse you deeply in a specific and narrow niche within your field. The intensity of the program, coupled with a laser focus on contributing to the state-of-the-art, leaves little room for learning the practical facets of software engineering.
+No entanto, aqui está a advertência: os programas de doutorado mergulham você profundamente em um nicho específico e restrito dentro de sua área. A intensidade do programa, aliada ao foco na contribuição para o estado da arte, deixa pouco espaço para o aprendizado das facetas práticas da engenharia de software.
 
-This is arguably the PhD program's most significant drawback compared to traditional engineers. Nevertheless, I firmly believe that it's far easier to teach someone the current industry practices, principles, and tools than to instill the skills I've mentioned earlier. So, if you're nearing the conclusion of your PhD journey and aspire to embark on an industry career, set aside some time to familiarize yourself with practical software engineering.
+Esta é sem dúvida a desvantagem mais significativa do programa de doutorado em comparação com os engenheiros tradicionais. No entanto, acredito firmemente que é muito mais fácil ensinar a alguém as práticas, os princípios e as ferramentas atuais do setor do que incutir as habilidades que mencionei anteriormente. Portanto, se você está chegando ao fim de sua jornada de doutorado e deseja embarcar em uma carreira no setor, reserve algum tempo para se familiarizar com a engenharia de software prática.
 
-Wishing you the best of luck on your journey!
+Boa sorte nessa jornada!
 
-(Written by me, copy edited by ChatGPT)
+(Escrito por mim, revisado pelo ChatGPT)

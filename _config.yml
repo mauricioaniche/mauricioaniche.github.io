@@ -1,9 +1,10 @@
 
 # SEO settings
 title: Maurício Aniche
-description: "Maurício Aniche, Assistant Professor in Software Engineering at TU Delft"
+description: "Maurício Aniche — engenharia de software, liderança, livros e mentoria para Staff Engineers e diretores de engenharia."
+lang: pt-BR
 keywords: "mauricio aniche, aniche, tudelft, tu delft, software engineering, research"
-url: http://www.mauricioaniche.com
+url: https://www.mauricioaniche.com
 
 google_analytics: UA-10934071-4
 
@@ -21,7 +22,7 @@ collections:
   blog:
     permalink: /:collection/:title/
     output: true
-    
+
 defaults:
   - scope:
       path: ""

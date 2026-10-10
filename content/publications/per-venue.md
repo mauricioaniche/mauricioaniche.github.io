@@ -1,5 +1,5 @@
 ---
-title: Publications per venue
+title: Publicações por veículo
 layout: page
 permalink: /publications/venue
 ---
@@ -8,7 +8,7 @@ permalink: /publications/venue
 
 {% include get-all-publications.md %}
 
-## Journals
+## Periódicos
 
 ### Transactions on Software Engineering (TSE)
 
@@ -53,7 +53,7 @@ permalink: /publications/venue
 {% endfor %}
 
 
-## Conferences
+## Conferências
 
 
 ### International Conference on Software Engineering (ICSE)
@@ -92,7 +92,7 @@ permalink: /publications/venue
 {% endif %}
 {% endfor %}
 
-### Mining Software Repositories (MSR)
+### Mineração de repositórios de software (MSR)
 
 {% for post in sorted %}
 {% if post.categories contains "msr" %}
@@ -167,7 +167,7 @@ permalink: /publications/venue
 {% endfor %}
 
 
-## Arxiv
+## Preprints no arXiv
 
 {% for post in sorted %}
 {% if post.categories contains "arxiv" %}

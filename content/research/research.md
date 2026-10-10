@@ -1,95 +1,50 @@
 ---
-title: Research
+title: Pesquisa em engenharia de software
 layout: page
 permalink: /research
 ---
 
----
-
-**Doing pure research isn't my focus anymore.** But I've done a lot of it before, including some pretty good stuff, so this page stays! Feel free to message me about anything that's here!
-
----
+Minha trajetória de pesquisa conecta problemas reais de desenvolvimento a evidências e ferramentas que ajudam engenheiros a construir sistemas melhores. Hoje, meu foco está na liderança de engenharia, mas o acervo de trabalhos continua disponível aqui.
 
 {% include publications-menu.md %}
+{% assign sorted = site.publications | sort: 'date' | reverse %}
 
-{% assign sorted = site.publications | reverse %}
+## Manutenção e evolução de software
 
-**Software maintenance** can be quite expensive in practice. Researchers 
-estimate that 60% of the costs of a software
-is dedicated to its evolution, e.g., enhancements and bug fixes.
-Therefore, tools and techniques that help developers in better maintaining their
-software systems are of utmost importance to our society.
-
-To that aim, I focus my research on three topics:
-
-- **Software maintenance, refactoring, and evolution**: can we help developers in writing more maintainable and
-easy-to-evolve code? Can we help developers in better comprehending the source code of complex systems? Can we help developers in detecting problematic pieces of code that need to be refactored? Can we help them in refactor their code?
-
-- **Software testing**: Can we help developers in testing their software? Can we
-help developers in maintaining the large automated test suites they write?
-
-- **Machine learning for software engineering**: Can we leverage machine learning models to support software developers in their maintenance tasks?
-
-- **Software monitoring and log analysis**: Can we help developers in monitoring their systems? How can we leverage log data to give developers insights about how their systems behave in production?
-
-_TU Delft MSc students_: Are you looking for an interesting MSc thesis internship at Adyen? Just message me!
-
-## Software maintenance (evolution, refactoring, comprehension)
-
-Lots of research have been focusing on high-level quality measurements, such as
-coupling and cohesion in object-oriented systems.
-My research focuses on understanding and detecting
-what constitutes hard-to-maintain
-pieces of code in specific architectures, such as web and mobile applications.
-A key characteristic
-of my research is that it takes _the context_ of the system as a fundamental
-part of the model.
-
-**Key publications:**
+Como tornar o código mais fácil de entender, refatorar e evoluir? Minha pesquisa considera o contexto das arquiteturas para identificar os trechos que tornam sistemas web e mobile difíceis de manter.
 
 {% for post in sorted %}
-{% if post.categories contains "selected-maintenance" %}
+{% if post.categories contains 'selected-maintenance' %}
 {% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
+## Testes de software
 
-## Software testing
-
-In modern software development, testing _is_ code. My research focuses on
-helping developers in understanding what are the characteristics of a
-maintainable test code suite. 
-
-**Key publications:**
+Testes também são código. Investiguei como ajudar desenvolvedores a criar casos de teste eficazes e manter grandes suítes de testes automatizados.
 
 {% for post in sorted %}
-{% if post.categories contains "selected-testing" %}
+{% if post.categories contains 'selected-testing' %}
 {% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
+## Aprendizado de máquina para engenharia de software
 
-## Machine learning for software engineering
-
-Some software engineering problems are very hard to be modeled manually. This is where machine learning and deep learning steps in. My research focuses on training machine learning models to support developers in different maintenance tasks.
+Modelos de aprendizado de máquina podem apoiar tarefas de manutenção que são difíceis de modelar manualmente. Essa linha de pesquisa explora como usar esses modelos no trabalho de desenvolvimento.
 
 {% for post in sorted %}
-{% if post.categories contains "selected-ml4se" %}
+{% if post.categories contains 'selected-ml4se' %}
 {% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
 
-## Software monitoring and log analysis
+## Monitoramento e análise de logs
 
-Testing might not be enough in large-scale complex systems. Thus, monitoring
-is fundamental to their maintenance. My research focuses on better understanding
-and providing tools for modern software monitoring. 
-
-**Key publications:**
+Em sistemas complexos, os testes precisam ser complementados pelo monitoramento. Pesquisei ferramentas que ajudam desenvolvedores a entender o comportamento dos sistemas em produção a partir dos logs.
 
 {% for post in sorted %}
-{% if post.categories contains "selected-monitoring" %}
+{% if post.categories contains 'selected-monitoring' %}
 {% include publication-snippet.html %}
 {% endif %}
 {% endfor %}
-

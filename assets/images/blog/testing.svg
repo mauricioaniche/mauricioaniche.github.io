@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e8e4d6" />
+  <g opacity=".18" stroke="#234a3a" stroke-width="1">
+    <path d="M0 0V500" />
+    <path d="M50 0V500" />
+    <path d="M100 0V500" />
+    <path d="M150 0V500" />
+    <path d="M200 0V500" />
+    <path d="M250 0V500" />
+    <path d="M300 0V500" />
+    <path d="M350 0V500" />
+    <path d="M400 0V500" />
+    <path d="M450 0V500" />
+    <path d="M500 0V500" />
+    <path d="M550 0V500" />
+    <path d="M600 0V500" />
+    <path d="M650 0V500" />
+    <path d="M700 0V500" />
+    <path d="M750 0V500" />
+    <path d="M800 0V500" />
+    <path d="M0 0H800" />
+    <path d="M0 50H800" />
+    <path d="M0 100H800" />
+    <path d="M0 150H800" />
+    <path d="M0 200H800" />
+    <path d="M0 250H800" />
+    <path d="M0 300H800" />
+    <path d="M0 350H800" />
+    <path d="M0 400H800" />
+    <path d="M0 450H800" />
+    <path d="M0 500H800" />
+  </g>
+  <g fill="#f7f7ef" stroke="#a9b296" stroke-width="2">
+    <rect x="175" y="120" width="450" height="270" rx="14" />
+    <path d="M175 165H625" />
+  </g>
+  <g fill="#a9b296">
+    <circle cx="205" cy="142" r="5" />
+    <circle cx="225" cy="142" r="5" />
+    <circle cx="245" cy="142" r="5" />
+  </g>
+  <g stroke="#9fab92" stroke-width="7" stroke-linecap="round">
+    <path d="M270 215H540M270 270H490M270 325H515" />
+  </g>
+  <g
+    fill="none"
+    stroke="#315641"
+    stroke-width="5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
+    <path d="M212 211L224 224L245 202M212 266L224 279L245 257" />
+    <circle cx="230" cy="325" r="14" />
+    <path d="M225 320L235 330M235 320L225 330" />
+  </g>
+  <text
+    x="32"
+    y="466"
+    font-family="sans-serif"
+    font-size="13"
+    letter-spacing="3"
+    fill="#234a3a"
+  >
+    TESTES &amp; QUALIDADE
+  </text>
+  <text x="738" y="466" font-family="sans-serif" font-size="20" fill="#234a3a">
+    ↗
+  </text>
+</svg>

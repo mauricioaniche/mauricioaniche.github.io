@@ -8,14 +8,14 @@ year: 2015
 doi: 10.1186/s13173-015-0034-z
 ---
 
-Background:
-Developers commonly affirm that writing unit tests improve internal quality of a software, besides a more obvious effect on external quality. This is particularly common among Test-Driven Development (TDD) pactitioners, who leverage the acting of writing tests to think about and improve class design. However, it is not clear how this effect occurs.
+Antecedentes:
+Os desenvolvedores comumente afirmam que escrever testes unitários melhora a qualidade interna de um software, além de ter um efeito mais óbvio na qualidade externa. Isso é particularmente comum entre os praticantes de Desenvolvimento Orientado a Testes (TDD), que aproveitam a atuação de escrever testes para pensar e melhorar o design de classes. Contudo, não está claro como esse efeito ocorre.
 
-Methods:
-This study investigates the developers’ perceptions on how the practice of TDD influences class design, by means of a qualitative study with 25 participants from 6 different companies in Brazil. In this paper, we share their opinions and experience.
+Métodos:
+Este estudo investiga as percepções dos desenvolvedores sobre como a prática do TDD influencia o design de classes, por meio de um estudo qualitativo com 25 participantes de 6 empresas diferentes no Brasil. Neste artigo, compartilhamos suas opiniões e experiências.
 
-Results:
-According to them, the practice of test-driven development does not drive directly the design, but gives them a safe space to think, the opportunity to refactor constantly, and subtle feedback given by unit tests, are responsible to improve the class design.
+Resultados:
+Segundo eles, a prática do desenvolvimento orientado a testes não orienta diretamente o design, mas dá-lhes um espaço seguro para pensar, a oportunidade de refatorar constantemente e o feedback sutil dado pelos testes unitários são responsáveis por melhorar o design da classe.
 
-Conclusions:
-We suggest developers to experiment the practice of TDD, as its effects look positive to software developers. As future work, tools may be developed to automatically warn developers about classes that have testability problems, or even to suggest them to practice TDD in specific parts of the code.
+Conclusões:
+Sugerimos que os desenvolvedores experimentem a prática do TDD, pois seus efeitos parecem positivos para os desenvolvedores de software. Como trabalhos futuros, poderão ser desenvolvidas ferramentas para alertar automaticamente os desenvolvedores sobre classes que apresentam problemas de testabilidade, ou até mesmo sugerir que pratiquem TDD em partes específicas do código.

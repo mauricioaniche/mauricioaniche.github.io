@@ -9,8 +9,8 @@ year: 2019
 ---
 
 
-Software testing is an important topic in software engineering education, and yet highly challenging from an educational perspective: students are required to learn several testing techniques, to be able to distinguish the right technique to apply, to evaluate the quality of their test suites, and to write maintainable test code. 
+O teste de software é um tópico importante no ensino de engenharia de software e, ainda assim, altamente desafiador do ponto de vista educacional: os alunos são obrigados a aprender diversas técnicas de teste, para serem capazes de distinguir a técnica certa a ser aplicada, para avaliar a qualidade de seus conjuntos de testes e para escrever código de teste sustentável.
 
-In this paper, we describe how we have been adding a pragmatic perspective to our software testing course, and explore students' common mistakes, hard topics to learn, favourite learning activities, and challenges they face. To that aim, we analyze the feedback reports that our team of Teaching Assistants gave to the 230 students of our 2016-2017 software testing course at Delft University of Technology. We also survey 84 students and seven of our teaching assistants on their perceptions. 
+Neste artigo, descrevemos como adicionamos uma perspectiva pragmática ao nosso curso de teste de software e exploramos os erros comuns dos alunos, os tópicos difíceis de aprender, as atividades de aprendizagem favoritas e os desafios que eles enfrentam. Para esse efeito, analisamos os relatórios de feedback que a nossa equipa de Assistentes de Ensino deu aos 230 alunos do nosso curso de testes de software 2016-2017 na Delft University of Technology. Também entrevistamos 84 alunos e sete de nossos professores assistentes sobre suas percepções.
 
-Our results help educators not only to propose pragmatic software testing courses in their faculties, but also bring understanding on the challenges that software testing students face when taking software testing courses.
+Nossos resultados ajudam os educadores não apenas a propor cursos pragmáticos de teste de software em suas faculdades, mas também a trazer compreensão sobre os desafios que os alunos de teste de software enfrentam ao fazer cursos de teste de software.

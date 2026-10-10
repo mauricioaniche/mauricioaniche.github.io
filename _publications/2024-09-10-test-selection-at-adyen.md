@@ -7,10 +7,10 @@ categories: ["blog", "testing", "adyen", "selected-testing"]
 year: 2024
 ---
 
-If you work on a large-scale software system, odds are that a significant part of your build goes to test execution. It so often happens that you change one line of code but you get thousands of tests running, even though the majority of those tests don't even get close to that line of code.
+Se você trabalha em um sistema de software de grande escala, é provável que uma parte significativa de sua construção seja destinada à execução de testes. Muitas vezes acontece que você altera uma linha de código, mas executa milhares de testes, mesmo que a maioria desses testes nem chegue perto dessa linha de código.
 
-Test selection is a problem that software engineering researchers have been working on for decades now, but surprisingly there are no industry-wide solutions yet; therefore, companies might need to implement their own services for that. 
+A seleção de testes é um problema no qual os pesquisadores de engenharia de software vêm trabalhando há décadas, mas surpreendentemente ainda não existem soluções para todo o setor; portanto, as empresas podem precisar implementar seus próprios serviços para isso.
 
-At Adyen, we implemented our own test selection tool. We saw benefits such as a reduction in the number of tests executed by 30x, CPU time savings by 12x, and overall pipelines faster by 10% to 30%.
+Na Adyen, implementamos nossa própria ferramenta de seleção de testes. Vimos benefícios como uma redução de 30 vezes no número de testes executados, economia de tempo de CPU em 12 vezes e pipelines gerais mais rápidos em 10% a 30%.
 
-* [Blog post](https://www.adyen.com/knowledge-hub/test-selection-at-adyen)
+* [Postagem no blog](https://www.adyen.com/knowledge-hub/test-selection-at-adyen)

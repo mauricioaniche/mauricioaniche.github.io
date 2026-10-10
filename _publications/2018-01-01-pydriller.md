@@ -8,9 +8,9 @@ categories: ["publication", "conference", "fse", "tool"]
 year: 2018
 ---
 
-Software repositories contain historical and valuable information about the overall development of software systems. Mining software repositories (MSR) is nowadays considered one of the most interesting growing fields within software engineering. MSR focuses on extracting and analyzing data available in software repositories to uncover interesting, useful, and actionable information about the system. Even though MSR plays an important role in software engineering research, few tools have been created and made public to support developers in extracting information from Git repository. 
+Os repositórios de software contêm informações históricas e valiosas sobre o desenvolvimento geral de sistemas de software. Repositórios de software de mineração (MSR) são hoje considerados um dos campos de crescimento mais interessantes dentro da engenharia de software. O MSR concentra-se na extração e análise de dados disponíveis em repositórios de software para descobrir informações interessantes, úteis e acionáveis sobre o sistema. Embora o MSR desempenhe um papel importante na pesquisa de engenharia de software, poucas ferramentas foram criadas e divulgadas para apoiar os desenvolvedores na extração de informações do repositório Git.
 
-In this paper, we present PyDriller, a Python Framework that eases the process of mining Git. We compare our tool against the state-of-the-art Python Framework GitPython, demonstrating that PyDriller can achieve the same results with, on average, 50% less LOC and significantly lower complexity.
+Neste artigo, apresentamos o PyDriller, um Framework Python que facilita o processo de mineração do Git. Comparamos nossa ferramenta com o Python Framework GitPython de última geração, demonstrando que o PyDriller pode alcançar os mesmos resultados com, em média, 50% menos LOC e complexidade significativamente menor.
 
 
-The tool is freely available on [GitHub](https://github.com/ishepard/pydriller).
+A ferramenta está disponível gratuitamente no [GitHub](https://github.com/ishepard/pydriller).

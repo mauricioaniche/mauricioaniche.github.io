@@ -7,8 +7,8 @@ categories: ["blog", "upskilling", "adyen"]
 year: 2022
 ---
 
-Helping engineers get up to speed quickly and get even better at their jobs is a must for any tech company. It’s also an enormous challenge.Fortunately, we at the Adyen Tech Academy are here and ready to help our engineers on their learning journey!
+Ajudar os engenheiros a se atualizarem rapidamente e a melhorarem ainda mais seu trabalho é uma obrigação para qualquer empresa de tecnologia. É também um enorme desafio. Felizmente, nós da Adyen Tech Academy estamos aqui e prontos para ajudar nossos engenheiros em sua jornada de aprendizagem!
 
-We're currently celebrating our first year of existence in the company and we have learned a lot during this time. In the next sections, we'll convince you why having a tech academy is important, explain how we handle onboarding and upskilling, and outline some of the challenges we have faced when building our academy.
+Estamos comemorando nosso primeiro ano de existência na empresa e aprendemos muito nesse período. Nas próximas seções, vamos convencê-lo por que ter uma academia de tecnologia é importante, explicaremos como lidamos com a integração e o aprimoramento de habilidades e descreveremos alguns dos desafios que enfrentamos ao construir nossa academia.
 
-* [Blog post](https://www.adyen.com/knowledge-hub/taking-onboarding-and-upskilling-to-the-next-level)
+* [Postagem no blog](https://www.adyen.com/knowledge-hub/taking-onboarding-and-upskilling-to-the-next-level)

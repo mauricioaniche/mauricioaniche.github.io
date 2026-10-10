@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e4dfcf" />
+  <g opacity=".18" stroke="#244f3e" stroke-width="1">
+    <path d="M0 0V500" />
+    <path d="M50 0V500" />
+    <path d="M100 0V500" />
+    <path d="M150 0V500" />
+    <path d="M200 0V500" />
+    <path d="M250 0V500" />
+    <path d="M300 0V500" />
+    <path d="M350 0V500" />
+    <path d="M400 0V500" />
+    <path d="M450 0V500" />
+    <path d="M500 0V500" />
+    <path d="M550 0V500" />
+    <path d="M600 0V500" />
+    <path d="M650 0V500" />
+    <path d="M700 0V500" />
+    <path d="M750 0V500" />
+    <path d="M800 0V500" />
+    <path d="M0 0H800" />
+    <path d="M0 50H800" />
+    <path d="M0 100H800" />
+    <path d="M0 150H800" />
+    <path d="M0 200H800" />
+    <path d="M0 250H800" />
+    <path d="M0 300H800" />
+    <path d="M0 350H800" />
+    <path d="M0 400H800" />
+    <path d="M0 450H800" />
+    <path d="M0 500H800" />
+  </g>
+  <g fill="none" stroke="#9eaa8d" stroke-width="1">
+    <circle cx="400" cy="250" r="160" />
+    <circle cx="400" cy="250" r="115" />
+    <circle cx="400" cy="250" r="70" />
+  </g>
+  <path
+    d="M180 355H275V295H365V230H455V165H545V110H625"
+    fill="none"
+    stroke="#244f3e"
+    stroke-width="14"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M588 78L630 108L592 146"
+    fill="none"
+    stroke="#244f3e"
+    stroke-width="10"
+    stroke-linejoin="round"
+  />
+  <circle cx="180" cy="355" r="11" fill="#244f3e" />
+  <path
+    d="M275 355V400M365 295V400M455 230V400M545 165V400"
+    stroke="#a4ad92"
+    stroke-width="2"
+    stroke-dasharray="5 8"
+  />
+  <text
+    x="32"
+    y="466"
+    font-family="sans-serif"
+    font-size="13"
+    letter-spacing="3"
+    fill="#244f3e"
+  >
+    CARREIRA &amp; PESQUISA
+  </text>
+  <text x="738" y="466" font-family="sans-serif" font-size="20" fill="#244f3e">
+    ↗
+  </text>
+</svg>

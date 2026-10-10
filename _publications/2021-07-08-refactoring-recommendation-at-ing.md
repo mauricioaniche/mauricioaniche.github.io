@@ -9,8 +9,8 @@ categories: ["publication", "conference", "favorite", "ml4se", "maintenance", "s
 year: 2021
 ---
 
-The sound identification of refactoring opportunities is still an open problem in software engineering. Recent studies have shown the effectiveness of machine learning models in recommending methods that should undergo different refactoring operations. 
+A identificação sólida de oportunidades de refatoração ainda é um problema em aberto na engenharia de software. Estudos recentes têm demonstrado a eficácia dos modelos de aprendizado de máquina na recomendação de métodos que devem passar por diferentes operações de refatoração.
 
-In this work, we experiment with such approaches to identify methods that should undergo an Extract Method refactoring, in the context of ING, a large financial organization. More specifically, we (i) compare the code metrics distributions, which are used as features by the models, between open-source and ING systems, (ii) measure the accuracy of different machine learning models in recommending Extract Method refactorings, (iii) compare the recommendations given by the models with the opinions of ING experts. 
+Neste trabalho, experimentamos tais abordagens para identificar métodos que deveriam passar por uma refatoração do Extract Method, no contexto do ING, uma grande organização financeira. Mais especificamente, (i) comparamos as distribuições de métricas de código, que são usadas como recursos pelos modelos, entre sistemas de código aberto e ING, (ii) medimos a precisão de diferentes modelos de aprendizado de máquina na recomendação de refatorações do Método de Extração, (iii) comparamos as recomendações dadas pelos modelos com as opiniões de especialistas do ING.
 
-Our results show that the feature distributions of ING systems and open-source systems are somewhat different, that machine learning models can recommend Extract Method refactorings with high accuracy, and that experts tend to agree with most of the recommendations of the model.
+Nossos resultados mostram que as distribuições de recursos dos sistemas ING e dos sistemas de código aberto são um pouco diferentes, que os modelos de aprendizado de máquina podem recomendar refatorações do Método de Extração com alta precisão e que os especialistas tendem a concordar com a maioria das recomendações do modelo.

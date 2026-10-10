@@ -10,8 +10,8 @@ year: 2021
 videoen: "8RUAeKsjho4"
 ---
 
-Mistakes in binary conditions are a source of error in many software systems. They happen when developers use, e.g., < or > instead of <= or >=. These boundary mistakes are hard to find and impose manual, labor-intensive work for software developers. While previous research has been proposing solutions to identify errors in boundary conditions, the problem remains open. 
+Erros em condições binárias são uma fonte de erros em muitos sistemas de software. Eles acontecem quando os desenvolvedores usam, por exemplo, < or > em vez de <= or >=. Esses erros de limite são difíceis de encontrar e impõem trabalho manual e trabalhoso para desenvolvedores de software. Embora pesquisas anteriores tenham proposto soluções para identificar erros nas condições de contorno, o problema permanece em aberto.
 
-In this paper, we explore the effectiveness of deep learning models in learning and predicting mistakes in boundary conditions. We train different models on approximately 1.6M examples with faults in different boundary conditions. 
+Neste artigo, exploramos a eficácia dos modelos de aprendizagem profunda na aprendizagem e na previsão de erros em condições de contorno. Treinamos diferentes modelos em aproximadamente 1,6 milhões de exemplos com falhas em diferentes condições de contorno.
 
-We achieve a precision of 85% and a recall of 84% on a balanced dataset, but lower numbers in an imbalanced dataset. We also perform tests on 41 real-world boundary condition bugs found from GitHub, where the model shows only a modest performance. Finally, we test the model on a large-scale Java code base from Adyen, our industrial partner. The model reported 36 buggy methods, but none of them were confirmed by developers.
+Alcançamos uma precisão de 85% e um recall de 84% em um conjunto de dados balanceado, mas números mais baixos em um conjunto de dados desequilibrado. Também realizamos testes em 41 bugs de condições de contorno do mundo real encontrados no GitHub, onde o modelo mostra apenas um desempenho modesto. Por fim, testamos o modelo em uma base de código Java em larga escala da Adyen, nosso parceiro industrial. O modelo relatou 36 métodos com bugs, mas nenhum deles foi confirmado pelos desenvolvedores.

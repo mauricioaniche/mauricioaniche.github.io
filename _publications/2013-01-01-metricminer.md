@@ -8,6 +8,6 @@ year: 2013
 doi: "10.1109/SCAM.2013.6648195"
 ---
 
-Researchers use mining software repository (MSR) techniques for studying software engineering empirically, by means of analysis of artifacts, such as source code, version control systems meta data, etc. However, to conduct a study using these techniques, researchers usually spend time collecting data anddeveloping a complex infrastructure, which demands disk space and processing time. In this paper, we present MetricMiner, a web application aimed to support researchers in some steps of mining software repositories, such as metrics calculation, data extraction, and statistical inference. The tool also contains data ready to be analyzed, saving time and computational resources.
+Pesquisadores utilizam técnicas de repositório de software de mineração (MSR) para estudar engenharia de software de forma empírica, por meio de análise de artefatos, como código-fonte, metadados de sistemas de controle de versão, etc. Porém, para realizar um estudo utilizando essas técnicas, os pesquisadores geralmente gastam tempo coletando dados e desenvolvendo uma infraestrutura complexa, que demanda espaço em disco e tempo de processamento. Neste artigo apresentamos o MetricMiner, uma aplicação web que visa apoiar pesquisadores em algumas etapas da mineração de repositórios de software, como cálculo de métricas, extração de dados e inferência estatística. A ferramenta também contém dados prontos para serem analisados, economizando tempo e recursos computacionais.
 
-(This project has been deprecated. See our FSE 2018 publication on Pydriller.)
+(Este projeto foi descontinuado. Consulte nossa publicação FSE 2018 no Pydriller.)

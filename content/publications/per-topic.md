@@ -1,5 +1,5 @@
 ---
-title: Publications per topic
+title: Publicações por tema
 layout: page
 permalink: /publications/topic
 ---
@@ -8,7 +8,7 @@ permalink: /publications/topic
 
 {% include get-all-publications.md %}
 
-## Software Maintenance (evolution, refactoring, and comprehension)
+## Manutenção de software (evolução, refatoração e compreensão)
 
 
 {% for post in sorted %}
@@ -18,7 +18,7 @@ permalink: /publications/topic
 {% endfor %}
 
 
-## Software Testing
+## Testes de software
 
 {% for post in sorted %}
 {% if post.categories contains "testing" %}
@@ -27,7 +27,7 @@ permalink: /publications/topic
 {% endfor %}
 
 
-## Runtime monitoring, log analysis, and DevOps
+## Monitoramento, análise de logs e DevOps
 
 {% for post in sorted %}
 {% if post.categories contains "monitoring" %}
@@ -35,7 +35,7 @@ permalink: /publications/topic
 {% endif %}
 {% endfor %}
 
-## Machine Learning for Software Engineering
+## Aprendizado de máquina para engenharia de software
 
 {% for post in sorted %}
 {% if post.categories contains "ml4se" %}
@@ -43,7 +43,7 @@ permalink: /publications/topic
 {% endif %}
 {% endfor %}
 
-## Software Security
+## Segurança de software
 
 {% for post in sorted %}
 {% if post.categories contains "security" %}
@@ -60,7 +60,7 @@ permalink: /publications/topic
 {% endif %}
 {% endfor %}
 
-## Human Factors in Software Engineering
+## Fatores humanos em engenharia de software
 
 {% for post in sorted %}
 {% if post.categories contains "human-factors" %}
@@ -68,7 +68,7 @@ permalink: /publications/topic
 {% endif %}
 {% endfor %}
 
-## Mining Software Repository
+## Mineração de repositórios de software
 
 {% for post in sorted %}
 {% if post.categories contains "msr" %}
@@ -76,7 +76,7 @@ permalink: /publications/topic
 {% endif %}
 {% endfor %}
 
-## Software Engineering Education
+## Educação em engenharia de software
 
 {% for post in sorted %}
 {% if post.categories contains "education" %}

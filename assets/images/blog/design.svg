@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#274638" />
+  <g opacity=".18" stroke="#d4e8a8" stroke-width="1">
+    <path d="M0 0V500" />
+    <path d="M50 0V500" />
+    <path d="M100 0V500" />
+    <path d="M150 0V500" />
+    <path d="M200 0V500" />
+    <path d="M250 0V500" />
+    <path d="M300 0V500" />
+    <path d="M350 0V500" />
+    <path d="M400 0V500" />
+    <path d="M450 0V500" />
+    <path d="M500 0V500" />
+    <path d="M550 0V500" />
+    <path d="M600 0V500" />
+    <path d="M650 0V500" />
+    <path d="M700 0V500" />
+    <path d="M750 0V500" />
+    <path d="M800 0V500" />
+    <path d="M0 0H800" />
+    <path d="M0 50H800" />
+    <path d="M0 100H800" />
+    <path d="M0 150H800" />
+    <path d="M0 200H800" />
+    <path d="M0 250H800" />
+    <path d="M0 300H800" />
+    <path d="M0 350H800" />
+    <path d="M0 400H800" />
+    <path d="M0 450H800" />
+    <path d="M0 500H800" />
+  </g>
+  <g stroke="#b4c5a2" stroke-width="2" fill="none">
+    <path d="M400 150V210M250 250H550M250 250V300M550 250V300M400 250V300" />
+  </g>
+  <g fill="#345543" stroke="#abc099" stroke-width="2">
+    <rect x="325" y="95" width="150" height="90" rx="10" />
+    <rect x="175" y="300" width="150" height="90" rx="10" />
+    <rect x="325" y="300" width="150" height="90" rx="10" />
+    <rect x="475" y="300" width="150" height="90" rx="10" />
+  </g>
+  <g fill="#d4e8a8">
+    <rect x="357" y="131" width="86" height="8" rx="4" />
+    <rect x="207" y="339" width="86" height="8" rx="4" />
+    <rect x="357" y="339" width="86" height="8" rx="4" />
+    <rect x="507" y="339" width="86" height="8" rx="4" />
+  </g>
+  <text
+    x="32"
+    y="466"
+    font-family="sans-serif"
+    font-size="13"
+    letter-spacing="3"
+    fill="#d4e8a8"
+  >
+    DESIGN &amp; ARQUITETURA
+  </text>
+  <text x="738" y="466" font-family="sans-serif" font-size="20" fill="#d4e8a8">
+    ↗
+  </text>
+</svg>
