@@ -13,6 +13,9 @@ markdown    : kramdown
 highlighter : rouge
 
 collections:
+  media:
+    permalink: /conteudo/:title/
+    output: true
   publications:
     permalink: /:collection/:title/
     output: true
@@ -26,9 +29,29 @@ collections:
 defaults:
   - scope:
       path: ""
+      type: "blog"
+    values:
+      content_type: blog
+  - scope:
+      path: ""
+      type: "talks"
+    values:
+      layout: content-detail
+      content_type: talks
+      image: /assets/images/content/talk.svg
+  - scope:
+      path: ""
+      type: "media"
+    values:
+      layout: content-detail
+      content_type: podcasts
+      image: /assets/images/content/podcast.svg
+  - scope:
+      path: ""
       type: "publications"
     values:
       layout: "publication"
+      content_type: publications
 
 destination: _site
 

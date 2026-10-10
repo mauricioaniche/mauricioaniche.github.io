@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{% include content-metadata.html item=page %}
+<article class="post reading-post content-detail">
+  <header class="post-header">
+    <a class="text-link" href="{{ '/conteudo' | relative_url }}?tipo={{ entry_type }}">← {{ type_info.label }} no conteúdo</a>
+    <p class="eyebrow">{{ type_info.singular }}{% if page.source_name %} / {{ page.source_name | escape }}{% endif %}</p>
+    <h1 class="post-title">{{ page.display_title | default: page.title | escape }}</h1>
+    <p class="post-meta">Maurício Aniche{% if page.year %} · {{ page.year }}{% elsif entry_type == 'talks' %} · {{ page.date | date: '%Y' }}{% endif %}{% if page.language %} · {{ page.language | escape }}{% endif %}</p>
+    <img class="post-hero-image" src="{{ entry_image | relative_url }}" alt="" width="800" height="500">
+  </header>
+  <div class="post-content">{{ content }}</div>
+  {% if page.external_url %}<aside class="resource-link-panel"><p class="eyebrow">{{ page.source_name | default: 'Publicação original' | escape }}</p><h2>{% if entry_type == 'podcasts' %}Acompanhe a conversa completa.{% else %}Leia o texto completo.{% endif %}</h2><p>Disponível em {{ page.language | default: 'português' | escape }} no site de origem.</p><a class="button" href="{{ page.external_url | escape }}">{{ page.external_action | default: 'Abrir conteúdo original' }} <span aria-hidden="true">↗</span></a></aside>{% endif %}
+  <aside class="post-end"><h2>Continue explorando.</h2><p>Mais artigos, palestras, podcasts e pesquisas no acervo.</p><a class="text-link" href="{{ '/conteudo' | relative_url }}">Todo o conteúdo ↗</a></aside>
+</article>

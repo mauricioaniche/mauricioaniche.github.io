@@ -1,7 +1,9 @@
 ---
 title: "Design orientado a objetos simples"
-layout: page
+layout: content-detail
 categories: ["talk"]
+description: "Princípios para controlar a complexidade e construir software orientado a objetos mais simples."
+image: /assets/images/blog/design.svg
 ---
 
 Nesta palestra, abordarei sete práticas de codificação que têm me ajudado a projetar sistemas de software orientados a objetos de fácil manutenção. Como você verá, eles não são novos em si, mas todos têm meu toque pragmático pessoal.

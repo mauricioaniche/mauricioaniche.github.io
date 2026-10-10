@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e6e0d4" />
+  <circle
+    cx="400"
+    cy="240"
+    r="120"
+    stroke="#7e9273"
+    fill="none"
+    opacity=".25"
+  />
+  <circle
+    cx="400"
+    cy="240"
+    r="170"
+    stroke="#7e9273"
+    fill="none"
+    opacity=".25"
+  />
+  <circle
+    cx="400"
+    cy="240"
+    r="220"
+    stroke="#7e9273"
+    fill="none"
+    opacity=".25"
+  />
+  <g fill="none" stroke="#355744" stroke-width="5" stroke-linecap="round">
+    <path d="M335 180V255a65 65 0 00130 0v-75M400 320v55M355 375h90" />
+    <rect x="363" y="115" width="74" height="175" rx="37" fill="#e6e0d4" />
+    <path d="M385 145h30M385 165h30M385 185h30" stroke-width="3" />
+  </g>
+  <g fill="none" stroke="#7e9273" stroke-width="4" stroke-linecap="round">
+    <path
+      d="M235 205v75M265 175v135M295 210v65M505 210v65M535 175v135M565 205v75"
+    />
+  </g>
+  <text
+    x="32"
+    y="466"
+    font-family="sans-serif"
+    font-size="13"
+    letter-spacing="3"
+    fill="#355744"
+  >
+    CONVERSAS &amp; IDEIAS
+  </text>
+  <text x="738" y="466" font-family="sans-serif" font-size="20" fill="#355744">
+    ↗
+  </text>
+</svg>

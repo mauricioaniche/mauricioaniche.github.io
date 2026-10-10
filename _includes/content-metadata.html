@@ -1,0 +1,23 @@
+{%- assign entry = include.item | default: post | default: page -%}
+{%- assign entry_type = entry.content_type | default: 'publications' -%}
+{%- assign type_info = site.data.content_types | where: 'id', entry_type | first -%}
+{%- assign entry_image = entry.image -%}
+{%- unless entry_image -%}
+  {%- if entry.categories contains 'education' -%}
+    {%- assign entry_image = '/assets/images/blog/education.svg' -%}
+  {%- elsif entry.categories contains 'ml4se' -%}
+    {%- assign entry_image = '/assets/images/blog/ai.svg' -%}
+  {%- elsif entry.categories contains 'testing' -%}
+    {%- assign entry_image = '/assets/images/blog/testing.svg' -%}
+  {%- elsif entry.categories contains 'maintenance' -%}
+    {%- assign entry_image = '/assets/images/blog/design.svg' -%}
+  {%- elsif entry.categories contains 'monitoring' -%}
+    {%- assign entry_image = '/assets/images/content/monitoring.svg' -%}
+  {%- else -%}
+    {%- assign entry_image = '/assets/images/content/research.svg' -%}
+  {%- endif -%}
+{%- endunless -%}
+{%- assign entry_description = entry.description | default: entry.excerpt | default: entry.content | strip_html | normalize_whitespace -%}
+{%- if entry_description == '' -%}
+  {%- assign entry_description = 'Uma apresentação de Maurício Aniche sobre práticas e desafios de engenharia de software.' -%}
+{%- endif -%}

@@ -1,0 +1,20 @@
+- id: blog
+  label: Blog
+  singular: Artigo do blog
+  action: Ler artigo
+- id: talks
+  label: Palestras
+  singular: Palestra
+  action: Ver palestra
+- id: podcasts
+  label: Podcasts
+  singular: Podcast e entrevista
+  action: Conhecer episódio
+- id: external
+  label: Artigos externos
+  singular: Artigo em outro site
+  action: Conhecer artigo
+- id: publications
+  label: Publicações
+  singular: Publicação científica
+  action: Ver publicação

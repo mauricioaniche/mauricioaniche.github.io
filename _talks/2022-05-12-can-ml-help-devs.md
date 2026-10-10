@@ -1,7 +1,9 @@
 ---
 title: "Aprendizado de máquina pode ajudar desenvolvedores? Aventuras de um pesquisador"
-layout: page
+layout: content-detail
 categories: ["talk"]
+description: "As possibilidades do aprendizado de máquina para apoiar desenvolvedores em tarefas de engenharia de software."
+image: /assets/images/blog/ai.svg
 ---
 
 Todos nós já ouvimos falar das coisas incríveis que o aprendizado de máquina pode fazer. Pode dirigir carros, pode detectar se as pessoas estão usando equipamentos seguros, pode jogar. Mas... isso pode ajudar os desenvolvedores de software a, digamos, encontrar bugs ou refatorar códigos?

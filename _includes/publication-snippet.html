@@ -1,15 +1,1 @@
-
-<div class="publication-snippet">
-	<a class="paper-link" href="{{ post.url }}">{{ post.title }}</a>
-	<span class="authors">{{ post.authors }}</span>
-
-      {% if post.conference %}
-  <span class="conference">{{ post.conference }}, {{ post.year }}</span>
-      {% else %}
-  <span class="conference">Versão ainda não revisada por pares (em avaliação), {{ post.year }}</span>
-      {% endif %}
-
-	<div class="paper-description">
-	{{ post.content | strip_html | truncate: 350  }}
-	</div>
-</div>
+{% include content-card.html item=post compact=true %}

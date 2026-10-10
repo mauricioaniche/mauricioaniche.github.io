@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e4e7de" />
+  <path
+    d="M190 120h420v215H190z"
+    fill="#f8f8ef"
+    stroke="#8ba080"
+    stroke-width="3"
+  />
+  <path
+    d="M240 175h210M240 210h300M240 245h170"
+    stroke="#8ba080"
+    stroke-width="7"
+    stroke-linecap="round"
+  />
+  <circle cx="515" cy="310" r="35" fill="#315544" />
+  <path d="M465 410v-35a50 50 0 01100 0v35" fill="#315544" />
+  <path
+    d="M205 355h215l-20 70H225z"
+    fill="#b5c79a"
+    stroke="#315544"
+    stroke-width="2"
+  />
+  <text
+    x="32"
+    y="466"
+    font-family="sans-serif"
+    font-size="13"
+    letter-spacing="3"
+    fill="#315544"
+  >
+    ENGENHARIA EM PERSPECTIVA
+  </text>
+  <text x="738" y="466" font-family="sans-serif" font-size="20" fill="#315544">
+    ↗
+  </text>
+</svg>

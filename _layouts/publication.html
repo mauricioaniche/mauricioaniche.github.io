@@ -4,6 +4,9 @@ layout: default
 <div class="post">
 
   <header class="post-header">
+    {% include content-metadata.html item=page %}
+    <a class="text-link content-back-link" href="{{ '/conteudo' | relative_url }}?tipo=publications">← Publicações no conteúdo</a>
+    <p class="eyebrow">Publicação científica</p>
 
       <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
 
@@ -20,6 +23,7 @@ layout: default
     </div>
   </header>
 
+  <img class="publication-cover" src="{{ entry_image | relative_url }}" alt="" width="800" height="500">
   <div class="post-content publication-abstract" itemprop="articleBody">
     {{ content }}
   </div>

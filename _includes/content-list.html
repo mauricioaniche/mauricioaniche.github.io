@@ -1,0 +1,29 @@
+{% assign dated_content = site.blog | concat: site.talks | concat: site.publications | sort: 'date' | reverse %}
+{% assign media_content = site.media | sort: 'title' %}
+{% assign all_content = dated_content | concat: media_content %}
+{% assign list_scope = include.scope | default: 'all' %}
+{% assign list_content = all_content %}
+{% if list_scope == 'blog' %}{% assign list_content = all_content | where: 'content_type', 'blog' %}
+{% elsif list_scope == 'podcasts' %}{% assign list_content = all_content | where: 'content_type', 'podcasts' %}
+{% elsif list_scope == 'publications' %}{% assign list_content = all_content | where: 'content_type', 'publications' %}
+{% elsif list_scope == 'conversations' %}{% assign list_content = all_content | where_exp: 'item', 'item.content_type != "blog"' | where_exp: 'item', 'item.content_type != "publications"' %}
+{% endif %}
+{% assign available_types = list_content | map: 'content_type' | uniq %}
+<div class="content-library" data-content-library>
+  <div class="blog-controls content-controls">
+    <div class="filter-buttons" role="group" aria-label="Filtrar conteúdo por categoria">
+      <button type="button" class="active" data-filter="all" aria-pressed="true">Todos <span>{{ list_content.size }}</span></button>
+      {% for type in site.data.content_types %}{% if available_types contains type.id %}
+      {% assign type_content = list_content | where: 'content_type', type.id %}
+      <button type="button" data-filter="{{ type.id }}" aria-pressed="false">{{ type.label }} <span>{{ type_content.size }}</span></button>
+      {% endif %}{% endfor %}
+    </div>
+    <label class="search-label"><span class="sr-only">Buscar conteúdo por título, assunto ou autor</span><input type="search" data-content-search placeholder="Buscar conteúdo…"></label>
+  </div>
+  <p class="content-result-count" data-content-count role="status" aria-live="polite">{{ list_content.size }} conteúdos disponíveis</p>
+  <div class="post-grid content-grid">
+    {% for item in list_content %}{% unless item.hide_from_list %}{% include content-card.html item=item %}{% endunless %}{% endfor %}
+  </div>
+  <div class="content-empty" data-content-empty hidden><h2>Nenhum conteúdo encontrado.</h2><p>Tente outro termo ou escolha outra categoria.</p><button type="button" class="button" data-content-reset>Limpar filtros</button></div>
+</div>
+<script src="{{ '/assets/js/content.js' | relative_url }}" defer></script>

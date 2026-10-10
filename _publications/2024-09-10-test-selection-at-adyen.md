@@ -5,6 +5,14 @@ authors: "Mauricio Aniche"
 conference: "Adyen's blog post"
 categories: ["blog", "testing", "adyen", "selected-testing"]
 year: 2024
+layout: content-detail
+content_type: external
+display_title: "Seleção de testes na Adyen: economizando tempo e recursos"
+source_name: Adyen
+language: inglês
+image: /assets/images/blog/testing.svg
+external_url: https://www.adyen.com/knowledge-hub/test-selection-at-adyen
+external_action: Ler na Adyen
 ---
 
 Se você trabalha em um sistema de software de grande escala, é provável que uma parte significativa de sua construção seja destinada à execução de testes. Muitas vezes acontece que você altera uma linha de código, mas executa milhares de testes, mesmo que a maioria desses testes nem chegue perto dessa linha de código.
