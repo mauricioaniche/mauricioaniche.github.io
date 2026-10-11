@@ -7,7 +7,7 @@ layout: default
     <a class="text-link" href="{{ '/conteudo' | relative_url }}?tipo={{ entry_type }}">← {{ type_info.label }} no conteúdo</a>
     <p class="eyebrow">{{ type_info.singular }}{% if page.source_name %} / {{ page.source_name | escape }}{% endif %}</p>
     <h1 class="post-title">{{ page.display_title | default: page.title | escape }}</h1>
-    <p class="post-meta">Maurício Aniche{% if page.year %} · {{ page.year }}{% elsif entry_type == 'talks' %} · {{ page.date | date: '%Y' }}{% endif %}{% if page.language %} · {{ page.language | escape }}{% endif %}</p>
+    <p class="post-meta">{{ page.authors | default: 'Maurício Aniche' | escape }}{% if page.year %} · {{ page.year }}{% elsif entry_type == 'talks' %} · {{ page.date | date: '%Y' }}{% endif %}{% if page.language %} · {{ page.language | escape }}{% endif %}</p>
     <img class="post-hero-image" src="{{ entry_image | relative_url }}" alt="" width="800" height="500">
   </header>
   <div class="post-content">{{ content }}</div>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#E5EEDC"/>
+  <circle cx="720" cy="50" r="220" fill="#D3E2C2"/>
+  <circle cx="40" cy="490" r="210" fill="#D3E2C2"/>
+  <path d="M220 250H580" stroke="#527A3A" stroke-width="3" stroke-dasharray="8 10"/>
+  <rect x="92" y="158" width="172" height="184" rx="24" fill="#F7FAF2" stroke="#93AD7C" stroke-width="2"/>
+  <rect x="314" y="158" width="172" height="184" rx="24" fill="#F7FAF2" stroke="#93AD7C" stroke-width="2"/>
+  <rect x="536" y="158" width="172" height="184" rx="24" fill="#244630"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="178" y="280" font-size="88" fill="#244630">2</text>
+    <text x="400" y="280" font-size="88" fill="#244630">3</text>
+    <text x="622" y="280" font-size="88" fill="#E5EEDC">4</text>
+    <text x="400" y="100" font-size="22" letter-spacing="6" fill="#244630">SPRING BOOT</text>
+  </g>
+  <path d="M598 316L610 328L642 296" stroke="#B6D98B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M285 238L297 250L285 262M507 238L519 250L507 262" stroke="#527A3A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="274" y="385" width="252" height="6" rx="3" fill="#93AD7C"/>
+  <rect x="274" y="385" width="252" height="6" rx="3" fill="#244630"/>
+  <circle cx="274" cy="388" r="7" fill="#244630"/>
+  <circle cx="400" cy="388" r="7" fill="#244630"/>
+  <circle cx="526" cy="388" r="7" fill="#244630"/>
+</svg>

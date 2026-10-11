@@ -1,4 +1,6 @@
 ---
+featured: true
+featured_order: 2
 title: "Test selection at Adyen: saving time and resources"
 download: "https://www.adyen.com/knowledge-hub/test-selection-at-adyen"
 authors: "Mauricio Aniche"
