@@ -253,15 +253,16 @@ button {
   font-size: 30px;
 }
 .experience-strip {
-  display: flex;
+  display: grid;
+  grid-template-columns: 0.9fr 1fr 1fr;
   align-items: center;
-  justify-content: space-between;
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
   padding: 28px 0;
   gap: 24px;
 }
 .experience-strip > span {
+  grid-row: span 3;
   font-size: 11px;
   line-height: 1.5;
   color: var(--muted);
@@ -1242,6 +1243,7 @@ hr {
   }
   .experience-strip > span {
     grid-column: 1/-1;
+    grid-row: auto;
   }
   .experience-strip > span br {
     display: none;
