@@ -10,13 +10,17 @@
   <meta name="theme-color" content="#244f3e">
   <link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
   <link rel="canonical" href="{{ canonical }}">
+  {% if page.translation_url %}
+  <link rel="alternate" hreflang="pt-BR" href="{% if page.lang == 'en' %}{{ page.translation_url | absolute_url }}{% else %}{{ canonical }}{% endif %}">
+  <link rel="alternate" hreflang="en" href="{% if page.lang == 'en' %}{{ canonical }}{% else %}{{ page.translation_url | absolute_url }}{% endif %}">
+  {% endif %}
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-  <link rel="alternate" type="application/rss+xml" title="Blog de Maurício Aniche" href="{{ '/feed.xml' | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{% if page.lang == 'en' %}Maurício Aniche’s blog (Portuguese){% else %}Blog de Maurício Aniche{% endif %}" href="{{ '/feed.xml' | absolute_url }}">
   <meta property="og:title" content="{{ title | escape }}">
   <meta property="og:site_name" content="Maurício Aniche">
   <meta property="og:url" content="{{ canonical }}">
   <meta property="og:description" content="{{ description | escape }}">
-  <meta property="og:locale" content="pt_BR">
+  <meta property="og:locale" content="{% if page.lang == 'en' %}en_US{% else %}pt_BR{% endif %}">
   <meta property="og:image" content="{{ share_image }}">
   {% if page.layout == 'post' %}
   <meta property="og:type" content="article">

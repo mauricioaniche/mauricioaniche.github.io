@@ -4,12 +4,14 @@
   image: /assets/images/books/effective-software-testing.png
   url: https://www.effective-software-testing.com
   description: Vá além de escrever testes. Aprenda a encontrar bugs com técnicas sistemáticas, bons contratos e uma estratégia de testes eficaz.
+  description_en: Go beyond writing tests. Learn to find bugs with systematic techniques, clear contracts, and an effective testing strategy.
 - title: Simple Object-Oriented Design
   publisher: Manning
   language: Inglês
   image: /assets/images/books/simple-object-oriented-design.jpg
   url: https://www.simple-object-oriented-design.com/
   description: Princípios para controlar a complexidade e criar código simples, com boas abstrações, objetos consistentes e dependências bem definidas.
+  description_en: Keep complexity under control with clear abstractions, consistent objects, and well-defined dependencies. Build software that is easier to understand and maintain.
 - title: Orientação a Objetos e SOLID para Ninjas
   publisher: Casa do Código
   language: Português

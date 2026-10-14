@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="{{ page.lang | default: site.lang | default: 'pt-BR' | escape }}">
   {% include head.html %}
   <body>
-    <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+    <a class="skip-link" href="#conteudo">{% if page.lang == 'en' %}Skip to content{% else %}Pular para o conteúdo{% endif %}</a>
     {% include header.html %}
-    <main id="conteudo" class="page-content" aria-label="Conteúdo principal">
+    <main id="conteudo" class="page-content" aria-label="{% if page.lang == 'en' %}Main content{% else %}Conteúdo principal{% endif %}">
       <div class="wrapper">{{ content }}</div>
     </main>
     {% include footer.html %}
