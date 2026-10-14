@@ -1,4 +1,5 @@
 ---
+published_on: 2024-06-03
 title: "Design orientado a objetos simples — Tech Lead Journal #177"
 source_name: "Tech Lead Journal"
 language: inglês

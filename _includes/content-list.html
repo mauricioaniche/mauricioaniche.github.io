@@ -1,6 +1,4 @@
-{% assign dated_content = site.blog | concat: site.talks | concat: site.publications | sort: 'date' | reverse %}
-{% assign media_content = site.media | sort: 'title' %}
-{% assign all_content = dated_content | concat: media_content %}
+{% assign all_content = site.blog | concat: site.talks | concat: site.publications | concat: site.media %}
 {% assign list_scope = include.scope | default: 'all' %}
 {% assign list_content = all_content %}
 {% if list_scope == 'blog' %}{% assign list_content = all_content | where: 'content_type', 'blog' %}
@@ -8,6 +6,13 @@
 {% elsif list_scope == 'publications' %}{% assign list_content = all_content | where: 'content_type', 'publications' %}
 {% elsif list_scope == 'conversations' %}{% assign list_content = all_content | where_exp: 'item', 'item.content_type != "blog"' | where_exp: 'item', 'item.content_type != "publications"' %}
 {% endif %}
+{%- capture content_order -%}
+  {%- for item in list_content -%}
+    {%- include content-metadata.html item=item -%}
+    {{- entry_sort_date -}}|{{- item.url -}}{%- unless forloop.last -%}~{%- endunless -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{% assign ordered_content = content_order | split: '~' | sort | reverse %}
 {% assign available_types = list_content | map: 'content_type' | uniq %}
 <div class="content-library" data-content-library>
   <div class="blog-controls content-controls">
@@ -22,7 +27,7 @@
   </div>
   <p class="content-result-count" data-content-count role="status" aria-live="polite">{{ list_content.size }} conteúdos disponíveis</p>
   <div class="post-grid content-grid">
-    {% for item in list_content %}{% unless item.hide_from_list %}{% include content-card.html item=item %}{% endunless %}{% endfor %}
+    {% for ordered_entry in ordered_content %}{% assign entry_url = ordered_entry | split: '|' | last %}{% assign item = list_content | where: 'url', entry_url | first %}{% unless item.hide_from_list %}{% include content-card.html item=item %}{% endunless %}{% endfor %}
   </div>
   <div class="content-empty" data-content-empty hidden><h2>Nenhum conteúdo encontrado.</h2><p>Tente outro termo ou escolha outra categoria.</p><button type="button" class="button" data-content-reset>Limpar filtros</button></div>
 </div>

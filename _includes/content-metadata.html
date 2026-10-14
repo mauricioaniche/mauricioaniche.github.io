@@ -21,3 +21,13 @@
 {%- if entry_description == '' -%}
   {%- assign entry_description = 'Uma apresentação de Maurício Aniche sobre práticas e desafios de engenharia de software.' -%}
 {%- endif -%}
+
+{%- comment -%}Undated media inherit Jekyll's build date; never use it as a publication date.{%- endcomment -%}
+{%- assign entry_sort_date = '0000-00-00' -%}
+{%- if entry.published_on -%}
+  {%- assign entry_sort_date = entry.published_on | date: '%Y-%m-%d' -%}
+{%- elsif entry.collection != 'media' and entry.date -%}
+  {%- assign entry_sort_date = entry.date | date: '%Y-%m-%d' -%}
+{%- elsif entry.year -%}
+  {%- assign entry_sort_date = entry.year | append: '-01-01' -%}
+{%- endif -%}

@@ -1,4 +1,5 @@
 ---
+published_on: 2022-12-04
 title: "Criando uma Tech Academy — Tech Leadership Rocks"
 source_name: "Tech Leadership Rocks"
 language: português

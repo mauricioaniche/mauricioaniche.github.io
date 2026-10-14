@@ -1,5 +1,5 @@
 {% include content-metadata.html item=include.item %}
-<article class="post-card content-card{% if include.compact %} content-card-compact{% endif %}" data-category="{{ entry_type }}" data-search="{{ entry.title | append: ' ' | append: entry_description | append: ' ' | append: entry.authors | append: ' ' | append: entry.conference | append: ' ' | append: entry.source_name | append: ' ' | append: entry.category | escape }}">
+<article class="post-card content-card{% if include.compact %} content-card-compact{% endif %}" data-published-date="{{ entry_sort_date }}" data-category="{{ entry_type }}" data-search="{{ entry.title | append: ' ' | append: entry_description | append: ' ' | append: entry.authors | append: ' ' | append: entry.conference | append: ' ' | append: entry.source_name | append: ' ' | append: entry.category | escape }}">
   <a class="card-image-link" href="{{ entry.url | relative_url }}" tabindex="-1" aria-hidden="true">
     <img src="{{ entry_image | relative_url }}" alt="" loading="lazy" width="800" height="500">
     <span class="image-type-label">{{ type_info.singular }}</span>
@@ -7,6 +7,7 @@
   <div class="card-body">
     <div class="card-meta"><span>{{ type_info.label }}</span>
       {% if entry_type == 'blog' %}<time datetime="{{ entry.date | date_to_xmlschema }}">{{ entry.date | date: '%d/%m/%Y' }}</time>
+      {% elsif entry.published_on %}<time datetime="{{ entry.published_on | date: '%Y-%m-%d' }}">{{ entry.published_on | date: '%d/%m/%Y' }}</time>
       {% elsif entry.year %}<span>{{ entry.year }}</span>
       {% elsif entry_type == 'talks' %}<time datetime="{{ entry.date | date: '%Y' }}">{{ entry.date | date: '%Y' }}</time>
       {% else %}<span>{{ entry.source_name | escape }}</span>{% endif %}

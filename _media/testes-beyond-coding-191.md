@@ -1,4 +1,5 @@
 ---
+published_on: 2025-01-30
 title: "O que a maioria dos engenheiros entende errado sobre testes"
 source_name: "Beyond Coding"
 language: inglês

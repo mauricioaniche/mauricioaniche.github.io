@@ -1,4 +1,5 @@
 ---
+published_on: 2026-05-07
 title: "Qualidade de software na era em que a IA escreve o código"
 content_type: external
 source_name: Alura

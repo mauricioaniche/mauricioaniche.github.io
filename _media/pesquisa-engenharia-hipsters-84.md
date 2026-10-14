@@ -1,4 +1,5 @@
 ---
+published_on: 2018-02-20
 title: "Pesquisa em engenharia de software — Hipsters.tech #84"
 source_name: "Hipsters.tech"
 language: português

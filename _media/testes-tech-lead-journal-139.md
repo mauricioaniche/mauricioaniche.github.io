@@ -1,4 +1,5 @@
 ---
+published_on: 2023-07-03
 title: "Testes eficazes para desenvolvedores — Tech Lead Journal #139"
 source_name: "Tech Lead Journal"
 language: inglês

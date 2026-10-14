@@ -1,4 +1,5 @@
 ---
+published_on: 2020-06-05
 title: "Uma entrevista com Adolfo Neto"
 source_name: "Adolfo Neto"
 language: português

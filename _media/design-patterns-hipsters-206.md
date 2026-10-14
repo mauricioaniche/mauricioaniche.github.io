@@ -1,4 +1,5 @@
 ---
+published_on: 2020-06-23
 title: "Design patterns — Hipsters.tech #206"
 source_name: "Hipsters.tech"
 language: português

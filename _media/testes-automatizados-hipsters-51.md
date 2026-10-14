@@ -1,4 +1,5 @@
 ---
+published_on: 2017-07-04
 title: "Testes automatizados — Hipsters.tech #51"
 source_name: "Hipsters.tech"
 language: português

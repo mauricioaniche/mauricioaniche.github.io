@@ -1,4 +1,5 @@
 ---
+published_on: 2026-10-08
 title: "Como migramos do Spring Boot 2 para o 4 com ajuda de IA"
 content_type: external
 source_name: Alura Labs

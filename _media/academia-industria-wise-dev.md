@@ -1,4 +1,5 @@
 ---
+published_on: 2021-03-09
 title: "Academia e indústria — The Wise Dev"
 source_name: "The Wise Dev"
 language: português

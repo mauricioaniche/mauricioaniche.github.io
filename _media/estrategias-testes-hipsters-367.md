@@ -1,4 +1,5 @@
 ---
+published_on: 2023-07-25
 title: "Estratégias de testes e Dev Leaders — Hipsters.tech #367"
 source_name: "Hipsters.tech"
 language: português

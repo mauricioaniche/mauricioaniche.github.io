@@ -1,4 +1,5 @@
 ---
+published_on: 2021-07-12
 title: "IA para testes de software — HIDEV"
 source_name: "HIDEV"
 language: português

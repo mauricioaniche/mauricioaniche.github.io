@@ -1,4 +1,5 @@
 ---
+published_on: 2025-07-15
 title: "Escalabilidade dos testes — Hillside PatternCast"
 source_name: "Hillside PatternCast"
 language: inglês

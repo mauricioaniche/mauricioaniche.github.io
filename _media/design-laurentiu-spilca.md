@@ -1,4 +1,5 @@
 ---
+published_on: 2023-06-12
 title: "Design orientado a objetos com Laurentiu Spilca"
 source_name: "Laurentiu Spilca"
 language: inglês

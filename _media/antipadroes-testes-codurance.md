@@ -1,4 +1,5 @@
 ---
+published_on: 2021-11-17
 title: "Antipadrões de testes — Codurance"
 source_name: "Codurance"
 language: inglês

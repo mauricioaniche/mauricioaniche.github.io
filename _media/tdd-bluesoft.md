@@ -1,4 +1,5 @@
 ---
+published_on: 2015-10-02
 title: "Uma conversa sobre TDD — Bluesoft"
 source_name: "Bluesoft"
 language: português

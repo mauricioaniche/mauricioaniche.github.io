@@ -1,4 +1,5 @@
 ---
+published_on: 2021-07-05
 title: "Uma conversa sobre engenharia de software — HIDEV"
 source_name: "HIDEV"
 language: português

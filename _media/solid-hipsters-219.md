@@ -1,4 +1,5 @@
 ---
+published_on: 2020-09-22
 title: "SOLID: código bom e bonito — Hipsters.tech #219"
 source_name: "Hipsters.tech"
 language: português
