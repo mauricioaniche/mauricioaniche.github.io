@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, revisao-de-codigo, qualidade, produtividade]
 title: "O fim do code review ou uma oportunidade para repensá-lo?"
 layout: "post"
 date: "2026-10-13T14:16:26.679882-03:00"

@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, entrega, produtividade, revisao-de-codigo, lideranca]
 title: "Mais código, mais fricção: escalar a entrega depois da adoção de IA"
 layout: "post"
 date: "2026-06-24T14:00:18.733110-03:00"

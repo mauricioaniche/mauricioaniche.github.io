@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, senso-critico]
 title: "Meat proxy e cognitive surrender: usar IA sem abrir mão do senso crítico"
 layout: "post"
 date: "2026-10-14T15:27:00-03:00"

@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, operacao, entrega, observabilidade]
 title: "IA no desenvolvimento: precisamos começar pela operação"
 layout: "post"
 date: "2026-09-18T10:09:12.014331-03:00"

@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, escrita, senso-critico]
 title: "Escrever também é pensar: por que preservo minha própria voz"
 layout: "post"
 date: "2026-10-02T13:58:15.437196-03:00"

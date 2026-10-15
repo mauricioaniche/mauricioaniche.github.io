@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, testes, qualidade, guardrails]
 title: "Testes gerados por IA também precisam de qualidade"
 layout: "post"
 date: "2026-06-05T09:30:22.107173-03:00"

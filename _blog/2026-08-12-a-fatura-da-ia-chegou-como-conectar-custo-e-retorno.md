@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, custos, adocao]
 title: "A fatura da IA chegou: como conectar custo e retorno"
 layout: "post"
 date: "2026-08-12T15:00:24.668984-03:00"

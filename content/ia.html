@@ -24,13 +24,14 @@ permalink: /ia
   </nav>
 </div>
 
-<section class="topic-section" aria-labelledby="artigos" data-topic-pagination>
+<section class="topic-section" aria-labelledby="artigos" data-topic-pagination data-topic-query="assunto">
   <div class="section-heading">
     <div><p class="eyebrow">Experiências, leituras e reflexões</p><h2 id="artigos" tabindex="-1">Artigos do blog sobre IA</h2></div>
     <a class="text-link" href="{{ '/blog' | relative_url }}">Todo o blog ↗</a>
   </div>
+  {% include topic-filters.html items=ia_posts list_id='artigos-lista' %}
   <div id="artigos-lista" class="post-grid content-grid" data-topic-items>
-    {% for item in ia_posts %}{% include content-card.html item=item %}{% endfor %}
+    {% for item in ia_posts %}{% include content-card.html item=item show_topics=true %}{% endfor %}
   </div>
   {% include topic-pagination.html list_id='artigos-lista' label='artigos do blog' %}
 </section>
@@ -46,12 +47,13 @@ permalink: /ia
   {% include topic-pagination.html list_id='podcasts-lista' label='podcasts' %}
 </section>
 
-<section class="topic-section" aria-labelledby="outros-artigos" data-topic-pagination>
+<section class="topic-section" aria-labelledby="outros-artigos" data-topic-pagination data-topic-query="assunto-externo">
   <div class="section-heading">
     <div><p class="eyebrow">Também escrevi sobre IA por aqui</p><h2 id="outros-artigos" tabindex="-1">Artigos em outros sites</h2></div>
   </div>
+  {% include topic-filters.html items=ia_external list_id='outros-artigos-lista' %}
   <div id="outros-artigos-lista" class="post-grid content-grid" data-topic-items>
-    {% for item in ia_external %}{% include content-card.html item=item %}{% endfor %}
+    {% for item in ia_external %}{% include content-card.html item=item show_topics=true %}{% endfor %}
   </div>
   {% include topic-pagination.html list_id='outros-artigos-lista' label='artigos em outros sites' %}
 </section>

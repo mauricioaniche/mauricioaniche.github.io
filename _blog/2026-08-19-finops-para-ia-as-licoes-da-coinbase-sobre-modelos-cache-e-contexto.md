@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, custos, modelos, contexto]
 title: "FinOps para IA: as lições da Coinbase sobre modelos, cache e contexto"
 layout: "post"
 date: "2026-08-19T11:04:17.482021-03:00"

@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, julgamento, carreira, produto]
 title: "Julgamento, priorização, proatividade e bom gosto na engenharia de software"
 layout: "post"
 date: "2026-09-23T14:10:05.383268-03:00"

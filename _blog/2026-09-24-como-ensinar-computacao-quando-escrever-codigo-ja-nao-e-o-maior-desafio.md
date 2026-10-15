@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, educacao, fundamentos, julgamento]
 title: "Como ensinar computação quando escrever código já não é o maior desafio"
 layout: "post"
 date: "2026-09-24T10:38:07.977765-03:00"

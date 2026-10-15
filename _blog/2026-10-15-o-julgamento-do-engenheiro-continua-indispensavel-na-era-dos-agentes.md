@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, julgamento, arquitetura, claude]
 title: "O julgamento do engenheiro continua indispensável na era dos agentes"
 layout: "post"
 date: "2026-10-15T15:26:00-03:00"

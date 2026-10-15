@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, educacao, carreira, fundamentos]
 title: "Como formar desenvolvedores seniores em um mundo de IA?"
 layout: "post"
 date: "2026-06-01T10:30:26.047061-03:00"

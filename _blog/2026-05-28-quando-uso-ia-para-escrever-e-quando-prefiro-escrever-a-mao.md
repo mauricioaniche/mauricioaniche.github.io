@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, escrita, senso-critico]
 title: "Quando uso IA para escrever e quando prefiro escrever à mão"
 layout: "post"
 date: "2026-05-28T10:30:18.480443-03:00"

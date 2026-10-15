@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, custos, modelos, contexto, memoria]
 title: "Como a Prosus reduziu seus custos de IA em 90%"
 layout: "post"
 date: "2026-10-09T10:37:25.825202-03:00"

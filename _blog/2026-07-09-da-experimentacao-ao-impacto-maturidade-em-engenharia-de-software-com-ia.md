@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, adocao, lideranca, produtividade]
 title: "Da experimentação ao impacto: maturidade em engenharia de software com IA"
 layout: "post"
 date: "2026-07-09T08:59:18.089296-03:00"

@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, fabrica-de-software, multiagentes, adocao, kiro]
 title: "Cinco estágios de adoção de agentes: da sessão à fábrica de software"
 layout: "post"
 date: "2026-10-06T10:31:21.916275-03:00"

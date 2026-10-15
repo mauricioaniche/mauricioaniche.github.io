@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, fabrica-de-software, julgamento, guardrails]
 title: "Human-in-the-loop: em qual loop o engenheiro deve estar?"
 layout: "post"
 date: "2026-09-21T10:13:19.188212-03:00"

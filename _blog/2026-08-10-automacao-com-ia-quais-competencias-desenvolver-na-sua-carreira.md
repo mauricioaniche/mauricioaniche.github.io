@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, carreira, educacao, senso-critico]
 title: "Automação com IA: quais competências desenvolver na sua carreira?"
 layout: "post"
 date: "2026-08-10T14:54:24.040526-03:00"

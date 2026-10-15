@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, arquitetura, contexto, julgamento]
 title: "Idempotência e retentativas: a IA ainda precisa de visão do todo"
 layout: "post"
 date: "2026-06-03T14:00:26.066088-03:00"

@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, codex, produtividade]
 title: "Quando o agente para, vale a pena voltar a programar na mão?"
 layout: "post"
 date: "2026-10-05T14:02:16.411703-03:00"

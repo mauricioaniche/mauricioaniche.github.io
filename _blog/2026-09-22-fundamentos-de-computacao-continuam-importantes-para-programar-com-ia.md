@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, fundamentos, educacao, contexto]
 title: "Fundamentos de computação continuam importantes para programar com IA"
 layout: "post"
 date: "2026-09-22T10:21:19.963068-03:00"

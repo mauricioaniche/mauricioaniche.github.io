@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, plataforma, contexto, guardrails]
 title: "A plataforma de desenvolvimento com IA é o próximo desafio"
 layout: "post"
 date: "2026-09-28T14:15:26.868906-03:00"

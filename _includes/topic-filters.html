@@ -1,0 +1,14 @@
+<fieldset class="topic-filters" data-topic-filters hidden>
+  <legend>Filtrar por assunto</legend>
+  <p>Selecione uma ou mais tags. Os artigos precisam ter todas as tags selecionadas.</p>
+  <div class="topic-filter-options">
+    {% for topic in site.data.ai_topics %}
+      {% assign tagged_items = include.items | where_exp: 'candidate', 'candidate.tags contains topic.id' %}
+      {% if tagged_items.size > 0 %}
+      <button type="button" class="topic-filter-chip" data-topic-filter="{{ topic.id }}" aria-pressed="false" aria-controls="{{ include.list_id }}">{{ topic.label | escape }} <span class="topic-filter-count">{{ tagged_items.size }}</span></button>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <button type="button" class="topic-filter-reset" data-topic-reset hidden>Limpar filtros</button>
+</fieldset>
+<p class="topic-filter-empty" data-topic-empty hidden>Nenhum artigo tem essa combinação de tags. Remova uma tag ou limpe os filtros para explorar outros assuntos.</p>

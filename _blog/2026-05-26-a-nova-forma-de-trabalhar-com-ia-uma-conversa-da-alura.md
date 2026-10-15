@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, agentes, adocao]
 title: "A nova forma de trabalhar com IA: uma conversa da Alura"
 layout: "post"
 date: "2026-05-26T16:30:28.794880-03:00"

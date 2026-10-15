@@ -2,8 +2,22 @@
 
 Este é um site Jekyll. O acervo fica em `_blog`, `_media`, `_talks` e
 `_publications`. Preserve datas, URLs, categorias, tags e conteúdo ao trocar
-ilustrações. Use `tags: [ia]` quando inteligência artificial for assunto central;
+ilustrações. Mantenha `ia` entre as tags quando inteligência artificial for assunto central;
 essa tag alimenta a página `/ia` sem substituir as categorias existentes.
+
+## Assuntos dos artigos de IA
+
+Além de `ia`, atribua tags específicas aos artigos do blog e artigos externos.
+Use os identificadores e nomes em `_data/ai_topics.yml`, por exemplo
+`tags: [ia, revisao-de-codigo, testes]`. Escolha assuntos centrais que ajudem
+quem quer se aprofundar; evite marcar toda menção incidental. Tags de modelos
+e ferramentas, como `kimi`, `opencode` e `codex`, devem indicar discussão
+relevante sobre eles. Reutilize a taxonomia existente e acrescente um assunto
+novo ao arquivo de dados somente quando houver necessidade real.
+
+A página `/ia` deriva os filtros dessa taxonomia e dos artigos de cada seção.
+Mantenha as tags no front matter para que os filtros, contagens, links e
+paginação funcionem juntos. Confira combinações de tags e a navegação em celular.
 
 ## Ilustrações das entradas
 

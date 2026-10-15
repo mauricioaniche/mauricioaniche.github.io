@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, lideranca, adocao]
 title: "Liderar a adoção de IA exige conversar com quem enfrenta os mesmos desafios"
 layout: "post"
 date: "2026-08-20T10:30:19.564002-03:00"

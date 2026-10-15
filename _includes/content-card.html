@@ -1,5 +1,5 @@
 {% include content-metadata.html item=include.item %}
-<article class="post-card content-card{% if include.compact %} content-card-compact{% endif %}" data-published-date="{{ entry_sort_date }}" data-category="{{ entry_type }}" data-search="{{ entry.title | append: ' ' | append: entry_description | append: ' ' | append: entry.authors | append: ' ' | append: entry.conference | append: ' ' | append: entry.source_name | append: ' ' | append: entry.category | append: ' ' | append: entry.tags | escape }}">
+<article class="post-card content-card{% if include.compact %} content-card-compact{% endif %}" data-topics="{{ entry.tags | join: ' ' | escape }}" data-published-date="{{ entry_sort_date }}" data-category="{{ entry_type }}" data-search="{{ entry.title | append: ' ' | append: entry_description | append: ' ' | append: entry.authors | append: ' ' | append: entry.conference | append: ' ' | append: entry.source_name | append: ' ' | append: entry.category | append: ' ' | append: entry.tags | escape }}">
   <a class="card-image-link" href="{{ entry.url | relative_url }}" tabindex="-1" aria-hidden="true">
     <img src="{{ entry_image | relative_url }}" alt="" loading="lazy" width="800" height="500">
     <span class="image-type-label">{{ type_info.singular }}</span>
@@ -14,6 +14,7 @@
     </div>
     <h3><a href="{{ entry.url | relative_url }}">{{ entry.display_title | default: entry.title | escape }}</a></h3>
     <p>{{ entry_description | truncate: 175 }}</p>
+    {% if include.show_topics %}{% include article-topics.html item=entry %}{% endif %}
     {% if include.compact and entry.authors %}<p class="content-authors">{{ entry.authors | escape }}{% if entry.conference %}<br>{{ entry.conference | escape }}{% endif %}</p>{% endif %}
     <a class="text-link" href="{{ entry.url | relative_url }}">{{ type_info.action }} <span aria-hidden="true">↗</span><span class="sr-only">: {{ entry.display_title | default: entry.title | escape }}</span></a>
   </div>

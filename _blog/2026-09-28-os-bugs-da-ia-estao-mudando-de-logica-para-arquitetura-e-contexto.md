@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, arquitetura, contexto, qualidade]
 title: "Os bugs da IA estão mudando: de lógica para arquitetura e contexto"
 layout: "post"
 date: "2026-09-28T10:26:24.177056-03:00"

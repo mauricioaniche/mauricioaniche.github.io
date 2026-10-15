@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, codex, kimi, produtividade]
 title: "Enquanto a janela de uso dos agentes não volta"
 layout: "post"
 date: "2026-06-18T13:30:27.547052-03:00"

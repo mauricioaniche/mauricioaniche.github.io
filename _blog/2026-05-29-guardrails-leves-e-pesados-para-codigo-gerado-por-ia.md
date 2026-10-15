@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, guardrails, qualidade, testes, analise-estatica]
 title: "Guardrails leves e pesados para código gerado por IA"
 layout: "post"
 date: "2026-05-29T10:00:17.645584-03:00"

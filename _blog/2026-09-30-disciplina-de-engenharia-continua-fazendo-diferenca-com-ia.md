@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, qualidade, entrega, produtividade]
 title: "Disciplina de engenharia continua fazendo diferença com IA"
 layout: "post"
 date: "2026-09-30T11:01:10.419059-03:00"

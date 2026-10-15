@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, adocao, lideranca]
 title: "A adoção de IA pelos profissionais avança mais rápido que as organizações"
 layout: "post"
 date: "2026-06-24T10:04:29.219110-03:00"

@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, qualidade, revisao-de-codigo, testes, analise-estatica, seguranca]
 published_on: 2026-05-07
 title: "Qualidade de software na era em que a IA escreve o código"
 content_type: external

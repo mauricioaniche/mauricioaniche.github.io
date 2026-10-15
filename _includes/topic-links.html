@@ -1,3 +1,4 @@
 {% if include.item.tags contains 'ia' %}
 <p class="topic-links"><a href="{{ '/ia' | relative_url }}" aria-label="Mais conteúdos sobre inteligência artificial">IA <span aria-hidden="true">↗</span></a></p>
 {% endif %}
+{% include article-topics.html item=include.item %}

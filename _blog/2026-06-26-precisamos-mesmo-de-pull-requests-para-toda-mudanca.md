@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, revisao-de-codigo, entrega]
 title: "Precisamos mesmo de pull requests para toda mudança?"
 layout: "post"
 date: "2026-06-26T09:30:15.271538-03:00"

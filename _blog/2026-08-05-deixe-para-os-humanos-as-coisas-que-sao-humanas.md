@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, senso-critico]
 title: "Deixe para os humanos as coisas que são humanas"
 layout: "post"
 date: "2026-08-05T10:21:23.679908-03:00"

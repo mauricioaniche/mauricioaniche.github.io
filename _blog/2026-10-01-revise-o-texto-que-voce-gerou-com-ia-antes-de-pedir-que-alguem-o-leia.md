@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, escrita, senso-critico]
 title: "Revise o texto que você gerou com IA antes de pedir que alguém o leia"
 layout: "post"
 date: "2026-10-01T14:59:15.052123-03:00"

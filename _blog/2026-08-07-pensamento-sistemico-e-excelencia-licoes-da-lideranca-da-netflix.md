@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, lideranca, carreira, julgamento]
 title: "Pensamento sistêmico e excelência: lições da liderança da Netflix"
 layout: "post"
 date: "2026-08-07T14:29:28.589231-03:00"

@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, custos, modelos, contexto]
 title: "FinOps para IA: as lições da Databricks para reduzir custos"
 layout: "post"
 date: "2026-10-07T10:08:07.202354-03:00"

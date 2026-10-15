@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, produtividade, entrega, produto]
 title: "Mais pull requests não significam mais deploys nem mais valor"
 layout: "post"
 date: "2026-06-15T10:30:22.030545-03:00"

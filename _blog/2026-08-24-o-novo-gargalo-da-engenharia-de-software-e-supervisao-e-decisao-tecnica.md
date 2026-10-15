@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, julgamento, arquitetura, carreira]
 title: "O novo gargalo da engenharia de software é supervisão e decisão técnica"
 layout: "post"
 date: "2026-08-24T15:06:20.547572-03:00"

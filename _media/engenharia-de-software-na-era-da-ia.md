@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, agentes, julgamento, contexto, guardrails]
 published_on: 2026-04-08
 title: "Engenharia de software na era da IA: novo jogo, novas regras"
 content_type: external

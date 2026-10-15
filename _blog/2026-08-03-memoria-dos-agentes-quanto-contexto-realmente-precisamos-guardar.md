@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, contexto, memoria]
 title: "Memória dos agentes: quanto contexto realmente precisamos guardar?"
 layout: "post"
 date: "2026-08-03T11:00:12.556522-03:00"

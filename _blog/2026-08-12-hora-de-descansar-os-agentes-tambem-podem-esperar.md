@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, bem-estar, produtividade]
 title: "Hora de descansar: os agentes também podem esperar"
 layout: "post"
 date: "2026-08-12T15:34:22.784763-03:00"

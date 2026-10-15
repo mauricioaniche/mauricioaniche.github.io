@@ -1,0 +1,76 @@
+- id: adocao
+  label: Adoção de IA
+- id: agentes
+  label: Agentes de programação
+- id: analise-estatica
+  label: Análise estática
+- id: arquitetura
+  label: Arquitetura de software
+- id: avaliacoes
+  label: Avaliação de agentes
+- id: bem-estar
+  label: Bem-estar no trabalho
+- id: carreira
+  label: Carreira
+- id: claude
+  label: Claude
+- id: codigo-aberto
+  label: Código aberto
+- id: codex
+  label: Codex
+- id: contexto
+  label: Contexto e instruções
+- id: custos
+  label: Custos e FinOps
+- id: educacao
+  label: Educação
+- id: entrega
+  label: Entrega de software
+- id: escrita
+  label: Escrita
+- id: fabrica-de-software
+  label: Fábricas de software
+- id: fundamentos
+  label: Fundamentos de computação
+- id: guardrails
+  label: Guardrails
+- id: julgamento
+  label: Julgamento técnico
+- id: kimi
+  label: Kimi
+- id: kiro
+  label: Kiro
+- id: lideranca
+  label: Liderança
+- id: memoria
+  label: Memória dos agentes
+- id: modelos
+  label: Escolha de modelos
+- id: multiagentes
+  label: Multiagentes
+- id: observabilidade
+  label: Observabilidade
+- id: opencode
+  label: OpenCode
+- id: operacao
+  label: Operação e deploy
+- id: pesquisa
+  label: Pesquisa em engenharia de software
+- id: plataforma
+  label: Engenharia de plataforma
+- id: produtividade
+  label: Produtividade
+- id: produto
+  label: Produto e experiência do usuário
+- id: qualidade
+  label: Qualidade de software
+- id: refatoracao
+  label: Refatoração e migrações
+- id: revisao-de-codigo
+  label: Revisão de código
+- id: seguranca
+  label: Segurança
+- id: senso-critico
+  label: Senso crítico
+- id: testes
+  label: Testes de software

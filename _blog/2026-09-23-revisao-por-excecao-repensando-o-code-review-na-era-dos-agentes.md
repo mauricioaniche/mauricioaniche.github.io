@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, revisao-de-codigo, guardrails, arquitetura]
 title: "Revisão por exceção: repensando o code review na era dos agentes"
 layout: "post"
 date: "2026-09-23T10:28:18.042150-03:00"

@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, lideranca, adocao, educacao]
 title: "Transformação com IA começa pelo aprendizado da liderança"
 layout: "post"
 date: "2026-05-22T15:00:00-03:00"

@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, revisao-de-codigo, qualidade, julgamento]
 title: "Quanto código gerado por IA precisamos revisar?"
 layout: "post"
 date: "2026-09-25T14:43:18.088057-03:00"

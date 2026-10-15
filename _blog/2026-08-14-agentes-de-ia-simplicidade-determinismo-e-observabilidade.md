@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, agentes, arquitetura, observabilidade]
 title: "Agentes de IA: simplicidade, determinismo e observabilidade"
 layout: "post"
 date: "2026-08-14T14:45:27.536931-03:00"

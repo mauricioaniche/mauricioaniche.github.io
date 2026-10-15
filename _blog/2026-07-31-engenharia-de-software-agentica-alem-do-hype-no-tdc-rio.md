@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, agentes]
 title: "Engenharia de software agêntica além do hype no TDC Rio"
 layout: "post"
 date: "2026-07-31T15:32:08.452430-03:00"

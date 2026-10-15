@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, agentes, revisao-de-codigo, qualidade, testes, seguranca, codigo-aberto, pesquisa]
 title: "Agentes de IA no código aberto: uma síntese do MSR 2026"
 layout: post
 image: "/assets/images/content/cartoon/blog-2026-04-14-ai-agents-in-oss-msr-mining-challenge-2026.jpg"

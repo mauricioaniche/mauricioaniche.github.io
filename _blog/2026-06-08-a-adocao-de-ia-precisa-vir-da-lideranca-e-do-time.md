@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, adocao, lideranca]
 title: "A adoção de IA precisa vir da liderança e do time"
 layout: "post"
 date: "2026-06-08T10:30:17.477473-03:00"

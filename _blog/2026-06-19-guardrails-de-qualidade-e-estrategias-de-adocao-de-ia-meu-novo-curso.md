@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, guardrails, qualidade, testes, adocao, educacao]
 title: "Guardrails de qualidade e estratégias de adoção de IA: meu novo curso"
 layout: "post"
 date: "2026-06-19T10:30:13.447575-03:00"

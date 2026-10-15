@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, agentes, produto, arquitetura]
 title: "O que aprendi criando três microaplicações com IA"
 layout: "post"
 date: "2026-06-10T13:30:19.805824-03:00"

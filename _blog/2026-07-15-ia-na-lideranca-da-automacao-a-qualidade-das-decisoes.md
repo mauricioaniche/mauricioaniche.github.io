@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, lideranca, julgamento]
 title: "IA na liderança: da automação à qualidade das decisões"
 layout: "post"
 date: "2026-07-15T09:00:23.994591-03:00"

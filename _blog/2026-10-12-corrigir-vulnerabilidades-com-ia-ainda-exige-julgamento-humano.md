@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, seguranca, qualidade, testes, julgamento]
 title: "Corrigir vulnerabilidades com IA ainda exige julgamento humano"
 layout: "post"
 date: "2026-10-12T14:24:20.361558-03:00"

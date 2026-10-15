@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, qualidade, senso-critico, escrita]
 title: "Quem usa IA continua responsável pela qualidade da entrega"
 layout: "post"
 date: "2026-09-25T15:47:17.831176-03:00"

@@ -1,5 +1,5 @@
 ---
-tags: [ia]
+tags: [ia, testes, avaliacoes, agentes, observabilidade]
 title: "Testando sistemas agênticos: aprendendo com o passado para testar o futuro"
 layout: post
 featured: true
