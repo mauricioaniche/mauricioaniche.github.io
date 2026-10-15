@@ -1,6 +1,8 @@
 ---
 title: "Testando sistemas agênticos: aprendendo com o passado para testar o futuro"
 layout: post
+featured: true
+featured_order: 0
 image: /assets/images/blog/testing.svg
 category: Engenharia
 description: "Como aplicar os fundamentos de teste de software a sistemas agênticos: resultados, trajetórias, oráculos, confiabilidade e avaliações com IA."
