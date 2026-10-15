@@ -1,6 +1,4 @@
 ---
-featured: true
-featured_order: 3
 title: "Estratégias de testes em escala"
 layout: content-detail
 categories: ["talk"]

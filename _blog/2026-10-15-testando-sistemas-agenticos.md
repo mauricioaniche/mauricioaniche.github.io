@@ -2,8 +2,6 @@
 tags: [ia, testes, avaliacoes, agentes, observabilidade]
 title: "Testando sistemas agênticos: aprendendo com o passado para testar o futuro"
 layout: post
-featured: true
-featured_order: 0
 image: /assets/images/blog/cartoon/testando-agentes-cartoon.jpg
 image_alt: "Engenheira observa robôs em um circuito de testes com obstáculos coloridos."
 category: Engenharia

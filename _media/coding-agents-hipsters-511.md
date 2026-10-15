@@ -6,8 +6,6 @@ source_name: "Hipsters.tech"
 language: português
 description: "Uma conversa sobre agentes de código, ferramentas no terminal e na IDE, e as mudanças que a IA traz ao dia a dia de desenvolvimento."
 year: 2026
-featured: true
-featured_order: 4
 image: "/assets/images/content/cartoon/media-coding-agents-hipsters-511.jpg"
 external_url: "https://www.hipsters.tech/coding-agents-na-pratica-claude-code-cursor-e-cia-hipsters-ponto-tech-511/"
 external_action: Ouvir episódio
