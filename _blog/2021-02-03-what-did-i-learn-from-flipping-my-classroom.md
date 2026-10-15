@@ -1,9 +1,10 @@
 ---
 title: "O que aprendi ao inverter minha sala de aula"
 layout: post
-image: /assets/images/blog/education.svg
+image: "/assets/images/content/cartoon/blog-2021-02-03-what-did-i-learn-from-flipping-my-classroom.jpg"
 category: Educação
 description: "Lições de uma experiência de sala de aula invertida no ensino de testes de software na TU Delft."
+image_alt: "Ilustração cartoon: uma sala de aula alegre com alunos ensinando uns aos outros ao redor de uma grande mesa e uma professora escutando."
 ---
 
 Experimentei sala de aula invertida nas edições 2019-2020 e 2020-2021 de nosso Teste e Qualidade de Software (CSE1110). Esta foi a primeira e a segunda vez que experimentei "de verdade". Pedi aos alunos que [lessem o material](https://sttp.site), resolvessem alguns exercícios e fizessem perguntas no fórum online _antes_ da palestra; a palestra em si seria usada apenas para debate.

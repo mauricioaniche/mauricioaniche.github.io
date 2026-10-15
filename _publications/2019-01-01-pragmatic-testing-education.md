@@ -6,6 +6,8 @@ conference: "50th ACM Technical Symposium on Computer Science Education"
 doi: 10.1145/3287324.3287461
 categories: ["publication", "conference", "sigcse", "education"]
 year: 2019
+image: "/assets/images/content/cartoon/publications-2019-01-01-pragmatic-testing-education.jpg"
+image_alt: "Ilustração cartoon: uma turma aprende testes experimentando rampas, caixas e limites num laboratório prático e divertido de software."
 ---
 
 

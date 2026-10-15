@@ -3,13 +3,14 @@ tags: [ia]
 title: "Quando uso IA para escrever e quando prefiro escrever à mão"
 layout: "post"
 date: "2026-05-28T10:30:18.480443-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-05-28-quando-uso-ia-para-escrever-e-quando-prefiro-escrever-a-mao.jpg"
 category: "Engenharia"
 description: "A quantidade de texto gerado por IA que andamos lendo cresceu demais. E é engraçado que por mais real que o texto possa se parecer, a IA deixa a \"sua marca\" de alguma…"
 source_network: "LinkedIn"
 source_post_id: "2d925b0b-f54b-4d60-b758-61e9f6422c5f"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma escritora desenha uma ideia com seu lápis enquanto um pequeno robô organiza folhas coloridas ao lado, preservando a voz humana."
 ---
 
 A quantidade de texto gerado por IA que andamos lendo cresceu demais. E é engraçado que por mais real que o texto possa se parecer, a IA deixa a "sua marca" de alguma forma, e nós conseguimos perceber.

@@ -2,13 +2,14 @@
 title: "Estratégia e tática: o que o xadrez ensina sobre liderança"
 layout: "post"
 date: "2026-10-08T09:15:07.025182-03:00"
-image: "/assets/images/blog/career.svg"
+image: "/assets/images/content/cartoon/blog-2026-10-08-estrategia-e-tatica-o-que-o-xadrez-ensina-sobre-lideranca.jpg"
 category: "Liderança"
 description: "Um dos meus maiores desafios como CTO é que eu preciso navegar entre detalhes táticos junto com meu time de engenharia e decisões estratégicas junto com outros diretores."
 source_network: "LinkedIn"
 source_post_id: "da9aeede-95b3-4aff-b5d5-84227e8845f9"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma líder desenha um caminho em um tabuleiro de xadrez gigante e usa peças simpáticas para transformar uma ideia em movimentos concretos."
 ---
 
 Um dos meus maiores desafios como CTO é que eu preciso navegar entre detalhes táticos junto com meu time de engenharia e decisões estratégicas junto com outros diretores.

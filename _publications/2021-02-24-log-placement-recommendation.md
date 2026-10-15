@@ -8,6 +8,8 @@ videoen: "1Q6ZE0N47ew"
 categories: ["publication", "monitoring", "selected-monitoring", "ml4se", "msr", "conference", "industry-collaboration", "adyen", "favorite"]
 posters: ["icse21"]
 year: 2021
+image: "/assets/images/content/cartoon/publications-2021-02-24-log-placement-recommendation.jpg"
+image_alt: "Ilustração cartoon: uma pesquisadora escolhe onde instalar pequenas lanternas em túneis de software para tornar o percurso mais observável."
 ---
 
 O registro em log é uma prática de desenvolvimento que desempenha um papel importante nas operações e no monitoramento de sistemas complexos.

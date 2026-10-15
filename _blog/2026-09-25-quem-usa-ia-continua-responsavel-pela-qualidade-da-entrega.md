@@ -3,13 +3,14 @@ tags: [ia]
 title: "Quem usa IA continua responsável pela qualidade da entrega"
 layout: "post"
 date: "2026-09-25T15:47:17.831176-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-09-25-quem-usa-ia-continua-responsavel-pela-qualidade-da-entrega.jpg"
 category: "Engenharia"
 description: "O Tobi, CEO da Shopify e um grande proponente do uso de IA, disse que tarefas feitas de maneira desleixadas com IA estão gerando muito trabalho para a companhia."
 source_network: "LinkedIn"
 source_post_id: "05779d9a-5a16-44c4-bbd8-f5d36e23fddd"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma pessoa confere cuidadosamente um presente montado por um robô antes de entregá-lo a outra pessoa sorridente."
 ---
 
 O Tobi, CEO da Shopify e um grande proponente do uso de IA, disse que tarefas feitas de maneira desleixadas com IA estão gerando muito trabalho para a companhia.

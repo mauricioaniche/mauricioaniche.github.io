@@ -3,13 +3,14 @@ tags: [ia]
 title: "Criando o Ticka com IA: lições de um clone simplificado do Basecamp"
 layout: "post"
 date: "2026-05-25T10:30:31.317890-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-05-25-criando-o-ticka-com-ia-licoes-de-um-clone-simplificado-do-basecamp.jpg"
 category: "Engenharia"
 description: "Quando comecei a experimentar o Claude, no começo de 2025, decidi criar uma app do começo ao fim para entender o poder da engenharia agêntica. "
 source_network: "LinkedIn"
 source_post_id: "a3807064-5632-424e-a6b2-e55249c352b6"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma pessoa e um robô organizam tarefas representadas por cartões coloridos sem escrita em um pequeno acampamento de montanha."
 ---
 
 Quando comecei a experimentar o Claude, no começo de 2025, decidi criar uma app do começo ao fim para entender o poder da engenharia agêntica. 

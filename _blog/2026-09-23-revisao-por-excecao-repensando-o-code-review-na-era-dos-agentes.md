@@ -3,13 +3,14 @@ tags: [ia]
 title: "Revisão por exceção: repensando o code review na era dos agentes"
 layout: "post"
 date: "2026-09-23T10:28:18.042150-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-09-23-revisao-por-excecao-repensando-o-code-review-na-era-dos-agentes.jpg"
 category: "Engenharia"
 description: "A Rachel Laycock (CTO da Thoughtworks) escreveu um texto muito interesse sobre code review. Ela levanta um ponto que todos que já estão codando com IA perceberam: se…"
 source_network: "LinkedIn"
 source_post_id: "34ef0b86-53c3-42f6-9bd4-d943377b6921"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma equipe humana examina uma única peça complexa numa mesa iluminada enquanto pequenas peças simples passam por verificadores automáticos."
 ---
 
 A Rachel Laycock (CTO da Thoughtworks) escreveu um texto muito interesse sobre code review. Ela levanta um ponto que todos que já estão codando com IA perceberam: se agentes vão gerar muito mais código, continuar exigindo revisão humana de todo diff cria um gargalo. E talvez isso signifique que estávamos usando code review para resolver problemas que deveriam ser tratados antes.

@@ -6,6 +6,8 @@ conference: "IEEE 14h International Conference on Mining Software Repositories (
 categories: ["publication", "conference", "msr", "testing"]
 year: 2017
 doi: 10.1109/MSR.2017.61
+image: "/assets/images/content/cartoon/publications-2017-01-01-to-mock-or-not-to-mock.jpg"
+image_alt: "Ilustração cartoon: uma pesquisadora compara usar um pequeno motor real ou um substituto de brinquedo ao testar uma construção numa bancada."
 ---
 
 Ao escrever testes de unidade automatizados, os desenvolvedores geralmente lidam com artefatos de software que possuem diversas dependências. Nestes casos, tem-se a possibilidade de instanciar as dependências ou utilizar objetos simulados para simular o comportamento esperado das dependências. Embora estudos quantitativos recentes tenham mostrado que objetos simulados são amplamente utilizados em projetos de OSS, ainda falta conhecimento científico sobre como e por que os profissionais usam simulações. Tal conhecimento é fundamental para orientar futuras pesquisas sobre esta prática generalizada e informar a concepção de ferramentas e processos para melhorá-la. O objetivo deste artigo é aumentar nossa compreensão sobre quais dependências de teste os desenvolvedores (não) zombam e por quê, bem como quais desafios os desenvolvedores enfrentam com essa prática.

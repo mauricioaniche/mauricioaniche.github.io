@@ -3,13 +3,14 @@ tags: [ia]
 title: "Quanto código gerado por IA precisamos revisar?"
 layout: "post"
 date: "2026-09-25T14:43:18.088057-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-09-25-quanto-codigo-gerado-por-ia-precisamos-revisar.jpg"
 category: "Engenharia"
 description: "A quantidade de linhas de código que estamos produzindo é gigante comparado com dois anos atrás. É tanta que nem você, que está gerando esse código, consegue…"
 source_network: "LinkedIn"
 source_post_id: "46651f36-1f0c-43b9-bcf6-f64a86bf23dd"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma engenheira usa lentes de tamanhos variados para examinar pilhas diferentes de blocos produzidos por um pequeno robô."
 ---
 
 A quantidade de linhas de código que estamos produzindo é gigante comparado com dois anos atrás. É tanta que nem você, que está gerando esse código, consegue acompanhar e entender tudo que está sendo produzido.

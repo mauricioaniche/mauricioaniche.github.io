@@ -6,6 +6,8 @@ conference: "30th Brazilian Symposium on Software Engineering (SBES)"
 categories: ["publication", "conference", "sbes", "maintenance"]
 year: 2016
 doi: "10.1145/2973839.2973846"
+image: "/assets/images/content/cartoon/publications-2016-01-01-sbes-oop-design-perceptions.jpg"
+image_alt: "Ilustração cartoon: duas pessoas observam a mesma cidade de objetos de perspectivas diferentes e trocam desenhos para compreender suas decisões de arquitetura."
 ---
 
 Os desenvolvedores de software geralmente contam com padrões de arquitetura de software bem conhecidos, como MVC, para construir seus aplicativos. Em muitos desses padrões, as classes desempenham funções específicas no sistema, como Controladores ou Entidades, o que significa que cada uma dessas classes possui características específicas em termos de design e implementação de classes orientadas a objetos. Na verdade, como mostramos em um estudo anterior, as funções arquitetônicas são diferentes entre si em termos de métricas de código.

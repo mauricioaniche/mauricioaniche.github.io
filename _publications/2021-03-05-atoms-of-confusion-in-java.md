@@ -8,6 +8,8 @@ videoen: "GhPqqFB3Qfw"
 categories: ["publication", "icpc", "maintenance", "conference"]
 posters: ["icse21"]
 year: 2021
+image: "/assets/images/content/cartoon/publications-2021-03-05-atoms-of-confusion-in-java.jpg"
+image_alt: "Ilustração cartoon: uma pesquisadora separa pequenas peças quase iguais que confundem a leitura de um quebra-cabeça de software."
 ---
 
 Embora escrever código às vezes pareça trivial, surgem problemas quando os humanos interpretam mal o que o código realmente faz. Uma das causas potenciais são os “átomos de confusão”, os menores padrões possíveis de código-fonte mal interpretado. Pesquisas anteriores investigaram o impacto dos átomos de confusão no código C. Os resultados mostram que os desenvolvedores cometem significativamente mais erros no código onde os átomos estão presentes.

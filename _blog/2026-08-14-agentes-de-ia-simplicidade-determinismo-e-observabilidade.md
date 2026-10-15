@@ -3,13 +3,14 @@ tags: [ia]
 title: "Agentes de IA: simplicidade, determinismo e observabilidade"
 layout: "post"
 date: "2026-08-14T14:45:27.536931-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-08-14-agentes-de-ia-simplicidade-determinismo-e-observabilidade.jpg"
 category: "Engenharia"
 description: "O Bjorn, engenheiro de IA da Adyen, empresa que eu trabalhei e tenho muito carinho, apresentou no Agents and APIs Developer Meetup, um meetup lá no escritório da…"
 source_network: "LinkedIn"
 source_post_id: "8ef68c88-126f-4592-994c-8f6a7201170d"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma engenheira monta uma máquina simples com trilhos previsíveis, janelas transparentes e um robô pequeno em uma bancada organizada."
 ---
 
 O Bjorn, engenheiro de IA da Adyen, empresa que eu trabalhei e tenho muito carinho, apresentou no Agents and APIs Developer Meetup, um meetup lá no escritório da Adyen em Madrid.

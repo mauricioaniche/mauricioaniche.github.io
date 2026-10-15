@@ -5,6 +5,8 @@ authors: "Maurício Aniche, Eduardo Guerra, Marco A. Gerosa"
 conference: "Conference on Pattern Languages of Programs (PLoP)"
 categories: ["publication", "conference", "plop", "testing", "patterns"]
 year: 2014
+image: "/assets/images/content/cartoon/publications-2014-01-01-web-testing-patterns.jpg"
+image_alt: "Ilustração cartoon: pesquisadores constroem pontes limpas e reutilizáveis entre pequenas janelas de aplicações web e estações de teste."
 ---
 
 Existem diferentes níveis de testes automatizados, como unidade, integração ou sistema

@@ -1,9 +1,10 @@
 ---
 title: "Testar é diferente de escrever testes"
 layout: post
-image: /assets/images/blog/testing.svg
+image: "/assets/images/content/cartoon/blog-2018-06-21-testing-vs-writing-tests.jpg"
 category: Engenharia
 description: "Escrever testes dá confiança para desenvolver. Testar de verdade exige explorar limites, exceções e cenários que revelam bugs."
+image_alt: "Ilustração cartoon: exploradores com lanternas procuram passagens inesperadas em um castelo de blocos, enquanto outros apenas contam bandeirinhas."
 ---
 
 _Testar é diferente de escrever testes. Desenvolvedores escrevem testes para ter espaço para pensar e confiança para refatorar. Testar tem como foco encontrar bugs. As duas práticas são necessárias._

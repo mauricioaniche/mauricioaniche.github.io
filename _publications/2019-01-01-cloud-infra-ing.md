@@ -7,6 +7,8 @@ doi: 10.1109/ICSE-SEIP.2019.00033
 categories: ["publication", "conference", "ing", "monitoring", "industry-collaboration"]
 year: 2019
 bottom: true
+image: "/assets/images/content/cartoon/publications-2019-01-01-cloud-infra-ing.jpg"
+image_alt: "Ilustração cartoon: uma equipe estuda pequenos barcos de infraestrutura em nuvens, identificando filas e ventos que aceleram ou atrasam sua chegada."
 ---
 
 

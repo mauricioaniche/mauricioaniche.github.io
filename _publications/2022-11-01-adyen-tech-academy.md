@@ -10,9 +10,10 @@ content_type: external
 display_title: "Adyen Tech Academy: integração e capacitação de engenheiros"
 source_name: Adyen
 language: inglês
-image: /assets/images/blog/education.svg
+image: "/assets/images/content/cartoon/publications-2022-11-01-adyen-tech-academy.jpg"
 external_url: https://www.adyen.com/knowledge-hub/taking-onboarding-and-upskilling-to-the-next-level
 external_action: Ler na Adyen
+image_alt: "Ilustração cartoon: uma academia de engenharia acolhe novos integrantes com mentores, bancadas práticas e uma árvore de conhecimento compartilhado."
 ---
 
 Ajudar os engenheiros a se atualizarem rapidamente e a melhorarem ainda mais seu trabalho é uma obrigação para qualquer empresa de tecnologia. É também um enorme desafio. Felizmente, nós da Adyen Tech Academy estamos aqui e prontos para ajudar nossos engenheiros em sua jornada de aprendizagem!

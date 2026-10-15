@@ -3,13 +3,14 @@ tags: [ia]
 title: "Mais pull requests não significam mais deploys nem mais valor"
 layout: "post"
 date: "2026-06-15T10:30:22.030545-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-06-15-mais-pull-requests-nao-significam-mais-deploys-nem-mais-valor.jpg"
 category: "Engenharia"
 description: "Vejo pessoas desapontadas pelo fato de que, apesar do número de PRs ter crescido bastante (no caso da Alura, cresceram por volta de 3x), mas o número de deploys não…"
 source_network: "LinkedIn"
 source_post_id: "4f7e5620-4be2-4e48-9c48-4b1b34060b95"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: muitos barquinhos de blocos chegam a uma eclusa estreita, e uma engenheira decide quais levam presentes realmente úteis à cidade."
 ---
 
 Vejo pessoas desapontadas pelo fato de que, apesar do número de PRs ter crescido bastante (no caso da Alura, cresceram por volta de 3x), mas o número de deploys não cresceu na mesma proporção.

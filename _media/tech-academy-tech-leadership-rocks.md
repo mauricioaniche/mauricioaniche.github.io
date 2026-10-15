@@ -4,9 +4,10 @@ title: "Criando uma Tech Academy — Tech Leadership Rocks"
 source_name: "Tech Leadership Rocks"
 language: português
 description: "Uma conversa sobre a criação de uma Tech Academy e educação em engenharia de software."
-image: /assets/images/content/podcast-education.svg
+image: "/assets/images/content/cartoon/media-tech-academy-tech-leadership-rocks.jpg"
 external_url: "https://techleadership.rocks/2022/12/04/tech-academy-com-mauricio-aniche/"
 external_action: Ouvir episódio
+image_alt: "Ilustração cartoon: um podcast gravado numa oficina-escola, com mentores, aprendizes e uma árvore de conhecimentos construída com livros coloridos."
 ---
 
 Uma conversa sobre a criação de uma Tech Academy e educação em engenharia de software.

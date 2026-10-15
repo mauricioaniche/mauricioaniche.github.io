@@ -3,7 +3,8 @@ tags: [ia]
 title: "O fim do code review ou uma oportunidade para repensá-lo?"
 layout: "post"
 date: "2026-10-13T14:16:26.679882-03:00"
-image: "/assets/images/blog/ai.svg"
+image: /assets/images/blog/cartoon/repensar-code-review-cartoon.jpg
+image_alt: "Engenheiros revisam uma construção de blocos enquanto um robô verifica peças em uma esteira."
 category: "Engenharia"
 description: "O professor Christian Kästner, que tive o prazer de conhecer, escreveu um texto muito legal sobre code review, chamado \"O fim da revisão de código ou uma oportunidade…"
 source_network: "LinkedIn"

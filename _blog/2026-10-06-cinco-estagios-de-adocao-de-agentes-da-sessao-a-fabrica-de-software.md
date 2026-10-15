@@ -3,13 +3,14 @@ tags: [ia]
 title: "Cinco estágios de adoção de agentes: da sessão à fábrica de software"
 layout: "post"
 date: "2026-10-06T10:31:21.916275-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-10-06-cinco-estagios-de-adocao-de-agentes-da-sessao-a-fabrica-de-software.jpg"
 category: "Engenharia"
 description: "Muito legal o texto do pessoal da Kiro, \"Como criamos uma software factory com Kiro Crew para mergear 1000 PRs em uma semana\"."
 source_network: "LinkedIn"
 source_post_id: "f4727f4e-1074-4b9a-93e6-08d179666258"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma escadaria de cinco plataformas mostra uma oficina crescendo de um robô ajudante até um sistema coordenado de várias estações."
 ---
 
 Muito legal o texto do pessoal da Kiro, "Como criamos uma software factory com Kiro Crew para mergear 1000 PRs em uma semana".

@@ -3,13 +3,14 @@ tags: [ia]
 title: "Fundamentos de computação continuam importantes para programar com IA"
 layout: "post"
 date: "2026-09-22T10:21:19.963068-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-09-22-fundamentos-de-computacao-continuam-importantes-para-programar-com-ia.jpg"
 category: "Engenharia"
 description: "Um experimento da ETH Zurich avaliou 100 desenvolvedores em um ambiente controlado de “vibe coding”. Isto é, construir software majoritariamente via IA, sem tocar…"
 source_network: "LinkedIn"
 source_post_id: "38539901-b464-4647-97f4-d44725e7a655"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma pessoa e seu robô constroem uma torre criativa sobre uma fundação firme de livros, engrenagens e blocos bem organizados."
 ---
 
 Um experimento da ETH Zurich avaliou 100 desenvolvedores em um ambiente controlado de “vibe coding”. Isto é, construir software majoritariamente via IA, sem tocar diretamente em muito código. Principais achados:

@@ -3,13 +3,14 @@ tags: [ia]
 title: "Como ensinar computação quando escrever código já não é o maior desafio"
 layout: "post"
 date: "2026-09-24T10:38:07.977765-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-09-24-como-ensinar-computacao-quando-escrever-codigo-ja-nao-e-o-maior-desafio.jpg"
 category: "Engenharia"
 description: "O mundo todo está discutindo o que será da educação em engenharia de software. Saiu um texto legal na Communications of ACM, uma revista mais técnica da ACM, escrita…"
 source_network: "LinkedIn"
 source_post_id: "3a976b16-96e8-41f0-99c4-45f4b76c24ee"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma professora e alunos discutem um plano de construção numa sala de aula, enquanto um robô monta os blocos conforme o plano."
 ---
 
 O mundo todo está discutindo o que será da educação em engenharia de software. Saiu um texto legal na Communications of ACM, uma revista mais técnica da ACM, escrita por acadêmicos, com o título "Computing ed when writing code is no longer the challenge", em português, "Educação em computação quando escrever código não é mais o desafio".

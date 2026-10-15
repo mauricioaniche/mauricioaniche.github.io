@@ -3,7 +3,8 @@ tags: [ia]
 title: "Corrigir vulnerabilidades com IA ainda exige julgamento humano"
 layout: "post"
 date: "2026-10-12T14:24:20.361558-03:00"
-image: "/assets/images/blog/testing.svg"
+image: /assets/images/blog/cartoon/seguranca-ia-cartoon.jpg
+image_alt: "Engenheiro e robô consertam um escudo colorido e procuram pequenas falhas."
 category: "Engenharia"
 description: "Recebi recentemente um estudo feito pelo time do 1password. Confesso que li apenas o abstract e não avaliei a metodologia científica (meus tempos de acadêmico ficaram…"
 source_network: "LinkedIn"

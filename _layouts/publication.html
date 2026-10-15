@@ -23,7 +23,7 @@ layout: default
     </div>
   </header>
 
-  <img class="publication-cover" src="{{ entry_image | relative_url }}" alt="" width="800" height="500">
+  <img class="publication-cover" src="{{ entry_image | relative_url }}" alt="{{ page.image_alt | default: '' | escape }}" width="800" height="500">
   <div class="post-content publication-abstract" itemprop="articleBody">
     {{ content }}
   </div>

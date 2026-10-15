@@ -3,7 +3,8 @@ title: "Da indústria à academia e de volta: o que aprendi?"
 layout: content-detail
 categories: ["talk"]
 description: "O que aprendi ao transitar entre indústria e academia, conectando pesquisa, educação e desenvolvimento de software."
-image: /assets/images/blog/career.svg
+image: "/assets/images/content/cartoon/talks-2022-09-10-from-industry-to-academia-and-back-again.jpg"
+image_alt: "Ilustração cartoon: um palestrante viaja de bicicleta por um caminho circular entre um campus e uma oficina, levando ideias nas duas direções."
 ---
 
 A engenharia de software é um campo fascinante com infinitas oportunidades tanto na indústria quanto na academia. No entanto, estes dois mundos são muito diferentes e os seus interesses nem sempre estão alinhados.

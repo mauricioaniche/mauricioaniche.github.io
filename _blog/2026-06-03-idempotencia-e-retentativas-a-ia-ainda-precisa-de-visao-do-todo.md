@@ -3,13 +3,14 @@ tags: [ia]
 title: "Idempotência e retentativas: a IA ainda precisa de visão do todo"
 layout: "post"
 date: "2026-06-03T14:00:26.066088-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-06-03-idempotencia-e-retentativas-a-ia-ainda-precisa-de-visao-do-todo.jpg"
 category: "Engenharia"
 description: "A IA pode ter automatizado a escrita do código, mas ainda não consegue \"pensar no todo\" por conta própria. Vou dar aqui dois exemplos recentes onde o \"one-shot\" da IA…"
 source_network: "LinkedIn"
 source_post_id: "5d89eba7-1746-470d-92d9-850207e0b3ca"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma engenheira ajusta uma máquina de correio para que vários puxões na mesma alavanca entreguem apenas um envelope, com um robô observando."
 ---
 
 A IA pode ter automatizado a escrita do código, mas ainda não consegue "pensar no todo" por conta própria. Vou dar aqui dois exemplos recentes onde o "one-shot" da IA gerou código sem pensar no todo.

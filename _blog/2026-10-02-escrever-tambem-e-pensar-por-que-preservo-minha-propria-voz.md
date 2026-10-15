@@ -3,13 +3,14 @@ tags: [ia]
 title: "Escrever também é pensar: por que preservo minha própria voz"
 layout: "post"
 date: "2026-10-02T13:58:15.437196-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-10-02-escrever-tambem-e-pensar-por-que-preservo-minha-propria-voz.jpg"
 category: "Engenharia"
 description: "Esses dias li o texto do Bret Stephens, no New York Times. Ele levanta uma discussão interessante sobre o uso de IA para escrever. O autor defende não usar IA nem…"
 source_network: "LinkedIn"
 source_post_id: "65fea758-febf-46cb-82f9-c14e7a3bef85"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma escritora transforma um novelo de ideias em um caminho claro usando seu lápis, com folhas sem palavras e luz quente."
 ---
 
 Esses dias li o texto do Bret Stephens, no New York Times. Ele levanta uma discussão interessante sobre o uso de IA para escrever. O autor defende não usar IA nem mesmo para organizar notas ou produzir primeiros rascunhos. 

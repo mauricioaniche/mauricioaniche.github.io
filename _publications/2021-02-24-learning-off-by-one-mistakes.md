@@ -8,6 +8,8 @@ categories: ["publication", "maintenance", "ml4se", "msr", "selected-ml4se", "co
 posters: ["icse21"]
 year: 2021
 videoen: "8RUAeKsjho4"
+image: "/assets/images/content/cartoon/publications-2021-02-24-learning-off-by-one-mistakes.jpg"
+image_alt: "Ilustração cartoon: uma pesquisadora e uma aprendiz ajustam uma ponte de pequenas peças que estava curta por apenas um encaixe."
 ---
 
 Erros em condições binárias são uma fonte de erros em muitos sistemas de software. Eles acontecem quando os desenvolvedores usam, por exemplo, < or > em vez de <= or >=. Esses erros de limite são difíceis de encontrar e impõem trabalho manual e trabalhoso para desenvolvedores de software. Embora pesquisas anteriores tenham proposto soluções para identificar erros nas condições de contorno, o problema permanece em aberto.

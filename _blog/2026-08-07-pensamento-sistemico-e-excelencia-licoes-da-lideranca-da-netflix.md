@@ -3,13 +3,14 @@ tags: [ia]
 title: "Pensamento sistêmico e excelência: lições da liderança da Netflix"
 layout: "post"
 date: "2026-08-07T14:29:28.589231-03:00"
-image: "/assets/images/blog/career.svg"
+image: "/assets/images/content/cartoon/blog-2026-08-07-pensamento-sistemico-e-excelencia-licoes-da-lideranca-da-netflix.jpg"
 category: "Carreira"
 description: "O Lenny entrevistou a Elizabeth, CPTO do Netflix. Algumas das ideias que achei legal: "
 source_network: "LinkedIn"
 source_post_id: "12719c46-dc1a-4097-b3d5-63660473cdf2"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma líder observa do alto uma cidade de brinquedo interligada, conectando pessoas, produtos e caminhos com fitas coloridas."
 ---
 
 O Lenny entrevistou a Elizabeth, CPTO do Netflix. Algumas das ideias que achei legal: 

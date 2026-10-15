@@ -6,6 +6,8 @@ conference: "Transactions on Software Engineering (TSE)"
 doi: 10.1109/TSE.2018.2871058
 categories: ["publication", "journal", "tse", "maintenance", "favorite", "selected-maintenance"]
 year: 2018
+image: "/assets/images/content/cartoon/publications-2018-01-01-adoption-of-js-linters.jpg"
+image_alt: "Ilustração cartoon: uma equipe experimenta novas ferramentas de inspeção em uma oficina e decide coletivamente quais integrar ao seu trabalho."
 ---
 
 

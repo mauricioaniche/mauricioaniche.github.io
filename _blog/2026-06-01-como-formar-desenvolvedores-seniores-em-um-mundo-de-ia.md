@@ -3,13 +3,14 @@ tags: [ia]
 title: "Como formar desenvolvedores seniores em um mundo de IA?"
 layout: "post"
 date: "2026-06-01T10:30:26.047061-03:00"
-image: "/assets/images/blog/education.svg"
+image: "/assets/images/content/cartoon/blog-2026-06-01-como-formar-desenvolvedores-seniores-em-um-mundo-de-ia.jpg"
 category: "Educação"
 description: "Grande parte do nosso trabalho na Alura é estar por dentro e liderar o aprendizado de tecnologia no Brasil. E claro, a pergunta que não quer calar é: nesse novo mundo…"
 source_network: "LinkedIn"
 source_post_id: "aee453c9-cfa9-44a5-b6b9-cfcdb61e5152"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma mentora acompanha uma aprendiz que sobe degraus feitos de livros e resolve um quebra-cabeça com seu próprio raciocínio, com um robô auxiliar ao lado."
 ---
 
 Grande parte do nosso trabalho na Alura é estar por dentro e liderar o aprendizado de tecnologia no Brasil. E claro, a pergunta que não quer calar é: nesse novo mundo de IA, como treinamos as pessoas para que elas virem sêniores no futuro?

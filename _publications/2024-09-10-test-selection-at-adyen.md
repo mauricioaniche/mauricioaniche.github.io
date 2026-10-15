@@ -12,9 +12,10 @@ content_type: external
 display_title: "Seleção de testes na Adyen: economizando tempo e recursos"
 source_name: Adyen
 language: inglês
-image: /assets/images/blog/testing.svg
+image: "/assets/images/content/cartoon/publications-2024-09-10-test-selection-at-adyen.jpg"
 external_url: https://www.adyen.com/knowledge-hub/test-selection-at-adyen
 external_action: Ler na Adyen
+image_alt: "Ilustração cartoon: pesquisadores escolhem com precisão um pequeno conjunto de carrinhos úteis numa grande garagem de testes, economizando tempo e energia."
 ---
 
 Se você trabalha em um sistema de software de grande escala, é provável que uma parte significativa de sua construção seja destinada à execução de testes. Muitas vezes acontece que você altera uma linha de código, mas executa milhares de testes, mesmo que a maioria desses testes nem chegue perto dessa linha de código.

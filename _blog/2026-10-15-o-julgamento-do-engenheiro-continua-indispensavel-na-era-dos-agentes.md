@@ -3,7 +3,8 @@ tags: [ia]
 title: "O julgamento do engenheiro continua indispensável na era dos agentes"
 layout: "post"
 date: "2026-10-15T15:26:00-03:00"
-image: "/assets/images/blog/ai.svg"
+image: /assets/images/blog/cartoon/julgamento-engenheiro-cartoon.jpg
+image_alt: "Engenheiro orienta um robô na escolha de uma ponte entre caminhos coloridos."
 category: "Engenharia"
 description: "A Anthropic recentemente blogou sobre o seu novo serviço de source control, \"Scion\", que visa substituir o Git. O ponto deles é que Git foi feito para um universo…"
 source_network: "LinkedIn"

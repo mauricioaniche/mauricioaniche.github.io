@@ -3,13 +3,14 @@ tags: [ia]
 title: "Testes gerados por IA também precisam de qualidade"
 layout: "post"
 date: "2026-06-05T09:30:22.107173-03:00"
-image: "/assets/images/blog/testing.svg"
+image: "/assets/images/content/cartoon/blog-2026-06-05-testes-gerados-por-ia-tambem-precisam-de-qualidade.jpg"
 category: "Engenharia"
 description: "Automatizar a escrita de testes com IA é uma das coisas mais legais desse novo mundo. Você consegue gastar zero energia com isso e, \"de graça\", ganha uma bateria de…"
 source_network: "LinkedIn"
 source_post_id: "303c5387-e13b-4c1b-862e-3eab7ab29595"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: um robô oferece uma bandeja de peças de teste variadas e uma engenheira calibra cada peça com instrumentos de brinquedo."
 ---
 
 Automatizar a escrita de testes com IA é uma das coisas mais legais desse novo mundo. Você consegue gastar zero energia com isso e, "de graça", ganha uma bateria de testes que garante que seu sistema funciona e que dá sinais claros pra IA quando ela quebra algo.

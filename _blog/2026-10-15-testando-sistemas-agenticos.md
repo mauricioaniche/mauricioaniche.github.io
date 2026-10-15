@@ -4,7 +4,8 @@ title: "Testando sistemas agênticos: aprendendo com o passado para testar o fut
 layout: post
 featured: true
 featured_order: 0
-image: /assets/images/blog/testing.svg
+image: /assets/images/blog/cartoon/testando-agentes-cartoon.jpg
+image_alt: "Engenheira observa robôs em um circuito de testes com obstáculos coloridos."
 category: Engenharia
 description: "Como aplicar os fundamentos de teste de software a sistemas agênticos: resultados, trajetórias, oráculos, confiabilidade e avaliações com IA."
 ---

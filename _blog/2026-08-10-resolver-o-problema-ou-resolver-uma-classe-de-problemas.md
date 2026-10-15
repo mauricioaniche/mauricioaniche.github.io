@@ -2,13 +2,14 @@
 title: "Resolver o problema ou resolver uma classe de problemas?"
 layout: "post"
 date: "2026-08-10T10:32:27.670353-03:00"
-image: "/assets/images/blog/career.svg"
+image: "/assets/images/content/cartoon/blog-2026-08-10-resolver-o-problema-ou-resolver-uma-classe-de-problemas.jpg"
 category: "Carreira"
 description: "O Dax, um dos criadores do OpenCode, deu um conselho que gostei muito sobre como ser bom no seu trabalho:"
 source_network: "LinkedIn"
 source_post_id: "921f2ad8-a79c-4de8-892a-5c0b956785e6"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma inventora cria uma ponte modular que resolve a travessia de vários riachos, em vez de empilhar uma pedra para cada riacho."
 ---
 
 O Dax, um dos criadores do OpenCode, deu um conselho que gostei muito sobre como ser bom no seu trabalho:

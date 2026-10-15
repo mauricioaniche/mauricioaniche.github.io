@@ -3,13 +3,14 @@ tags: [ia]
 title: "Julgamento, priorização, proatividade e bom gosto na engenharia de software"
 layout: "post"
 date: "2026-09-23T14:10:05.383268-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-09-23-julgamento-priorizacao-proatividade-e-bom-gosto-na-engenharia-de-software.jpg"
 category: "Engenharia"
 description: "Um trecho muito interessante do Deep Dive do Gergely sobre a visão da OpenAI sobre o que diferencia um bom engenheiro de software hoje:"
 source_network: "LinkedIn"
 source_post_id: "3eed4bae-39e3-49b0-81a0-4b87df836646"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma engenheira escolhe com cuidado quatro ferramentas simbólicas: bússola, ampulheta, lâmpada e pincel para construir algo útil."
 ---
 
 Um trecho muito interessante do Deep Dive do Gergely sobre a visão da OpenAI sobre o que diferencia um bom engenheiro de software hoje:

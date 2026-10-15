@@ -3,13 +3,14 @@ tags: [ia]
 title: "IA no desenvolvimento: precisamos começar pela operação"
 layout: "post"
 date: "2026-09-18T10:09:12.014331-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-09-18-ia-no-desenvolvimento-precisamos-comecar-pela-operacao.jpg"
 category: "Engenharia"
 description: "Estamos colocando IA na engenharia de software da \"esquerda pra direita\". Já temos muito bons agentes pra fazer requisitos e escrita de código. Mas quando chega em…"
 source_network: "LinkedIn"
 source_post_id: "8560ac47-376b-4e79-b0b4-acb1e4c4260e"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma equipe e um robô cuidam de um farol, uma boia de resgate e uma ponte de retorno para manter uma cidade de software funcionando."
 ---
 
 Estamos colocando IA na engenharia de software da "esquerda pra direita". Já temos muito bons agentes pra fazer requisitos e escrita de código. Mas quando chega em revisão de código, mergear PR, muitos times, incluindo os nossos, ainda fazem de forma 100% manual. Mesma coisa pra deploy, monitoramento e operação.

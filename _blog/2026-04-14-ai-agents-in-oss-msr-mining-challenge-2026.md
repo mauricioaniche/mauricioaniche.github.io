@@ -2,9 +2,10 @@
 tags: [ia]
 title: "Agentes de IA no código aberto: uma síntese do MSR 2026"
 layout: post
-image: /assets/images/blog/ai.svg
+image: "/assets/images/content/cartoon/blog-2026-04-14-ai-agents-in-oss-msr-mining-challenge-2026.jpg"
 category: Engenharia
 description: "O que 62 estudos revelam sobre qualidade, revisão, testes e integração das contribuições de agentes de IA em projetos de código aberto."
+image_alt: "Ilustração cartoon: um jardim comunitário onde pessoas e pequenos robôs cultivam juntos árvores de blocos e compartilham ferramentas."
 ---
 
 ## Sumário executivo

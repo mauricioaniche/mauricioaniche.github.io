@@ -1,9 +1,10 @@
 ---
 title: "As vantagens de um doutorado em engenharia de software na indústria"
 layout: post
-image: /assets/images/blog/career.svg
+image: "/assets/images/content/cartoon/blog-2023-09-07-advantages-phd-industry.jpg"
 category: Carreira
 description: "Como as habilidades desenvolvidas no doutorado ajudam a resolver problemas complexos, comunicar ideias e gerar impacto na indústria."
+image_alt: "Ilustração cartoon: uma pesquisadora atravessa uma ponte entre um campus com livros e uma oficina de produtos, levando uma caixa de ideias."
 ---
 
 Uma pergunta que ouço com frequência de colegas que estão quase concluindo seu doutorado em engenharia de software e considerando uma transição para a indústria é: “Como posso aproveitar minhas habilidades de doutorado no mundo corporativo?”

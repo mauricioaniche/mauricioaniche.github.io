@@ -3,13 +3,14 @@ tags: [ia]
 title: "A nova forma de trabalhar com IA: uma conversa da Alura"
 layout: "post"
 date: "2026-05-26T16:30:28.794880-03:00"
-image: "/assets/images/blog/education.svg"
+image: "/assets/images/content/cartoon/blog-2026-05-26-a-nova-forma-de-trabalhar-com-ia-uma-conversa-da-alura.jpg"
 category: "Educação"
 description: "O mundo do dev mudou... A Alura mudou também! Venha ouvir o que temos pra falar sobre essa nova forma de trabalhar com IA. "
 source_network: "LinkedIn"
 source_post_id: "10024731-719d-44d7-ab11-d6cddf430845"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma roda de pessoas troca ideias luminosas com um pequeno robô em um auditório alegre de tecnologia."
 ---
 
 O mundo do dev mudou... A Alura mudou também! Venha ouvir o que temos pra falar sobre essa nova forma de trabalhar com IA. 

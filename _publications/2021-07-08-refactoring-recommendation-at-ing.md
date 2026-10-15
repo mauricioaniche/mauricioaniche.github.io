@@ -7,6 +7,8 @@ doi: 10.1145/3468264.3473927
 videoen: "rjpXEAao5IQ"
 categories: ["publication", "conference", "favorite", "ml4se", "maintenance", "selected-ml4se", "industry-collaboration", "ing"]
 year: 2021
+image: "/assets/images/content/cartoon/publications-2021-07-08-refactoring-recommendation-at-ing.jpg"
+image_alt: "Ilustração cartoon: uma pesquisadora destaca um conjunto coeso de blocos dentro de uma estrutura grande e o transforma em uma pequena ferramenta reutilizável."
 ---
 
 A identificação sólida de oportunidades de refatoração ainda é um problema em aberto na engenharia de software. Estudos recentes têm demonstrado a eficácia dos modelos de aprendizado de máquina na recomendação de métodos que devem passar por diferentes operações de refatoração.

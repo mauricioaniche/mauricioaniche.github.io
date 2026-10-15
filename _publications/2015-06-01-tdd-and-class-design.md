@@ -6,6 +6,8 @@ conference: "Journal of the Brazilian Computer Society"
 categories: ["publication", "journal", "testing", "jbcs"]
 year: 2015
 doi: 10.1186/s13173-015-0034-z
+image: "/assets/images/content/cartoon/publications-2015-06-01-tdd-and-class-design.jpg"
+image_alt: "Ilustração cartoon: uma equipe compara maquetes de objetos antes e depois de usar moldes de teste, estudando como o design muda."
 ---
 
 Antecedentes:

@@ -3,13 +3,14 @@ tags: [ia]
 title: "O que aprendi sobre a fábrica de software agêntica da OpenAI"
 layout: "post"
 date: "2026-09-22T15:01:19.977411-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-09-22-o-que-aprendi-sobre-a-fabrica-de-software-agentica-da-openai.jpg"
 category: "Engenharia"
 description: "Acabei de ler o deep dive \"Inside OpenAI’s agentic software factory\" do The Pragmatic Engineer. Muitas coisas legais. Algumas delas:"
 source_network: "LinkedIn"
 source_post_id: "61131945-58ff-433f-b35f-8055bdfff07a"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: um panorama de fábrica alegre com pequenos robôs passando um projeto por planejamento, construção, testes e monitoramento, supervisionados por pessoas."
 ---
 
 Acabei de ler o deep dive "Inside OpenAI’s agentic software factory" do The Pragmatic Engineer. Muitas coisas legais. Algumas delas:

@@ -6,6 +6,8 @@ conference: "27th ACM Joint European Software Engineering Conference and Symposi
 doi: 10.1145/3338906.3338926
 categories: ["publication", "conference", "fse", "monitoring", "favorite", "selected-monitoring", "industry-collaboration"]
 year: 2019
+image: "/assets/images/content/cartoon/publications-2019-03-01-monitoring-aware-ides.jpg"
+image_alt: "Ilustração cartoon: uma desenvolvedora observa uma janela de trabalho que mostra também uma pequena cidade funcionando ao fundo, ligando código e operação."
 ---
 
 

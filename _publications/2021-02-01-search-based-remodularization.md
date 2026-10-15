@@ -8,6 +8,8 @@ categories: ["publication", "maintenance", "ml4se", "icse", "conference", "indus
 posters: ["icse21"]
 videoen: "l3zGu1N27gE"
 year: 2021
+image: "/assets/images/content/cartoon/publications-2021-02-01-search-based-remodularization.jpg"
+image_alt: "Ilustração cartoon: pesquisadores reorganizam bairros de uma cidade modular, aproximando peças relacionadas e reduzindo caminhos longos."
 ---
 
 Decidir o que constitui um único módulo, quais classes pertencem a qual módulo ou o conjunto certo de módulos para um sistema de software específico sempre foi uma tarefa desafiadora. O problema é ainda mais difícil em sistemas de software de grande escala compostos por milhares de classes e centenas de módulos. Ao longo dos anos, os pesquisadores têm proposto diferentes técnicas para apoiar os desenvolvedores na remodularização de seus sistemas de software. Em particular, a modularização de software baseada em pesquisa é um tópico de pesquisa ativo na comunidade de engenharia de software há mais de 20 anos.

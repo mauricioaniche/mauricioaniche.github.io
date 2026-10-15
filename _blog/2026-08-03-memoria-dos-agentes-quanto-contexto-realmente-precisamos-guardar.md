@@ -3,13 +3,14 @@ tags: [ia]
 title: "Memória dos agentes: quanto contexto realmente precisamos guardar?"
 layout: "post"
 date: "2026-08-03T11:00:12.556522-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-08-03-memoria-dos-agentes-quanto-contexto-realmente-precisamos-guardar.jpg"
 category: "Engenharia"
 description: "Lembro-me de quando tanto o Claude quanto Codex anunciaram uma sequência de melhorias em relação a memória do harness. Em particular, eles agora conseguem lembrar de…"
 source_network: "LinkedIn"
 source_post_id: "4c6a0a7a-c4c9-466c-8900-a61951f939a2"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: um robô e uma bibliotecária escolhem poucos livros úteis para uma mochila pequena, deixando prateleiras de papéis desnecessários para trás."
 ---
 
 Lembro-me de quando tanto o Claude quanto Codex anunciaram uma sequência de melhorias em relação a memória do harness. Em particular, eles agora conseguem lembrar de coisas que aconteceram em sessões anteriores e reutilizar esse conhecimento.

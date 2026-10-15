@@ -3,13 +3,14 @@ tags: [ia]
 title: "Construir ou comprar software continua sendo uma decisão difícil"
 layout: "post"
 date: "2026-08-17T10:54:14.151463-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-08-17-construir-ou-comprar-software-continua-sendo-uma-decisao-dificil.jpg"
 category: "Engenharia"
 description: "Acho que o SaaS está longe de morrer... Vi um post do Roja Buck contando uma história onde eles criaram internamente um substituto do Monday. Os primeiros 80% saíram…"
 source_network: "LinkedIn"
 source_post_id: "1eacf78b-ab47-4e70-80e6-9afb6ed8b8dd"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: duas pessoas comparam uma bicicleta pronta e uma bancada de peças para montar outra, com ferramentas de manutenção visíveis."
 ---
 
 Acho que o SaaS está longe de morrer... Vi um post do Roja Buck contando uma história onde eles criaram internamente um substituto do Monday. Os primeiros 80% saíram bem rápido, os 20% restantes é onde você trava, e o 5% final nunca fica pronto.

@@ -3,13 +3,14 @@ tags: [ia]
 title: "Guardrails de qualidade e estratégias de adoção de IA: meu novo curso"
 layout: "post"
 date: "2026-06-19T10:30:13.447575-03:00"
-image: "/assets/images/blog/education.svg"
+image: "/assets/images/content/cartoon/blog-2026-06-19-guardrails-de-qualidade-e-estrategias-de-adocao-de-ia-meu-novo-curso.jpg"
 category: "Educação"
 description: "Meu mais novo curso de IA acabou de sair na Alura: \"IA na engenharia de software:\nGuardrails de qualidade e estratégias de adoção\"."
 source_network: "LinkedIn"
 source_post_id: "c4902dca-520e-4d62-8d38-2b7e7abd9796"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: um professor conduz uma oficina com um robô e maquetes de trilhos seguros, lentes de teste e pequenos escudos."
 ---
 
 Meu mais novo curso de IA acabou de sair na Alura: "IA na engenharia de software:

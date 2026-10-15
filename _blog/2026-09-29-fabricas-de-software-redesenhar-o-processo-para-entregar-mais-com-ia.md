@@ -3,13 +3,14 @@ tags: [ia]
 title: "Fábricas de software: redesenhar o processo para entregar mais com IA"
 layout: "post"
 date: "2026-09-29T14:29:24.064326-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-09-29-fabricas-de-software-redesenhar-o-processo-para-entregar-mais-com-ia.jpg"
 category: "Engenharia"
 description: "Texto muito legal da Chris Kelly, no LeadDev, chamado \"O guia do engenheiro para criar uma fábrica de software\"."
 source_network: "LinkedIn"
 source_post_id: "0ee5b5be-5101-44c9-8143-eca89e4f1d4c"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma equipe reorganiza uma oficina inteira em um percurso fluido de estações, com robôs e pessoas colaborando até a entrega de um produto."
 ---
 
 Texto muito legal da Chris Kelly, no LeadDev, chamado "O guia do engenheiro para criar uma fábrica de software".

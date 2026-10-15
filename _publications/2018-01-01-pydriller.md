@@ -6,6 +6,8 @@ conference: "26th ACM Joint European Software Engineering Conference and Symposi
 doi: 10.1145/3236024.3264598
 categories: ["publication", "conference", "fse", "tool"]
 year: 2018
+image: "/assets/images/content/cartoon/publications-2018-01-01-pydriller.jpg"
+image_alt: "Ilustração cartoon: uma pesquisadora usa uma furadeira de brinquedo para abrir camadas de um repositório montanhoso e revelar cristais de história de software."
 ---
 
 Os repositórios de software contêm informações históricas e valiosas sobre o desenvolvimento geral de sistemas de software. Repositórios de software de mineração (MSR) são hoje considerados um dos campos de crescimento mais interessantes dentro da engenharia de software. O MSR concentra-se na extração e análise de dados disponíveis em repositórios de software para descobrir informações interessantes, úteis e acionáveis sobre o sistema. Embora o MSR desempenhe um papel importante na pesquisa de engenharia de software, poucas ferramentas foram criadas e divulgadas para apoiar os desenvolvedores na extração de informações do repositório Git.

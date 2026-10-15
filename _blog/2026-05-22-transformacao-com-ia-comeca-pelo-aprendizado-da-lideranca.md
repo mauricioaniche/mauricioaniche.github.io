@@ -3,13 +3,14 @@ tags: [ia]
 title: "Transformação com IA começa pelo aprendizado da liderança"
 layout: "post"
 date: "2026-05-22T15:00:00-03:00"
-image: "/assets/images/blog/education.svg"
+image: "/assets/images/content/cartoon/blog-2026-05-22-transformacao-com-ia-comeca-pelo-aprendizado-da-lideranca.jpg"
 category: "Educação"
 description: "O Diego Barreto, CEO do iFood, escreveu recentemente sobre como ele está liderando a revolução IA dentro do seu time de liderança; e pasmém, com o bom e velho…"
 source_network: "LinkedIn"
 source_post_id: "30e3f60e-8687-4b68-8d5e-4fb781f53125"
 source_status: "FAILED"
 source_date_field: "scheduledAt"
+image_alt: "Ilustração cartoon: líderes sentados como alunos em uma oficina prática montam juntos seus primeiros pequenos ajudantes mecânicos."
 ---
 
 O Diego Barreto, CEO do iFood, escreveu recentemente sobre como ele está liderando a revolução IA dentro do seu time de liderança; e pasmém, com o bom e velho treinamento! 

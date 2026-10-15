@@ -6,6 +6,8 @@ conference: "33rd IEEE International Conference on Software Maintenance and Evol
 categories: ["publication", "conference", "icsme", "monitoring", "testing", selected-monitoring", "adyen", "industry-collaboration"]
 year: 2017
 doi: 10.1109/ICSME.2017.71
+image: "/assets/images/content/cartoon/publications-2017-01-01-passive-learning-applied.jpg"
+image_alt: "Ilustração cartoon: uma equipe observa pegadas deixadas por carrinhos numa cidade de pagamentos e monta um mapa de comportamento a partir delas."
 ---
 
 As técnicas de aprendizagem passiva inferem modelos gráficos sobre o comportamento de um sistema a partir de grandes registros de rastreamento. A comunidade de pesquisa tem dedicado grandes esforços para tornar as técnicas de aprendizagem passiva mais escaláveis e prontas para uso pela indústria. No entanto, ainda falta conhecimento empírico sobre a utilidade e aplicabilidade de tais técnicas em sistemas reais de grande escala.

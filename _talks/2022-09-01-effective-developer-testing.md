@@ -3,7 +3,8 @@ title: "Testes eficazes para desenvolvedores: lições que aprendi ao longo do t
 layout: content-detail
 categories: ["talk"]
 description: "Lições sobre testes de software eficazes e como conectar técnicas sistemáticas ao trabalho de desenvolvimento."
-image: /assets/images/blog/testing.svg
+image: "/assets/images/content/cartoon/talks-2022-09-01-effective-developer-testing.jpg"
+image_alt: "Ilustração cartoon: uma palestrante ensina uma equipe a explorar com cuidado bordas, passagens e estruturas de uma maquete de software."
 ---
 
 Todos nós já sabemos como escrever testes automatizados. Mas podemos melhorar nisso? Por exemplo, como podemos ter certeza de que iremos além do “teste do caminho feliz” e criaremos conjuntos de testes realmente fortes? A cobertura de código é uma métrica ruim que devemos ignorar ou ela pode realmente nos ajudar? Devemos fazer testes unitários ou de integração? Ou os testes E2E são muito melhores para sistemas mais complexos? O TDD é realmente obrigatório? Ou podemos projetar sistemas testáveis sem ele?

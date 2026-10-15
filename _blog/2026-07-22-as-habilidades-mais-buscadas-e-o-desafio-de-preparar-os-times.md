@@ -3,13 +3,14 @@ tags: [ia]
 title: "As habilidades mais buscadas e o desafio de preparar os times"
 layout: "post"
 date: "2026-07-22T09:05:11.165785-03:00"
-image: "/assets/images/blog/career.svg"
+image: "/assets/images/content/cartoon/blog-2026-07-22-as-habilidades-mais-buscadas-e-o-desafio-de-preparar-os-times.jpg"
 category: "Carreira"
 description: "Essas são as habilidades mais buscadas no mercado brasileiro em 2026, segundo um estudo recente no LinkedIn:"
 source_network: "LinkedIn"
 source_post_id: "70fd6594-ecb2-47e3-bc90-7bf94d5ad2ec"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma equipe cultiva um jardim de habilidades simbolizadas por ferramentas, livros, lâmpadas e escudos em vasos diferentes."
 ---
 
 Essas são as habilidades mais buscadas no mercado brasileiro em 2026, segundo um estudo recente no LinkedIn:

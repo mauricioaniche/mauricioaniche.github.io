@@ -3,13 +3,14 @@ tags: [ia]
 title: "Liderar a adoção de IA exige conversar com quem enfrenta os mesmos desafios"
 layout: "post"
 date: "2026-08-20T10:30:19.564002-03:00"
-image: "/assets/images/blog/education.svg"
+image: "/assets/images/content/cartoon/blog-2026-08-20-liderar-a-adocao-de-ia-exige-conversar-com-quem-enfrenta-os-mesmos-desafios.jpg"
 category: "Educação"
 description: "Muita gente fala em \"adotar IA\". Poucos falam sobre como é liderar times enquanto isso ainda não tem manual. Não existe playbook pronto. "
 source_network: "LinkedIn"
 source_post_id: "34f1939c-5c52-4b5a-bdf4-b940a373b6fe"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: líderes compartilham peças de um mapa numa mesa redonda de café, com uma pequena luminária robótica iluminando as conexões."
 ---
 
 Muita gente fala em "adotar IA". Poucos falam sobre como é liderar times enquanto isso ainda não tem manual. Não existe playbook pronto. 

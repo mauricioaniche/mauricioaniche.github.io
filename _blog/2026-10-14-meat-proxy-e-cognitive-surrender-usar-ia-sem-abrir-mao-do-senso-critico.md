@@ -3,7 +3,8 @@ tags: [ia]
 title: "Meat proxy e cognitive surrender: usar IA sem abrir mão do senso crítico"
 layout: "post"
 date: "2026-10-14T15:27:00-03:00"
-image: "/assets/images/blog/ai.svg"
+image: /assets/images/blog/cartoon/senso-critico-ia-cartoon.jpg
+image_alt: "Pessoa analisa uma peça de quebra-cabeça enquanto um robô oferece uma ideia."
 category: "Engenharia"
 description: "Meat proxy, cognitive surrender. Estamos vendo o surgimento de termos relacionados aos problemas que o uso indiscriminado da IA pode nos causar."
 source_network: "LinkedIn"

@@ -9,6 +9,8 @@ posters: ["icse21"]
 bottom: true
 videoen: "-GqPb_YZMOs"
 year: 2021
+image: "/assets/images/content/cartoon/publications-2021-03-08-static-performance-analysis-in-the-ide.jpg"
+image_alt: "Ilustração cartoon: uma desenvolvedora detecta uma engrenagem lenta numa maquete antes de ligá-la, usando um instrumento de análise em sua bancada."
 ---
 
 Detectar problemas de desempenho devido a código abaixo do ideal durante o processo de desenvolvimento pode ser uma tarefa difícil, especialmente quando se trata de localizá-los após perceber a degradação do desempenho após a implantação. A análise estática tem o potencial de fornecer feedback antecipado sobre problemas de desempenho aos desenvolvedores, sem a necessidade de executar criadores de perfil com testes de desempenho caros (e muitas vezes indisponíveis).

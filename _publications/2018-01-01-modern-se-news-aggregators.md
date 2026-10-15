@@ -6,6 +6,8 @@ conference: "40th International Conference on Software Engineering (ICSE)"
 doi: 10.1145/3180155.3180180
 categories: ["publication", "conference", "icse", "human-factors"]
 year: 2018
+image: "/assets/images/content/cartoon/publications-2018-01-01-modern-se-news-aggregators.jpg"
+image_alt: "Ilustração cartoon: pessoas compartilham notícias simbolizadas por cartões coloridos e lâmpadas em uma praça comunitária de desenvolvedores."
 ---
 
 Muitos desenvolvedores contam com sites agregadores de notícias modernos, como reddit e hackernews, para se manterem atualizados com os mais recentes desenvolvimentos e tendências tecnológicas. Para entender o que motiva os desenvolvedores a contribuir, que tipo de conteúdo é compartilhado e como o conhecimento é moldado pela comunidade, entrevistamos e entrevistamos desenvolvedores que participam do subreddit de programação do reddit e analisamos uma amostra de postagens no reddit e no hn.

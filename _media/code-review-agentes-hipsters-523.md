@@ -5,9 +5,10 @@ title: "Pull requests e code review na era dos agentes — Hipsters.tech #523"
 source_name: Hipsters.tech
 language: português
 description: "Os desafios de revisar, governar e colocar em produção o volume crescente de código gerado por agentes de IA."
-image: /assets/images/content/podcast-ai.svg
+image: "/assets/images/content/cartoon/media-code-review-agentes-hipsters-523.jpg"
 external_url: https://www.hipsters.tech/pull-requests-e-code-review-na-era-dos-agentes-de-desenvolvimento-hipsters-ponto-tech-523/
 external_action: Ouvir episódio
+image_alt: "Ilustração cartoon: três profissionais conversam com microfones em volta de uma maquete de ponte que um robô ajuda a inspecionar."
 ---
 
 Neste episódio do Hipsters.tech, discutimos o que acontece com pull requests e revisão de código quando agentes passam a produzir muito mais software.

@@ -3,13 +3,14 @@ tags: [ia]
 title: "FinOps para IA: use o modelo certo para cada tarefa"
 layout: "post"
 date: "2026-06-22T10:00:15.767178-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-06-22-finops-para-ia-use-o-modelo-certo-para-cada-tarefa.jpg"
 category: "Engenharia"
 description: "A IA acelerou demais a escrita do código. Mas ela tem um preço, e esse preço é alto. Se você usa os planos da Anthropic ou OpenAI que tem subsídio por trás, aqueles…"
 source_network: "LinkedIn"
 source_post_id: "c2aaca3a-aa46-4f93-8d28-a6d27b0861c7"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma engenheira escolhe entre três robôs de tamanhos diferentes para carregar caixas pequenas e grandes sem desperdiçar energia."
 ---
 
 A IA acelerou demais a escrita do código. Mas ela tem um preço, e esse preço é alto. Se você usa os planos da Anthropic ou OpenAI que tem subsídio por trás, aqueles de 20 ou 100 dólares, você percebe que sua janela acaba rápido. Pra quem paga por token então... Não à toa você vê Uber, Microsoft, todas tentando fazer a conta de IA fechar.

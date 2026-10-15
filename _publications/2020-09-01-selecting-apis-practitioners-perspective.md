@@ -6,6 +6,8 @@ conference: "The ACM Joint European Software Engineering Conference and Symposiu
 doi: 10.1145/3368089.3409711
 categories: ["publication", "conference", "fse", "api"]
 year: 2020
+image: "/assets/images/content/cartoon/publications-2020-09-01-selecting-apis-practitioners-perspective.jpg"
+image_alt: "Ilustração cartoon: desenvolvedores escolhem peças de bibliotecas em uma feira de ferramentas, comparando encaixe, manutenção e confiança."
 ---
 
 A seleção de bibliotecas de terceiros é um elemento essencial de praticamente qualquer projeto de desenvolvimento de software. No entanto, decidir quais bibliotecas escolher é um problema prático desafiador. Selecionar a biblioteca errada pode impactar gravemente um projeto de software em termos de custo, tempo e esforço de desenvolvimento, com a gravidade do impacto dependendo da função da biblioteca na arquitetura de software, entre outros. Apesar da importância de seguir um processo cuidadoso de seleção de bibliotecas, na prática, a seleção de bibliotecas de terceiros ainda é conduzida de forma ad hoc, onde dezenas de fatores desempenham um papel influente na decisão.

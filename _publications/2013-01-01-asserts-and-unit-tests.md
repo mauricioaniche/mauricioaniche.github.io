@@ -6,6 +6,8 @@ conference: "17th European Conference on Software Maintenance and Reengineering 
 categories: ["publication", "conference", "saner", "testing"]
 year: 2013
 doi: "10.1109/CSMR.2013.21"
+image: "/assets/images/content/cartoon/publications-2013-01-01-asserts-and-unit-tests.jpg"
+image_alt: "Ilustração cartoon: pesquisadores usam pequenas lupas e selos geométricos para verificar como uma peça de software se conecta à qualidade de uma construção."
 ---
 
 Os testes de unidade e o código de produção estão intrinsecamente conectados. Uma classe fácil de testar geralmente apresenta características desejáveis, como baixo acoplamento e alta coesão. Assim, encontrar classes difíceis de testar pode ajudar os desenvolvedores a identificar códigos problemáticos. Muitos feedbacks de testes diferentes que alertam os desenvolvedores sobre códigos problemáticos já foram catalogados.

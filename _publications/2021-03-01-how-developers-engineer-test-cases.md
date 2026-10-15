@@ -6,6 +6,8 @@ conference: "Transactions on Software Engineering (TSE)"
 doi:
 categories: ["publication", "tse", "favorite", "testing", "selected-testing"]
 year: 2021
+image: "/assets/images/content/cartoon/publications-2021-03-01-how-developers-engineer-test-cases.jpg"
+image_alt: "Ilustração cartoon: pesquisadores acompanham uma desenvolvedora que planeja várias trilhas de exploração numa maquete antes de testar seus limites."
 ---
 
 Um dos principais desafios que os desenvolvedores enfrentam ao testar seus sistemas reside em casos de testes de engenharia que sejam bons o suficiente para revelar bugs. E embora nosso conhecimento sobre testes de software e geração automatizada de casos de teste já seja bastante significativo, na prática, os desenvolvedores ainda são os responsáveis pela engenharia manual dos casos de teste. Portanto, compreender os processos de pensamento e tomada de decisão dos desenvolvedores enquanto projetam casos de teste é uma etapa fundamental para tornar os desenvolvedores melhores no teste de software.

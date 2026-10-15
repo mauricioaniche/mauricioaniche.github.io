@@ -8,6 +8,8 @@ videoen: "qqA0v_ZQHXQ"
 categories: ["publication", "education", "icse", "conference"]
 posters: ["icse21"]
 year: 2021
+image: "/assets/images/content/cartoon/publications-2021-01-30-self-vs-peer-grading.jpg"
+image_alt: "Ilustração cartoon: uma turma grande organiza cartões de exercícios numa roda, comparando avaliações próprias e de colegas com uma professora facilitadora."
 ---
 
 Classificar turmas grandes tornou-se uma tarefa desafiadora e cara para muitas universidades. A Universidade de Tecnologia de Delft (TU Delft), localizada na Holanda, observou um grande aumento no número de estudantes nos últimos anos. Dado o grande crescimento da população estudantil, avaliar todas as submissões resulta em custos elevados.

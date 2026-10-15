@@ -3,13 +3,14 @@ tags: [ia]
 title: "Kimi e OpenCode: minhas experiências com uma alternativa de menor custo"
 layout: "post"
 date: "2026-05-21T09:00:35.162737-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-05-21-kimi-e-opencode-minhas-experiencias-com-uma-alternativa-de-menor-custo.jpg"
 category: "Engenharia"
 description: "Estou testando o Kimi, o modelo criado pela Moonshot AI, uma startup chinesa de inteligência artificial fundada em 2023 e apoiada por grandes gigantes da tecnologia,…"
 source_network: "LinkedIn"
 source_post_id: "2e6ecfcf-c0d7-4ede-8210-435003a16c93"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: um desenvolvedor compara duas pequenas caixas de ferramentas coloridas em um mercado de invenções acessíveis, acompanhado por um robô curioso."
 ---
 
 Estou testando o Kimi, o modelo criado pela Moonshot AI, uma startup chinesa de inteligência artificial fundada em 2023 e apoiada por grandes gigantes da tecnologia, como o grupo Alibaba. E estou usando OpenCode como harness.

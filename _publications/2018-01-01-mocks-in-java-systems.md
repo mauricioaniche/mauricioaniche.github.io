@@ -7,6 +7,8 @@ doi: 10.1007/s10664-018-9663-0
 categories: ["publication", "journal", "emse", "maintenance", "testing",
  "selected-testing"]
 year: 2018
+image: "/assets/images/content/cartoon/publications-2018-01-01-mocks-in-java-systems.jpg"
+image_alt: "Ilustração cartoon: uma equipe de pesquisadores acompanha a evolução de pequenos substitutos de peças de software organizados em uma linha do tempo visual sem números."
 ---
 
 Ao testar artefatos de software que possuem diversas dependências, tem-se a possibilidade de instanciar essas dependências ou usar objetos simulados para simular o comportamento esperado das dependências. Embora estudos quantitativos recentes tenham mostrado que objetos simulados são amplamente utilizados tanto em projetos de código aberto quanto em projetos proprietários, ainda falta conhecimento científico sobre como e por que os profissionais usam simulações. Uma compreensão empírica das situações em que os desenvolvedores aplicaram (ou não) simulações, bem como o impacto de tais decisões em termos de acoplamento e evolução do software, pode ser usada para ajudar os profissionais a se adaptarem e melhorarem seu uso futuro.

@@ -3,13 +3,14 @@ tags: [ia]
 title: "O novo gargalo da engenharia de software é supervisão e decisão técnica"
 layout: "post"
 date: "2026-08-24T15:06:20.547572-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-08-24-o-novo-gargalo-da-engenharia-de-software-e-supervisao-e-decisao-tecnica.jpg"
 category: "Engenharia"
 description: "O gargalo da engenharia de software mudou e muitos times ainda não perceberam!"
 source_network: "LinkedIn"
 source_post_id: "cfb3b724-b564-4aa7-8945-8e81a7306a95"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: um robô constrói torres rapidamente e uma engenheira supervisiona com uma luneta qual delas deve entrar numa cidade de brinquedo."
 ---
 
 O gargalo da engenharia de software mudou e muitos times ainda não perceberam!

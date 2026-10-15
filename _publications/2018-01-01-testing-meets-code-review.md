@@ -8,6 +8,8 @@ categories: ["publication", "conference", "icse", "maintenance", "code reviews",
 year: 2018
 videopt: "iHMJyHfl0Tg"
 videoen: "1Atodcct_ro"
+image: "/assets/images/content/cartoon/publications-2018-01-01-testing-meets-code-review.jpg"
+image_alt: "Ilustração cartoon: duas pesquisadoras cruzam uma lupa de revisão e uma ferramenta de teste sobre uma maquete, colaborando para verificar os mesmos caminhos."
 ---
 
 O teste automatizado é considerado um processo essencial para garantir a qualidade do software. No entanto, escrever e manter código de teste de alta qualidade é desafiador e frequentemente considerado de importância secundária. Para código de produção, muitos projetos de software industrial e de código aberto empregam revisão de código, uma prática de qualidade de software bem estabelecida, mas permanece a questão se e como a revisão de código também é usada para garantir a qualidade do código de teste.

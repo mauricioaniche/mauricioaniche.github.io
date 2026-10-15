@@ -6,6 +6,8 @@ conference: "35th IEEE International Conference on Software Maintenance and Evol
 doi: 10.1109/ICSME.2019.00084
 categories: ["publication", "conference", "icsme", "maintenance", "comprehension", "testing", "selected-testing"]
 year: 2019
+image: "/assets/images/content/cartoon/publications-2019-06-02-test-code-comprehension.jpg"
+image_alt: "Ilustração cartoon: uma pesquisadora usa lentes coloridas para entender um mapa de testes feito de pequenas peças e caminhos numa mesa."
 ---
 
 

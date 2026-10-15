@@ -3,13 +3,14 @@ tags: [ia]
 title: "O que aprendi criando três microaplicações com IA"
 layout: "post"
 date: "2026-06-10T13:30:19.805824-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-06-10-o-que-aprendi-criando-tres-microaplicacoes-com-ia.jpg"
 category: "Engenharia"
 description: "Nesse último ano, já criei três micro aplicações do começo ao fim. Cada um deles tem 1 usuário (!!!), mas meu objetivo sempre foi aprender sobre engenharia de…"
 source_network: "LinkedIn"
 source_post_id: "56b18190-5c72-4e2f-925f-e1f728f7ac40"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma inventora e seu robô mostram três pequenas invenções distintas em uma bancada: organizador, telefone de mensagens e calendário sem letras."
 ---
 
 Nesse último ano, já criei três micro aplicações do começo ao fim. Cada um deles tem 1 usuário (!!!), mas meu objetivo sempre foi aprender sobre engenharia de software e IA. Lições que aprendi com cada um deles:

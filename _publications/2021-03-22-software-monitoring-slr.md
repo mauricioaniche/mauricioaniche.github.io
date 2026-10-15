@@ -6,6 +6,8 @@ conference: "PeerJ"
 doi: "10.7717/peerj-cs.489"
 categories: ["publication", "journal", "monitoring", "peerj"]
 year: 2021
+image: "/assets/images/content/cartoon/publications-2021-03-22-software-monitoring-slr.jpg"
+image_alt: "Ilustração cartoon: uma equipe de pesquisadores organiza diferentes lupas, sensores e faróis em uma biblioteca de práticas de monitoramento."
 ---
 
 O desenvolvimento e as operações de software moderno dependem do monitoramento para entender como os sistemas se comportam na produção. Os dados fornecidos pelos logs de aplicativos e pelo ambiente de execução são essenciais para detectar e diagnosticar comportamentos indesejados e melhorar a confiabilidade do sistema. No entanto, apesar do rico ecossistema em torno de soluções de registo prontas para a indústria, monitorizar sistemas complexos e obter insights a partir de dados de registo continua a ser um desafio.

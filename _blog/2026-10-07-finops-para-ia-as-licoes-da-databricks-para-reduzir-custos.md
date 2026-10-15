@@ -3,13 +3,14 @@ tags: [ia]
 title: "FinOps para IA: as lições da Databricks para reduzir custos"
 layout: "post"
 date: "2026-10-07T10:08:07.202354-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-10-07-finops-para-ia-as-licoes-da-databricks-para-reduzir-custos.jpg"
 category: "Engenharia"
 description: "Mais uma empresa compartilhando como está salvando custo de IA. Dessa vez, foi a Databricks:"
 source_network: "LinkedIn"
 source_post_id: "3ebef8b8-1f1b-40d3-806d-38d37be6bd7a"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma equipe ajusta uma rede de canos de energia para alimentar robôs diferentes, reaproveitando fluxos com válvulas coloridas e um pequeno cofre."
 ---
 
 Mais uma empresa compartilhando como está salvando custo de IA. Dessa vez, foi a Databricks:

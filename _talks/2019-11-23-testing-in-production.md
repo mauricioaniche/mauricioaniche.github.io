@@ -3,7 +3,8 @@ title: "Testes em produção: uma introdução à pesquisa em monitoramento de s
 layout: content-detail
 categories: ["talk"]
 description: "Pesquisa em monitoramento de software e os desafios de entender o comportamento de sistemas em produção."
-image: /assets/images/content/monitoring.svg
+image: "/assets/images/content/cartoon/talks-2019-11-23-testing-in-production.jpg"
+image_alt: "Ilustração cartoon: uma engenheira observa uma cidade de software em funcionamento por meio de um observatório alegre com luzes e instrumentos."
 ---
 
 “Testes em produção” costumava ser uma piada entre os desenvolvedores. No entanto, dada a complexidade dos sistemas grandes e distribuídos que cuidam de partes importantes das nossas vidas, os “testes em desenvolvimento”, ou, por outras palavras, a prevenção, podem já não ser suficientes. Nesta palestra, discutirei a importância do monitoramento, registro e análise de log de sistemas para sistemas de software modernos. Refletirei sobre o estado da arte atual nos campos da indústria e da pesquisa, bem como sobre os atuais desafios em aberto. Grande parte desta palestra é baseada na pesquisa que realizamos na Adyen, uma empresa de pagamentos em grande escala, que atende empresas como Facebook, Uber e Spotify.

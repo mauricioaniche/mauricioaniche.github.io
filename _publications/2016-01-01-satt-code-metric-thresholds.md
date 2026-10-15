@@ -6,6 +6,8 @@ conference: "16th IEEE International Working Conference on Source Code Analysis 
 categories: ["publication", "conference", "scam", "maintenance"]
 year: 2016
 doi: "10.1109/SCAM.2016.19"
+image: "/assets/images/content/cartoon/publications-2016-01-01-satt-code-metric-thresholds.jpg"
+image_alt: "Ilustração cartoon: uma pesquisadora ajusta réguas coloridas de tamanhos diferentes para avaliar casas de software com arquiteturas diferentes."
 ---
 
 A análise métrica de código é uma abordagem bem conhecida para avaliar a qualidade de um sistema de software. No entanto, as ferramentas e técnicas atuais não levam em consideração a arquitetura do sistema (por exemplo, MVC, Android). Isto significa que todas as turmas são avaliadas de forma semelhante, independentemente das suas responsabilidades específicas.

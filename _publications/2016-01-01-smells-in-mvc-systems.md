@@ -6,6 +6,8 @@ conference: "32th International Conference on Software Maintenance and Evolution
 categories: ["publication", "conference", "icsme", "maintenance"]
 doi: 10.1109/ICSME.2016.12
 year: 2016
+image: "/assets/images/content/cartoon/publications-2016-01-01-smells-in-mvc-systems.jpg"
+image_alt: "Ilustração cartoon: uma pesquisadora encontra pequenos nós em três andares conectados de uma casa de software e os marca com bandeirinhas geométricas."
 ---
 
 Os code smells são sintomas de escolhas inadequadas de design e implementação que podem prejudicar a compreensão do código e possivelmente aumentar a propensão a mudanças e defeitos. Um vasto catálogo de code smells foi definido na literatura e inclui code smells que podem ser encontrados em qualquer tipo de sistema (por exemplo, God Classes), independentemente da sua arquitetura. Por outro lado, sistemas de software que adotam arquiteturas específicas (por exemplo, o padrão Model-View-Controller) também podem ser afetados por outros tipos de práticas inadequadas.

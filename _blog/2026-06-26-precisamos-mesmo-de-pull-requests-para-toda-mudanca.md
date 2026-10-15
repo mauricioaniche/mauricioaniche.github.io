@@ -3,13 +3,14 @@ tags: [ia]
 title: "Precisamos mesmo de pull requests para toda mudança?"
 layout: "post"
 date: "2026-06-26T09:30:15.271538-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-06-26-precisamos-mesmo-de-pull-requests-para-toda-mudanca.jpg"
 category: "Engenharia"
 description: "O Andrea LaForgia escreveu um post bem provocativo sobre se precisamos mesmo de pull requests. O resumo do próprio autor:"
 source_network: "LinkedIn"
 source_post_id: "5af39b0a-bd13-46d9-839d-cb4cf31bd5fa"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: duas engenheiras discutem uma cancela em uma pista de carrinhos: uma faixa livre para cargas simples e uma estação de avaliação para cargas complexas."
 ---
 
 O Andrea LaForgia escreveu um post bem provocativo sobre se precisamos mesmo de pull requests. O resumo do próprio autor:

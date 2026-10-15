@@ -7,6 +7,8 @@ abstract: "This paper proposes a catalog of code smells that might happen in the
 categories: ["publication", "journal", "emse", "maintenance"]
 year: 2019
 doi: 10.1007/s10664-019-09768-9
+image: "/assets/images/content/cartoon/publications-2019-05-01-android-presentation-smells.jpg"
+image_alt: "Ilustração cartoon: uma pesquisadora examina uma maquete de telefone com pequenas telas e encontra peças mal encaixadas na interface."
 ---
 
 

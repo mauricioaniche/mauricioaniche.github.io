@@ -6,6 +6,8 @@ conference: "ICSE-SEIP '18: 40th International Conference on Software Engineerin
 doi: 10.1145/3183519.3183537
 categories: ["publication", "conference", "icse", "monitoring", "api", "adyen", "selected-monitoring", "industry-collaboration"]
 year: 2018
+image: "/assets/images/content/cartoon/publications-2018-01-01-faults-in-webapis.jpg"
+image_alt: "Ilustração cartoon: uma equipe de engenharia encontra encaixes incompatíveis entre canos coloridos que conectam pequenas lojas a uma central de pagamentos."
 ---
 
 As arquiteturas orientadas a serviços são mais populares do que nunca e cada vez mais empresas e organizações dependem de serviços oferecidos por meio de APIs Web. Os recursos e a complexidade das APIs Web diferem de serviço para serviço e, portanto, o impacto dos erros da API varia. Descobriu-se que casos de problemas de API relacionados ao serviço de pagamento da Adyen tiveram um impacto direto considerável nos aplicativos de consumo de API. Com mais de 60.000 erros diários de API, o impacto potencial é enorme.

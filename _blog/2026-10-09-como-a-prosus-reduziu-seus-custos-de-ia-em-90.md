@@ -3,13 +3,14 @@ tags: [ia]
 title: "Como a Prosus reduziu seus custos de IA em 90%"
 layout: "post"
 date: "2026-10-09T10:37:25.825202-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-10-09-como-a-prosus-reduziu-seus-custos-de-ia-em-90.jpg"
 category: "Engenharia"
 description: "O Fabricio Bloisi postou sobre como eles cortaram 90% dos custos de IA dentro da Prosus, que é o grupo que tem o iFood."
 source_network: "LinkedIn"
 source_post_id: "77710fec-2506-4963-b14d-1d3b5d5e8408"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma equipe e pequenos robôs organizam uma oficina eficiente, reciclando energia, usando ferramentas de tamanhos adequados e enchendo um cofrinho alegre."
 ---
 
 O Fabricio Bloisi postou sobre como eles cortaram 90% dos custos de IA dentro da Prosus, que é o grupo que tem o iFood.

@@ -3,13 +3,14 @@ tags: [ia]
 title: "Mais código, mais fricção: escalar a entrega depois da adoção de IA"
 layout: "post"
 date: "2026-06-24T14:00:18.733110-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-06-24-mais-codigo-mais-friccao-escalar-a-entrega-depois-da-adocao-de-ia.jpg"
 category: "Engenharia"
 description: "\"Escalar raramente falha drasticamente, ela apenas adiciona fricção em todo lugar\", disse o Rob Zuber, CTO da CircleCI, uma das mais conhecidas infraestruturas de…"
 source_network: "LinkedIn"
 source_post_id: "d5b4e997-cee0-44e0-b55d-574973557f9c"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma equipe lubrifica engrenagens coloridas de uma esteira que recebe blocos rapidamente de um robô construtor."
 ---
 
 "Escalar raramente falha drasticamente, ela apenas adiciona fricção em todo lugar", disse o Rob Zuber, CTO da CircleCI, uma das mais conhecidas infraestruturas de integração contínua.

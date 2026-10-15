@@ -3,13 +3,14 @@ tags: [ia]
 title: "Da experimentação ao impacto: maturidade em engenharia de software com IA"
 layout: "post"
 date: "2026-07-09T08:59:18.089296-03:00"
-image: "/assets/images/blog/education.svg"
+image: "/assets/images/content/cartoon/blog-2026-07-09-da-experimentacao-ao-impacto-maturidade-em-engenharia-de-software-com-ia.jpg"
 category: "Educação"
 description: "Entre o acesso à IA e o impacto real no negócio, existem gaps que a maioria das empresas ainda não fechou!"
 source_network: "LinkedIn"
 source_post_id: "a8ce9188-8290-417c-afb0-8ef12c354e1d"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma equipe com robô usa uma bússola e pequenas plataformas de alturas diferentes para planejar o próximo passo de sua jornada."
 ---
 
 Entre o acesso à IA e o impacto real no negócio, existem gaps que a maioria das empresas ainda não fechou!

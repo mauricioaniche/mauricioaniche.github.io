@@ -8,9 +8,10 @@ description: "Uma conversa sobre agentes de código, ferramentas no terminal e n
 year: 2026
 featured: true
 featured_order: 4
-image: /assets/images/content/podcast-ai.svg
+image: "/assets/images/content/cartoon/media-coding-agents-hipsters-511.jpg"
 external_url: "https://www.hipsters.tech/coding-agents-na-pratica-claude-code-cursor-e-cia-hipsters-ponto-tech-511/"
 external_action: Ouvir episódio
+image_alt: "Ilustração cartoon: dois desenvolvedores conversam em um estúdio de podcast e demonstram um robô ajudante construindo uma pequena aplicação com blocos."
 ---
 
 Minha participação no Hipsters Ponto Tech #511, publicado em 14 de abril de 2026, sobre Coding Agents na prática.

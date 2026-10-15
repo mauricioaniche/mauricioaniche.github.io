@@ -3,13 +3,14 @@ tags: [ia]
 title: "Guardrails leves e pesados para código gerado por IA"
 layout: "post"
 date: "2026-05-29T10:00:17.645584-03:00"
-image: "/assets/images/blog/testing.svg"
+image: "/assets/images/content/cartoon/blog-2026-05-29-guardrails-leves-e-pesados-para-codigo-gerado-por-ia.jpg"
 category: "Engenharia"
 description: "Garantir que o código gerado pela IA funcione é um dos desafios que mais me interessam hoje. Eu e o Guilherme Silveira falamos muito sobre isso no nosso dia-a-dia, e…"
 source_network: "LinkedIn"
 source_post_id: "36ea9ec7-7fd0-4040-b5dc-1d77a57cb54b"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: um robô percorre uma pista com cordas macias de orientação em um trecho e barreiras firmes de proteção em outro."
 ---
 
 Garantir que o código gerado pela IA funcione é um dos desafios que mais me interessam hoje. Eu e o Guilherme Silveira falamos muito sobre isso no nosso dia-a-dia, e recentemente vi um post do Prof Philipp Leitner formalizando a discussão, que gostei muito. 

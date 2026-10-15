@@ -8,6 +8,8 @@ categories: ["publication", "mobilesoft", "monitoring", "short-paper", "conferen
 posters: ["icse21"]
 bottom: true
 year: 2021
+image: "/assets/images/content/cartoon/publications-2021-03-09-mobile-analytics-empirical-study.jpg"
+image_alt: "Ilustração cartoon: pesquisadores observam trajetos de bolinhas luminosas saindo de uma maquete de telefone e organizam seus padrões numa mesa."
 ---
 
 Os logs de software são de grande valor em projetos industriais e de código aberto. O registro de análise móvel permite que os desenvolvedores coletem registros dos usuários finais ao custo de registrar e transmitir registros pela Internet para uma infraestrutura centralizada. O objetivo deste artigo é dar o primeiro passo na caracterização das práticas de registro de uma biblioteca de registro analítico móvel amplamente adotada, nomeadamente Firebase Analytics. Com este estudo, pretendemos compreender quais são as necessidades comuns dos desenvolvedores que levam os profissionais a adotar práticas de registro em dispositivos móveis.

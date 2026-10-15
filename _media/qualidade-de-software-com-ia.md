@@ -6,9 +6,10 @@ content_type: external
 source_name: Alura
 language: português
 description: "Revisão por risco, testes de comportamento, análise estática e observabilidade para sustentar a qualidade quando agentes produzem mais código."
-image: /assets/images/blog/testing.svg
+image: "/assets/images/content/cartoon/media-qualidade-de-software-com-ia.jpg"
 external_url: https://www.alura.com.br/artigos/qualidade-de-software-com-ia
 external_action: Ler na Alura
+image_alt: "Ilustração cartoon: uma engenheira e um robô fazem várias verificações de uma pequena casa colorida antes de entregá-la aos moradores."
 ---
 
 Produzir código com IA fica mais rápido, mas garantir sua qualidade continua sendo responsabilidade do time. O artigo reúne práticas para acompanhar esse aumento de volume com controles de engenharia.

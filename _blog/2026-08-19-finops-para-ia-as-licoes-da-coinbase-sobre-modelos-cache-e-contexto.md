@@ -3,13 +3,14 @@ tags: [ia]
 title: "FinOps para IA: as lições da Coinbase sobre modelos, cache e contexto"
 layout: "post"
 date: "2026-08-19T11:04:17.482021-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-08-19-finops-para-ia-as-licoes-da-coinbase-sobre-modelos-cache-e-contexto.jpg"
 category: "Engenharia"
 description: "FinOps pra IA está só começando. Vi um post legal do Brian Armstrong, co-founder do Coinbase."
 source_network: "LinkedIn"
 source_post_id: "9a6a09f7-90e9-4d23-b478-2557bd4ade63"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: um robô reutiliza peças guardadas em gavetas enquanto uma engenheira dirige cada encomenda ao ajudante de tamanho adequado."
 ---
 
 FinOps pra IA está só começando. Vi um post legal do Brian Armstrong, co-founder do Coinbase.

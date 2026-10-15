@@ -1,9 +1,10 @@
 ---
 title: "O que sabemos (e o que não sabemos) sobre Domain-Driven Design?"
 layout: post
-image: /assets/images/blog/design.svg
+image: "/assets/images/content/cartoon/blog-2017-12-05-what-do-we-not-know-about-ddd.jpg"
 category: Engenharia
 description: "Uma análise das dúvidas de desenvolvedores sobre DDD: padrões, implementação e a distância entre design tático e estratégico."
+image_alt: "Ilustração cartoon: uma arquiteta desenha bairros de uma cidade de brinquedo, separando domínios com pontes e praças."
 ---
 
 

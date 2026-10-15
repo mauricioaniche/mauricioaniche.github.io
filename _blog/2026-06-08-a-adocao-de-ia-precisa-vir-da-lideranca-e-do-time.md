@@ -3,13 +3,14 @@ tags: [ia]
 title: "A adoção de IA precisa vir da liderança e do time"
 layout: "post"
 date: "2026-06-08T10:30:17.477473-03:00"
-image: "/assets/images/blog/career.svg"
+image: "/assets/images/content/cartoon/blog-2026-06-08-a-adocao-de-ia-precisa-vir-da-lideranca-e-do-time.jpg"
 category: "Liderança"
 description: "Gravamos recentemente um podcast do Hipsters.tech junto com o time da Alura, onde falamos da nossa própria adoção de IA dentro do time de tecnologia."
 source_network: "LinkedIn"
 source_post_id: "a682f85e-f080-45c0-9d37-759afd15ef7a"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: um grupo constrói uma árvore luminosa de ideias: as raízes crescem de baixo e a copa recebe orientação de cima, com um robô regando."
 ---
 
 Gravamos recentemente um podcast do Hipsters.tech junto com o time da Alura, onde falamos da nossa própria adoção de IA dentro do time de tecnologia.

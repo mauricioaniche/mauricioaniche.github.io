@@ -6,6 +6,8 @@ conference: "The 1st International Workshop on Engineering and Cybersecurity of 
 doi: 10.1145/3387940.3391486
 categories: ["publication", "workshop", "security", "monitoring", "ml4se"]
 year: 2020
+image: "/assets/images/content/cartoon/publications-2020-03-09-anomaly-detection-cps.jpg"
+image_alt: "Ilustração cartoon: pesquisadores experimentam peças inesperadas num pequeno sistema de sensores e rodas, observando padrões e desvios com curiosidade."
 ---
 
 

@@ -9,7 +9,7 @@ layout: default
     <h1 class="post-title">{{ page.display_title | default: page.title | escape }}</h1>
     <p class="post-meta">{{ page.authors | default: 'Maurício Aniche' | escape }}{% if page.year %} · {{ page.year }}{% elsif entry_type == 'talks' %} · {{ page.date | date: '%Y' }}{% endif %}{% if page.language %} · {{ page.language | escape }}{% endif %}</p>
     {% include topic-links.html item=page %}
-    <img class="post-hero-image" src="{{ entry_image | relative_url }}" alt="" width="800" height="500">
+    <img class="post-hero-image" src="{{ entry_image | relative_url }}" alt="{{ page.image_alt | default: '' | escape }}" width="800" height="500">
   </header>
   <div class="post-content">{{ content }}</div>
   {% if page.external_url %}<aside class="resource-link-panel"><p class="eyebrow">{{ page.source_name | default: 'Publicação original' | escape }}</p><h2>{% if entry_type == 'podcasts' %}Acompanhe a conversa completa.{% else %}Leia o texto completo.{% endif %}</h2><p>Disponível em {{ page.language | default: 'português' | escape }} no site de origem.</p><a class="button" href="{{ page.external_url | escape }}">{{ page.external_action | default: 'Abrir conteúdo original' }} <span aria-hidden="true">↗</span></a></aside>{% endif %}

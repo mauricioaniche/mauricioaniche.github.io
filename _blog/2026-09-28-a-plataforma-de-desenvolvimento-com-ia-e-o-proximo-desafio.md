@@ -3,13 +3,14 @@ tags: [ia]
 title: "A plataforma de desenvolvimento com IA é o próximo desafio"
 layout: "post"
 date: "2026-09-28T14:15:26.868906-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-09-28-a-plataforma-de-desenvolvimento-com-ia-e-o-proximo-desafio.jpg"
 category: "Engenharia"
 description: "Muito dos problemas que vejo as pessoas reportando sobre código gerado por IA é falta de um \"prompt melhor\"."
 source_network: "LinkedIn"
 source_post_id: "545f80e2-a76b-4dbf-83dd-8da4c3d40778"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma equipe constrói uma estação de trabalho elevada e organizada com trilhos, tomadas e ferramentas que ajudam pequenos robôs a trabalhar bem."
 ---
 
 Muito dos problemas que vejo as pessoas reportando sobre código gerado por IA é falta de um "prompt melhor".

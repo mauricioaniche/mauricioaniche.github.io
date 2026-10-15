@@ -6,9 +6,10 @@ content_type: external
 source_name: Alura
 language: português
 description: "Como agentes de IA mudam o trabalho de engenharia: mais especificação, verificação, contexto e responsabilidade sobre o resultado."
-image: /assets/images/blog/ai.svg
+image: "/assets/images/content/cartoon/media-engenharia-de-software-na-era-da-ia.jpg"
 external_url: https://www.alura.com.br/artigos/engenharia-de-software-na-era-da-ia
 external_action: Ler na Alura
+image_alt: "Ilustração cartoon: uma engenheira oferece uma bússola e critérios de chegada a um robô que constrói uma estrada, com controles de qualidade pelo percurso."
 ---
 
 A IA está mudando o centro do trabalho de engenharia. Neste artigo, discuto como o esforço se desloca da escrita de código para a definição de objetivos, contexto, critérios de aceitação e limites para os agentes.

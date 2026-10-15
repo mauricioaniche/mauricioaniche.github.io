@@ -9,6 +9,8 @@ year: 2021
 videoen: "TbgawiiYwJQ"
 bottom: true
 posters: ["icse21"]
+image: "/assets/images/content/cartoon/publications-2021-02-23-code-smells-in-ml-projects.jpg"
+image_alt: "Ilustração cartoon: uma equipe inspeciona uma estufa de máquinas que aprendem padrões e encontra conexões de software que precisam ser cuidadas."
 ---
 
 A Inteligência Artificial (IA) e o Aprendizado de Máquina (ML) estão difundidos no cenário atual da ciência da computação. No entanto, ainda existe uma falta de experiência em engenharia de software e de melhores práticas neste campo. Uma dessas práticas recomendadas, a análise estática de código, pode ser usada para encontrar code smells, ou seja, defeitos (potenciais) no código-fonte, oportunidades de refatoração e violações de padrões de codificação comuns.

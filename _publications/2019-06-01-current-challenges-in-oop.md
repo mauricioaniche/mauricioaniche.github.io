@@ -6,6 +6,8 @@ conference: "41st ACM/IEEE International Conference on Software Engineering, sho
 doi: 10.1109/ICSE-NIER.2019.00037
 categories: ["publication", "conference", "icse", "maintenance"]
 year: 2019
+image: "/assets/images/content/cartoon/publications-2019-06-01-current-challenges-in-oop.jpg"
+image_alt: "Ilustração cartoon: engenheiros equilibram objetos de formas diferentes numa construção realista de brinquedo, discutindo encaixes e limitações do design."
 ---
 
 

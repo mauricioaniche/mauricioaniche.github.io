@@ -8,6 +8,8 @@ videopt: "Pd5CdV5sPbo"
 videoen: "KPnNpTsZB40"
 year: 2017
 doi: 10.1007/s10664-017-9540-2
+image: "/assets/images/content/cartoon/publications-2017-01-01-emse-mvc-smells.jpg"
+image_alt: "Ilustração cartoon: uma equipe desembaraça fitas entre três pavilhões coloridos de um sistema e melhora os caminhos para manutenção."
 ---
 
 Estudos anteriores mostraram os efeitos negativos que o código de baixa qualidade pode ter nos proxies de manutenção, como a propensão a alterações de código e a defeitos. Um dos sintomas de código de baixa qualidade são os code smells, definidos como opções de implementação abaixo do ideal. Embora esta definição seja bastante geral e pareça sugerir um amplo espectro de code smells que podem afetar sistemas de software, a literatura de pesquisa concentra-se principalmente no conjunto de code smells definidos no catálogo por Fowler e Beck, relatando problemas de design que podem potencialmente afetar qualquer tipo de sistema, independentemente da sua arquitetura (por exemplo, Classe Complexa). Entretanto, sistemas que adotam uma arquitetura específica (por exemplo, o padrão Model-View-Controller) podem ser afetados por outros tipos de práticas inadequadas que só se manifestam na arquitetura escolhida.

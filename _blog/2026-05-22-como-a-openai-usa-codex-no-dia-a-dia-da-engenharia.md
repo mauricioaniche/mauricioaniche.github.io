@@ -3,13 +3,14 @@ tags: [ia]
 title: "Como a OpenAI usa Codex no dia a dia da engenharia"
 layout: "post"
 date: "2026-05-22T10:30:00-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-05-22-como-a-openai-usa-codex-no-dia-a-dia-da-engenharia.jpg"
 category: "Engenharia"
 description: "A OpenAI lançou recentemente um documento chamado \"How OpenAI Uses Codex\", ou seja, \"Como a OpenAI usa Codex\". O texto dá uma visão bem legal de como a OpenAI integra…"
 source_network: "LinkedIn"
 source_post_id: "7becd9d8-7cd8-41aa-b6c8-8618d186c066"
 source_status: "FAILED"
 source_date_field: "scheduledAt"
+image_alt: "Ilustração cartoon: um ateliê de software com três pequenas estações: investigar com lupa, reorganizar blocos e acelerar uma roda, com pessoas e um robô ajudante."
 ---
 
 A OpenAI lançou recentemente um documento chamado "How OpenAI Uses Codex", ou seja, "Como a OpenAI usa Codex". O texto dá uma visão bem legal de como a OpenAI integra o Codex em suas operações diárias, melhorando a eficiência e a qualidade do trabalho em equipe.

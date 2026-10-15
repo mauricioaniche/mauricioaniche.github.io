@@ -3,13 +3,14 @@ tags: [ia]
 title: "A fatura da IA chegou: como conectar custo e retorno"
 layout: "post"
 date: "2026-08-12T15:00:24.668984-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-08-12-a-fatura-da-ia-chegou-como-conectar-custo-e-retorno.jpg"
 category: "Engenharia"
 description: "A fatura da IA chegou e ela está maior do que muitas empresas esperavam!"
 source_network: "LinkedIn"
 source_post_id: "859a07cc-5af8-4e88-8287-c788456e530d"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma gestora pesa moedas e pequenas invenções úteis em uma balança alegre, com um robô separando fichas de energia."
 ---
 
 A fatura da IA chegou e ela está maior do que muitas empresas esperavam!

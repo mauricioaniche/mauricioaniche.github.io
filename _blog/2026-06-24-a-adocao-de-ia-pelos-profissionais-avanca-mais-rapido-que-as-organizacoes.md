@@ -3,13 +3,14 @@ tags: [ia]
 title: "A adoção de IA pelos profissionais avança mais rápido que as organizações"
 layout: "post"
 date: "2026-06-24T10:04:29.219110-03:00"
-image: "/assets/images/blog/education.svg"
+image: "/assets/images/content/cartoon/blog-2026-06-24-a-adocao-de-ia-pelos-profissionais-avanca-mais-rapido-que-as-organizacoes.jpg"
 category: "Educação"
 description: "O Brasil está entre os países mais avançados no uso de IA no trabalho, mas as empresas ainda não acompanham o mesmo ritmo!"
 source_network: "LinkedIn"
 source_post_id: "4965e7f2-20c9-4fb5-a8f0-593db0882a42"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: pessoas em patins avançam por uma rua enquanto ajudam uma casa-escritório sobre rodas a acompanhar o ritmo, com um robô empurrando."
 ---
 
 O Brasil está entre os países mais avançados no uso de IA no trabalho, mas as empresas ainda não acompanham o mesmo ritmo!

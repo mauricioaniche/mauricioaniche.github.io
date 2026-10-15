@@ -6,6 +6,8 @@ conference: "48th ACM Technical Symposium on Computer Science Education (SIGCSE)
 doi: 10.1145/3017680.3017737
 categories: ["publication", "conference", "sigcse", "education"]
 year: 2017
+image: "/assets/images/content/cartoon/publications-2017-01-01-teaching-software-architecture.jpg"
+image_alt: "Ilustração cartoon: alunos colaboram numa grande maquete de cidade enquanto uma professora ajuda a conectar suas diferentes partes."
 ---
 
 Ensinar arquitetura de software é difícil. O tema é abstrato e é melhor compreendido vivenciando-o, o que requer escala adequada para compreender plenamente sua complexidade. Além disso, os alunos precisam praticar habilidades técnicas e sociais para se tornarem bons arquitetos de software. Para superar esses desafios de ensino, desenvolvemos o Curso de Arquitetura de Software Colaborativa. Neste curso, os participantes trabalham juntos para estudar e documentar um grande sistema de software de código aberto de sua escolha. No processo, toda a comunicação é transparente, a fim de promover um ambiente de aprendizagem aberto, e o resultado final é publicado como um livro online para beneficiar a comunidade de código aberto em geral.

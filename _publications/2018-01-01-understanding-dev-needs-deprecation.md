@@ -6,6 +6,8 @@ conference: "40th International Conference on Software Engineering (ICSE)"
 doi: 10.1145/3180155.3180170
 categories: ["publication", "conference", "icse", "maintenance", "api"]
 year: 2018
+image: "/assets/images/content/cartoon/publications-2018-01-01-understanding-dev-needs-deprecation.jpg"
+image_alt: "Ilustração cartoon: uma equipe constrói uma passagem suave entre uma ferramenta antiga e uma nova, com sinalização geométrica que ajuda os usuários a migrar."
 ---
 
 A descontinuação é um recurso de linguagem que permite aos produtores de API marcar um recurso como obsoleto. Nosso objetivo é obter uma compreensão profunda das necessidades dos produtores e consumidores de APIs em relação à depreciação. Para esse fim, investigamos por que os produtores de API descontinuam recursos, se eles removem recursos obsoletos, como esperam que os consumidores reajam e o que leva um consumidor de API a reagir à descontinuação.

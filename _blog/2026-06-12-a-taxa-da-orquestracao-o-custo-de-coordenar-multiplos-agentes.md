@@ -3,13 +3,14 @@ tags: [ia]
 title: "A taxa da orquestração: o custo de coordenar múltiplos agentes"
 layout: "post"
 date: "2026-06-12T10:40:22.623639-03:00"
-image: "/assets/images/blog/ai.svg"
+image: "/assets/images/content/cartoon/blog-2026-06-12-a-taxa-da-orquestracao-o-custo-de-coordenar-multiplos-agentes.jpg"
 category: "Engenharia"
 description: "O Addy Osmani escreveu um texto legal chamado \"The Orchestration Tax\", ou a taxa da orquestração. Veja as referências ao final. Resumo rápido:"
 source_network: "LinkedIn"
 source_post_id: "08c6caae-7825-4ed5-808a-b3a39bfefd07"
 source_status: "SENT"
 source_date_field: "sentAt"
+image_alt: "Ilustração cartoon: uma maestrina alegre tenta coordenar vários pequenos robôs músicos enquanto protege uma pequena ampulheta que representa sua atenção."
 ---
 
 O Addy Osmani escreveu um texto legal chamado "The Orchestration Tax", ou a taxa da orquestração. Veja as referências ao final. Resumo rápido:

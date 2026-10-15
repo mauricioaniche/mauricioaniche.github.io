@@ -4,9 +4,10 @@ title: "O que a maioria dos engenheiros entende errado sobre testes"
 source_name: "Beyond Coding"
 language: inglês
 description: "Minha participação no episódio 191 do Beyond Coding, em uma conversa sobre testes de software."
-image: /assets/images/content/podcast-testing.svg
+image: "/assets/images/content/cartoon/media-testes-beyond-coding-191.jpg"
 external_url: "https://www.youtube.com/watch?v=oFO85YFuXjg"
 external_action: Assistir à conversa
+image_alt: "Ilustração cartoon: dois convidados com microfones abrem uma caixa de testes para descobrir cenários inesperados escondidos sob os blocos."
 ---
 
 Minha participação no episódio 191 do Beyond Coding, em uma conversa sobre testes de software.

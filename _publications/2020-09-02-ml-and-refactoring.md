@@ -8,6 +8,8 @@ doi: 10.1109/TSE.2020.3021736
 posters: ["icse21"]
 year: 2020
 videoen: "nr1uXAhDBog"
+image: "/assets/images/content/cartoon/publications-2020-09-02-ml-and-refactoring.jpg"
+image_alt: "Ilustração cartoon: uma pesquisadora usa uma pequena máquina de padrões para sugerir quais trechos de uma cidade de software merecem reorganização."
 ---
 
 Refatoração é o processo de alteração da estrutura interna do software para melhorar sua qualidade sem modificar seu comportamento externo. Antes de realizar atividades de refatoração, os desenvolvedores precisam identificar oportunidades de refatoração. Atualmente, a refatoração da identificação de oportunidades depende muito da experiência e da intuição dos desenvolvedores.

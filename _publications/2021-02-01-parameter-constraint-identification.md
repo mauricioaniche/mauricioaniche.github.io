@@ -8,6 +8,8 @@ videoen: "UMhDNtKVYdk"
 categories: ["publication", "maintenance", "icse", "conference", "industry-collaboration", "adyen"]
 posters: ["icse21"]
 year: 2021
+image: "/assets/images/content/cartoon/publications-2021-02-01-parameter-constraint-identification.jpg"
+image_alt: "Ilustração cartoon: uma pesquisadora encontra combinações de chaves e formas que abrem diferentes portas de uma central de APIs."
 ---
 
 As APIs da Web podem ter restrições de parâmetros, de modo que nem todos os parâmetros são sempre obrigatórios ou sempre opcionais. Além disso, a presença ou o valor de um parâmetro pode fazer com que outro parâmetro seja exigido, ou os parâmetros podem ter restrições sobre quais tipos de valores são válidos. Ter uma visão clara das restrições ajuda os consumidores de API a se integrarem sem a necessidade de suporte adicional e com menos falhas de integração. Utilizamos documentação existente e abordagens de análise de código para identificar restrições de parâmetros em APIs da web complexas.

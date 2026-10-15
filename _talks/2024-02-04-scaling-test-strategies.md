@@ -5,7 +5,8 @@ title: "Estratégias de testes em escala"
 layout: content-detail
 categories: ["talk"]
 description: "Os desafios de evoluir estratégias de testes conforme os sistemas e as organizações crescem."
-image: /assets/images/blog/testing.svg
+image: "/assets/images/content/cartoon/talks-2024-02-04-scaling-test-strategies.jpg"
+image_alt: "Ilustração cartoon: uma equipe conduz um trem de testes por uma paisagem crescente de cidades, usando estações bem distribuídas para manter a fluidez."
 ---
 
 Definir uma boa estratégia de testes é um passo importante quando se fala em qualidade de software. Nesta apresentação falo sobre:

@@ -3,7 +3,8 @@ title: "Design orientado a objetos simples"
 layout: content-detail
 categories: ["talk"]
 description: "Princípios para controlar a complexidade e construir software orientado a objetos mais simples."
-image: /assets/images/blog/design.svg
+image: "/assets/images/content/cartoon/talks-2023-09-01-simple-object-oriented-design.jpg"
+image_alt: "Ilustração cartoon: um professor desmonta um mecanismo complicado e o reconstrói como três objetos coloridos simples que colaboram."
 ---
 
 Nesta palestra, abordarei sete práticas de codificação que têm me ajudado a projetar sistemas de software orientados a objetos de fácil manutenção. Como você verá, eles não são novos em si, mas todos têm meu toque pragmático pessoal.

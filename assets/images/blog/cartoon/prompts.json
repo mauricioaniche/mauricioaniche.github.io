@@ -1,0 +1,26 @@
+{
+  "generation_mode": "built-in image_gen",
+  "purpose": "Cinco ilustrações piloto para os artigos mais recentes do blog.",
+  "images": [
+    {
+      "slug": "julgamento-engenheiro-cartoon",
+      "prompt": "Use case: illustration-story. Generate one landscape editorial illustration for a Brazilian software engineering blog post about human judgment remaining essential when AI agents write the code. Happy, colorful, playful 2D cartoon, rounded expressive shapes, hand-drawn dark outlines, subtle paper texture, polished magazine illustration. Scene: a smiling human engineer and a small friendly robot at a fork in a whimsical winding road made of colorful software blocks. The human thoughtfully points toward a stable elegant bridge while the robot holds a map with several confusing routes. Clear metaphor of human architectural judgment and AI collaboration. Sunny coral and turquoise palette with warm yellow accents. Wide 8:5 composition, strong readable silhouette and generous edge margins for thumbnail cropping. No text, letters, numbers, logos or watermark. One standalone image, no panels, no collage. Keep drawing simple and charming."
+    },
+    {
+      "slug": "testando-agentes-cartoon",
+      "prompt": "Use case: illustration-story. Generate one landscape editorial illustration for a software engineering blog post about testing AI agent systems, observing outcomes and checking reliability. Happy colorful playful 2D cartoon, rounded expressive shapes, hand-drawn dark outlines, subtle paper texture, polished magazine illustration. Scene: a cheerful engineer in a whimsical toy laboratory carefully watches three tiny friendly robots running through a colorful obstacle course of ramps, hoops and soft building blocks. The engineer holds a magnifying glass; some robots succeed and one comically lands on a soft cushion. Fun optimistic testing and experimentation, no danger. Lavender, tangerine and sky-blue palette, sunny background. Wide 8:5 composition, readable at thumbnail scale, edge margins for cropping. No text, letters, numbers, logos or watermark. One standalone image, no panels or collage. Keep drawing simple and charming."
+    },
+    {
+      "slug": "senso-critico-ia-cartoon",
+      "prompt": "Use case: illustration-story. Generate one landscape editorial illustration for a software engineering blog post about using AI without surrendering critical thinking. Happy colorful playful 2D cartoon, rounded expressive shapes, hand-drawn dark outlines, subtle paper texture, polished magazine illustration. Scene: an inquisitive smiling person wearing oversized colorful glasses examines a glowing idea-shaped object offered by a small friendly robot. Around them float a few whimsical puzzle pieces and light bulbs; the person compares and rotates a puzzle piece before accepting it. Human curiosity and independent thinking, collaboration rather than fear. Lime green, hot pink and warm cream palette with blue accents. Wide 8:5 composition, clean silhouette readable at thumbnail scale, generous edge margins for cropping. No text, letters, numbers, logos or watermark. One standalone image, no panels, no collage. Keep drawing simple and charming."
+    },
+    {
+      "slug": "repensar-code-review-cartoon",
+      "prompt": "Use case: illustration-story. Generate one landscape editorial illustration for a software engineering blog post about rethinking code review as AI produces more code. Happy colorful playful 2D cartoon, rounded expressive shapes, hand-drawn dark outlines, subtle paper texture, polished magazine illustration. Scene: two cheerful engineers and a small friendly robot at a playful colorful conveyor belt carrying building-block software creations. The robot checks simple blocks through a hoop while the people together inspect one complex block sculpture with a magnifying glass. Clear metaphor: automated routine checks and thoughtful collaborative review. Bold cobalt blue, peach and sunflower yellow palette. Wide 8:5 composition, simple readable silhouettes and generous edge margins for thumbnail cropping. No text, code characters, letters, numbers, logos or watermark. One standalone image, no panels, no collage. Keep drawing simple and charming."
+    },
+    {
+      "slug": "seguranca-ia-cartoon",
+      "prompt": "Use case: illustration-story. Generate one landscape editorial illustration for a software engineering blog post about AI fixing security vulnerabilities while humans verify the fixes. Happy colorful playful 2D cartoon, rounded expressive shapes, hand-drawn dark outlines, subtle paper texture, polished magazine illustration. Scene: a smiling human security engineer and a small friendly robot repair a giant colorful patchwork shield. The robot applies a bright patch while the human uses a magnifying glass to spot a tiny mischievous cartoon bug peeking around a different crack. Friendly optimistic puzzle-solving mood, no menace or weapons. Mint green, raspberry red and golden yellow palette with pale blue background. Wide 8:5 composition, clear silhouettes readable at thumbnail scale, generous edge margins for cropping. No text, letters, numbers, logos or watermark. One standalone image, no panels, no collage. Keep drawing simple and charming."
+    }
+  ]
+}
