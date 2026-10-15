@@ -1514,13 +1514,27 @@ hr {
   margin-bottom: 24px;
 }
 .topic-pagination-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
   margin-bottom: 65px;
 }
+.topic-pagination-footer .content-result-count {
+  margin: 0;
+  text-align: center;
+}
 .topic-pagination {
-  display: flex;
-  flex-wrap: wrap;
+  display: inline-flex;
   align-items: center;
-  gap: 12px 20px;
+  justify-content: center;
+  gap: 12px;
+  max-width: 100%;
+  padding: 7px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--white);
+  box-shadow: 0 4px 16px #172c2506;
   font-size: 13px;
 }
 .topic-pagination[hidden] {
@@ -1528,19 +1542,66 @@ hr {
 }
 .topic-pagination button,
 .topic-pagination select {
-  padding: 9px 12px;
-  border: 1px solid var(--line);
-  border-radius: 4px;
-  background: #fbfbf7;
-  color: var(--ink);
   font: inherit;
+  color: var(--green);
+  border: 1px solid transparent;
+}
+.topic-pagination button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 10px 16px;
+  border-radius: 999px;
+  background: transparent;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: background-color 0.2s, color 0.2s;
+}
+.topic-pagination button:not(:disabled):hover {
+  background: var(--lime);
+}
+.topic-pagination button[data-topic-next]:not(:disabled) {
+  background: var(--green);
+  color: var(--white);
+}
+.topic-pagination button[data-topic-next]:not(:disabled):hover {
+  background: var(--ink);
 }
 .topic-pagination button:disabled {
-  opacity: 0.45;
+  color: #7b857f;
+  background: var(--paper);
   cursor: default;
 }
 .topic-pagination label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--muted);
   white-space: nowrap;
+}
+.topic-pagination select {
+  min-height: 44px;
+  padding: 8px;
+  border-radius: 12px;
+  background: var(--paper);
+  cursor: pointer;
+  font-weight: 600;
+}
+@media (max-width: 480px) {
+  .topic-pagination {
+    gap: 6px;
+    padding: 5px;
+    font-size: 12px;
+  }
+  .topic-pagination button {
+    gap: 5px;
+    padding: 10px 12px;
+  }
+  .topic-page-label {
+    display: none;
+  }
 }
 .topic-links {
   margin: 16px 0;
