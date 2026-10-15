@@ -20,7 +20,7 @@ Maurício é autor de *Effective Software Testing: A Developer’s Guide* (2022)
 
 ## Fotos para divulgação
 
-Fotos de 2026. Clique no link para abrir a imagem em tamanho original.
+Clique no link para abrir a imagem em tamanho original.
 
 [Baixar foto 1](/assets/images/foto-1-2026.jpg)
 
@@ -29,6 +29,10 @@ Fotos de 2026. Clique no link para abrir a imagem em tamanho original.
 [Baixar foto 2](/assets/images/foto-2-2026.jpg)
 
 <img src="/assets/images/foto-2-2026.jpg" alt="Segunda foto de Maurício Aniche em 2026" class="my-photo" loading="lazy">
+
+[Baixar avatar estilo GTA](/assets/images/avatar-gta-aniche.png)
+
+<img src="/assets/images/avatar-gta-aniche.png" alt="Avatar ilustrado de Maurício Aniche em estilo GTA" class="my-photo" loading="lazy">
 
 ## Fotos anteriores
 
