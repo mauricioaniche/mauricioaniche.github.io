@@ -54,17 +54,17 @@ Na prática, em um sistema agêntico, temos muito mais do que simplesmente um pr
 Agente = Modelo + Instruções + Contexto + Harness + Ferramentas + Ambiente
 ```
 
-O **modelo** pode ser GPT, Claude, Gemini ou qualquer outro.
+- O **modelo** pode ser GPT, Claude, Gemini ou qualquer outro.
 
-As **instruções** incluem instruções que são passadas para o modelo, como exemplos e regras específicas da aplicação.
+- As **instruções** incluem instruções que são passadas para o modelo, como exemplos e regras específicas da aplicação.
 
-O **contexto** contém documentos, histórico da conversa, memória, resultados de recuperação de informação e informações produzidas durante a própria execução.
+- O **contexto** contém documentos, histórico da conversa, memória, resultados de recuperação de informação e informações produzidas durante a própria execução.
 
-As **ferramentas** definem quais ações o modelo consegue executar no mundo.
+- As **ferramentas** definem quais ações o modelo consegue executar no mundo.
 
-O **ambiente** contém o estado real sobre o qual essas ações operam.
+- O **ambiente** contém o estado real sobre o qual essas ações operam.
 
-E o **harness** é a “cola” que coloca tudo isso para funcionar.
+- E o **harness** é a “cola” que coloca tudo isso para funcionar.
 
 É o harness que decide, por exemplo, como montar o contexto, como expor ferramentas, quantos passos o agente pode executar, como lidar com erros, quando tentar novamente, como persistir memória, qual modelo utilizar em cada momento e quando considerar a tarefa terminada.
 
@@ -206,13 +206,12 @@ Como disse, isso é equivalente a escrever um teste de unidade tradicional exces
 
 Portanto, é sempre melhor testar **propriedades importantes da trajetória** do que “fixar” uma trajetória inteira. No exemplo, talvez as propriedades relevantes sejam:
 
-```text
-reembolso só pode acontecer depois de verificar_identidade
-reembolso.valor <= pagamento_original.valor
-excluir_cliente nunca pode ser chamado
-nenhuma compra adicional pode ser criada
-máximo de 15 chamadas de ferramentas
-```
+- reembolso só pode acontecer depois de verificar_identidade
+- reembolso.valor <= pagamento_original.valor
+- excluir_cliente nunca pode ser chamado
+- nenhuma compra adicional pode ser criada
+- máximo de 15 chamadas de ferramentas
+
 
 Observe a diferença. Não estamos dizendo **como** o agente deve resolver o problema. Estamos dizendo quais **invariantes** ele precisa preservar enquanto resolve o problema.
 
@@ -301,20 +300,16 @@ Quando não temos um oráculo determinístico suficientemente bom, uma alternati
 
 Podemos entregar ao modelo avaliador:
 
-```text
-Descrição da tarefa
-critérios esperados
-resposta do agente
-```
+- Descrição da tarefa
+- Critérios esperados
+- Resposta do agente
 
-e pedir algo como:
+E pedir algo como:
 
-```text
-avalie a correção de 1 a 5
-avalie a completude de 1 a 5
-identifique afirmações sem suporte
-verifique se os requisitos A, B e C foram satisfeitos
-```
+- Avalie a correção de 1 a 5
+- Avalie a completude de 1 a 5
+- Identifique afirmações sem suporte
+- Verifique se os requisitos A, B e C foram satisfeitos
 
 Isso funciona surpreendentemente bem em muitos cenários e torna avaliações que antes exigiriam milhares de horas humanas economicamente viáveis.
 
@@ -364,10 +359,8 @@ Uma métrica popular para resolver esse problema é  a `pass^k`, que mede a prob
 
 Imagine dois agentes:
 
-```text
-Agente A: 90% de sucesso
-Agente B: 95% de sucesso
-```
+- Agente A: 90% de sucesso
+- Agente B: 95% de sucesso
 
 A diferença parece pequena. Mas, se um processo crítico exige dez ações independentes executadas corretamente, essas probabilidades se acumulam. Confiabilidade deixa de ser apenas uma característica estatística interessante e passa a ser parte central da qualidade do produto. Por isso precisamos pensar em algo próximo do que já fazemos com testes instáveis: medir distribuições, repetir execuções e entender variância.
 

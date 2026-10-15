@@ -841,6 +841,9 @@ pre {
   border-radius: 3px;
   font-size: 0.9em;
 }
+.post-content pre > code {
+  padding: 0;
+}
 .reading-post {
   max-width: 820px;
   margin: auto;
