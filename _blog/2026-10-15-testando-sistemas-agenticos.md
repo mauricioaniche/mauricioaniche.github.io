@@ -1,4 +1,5 @@
 ---
+tags: [ia]
 title: "Testando sistemas agênticos: aprendendo com o passado para testar o futuro"
 layout: post
 featured: true

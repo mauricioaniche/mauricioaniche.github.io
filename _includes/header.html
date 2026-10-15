@@ -11,6 +11,7 @@
       {% else %}
       <a href="{{ '/#sobre' | relative_url }}">Sobre</a>
       <a href="{{ '/books' | relative_url }}" {% if page.url == '/books' %}aria-current="page"{% endif %}>Livros</a>
+      <a href="{{ '/ia' | relative_url }}" {% if page.url == '/ia' %}aria-current="page"{% endif %}>IA</a>
       <a href="{{ '/conteudo' | relative_url }}" {% if page.url == '/conteudo' or page.content_type or page.url contains '/blog' or page.url contains '/publications' or page.url == '/podcasts-br' or page.url contains '/research' %}aria-current="page"{% endif %}>Conteúdo</a>
       <a href="{{ '/english' | relative_url }}" lang="en">In English</a>
       <a class="nav-cta" href="{{ '/mentoria' | relative_url }}" {% if page.url == '/mentoria' %}aria-current="page"{% endif %}>Mentoria <span aria-hidden="true">↗</span></a>

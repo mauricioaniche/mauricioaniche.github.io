@@ -1497,6 +1497,61 @@ hr {
 }
 
 // Shared library for articles, talks, podcasts and scientific publications.
+.topic-intro {
+  max-width: 820px;
+  margin-bottom: 65px;
+}
+.topic-jump-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 28px;
+  margin-top: 28px;
+}
+.topic-section h2 {
+  scroll-margin-top: 30px;
+}
+.topic-section[data-topic-pagination] .content-grid {
+  margin-bottom: 24px;
+}
+.topic-pagination-footer {
+  margin-bottom: 65px;
+}
+.topic-pagination {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px 20px;
+  font-size: 13px;
+}
+.topic-pagination[hidden] {
+  display: none;
+}
+.topic-pagination button,
+.topic-pagination select {
+  padding: 9px 12px;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: #fbfbf7;
+  color: var(--ink);
+  font: inherit;
+}
+.topic-pagination button:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+.topic-pagination label {
+  white-space: nowrap;
+}
+.topic-links {
+  margin: 16px 0;
+  font-size: 12px;
+}
+.topic-links a {
+  display: inline-block;
+  padding: 5px 12px;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+}
 .content-heading {
   max-width: 960px;
 }

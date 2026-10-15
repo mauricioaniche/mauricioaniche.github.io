@@ -1,4 +1,5 @@
 ---
+tags: [ia]
 title: "Agentes de IA no código aberto: uma síntese do MSR 2026"
 layout: post
 image: /assets/images/blog/ai.svg

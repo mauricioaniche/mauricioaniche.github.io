@@ -1,4 +1,5 @@
 ---
+tags: [ia]
 published_on: 2026-04-14
 title: "Coding Agents na prática: Claude Code, Cursor e companhia"
 source_name: "Hipsters.tech"

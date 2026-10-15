@@ -1,4 +1,5 @@
 ---
+tags: [ia]
 published_on: 2021-11-17
 title: "Aprendizado de máquina em engenharia de software"
 source_name: "Fronteiras da Engenharia de Software"

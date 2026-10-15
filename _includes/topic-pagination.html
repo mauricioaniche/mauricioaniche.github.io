@@ -1,0 +1,8 @@
+<div class="topic-pagination-footer">
+  <p class="content-result-count" data-topic-page-status role="status" aria-live="polite"></p>
+  <nav class="topic-pagination" data-topic-page-controls aria-label="Paginação de {{ include.label }}" hidden>
+    <button type="button" data-topic-previous aria-controls="{{ include.list_id }}">← Anterior</button>
+    <label>Página <select data-topic-page aria-controls="{{ include.list_id }}" aria-label="Escolher página de {{ include.label }}"></select> <span data-topic-page-total></span></label>
+    <button type="button" data-topic-next aria-controls="{{ include.list_id }}">Próxima →</button>
+  </nav>
+</div>
