@@ -5,6 +5,7 @@ authors: "Bart van Oort, Luís Cruz, Maurício Aniche, Arie van Deursen"
 conference: "1st Workshop on AI Engineering – Software Engineering for AI – WAIN'21"
 doi: "10.1109/WAIN52551.2021.00011"
 categories: ["publication", "maintenance", "wain", "workshop"]
+tags: [ia]
 year: 2021
 videoen: "TbgawiiYwJQ"
 bottom: true

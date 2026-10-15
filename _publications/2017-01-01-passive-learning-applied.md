@@ -4,6 +4,7 @@ download: "https://research.tudelft.nl/en/publications/an-experience-report-on-a
 authors: "Rick Wieman, Maurício Aniche, Willem Lobbezoo, Sicco Verwer, Arie van Deursen"
 conference: "33rd IEEE International Conference on Software Maintenance and Evolution (ICSME)"
 categories: ["publication", "conference", "icsme", "monitoring", "testing", selected-monitoring", "adyen", "industry-collaboration"]
+tags: [ia]
 year: 2017
 doi: 10.1109/ICSME.2017.71
 image: "/assets/images/content/cartoon/publications-2017-01-01-passive-learning-applied.jpg"

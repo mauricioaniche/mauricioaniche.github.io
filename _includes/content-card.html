@@ -15,7 +15,7 @@
     <h3><a href="{{ entry.url | relative_url }}">{{ entry.display_title | default: entry.title | escape }}</a></h3>
     <p>{{ entry_description | truncate: 175 }}</p>
     {% if include.show_topics %}{% include article-topics.html item=entry %}{% endif %}
-    {% if include.compact and entry.authors %}<p class="content-authors">{{ entry.authors | escape }}{% if entry.conference %}<br>{{ entry.conference | escape }}{% endif %}</p>{% endif %}
+    {% if entry.authors %}{% if include.compact or include.show_authors %}<p class="content-authors">{{ entry.authors | escape }}{% if entry.conference %}<br>{{ entry.conference | escape }}{% endif %}</p>{% endif %}{% endif %}
     <a class="text-link" href="{{ entry.url | relative_url }}">{{ type_info.action }} <span aria-hidden="true">↗</span><span class="sr-only">: {{ entry.display_title | default: entry.title | escape }}</span></a>
   </div>
 </article>

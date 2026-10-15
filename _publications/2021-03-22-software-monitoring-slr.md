@@ -5,6 +5,7 @@ authors: "Jeanderson Candido, Maurício Aniche, Arie van Deursen"
 conference: "PeerJ"
 doi: "10.7717/peerj-cs.489"
 categories: ["publication", "journal", "monitoring", "peerj"]
+tags: [ia]
 year: 2021
 image: "/assets/images/content/cartoon/publications-2021-03-22-software-monitoring-slr.jpg"
 image_alt: "Ilustração cartoon: uma equipe de pesquisadores organiza diferentes lupas, sensores e faróis em uma biblioteca de práticas de monitoramento."

@@ -7,6 +7,7 @@ doi: "10.1109/ICSE-SEIP52600.2021.00017"
 categories: ["publication", "maintenance", "ml4se", "icse", "conference", "industry-collaboration", "adyen", "selected-maintenance"]
 posters: ["icse21"]
 videoen: "l3zGu1N27gE"
+tags: [ia]
 year: 2021
 image: "/assets/images/content/cartoon/publications-2021-02-01-search-based-remodularization.jpg"
 image_alt: "Ilustração cartoon: pesquisadores reorganizam bairros de uma cidade modular, aproximando peças relacionadas e reduzindo caminhos longos."
