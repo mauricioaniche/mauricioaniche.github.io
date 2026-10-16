@@ -3,7 +3,7 @@
   {% for topic_id in include.item.tags %}
     {% assign article_topic = site.data.ai_topics | where: 'id', topic_id | first %}
     {% if article_topic %}
-    <li><a href="{{ '/ia' | relative_url }}?{% if include.item.content_type == 'external' %}assunto-externo{% else %}assunto{% endif %}={{ article_topic.id }}#{% if include.item.content_type == 'external' %}outros-artigos{% else %}artigos{% endif %}">{{ article_topic.label | escape }}</a></li>
+    <li><a href="{{ '/ia' | relative_url }}?assunto={{ article_topic.id }}#artigos">{{ article_topic.label | escape }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>

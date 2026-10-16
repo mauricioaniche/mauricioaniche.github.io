@@ -1,4 +1,16 @@
 (() => {
+  // Keep links to the former external-articles section working.
+  const url = new URL(location.href);
+  if (url.searchParams.has('assunto-externo') || url.hash === '#outros-artigos') {
+    url.searchParams.getAll('assunto-externo').forEach((topic) => {
+      if (!url.searchParams.getAll('assunto').includes(topic)) url.searchParams.append('assunto', topic);
+    });
+    url.searchParams.delete('assunto-externo');
+    if (url.hash === '#outros-artigos') url.hash = 'artigos';
+    history.replaceState(null, '', url);
+    if (url.hash === '#artigos') document.getElementById('artigos')?.scrollIntoView();
+  }
+
   document.querySelectorAll('[data-topic-pagination]').forEach((section) => {
     const pageSize = Math.max(1, parseInt(section.dataset.topicPageSize, 10) || 6);
     const cards = [...section.querySelectorAll('[data-topic-items] > article')];
