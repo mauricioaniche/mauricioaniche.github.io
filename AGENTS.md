@@ -5,6 +5,17 @@ Este é um site Jekyll. O acervo fica em `_blog`, `_media`, `_talks` e
 ilustrações. Mantenha `ia` entre as tags quando inteligência artificial for assunto central;
 essa tag alimenta a página `/ia` sem substituir as categorias existentes.
 
+## Índice remissivo
+
+Sempre que adicionar um artigo ou outra entrada ao acervo, revise o índice
+remissivo em `/indice`. Confira se a nova entrada aparece nos verbetes
+pertinentes e na lista completa por título. Reutilize os assuntos de
+`_data/ai_topics.yml` e revise os verbetes, aliases e categorias em
+`_data/index_terms.yml`, acrescentando termos quando necessário para cobrir
+os assuntos, pessoas, empresas, ferramentas e obras do novo conteúdo.
+Evite verbetes duplicados e associações indevidas. Gere o site e confira
+os links, as contagens, a busca e os filtros antes de publicar.
+
 ## Assuntos dos artigos de IA
 
 Além de `ia`, atribua tags específicas aos artigos do blog e artigos externos.
