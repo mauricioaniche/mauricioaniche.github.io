@@ -1,4 +1,5 @@
 ---
+home_featured: 5
 ia_favorite: 4
 tags: [ia]
 published_on: 2026-05-26

@@ -1,4 +1,5 @@
 ---
+home_featured: 4
 ia_favorite: 1
 tags: [ia, testes, avaliacoes, agentes, observabilidade]
 title: "Testando sistemas agênticos: aprendendo com o passado para testar o futuro"

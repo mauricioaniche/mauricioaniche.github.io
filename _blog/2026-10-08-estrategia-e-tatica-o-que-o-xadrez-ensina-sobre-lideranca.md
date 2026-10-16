@@ -1,4 +1,5 @@
 ---
+home_featured: 3
 title: "Estratégia e tática: o que o xadrez ensina sobre liderança"
 layout: "post"
 date: "2026-10-08T09:15:07.025182-03:00"
