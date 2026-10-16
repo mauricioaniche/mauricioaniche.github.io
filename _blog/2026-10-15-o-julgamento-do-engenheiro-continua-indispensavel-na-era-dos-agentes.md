@@ -1,12 +1,12 @@
 ---
-tags: [ia, julgamento, arquitetura, claude]
+tags: [ia, julgamento, arquitetura, claude, revisao-de-codigo, fundamentos]
 title: "O julgamento do engenheiro continua indispensável na era dos agentes"
 layout: "post"
 date: "2026-10-15T15:26:00-03:00"
 image: /assets/images/blog/cartoon/julgamento-engenheiro-cartoon.jpg
 image_alt: "Engenheiro orienta um robô na escolha de uma ponte entre caminhos coloridos."
 category: "Engenharia"
-description: "A Anthropic recentemente blogou sobre o seu novo serviço de source control, \"Scion\", que visa substituir o Git. O ponto deles é que Git foi feito para um universo…"
+description: "A experiência da Anthropic com o Scion mostra como o trabalho do engenheiro muda com IA: orientar decisões de arquitetura, revisar a intenção das mudanças e exercer julgamento técnico."
 source_network: "LinkedIn"
 source_post_id: "41e696d8-7122-4be4-a825-52d546424ca4"
 source_status: "SCHEDULED"

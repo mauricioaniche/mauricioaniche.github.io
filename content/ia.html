@@ -33,7 +33,7 @@ permalink: /ia
 {% if ia_favorites.size > 0 %}
 <section class="topic-section" aria-labelledby="favoritos" data-topic-pagination>
   <div class="section-heading">
-    <div><p class="eyebrow">Escolhidos a dedo</p><h2 id="favoritos" tabindex="-1">Favoritos sobre IA</h2></div>
+    <div><p class="eyebrow">Escolhidos a dedo</p><h2 id="favoritos" tabindex="-1">Meus textos favoritos sobre IA</h2></div>
   </div>
   <div id="favoritos-lista" class="post-grid content-grid" data-topic-items>
     {% for item in ia_favorites %}{% include content-card.html item=item show_authors=true %}{% endfor %}
