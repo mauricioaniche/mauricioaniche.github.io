@@ -19,6 +19,14 @@ A página `/ia` deriva os filtros dessa taxonomia e dos artigos de cada seção.
 Mantenha as tags no front matter para que os filtros, contagens, links e
 paginação funcionem juntos. Confira combinações de tags e a navegação em celular.
 
+## Favoritos da página de IA
+
+Para destacar uma entrada de qualquer coleção na primeira seção de `/ia`,
+mantenha a tag `ia` e adicione `ia_favorite: 1` ao front matter, usando um
+número para definir sua posição (menores primeiro). A seleção é manual;
+remova esse campo para retirar a entrada dos favoritos. Ela continua também
+na seção do seu tipo de conteúdo.
+
 ## Ilustrações das entradas
 
 O usuário aprovou em 15/10/2026 um estilo de **cartoon editorial alegre,

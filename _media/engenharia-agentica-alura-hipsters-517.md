@@ -1,4 +1,5 @@
 ---
+ia_favorite: 4
 tags: [ia]
 published_on: 2026-05-26
 title: "Engenharia agêntica e vibe coding na Alura — Hipsters.tech #517"

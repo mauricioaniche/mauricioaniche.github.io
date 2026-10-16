@@ -9,6 +9,7 @@ permalink: /ia
 {% assign ia_external = site.media | where: 'content_type', 'external' | where_exp: 'item', 'item.tags contains "ia"' | sort: 'published_on' | reverse %}
 
 {% assign ia_publications = site.publications | where_exp: 'item', 'item.tags contains "ia"' | sort: 'date' | reverse %}
+{% assign ia_favorites = site.documents | where_exp: 'item', 'item.tags contains "ia"' | where_exp: 'item', 'item.ia_favorite' | sort: 'ia_favorite' %}
 
 <header class="page-heading content-heading">
   <p class="eyebrow">Inteligência artificial / Engenharia, liderança e educação</p>
@@ -21,12 +22,25 @@ permalink: /ia
   <p>Isso exige fundamentos sólidos, senso crítico e disposição para aprender. Também exige olhar para custos, educação e para como lideramos os times nessa transformação. Compartilho aqui minhas experiências, leituras e perguntas em aberto.</p>
   <p>Estou empolgado com o que já conseguimos fazer e ainda temos muito a descobrir.</p>
   <nav class="topic-jump-links" aria-label="Nesta página">
+    {% if ia_favorites.size > 0 %}<a class="text-link" href="#favoritos">Favoritos ({{ ia_favorites.size }}) ↓</a>{% endif %}
     <a class="text-link" href="#artigos">Artigos do blog ({{ ia_posts.size }}) ↓</a>
     <a class="text-link" href="#podcasts">Podcasts ({{ ia_podcasts.size }}) ↓</a>
     <a class="text-link" href="#outros-artigos">Artigos em outros sites ({{ ia_external.size }}) ↓</a>
     <a class="text-link" href="#artigos-cientificos">Artigos científicos ({{ ia_publications.size }}) ↓</a>
   </nav>
 </div>
+
+{% if ia_favorites.size > 0 %}
+<section class="topic-section" aria-labelledby="favoritos" data-topic-pagination>
+  <div class="section-heading">
+    <div><p class="eyebrow">Escolhidos a dedo</p><h2 id="favoritos" tabindex="-1">Favoritos sobre IA</h2></div>
+  </div>
+  <div id="favoritos-lista" class="post-grid content-grid" data-topic-items>
+    {% for item in ia_favorites %}{% include content-card.html item=item show_authors=true %}{% endfor %}
+  </div>
+  {% include topic-pagination.html list_id='favoritos-lista' label='favoritos' %}
+</section>
+{% endif %}
 
 <section class="topic-section" aria-labelledby="artigos" data-topic-pagination data-topic-query="assunto">
   <div class="section-heading">
