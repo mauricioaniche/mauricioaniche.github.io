@@ -76,14 +76,14 @@ permalink: /ia
   {% include topic-pagination.html list_id='outros-artigos-lista' label='artigos em outros sites' %}
 </section>
 
-<section class="topic-section" aria-labelledby="artigos-cientificos" data-topic-pagination>
+<section class="topic-section" aria-labelledby="artigos-cientificos" data-topic-pagination data-topic-page-size="8">
   <div class="section-heading">
     <div><p class="eyebrow">Pesquisa em engenharia de software</p><h2 id="artigos-cientificos" tabindex="-1">Artigos científicos sobre IA</h2></div>
     <a class="text-link" href="{{ '/conteudo' | relative_url }}?tipo=publications">Todas as publicações ↗</a>
   </div>
-  <p>Pesquisas sobre aprendizado de máquina aplicado à engenharia de software, qualidade de sistemas de IA e técnicas de busca para apoiar o desenvolvimento.</p>
-  <div id="artigos-cientificos-lista" class="post-grid content-grid" data-topic-items>
-    {% for item in ia_publications %}{% include content-card.html item=item show_authors=true %}{% endfor %}
+  <p>Eu fiz muita pesquisa em IA para engenharia de software, mas no mundo pré-LLMs. Muito do que escrevi perde sentido com o avanço da tecnologia, mas tenho orgulho do trabalho que fiz naquela época, e por isso ele aparece aqui.</p>
+  <div id="artigos-cientificos-lista" class="post-grid content-grid research-grid" data-topic-items>
+    {% for item in ia_publications %}{% include research-card.html item=item %}{% endfor %}
   </div>
   {% include topic-pagination.html list_id='artigos-cientificos-lista' label='artigos científicos' %}
 </section>

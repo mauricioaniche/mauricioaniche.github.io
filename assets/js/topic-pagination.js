@@ -1,7 +1,6 @@
 (() => {
-  const pageSize = 6;
-
   document.querySelectorAll('[data-topic-pagination]').forEach((section) => {
+    const pageSize = Math.max(1, parseInt(section.dataset.topicPageSize, 10) || 6);
     const cards = [...section.querySelectorAll('[data-topic-items] > article')];
     const controls = section.querySelector('[data-topic-page-controls]');
     const previous = section.querySelector('[data-topic-previous]');
