@@ -1777,6 +1777,22 @@ hr {
 
 .home-post-grid {
   grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 18px;
+}
+.home-post-grid .card-body {
+  padding: 18px;
+}
+.home-post-grid .card-meta {
+  gap: 8px;
+  margin-bottom: 12px;
+}
+.home-post-grid .post-card h3 {
+  font-size: 18px;
+  margin-bottom: 12px;
+}
+.home-post-grid .post-card p {
+  font-size: 12px;
+  line-height: 1.6;
 }
 @media (max-width: 1000px) {
   .home-post-grid {

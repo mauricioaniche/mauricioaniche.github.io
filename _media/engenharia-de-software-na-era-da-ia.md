@@ -1,4 +1,5 @@
 ---
+home_featured: 2
 ia_favorite: 3
 tags: [ia, agentes, julgamento, contexto, guardrails]
 published_on: 2026-04-08
