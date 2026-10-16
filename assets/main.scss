@@ -1886,3 +1886,101 @@ hr {
   .topic-filters { padding: 14px; }
   .topic-filter-chip { padding: 8px 10px; }
 }
+
+/* Alphabetical cross-reference index; native details keep references usable without JS. */
+.index-heading { padding-bottom: 32px; }
+.index-heading h1 { font-size: clamp(40px, 5.4vw, 64px); }
+.index-heading .text-link { margin-top: 6px; }
+.index-controls {
+  padding: 26px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--white);
+}
+.index-search-row { display: flex; gap: 24px; margin-bottom: 22px; }
+.index-search-row label { display: flex; flex-direction: column; gap: 8px; font-size: 13px; font-weight: 500; }
+.index-search-row .search-label { flex: 1; }
+.index-search-row input, .index-search-row select {
+  width: 100%;
+  min-height: 48px;
+  padding: 10px 14px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--paper);
+  color: var(--ink);
+  font: inherit;
+  font-size: 15px;
+}
+.index-kind-label { min-width: 245px; }
+.index-controls .filter-buttons { flex-wrap: wrap; gap: 8px; }
+.index-controls .filter-buttons button { padding: 8px 14px; }
+.index-controls .filter-buttons span { margin-left: 6px; opacity: .7; font-size: 11px; }
+.index-status { margin: 20px 0; color: var(--muted); font-size: 13px; }
+.index-alphabet {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding: 18px 0;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 36px;
+}
+.index-alphabet a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 40px;
+  min-height: 44px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+}
+.index-alphabet a:hover { background: var(--lime); }
+.index-letter { display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 24px; margin-bottom: 30px; }
+.index-letter h2 { margin: 9px 0 0; font-size: 32px; color: #63816b; }
+.index-term-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 32px; align-items: start; }
+.index-term { min-width: 0; padding: 0; border-bottom: 1px solid var(--line); scroll-margin-top: 24px; }
+.index-term summary {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 17px 0;
+  font-size: 16px;
+  font-weight: 500;
+  list-style: none;
+  cursor: pointer;
+  overflow-wrap: anywhere;
+}
+.index-term summary::-webkit-details-marker { display: none; }
+.index-term summary::after { content: '+'; flex: 0 0 18px; color: var(--green); font-size: 20px; text-align: center; }
+.index-term[open] summary::after { content: '−'; }
+.index-term summary:hover [data-index-name] { text-decoration: underline; text-underline-offset: 4px; }
+.index-term-count { flex-shrink: 0; margin-left: auto; padding: 1px 9px; border-radius: 20px; background: #e9eedf; color: var(--green); font-size: 12px; }
+.index-permalink { display: inline-block; margin: 0 0 14px; color: var(--muted); font-size: 11px; }
+.index-permalink:hover { text-decoration: underline; }
+.index-references { margin: 0; padding: 0; list-style: none; }
+.index-references li { margin: 0 0 18px; overflow-wrap: anywhere; }
+.index-references li > a { display: block; font-size: 14px; line-height: 1.6; }
+.index-references li > a:hover { text-decoration: underline; text-underline-offset: 4px; }
+.index-reference-meta { display: block; margin-top: 4px; color: var(--muted); font-size: 11px; }
+.index-catalog { margin: 70px 0; padding-top: 48px; border-top: 1px solid var(--line); }
+.index-catalog .section-heading { margin-bottom: 20px; }
+.index-catalog-intro { color: var(--muted); max-width: 700px; }
+.index-title-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 48px; }
+.index-title-list li { padding: 16px 0; margin: 0; border-bottom: 1px solid var(--line); }
+.index-controls[hidden], .remissive-index [hidden] { display: none; }
+@media (max-width: 800px) {
+  .index-letter { grid-template-columns: 40px minmax(0, 1fr); gap: 16px; }
+  .index-term-grid { grid-template-columns: 1fr; }
+  .index-title-list { grid-template-columns: 1fr; }
+}
+@media (max-width: 560px) {
+  .index-controls { padding: 18px; }
+  .index-search-row { flex-direction: column; gap: 16px; }
+  .index-kind-label { min-width: 0; }
+  .index-search-row input, .index-search-row select { font-size: 16px; }
+  .index-letter { grid-template-columns: 1fr; gap: 4px; }
+  .index-letter h2 { margin-bottom: 0; }
+  .index-term summary { font-size: 15px; }
+  .index-catalog { margin-top: 48px; }
+}

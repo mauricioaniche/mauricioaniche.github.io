@@ -1,0 +1,5 @@
+{%- assign index_type = site.data.content_types | where: 'id', include.item.content_type | first -%}
+<li data-index-reference data-type="{{ include.item.content_type | escape }}">
+  <a href="{{ include.item.url | relative_url }}">{{ include.item.display_title | default: include.item.title | escape }}</a>
+  <span class="index-reference-meta">{{ index_type.singular }}{% if include.item.published_on %} · {{ include.item.published_on | date: '%Y' }}{% elsif include.item.collection != 'media' and include.item.date %} · {{ include.item.date | date: '%Y' }}{% elsif include.item.year %} · {{ include.item.year }}{% endif %}</span>
+</li>

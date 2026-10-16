@@ -1,0 +1,334 @@
+# ai_topics.yml is the source of topic IDs and display names. These aliases
+# extend the index across Portuguese/English texts without changing article tags.
+# Matching is case/accent insensitive and uses whole words/phrases in the title,
+# description, body, authors and source. Tags and the categories below also match.
+# Add a named entity here once; future entries mentioning it appear automatically.
+topics:
+  adocao:
+    aliases: [adoção, adoption]
+  agentes:
+    aliases: [agentes, agente, coding agents, coding agent, agentic, agêntica, agênticos]
+  analise-estatica:
+    aliases: [análise estática, static analysis, linters, linting, linter]
+  arquitetura:
+    aliases: [arquitetura, architecture, architectures]
+  avaliacoes:
+    aliases: [evals, avaliação de agentes, agent evaluation]
+  bem-estar:
+    aliases: [bem-estar, descanso, descansar]
+  carreira:
+    aliases: [carreira, career, doutorado, phd]
+  claude:
+    kind: ferramentas
+    aliases: [Claude Code, Claude]
+  codigo-aberto:
+    aliases: [código aberto, open source, oss]
+  codex:
+    kind: ferramentas
+  contexto:
+    aliases: [contexto, context, instruções]
+  custos:
+    aliases: [custos, custo, costs, finops]
+  educacao:
+    aliases: [educação, education, ensino, aprendizagem, upskilling, onboarding]
+    categories: [education, upskilling]
+  entrega:
+    aliases: [entrega, delivery, lead time, lead times]
+  escrita:
+    aliases: [escrita, escrever, writing]
+  fabrica-de-software:
+    aliases: [fábrica de software, fábricas de software, software factory]
+  fundamentos:
+    aliases: [fundamentos, fundamentos de computação]
+  guardrails:
+    aliases: [guardrail]
+  julgamento:
+    aliases: [julgamento, julgamento técnico]
+  kimi:
+    kind: ferramentas
+  kiro:
+    kind: ferramentas
+  lideranca:
+    aliases: [liderança, liderança técnica, leadership]
+  memoria:
+    aliases: [memória, memory]
+  modelos:
+    aliases: [escolha de modelos, seleção de modelos]
+  multiagentes:
+    aliases: [multiagentes, multi-agent, múltiplos agentes]
+  observabilidade:
+    aliases: [observabilidade, monitoramento, monitoring, logging, log, logs]
+    categories: [monitoring]
+  opencode:
+    kind: ferramentas
+  operacao:
+    aliases: [operação, deploy, deployment, produção, production]
+  pesquisa:
+    aliases: [pesquisa, research, empirical, estudo empírico, estudos empíricos]
+  plataforma:
+    aliases: [engenharia de plataforma, platform engineering]
+  produtividade:
+    aliases: [produtividade, productivity]
+  produto:
+    aliases: [produto, experiência do usuário, user experience]
+  qualidade:
+    aliases: [qualidade, quality]
+  refatoracao:
+    aliases: [refatoração, refactoring, re-modularization, migração, migrações, migration]
+  revisao-de-codigo:
+    aliases: [revisão de código, code review, code reviews, pull request, pull requests]
+    categories: [code reviews]
+  seguranca:
+    aliases: [segurança, security, vulnerabilidade, vulnerabilidades]
+    categories: [security]
+  senso-critico:
+    aliases: [senso crítico, cognitive surrender, meat proxy]
+  testes:
+    aliases: [testes, teste, testing, test, tests]
+    categories: [testing]
+
+entries:
+  - id: ia
+    label: Inteligência artificial
+    aliases: [IA, AI, inteligência artificial, artificial intelligence, LLM, LLMs]
+    categories: [ml4se]
+  - id: aprendizado-de-maquina
+    label: Aprendizado de máquina
+    aliases: [machine learning, aprendizado de máquina, aprendizagem de máquina, supervised learning, passive learning, deep learning]
+    categories: [ml4se]
+  - id: apis
+    label: APIs e bibliotecas
+    aliases: [API, APIs, bibliotecas, third-party libraries]
+    categories: [api]
+  - id: compreensao-de-codigo
+    label: Compreensão de código
+    aliases: [compreensão de código, code comprehension, comprehending, atoms of confusion]
+    categories: [comprehension]
+  - id: cobertura-de-testes
+    label: Cobertura de testes
+    aliases: [cobertura, coverage]
+  - id: code-smells
+    label: Code smells
+    aliases: [code smell, code smells, smells]
+  - id: ddd
+    label: Domain-Driven Design (DDD)
+    aliases: [DDD, domain-driven design, design orientado a domínio]
+  - id: documentacao
+    label: Documentação
+    aliases: [documentação, documentation]
+  - id: fatores-humanos
+    label: Fatores humanos
+    aliases: [fatores humanos, human factors, perceptions]
+    categories: [human-factors]
+  - id: geracao-de-testes
+    label: Geração de testes
+    aliases: [geração de testes, test generation, test data generation, testes gerados]
+  - id: idempotencia
+    label: Idempotência e retentativas
+    aliases: [idempotência, retentativas]
+  - id: manutencao
+    label: Manutenção de software
+    aliases: [manutenção, maintenance]
+    categories: [maintenance]
+  - id: metricas
+    label: Métricas de código
+    aliases: [métricas, métricas de código, code metrics, code metric]
+  - id: mineracao-de-repositorios
+    label: Mineração de repositórios
+    aliases: [mineração de repositórios, mining software repositories, mining challenge]
+  - id: mocks
+    label: Mocks
+    aliases: [mock, mocking, mock objects]
+  - id: orientacao-a-objetos
+    label: Orientação a objetos
+    aliases: [orientação a objetos, orientado a objetos, orientados a objetos, object-oriented, OOP]
+  - id: padroes-de-projeto
+    label: Padrões de projeto
+    aliases: [design patterns, design pattern, padrões de design, padrões de projeto]
+    categories: [patterns]
+  - id: sala-de-aula-invertida
+    label: Sala de aula invertida
+    aliases: [sala de aula invertida, inverter minha sala de aula, flipped classroom, flipping my classroom]
+  - id: selecao-de-testes
+    label: Seleção de testes
+    aliases: [seleção de testes, seleção de teste, test selection]
+  - id: solid
+    label: SOLID
+  - id: tdd
+    label: Test-Driven Development (TDD)
+    aliases: [TDD, test-driven development, test driven development]
+  - id: tech-academy
+    label: Tech Academy
+    aliases: [academia de tecnologia, tech academies]
+  - id: team-topologies
+    label: Team Topologies
+    kind: obras
+  - id: effective-software-testing
+    label: Effective Software Testing
+    kind: obras
+    aliases: [Testes de software eficazes]
+  - id: simple-object-oriented-design
+    label: Simple Object-Oriented Design
+    kind: obras
+    aliases: [Design orientado a objetos simples]
+  - id: growing-oo-software
+    label: Growing Object-Oriented Software, Guided by Tests
+    kind: obras
+  - id: adyen
+    label: Adyen
+    kind: organizacoes
+    categories: [adyen]
+  - id: alura
+    label: Alura
+    kind: organizacoes
+  - id: anthropic
+    label: Anthropic
+    kind: organizacoes
+  - id: basecamp
+    label: Basecamp
+    kind: ferramentas
+  - id: chatgpt
+    label: ChatGPT
+    kind: ferramentas
+  - id: codurance
+    label: Codurance
+    kind: organizacoes
+  - id: coinbase
+    label: Coinbase
+    kind: organizacoes
+  - id: cursor
+    label: Cursor
+    kind: ferramentas
+  - id: databricks
+    label: Databricks
+    kind: organizacoes
+  - id: eslint
+    label: ESLint
+    kind: ferramentas
+  - id: evosql
+    label: EvoSQL
+    kind: ferramentas
+  - id: firebase
+    label: Firebase
+    kind: ferramentas
+  - id: github
+    label: GitHub
+    kind: ferramentas
+  - id: google
+    label: Google
+    kind: organizacoes
+  - id: hipsters
+    label: Hipsters.tech
+    kind: organizacoes
+    aliases: [Hipsters Ponto Tech]
+  - id: ing
+    label: ING
+    kind: organizacoes
+    categories: [ing]
+  - id: java
+    label: Java
+    kind: ferramentas
+  - id: javascript
+    label: JavaScript
+    kind: ferramentas
+  - id: lambda3
+    label: Lambda3
+    kind: organizacoes
+  - id: netflix
+    label: Netflix
+    kind: organizacoes
+  - id: openai
+    label: OpenAI
+    kind: organizacoes
+  - id: prosus
+    label: Prosus
+    kind: organizacoes
+  - id: pydriller
+    label: PyDriller
+    kind: ferramentas
+  - id: python
+    label: Python
+    kind: ferramentas
+  - id: spring-boot
+    label: Spring Boot
+    kind: ferramentas
+  - id: sql
+    label: SQL
+    kind: ferramentas
+  - id: stack-overflow
+    label: Stack Overflow
+    kind: organizacoes
+  - id: testknight
+    label: TestKnight
+    kind: ferramentas
+  - id: ticka
+    label: Ticka
+    kind: ferramentas
+  - id: tu-delft
+    label: TU Delft
+    kind: organizacoes
+    aliases: [Delft University of Technology]
+  - id: osmani-addy
+    label: Osmani, Addy
+    kind: pessoas
+    aliases: [Addy Osmani]
+  - id: beck-kent
+    label: Beck, Kent
+    kind: pessoas
+    aliases: [Kent Beck]
+  - id: cherny-boris
+    label: Cherny, Boris
+    kind: pessoas
+    aliases: [Boris Cherny]
+  - id: fowler-martin
+    label: Fowler, Martin
+    kind: pessoas
+    aliases: [Martin Fowler]
+  - id: freeman-steve
+    label: Freeman, Steve
+    kind: pessoas
+    aliases: [Steve Freeman]
+  - id: pais-manuel
+    label: Pais, Manuel
+    kind: pessoas
+    aliases: [Manuel Pais]
+  - id: silveira-paulo
+    label: Silveira, Paulo
+    kind: pessoas
+    aliases: [Paulo Silveira]
+  - id: neto-adolfo
+    label: Neto, Adolfo
+    kind: pessoas
+    aliases: [Adolfo Neto]
+  - id: spilca-laurentiu
+    label: Spilca, Laurentiu
+    kind: pessoas
+    aliases: [Laurentiu Spilca]
+  - id: van-deursen-arie
+    label: Van Deursen, Arie
+    kind: pessoas
+    aliases: [Arie van Deursen]
+  - id: zaidman-andy
+    label: Zaidman, Andy
+    kind: pessoas
+    aliases: [Andy Zaidman]
+  - id: treude-christoph
+    label: Treude, Christoph
+    kind: pessoas
+    aliases: [Christoph Treude]
+  - id: gerosa-marco
+    label: Gerosa, Marco
+    kind: pessoas
+    aliases: [Marco Gerosa, Marco A. Gerosa, Marco Aurélio Gerosa]
+  - id: spadini-davide
+    label: Spadini, Davide
+    kind: pessoas
+    aliases: [Davide Spadini]
+  - id: bacchelli-alberto
+    label: Bacchelli, Alberto
+    kind: pessoas
+    aliases: [Alberto Bacchelli]
+  - id: panichella-annibale
+    label: Panichella, Annibale
+    kind: pessoas
+    aliases: [Annibale Panichella]
