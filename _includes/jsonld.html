@@ -47,7 +47,13 @@
       "mainEntityOfPage": { "@type": "WebPage", "@id": {{ canonical | jsonify }} },
       "isPartOf": { "@id": {{ blog_id | jsonify }} },
       "author": { "@id": {{ person_id | jsonify }} },
-      "publisher": { "@id": {{ person_id | jsonify }} }
+      "publisher": { "@id": {{ person_id | jsonify }} }{% if page.translation_url %},
+      "{% if page.lang == 'en' %}translationOfWork{% else %}workTranslation{% endif %}": {
+        "@type": "BlogPosting",
+        "@id": {{ page.translation_url | absolute_url | append: '#article' | jsonify }},
+        "url": {{ page.translation_url | absolute_url | jsonify }},
+        "inLanguage": "{% if page.lang == 'en' %}pt-BR{% else %}en{% endif %}"
+      }{% endif %}
     },
     {
       "@type": "BreadcrumbList",

@@ -1,0 +1,6 @@
+{% if page.lang == 'en' and page.translation_url %}
+<aside class="translation-notice" aria-label="Translation information">
+  <p>Translated from the <a href="{{ page.translation_url | relative_url }}" hreflang="pt-BR" lang="en">Portuguese original</a>.
+  {% if page.translation_reviewed == true %}This translation has been reviewed by a human.{% elsif page.translation_reviewed == false %}This translation has not been reviewed by a human.{% else %}Human review of this translation has not been recorded.{% endif %}</p>
+</aside>
+{% endif %}
