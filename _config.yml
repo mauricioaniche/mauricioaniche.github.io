@@ -8,6 +8,10 @@ url: https://mauricioaniche.com
 
 google_analytics: UA-10934071-4
 
+# Discovery
+plugins:
+  - jekyll-sitemap
+
 # Build settings
 markdown    : kramdown
 highlighter : rouge
