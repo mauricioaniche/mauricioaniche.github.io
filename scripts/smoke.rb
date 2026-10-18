@@ -26,6 +26,12 @@ assert.call(sitemap_urls.any?, 'Empty sitemap')
 sitemap_urls.each do |url|
   assert.call(url.start_with?("#{origin}/") && file_for.call(url), "Missing or foreign sitemap URL: #{url}")
 end
+site.collections.fetch('media').docs.each do |doc|
+  next if doc.data['last_modified_at'] || doc.data['sitemap'] == false
+  entry = sitemap.xpath('//*[local-name()="url"]').find { |node| node.at_xpath('./*[local-name()="loc"]').text == "#{origin}#{doc.url}" }
+  lastmod = entry&.at_xpath('./*[local-name()="lastmod"]')&.text
+  assert.call(lastmod == doc.data['published_on']&.to_s, "Sitemap invents a media modification date: #{doc.url}")
+end
 html.each do |file, document|
   canonical = document.at_css('link[rel="canonical"]')&.[]('href')
   assert.call(canonical && canonical.start_with?("#{origin}/") && (file_for.call(canonical) == file || (document.at_css('meta[http-equiv="refresh"]') && file_for.call(canonical))), "Invalid canonical: #{file}")

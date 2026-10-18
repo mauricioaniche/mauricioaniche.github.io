@@ -45,6 +45,10 @@ Páginas que não devem ser indexadas podem declarar `noindex: true`; o build ta
 as retira do sitemap. `sitemap: false` em páginas HTML emite `noindex, follow`.
 Rascunhos da coleção devem declarar `published: false`.
 
+No sitemap, `last_modified_at` explícito tem prioridade. Para entradas de mídia,
+o fallback é `published_on`; sem uma data conhecida, `lastmod` é omitido. O build
+também não usa o horário do checkout como data de alteração de arquivos estáticos.
+
 ## Analytics
 
 O Universal Analytics foi removido. O serviço novo fica desativado até a escolha
