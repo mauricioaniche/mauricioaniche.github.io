@@ -43,6 +43,7 @@
   <meta name="twitter:description" content="{{ description | escape }}">
   <meta name="twitter:image" content="{{ share_image }}">
   <meta name="twitter:image:alt" content="{{ page.image_alt | default: title | escape }}">
+  {% include jsonld.html %}
   {% include fonts.html %}
   {% include google_analytics.html %}
 </head>

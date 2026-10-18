@@ -82,9 +82,14 @@ author:
   thumb    : /assets/images/photo.jpg
   email    : mauricioaniche@gmail.com
   url      : https://mauricioaniche.com
-  github   : http://github.com/mauricioaniche
-  twitter  : http://twitter.com/mauricioaniche
-  linkedin : http://linkedin.com/in/mauricioaniche
+  github   : https://github.com/mauricioaniche
+  twitter  : https://x.com/mauricioaniche
+  linkedin : https://www.linkedin.com/in/mauricioaniche/
 
+  same_as:
+    - https://www.linkedin.com/in/mauricioaniche/
+    - https://x.com/mauricioaniche
+    - https://github.com/mauricioaniche
+    - https://www.manning.com/authors/mauricio-aniche
 
 exclude: ["output", "scripts", "docs", "package-lock.json", "pagefind.yml", "gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "AGENTS.md", "Rakefile", "changelog.md"]
