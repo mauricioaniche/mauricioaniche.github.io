@@ -21,6 +21,10 @@ plugins:
 # Build settings
 markdown    : kramdown
 highlighter : rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  gfm_quirks: paragraph_end
 
 collections:
   media:
