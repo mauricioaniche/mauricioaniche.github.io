@@ -32,9 +32,9 @@ do build e dos testes. Em **Settings → Pages → Build and deployment → Sour
 **GitHub Actions**. O modo antigo de build por branch ignora plugins locais e não
 executa Pagefind. Esta alteração de configuração remota não é feita pelo código.
 
-O workflow agendado reconstrói o site às 00:10, 06:10, 12:10 e 18:10 UTC (21:10,
-03:10, 09:10 e 15:10 em São Paulo). Os horários do GitHub Actions podem sofrer atraso;
-o cron não promete publicação imediata à meia-noite. Ele roda na branch padrão.
+O workflow agendado reconstrói o site uma vez por dia às 13h30 UTC (10h30 em
+São Paulo). Os horários do GitHub Actions podem sofrer atraso; o cron não promete
+execução no minuto exato. Ele roda na branch padrão.
 
 `future: false` e o filtro da coleção `_blog` impedem que posts futuros apareçam no
 HTML, nas listas, no índice, nos feeds, na busca e nos arquivos para LLMs. Preserve
