@@ -1,0 +1,13 @@
+{% assign conversation = site.data.conversations[page.slug] %}
+{% if conversation.comments.size > 0 %}
+<section class="post-end post-conversation" aria-labelledby="conversation-heading">
+  <h2 id="conversation-heading">A conversa continua</h2>
+  <p>Comentários publicados nas redes e preservados aqui com links para a conversa original.</p>
+  {% for comment in conversation.comments %}
+  <figure>
+    <blockquote><p>{{ comment.text | escape | newline_to_br }}</p></blockquote>
+    <figcaption>{{ comment.author | escape }} · <a href="{{ comment.url | escape }}">{{ comment.source | escape }}</a>{% if comment.published_at %} · <time datetime="{{ comment.published_at | escape }}">{{ comment.published_at | date: '%d/%m/%Y' }}</time>{% endif %}</figcaption>
+  </figure>
+  {% endfor %}
+</section>
+{% endif %}

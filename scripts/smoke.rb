@@ -2,6 +2,7 @@ require 'jekyll'
 require 'nokogiri'
 require 'json'
 require 'uri'
+require 'time'
 
 root = File.expand_path(ARGV.fetch(0, '_site'))
 site = Jekyll::Site.new(Jekyll.configuration('quiet' => true))
@@ -60,8 +61,20 @@ posts.each do |post|
   related = document.css('.related-posts a').map { |node| node['href'] }
   assert.call(related.size == [3, posts.size - 1].min && related.uniq == related && !related.include?(post.url), "Invalid related posts: #{post.url}")
   related.each { |url| assert.call(file_for.call(url), "Broken related link: #{url}") }
+  conversation = site.data.fetch('conversations', {}).fetch(post.data['slug'], {})
+  conversation.fetch('comments', []).each do |comment|
+    assert.call(%w[author source url text].all? { |key| comment[key].is_a?(String) && !comment[key].strip.empty? }, 'Incomplete imported comment')
+    url = URI.parse(comment['url'])
+    hosts = comment['source'] == 'LinkedIn' ? %w[linkedin.com www.linkedin.com] : %w[x.com www.x.com twitter.com www.twitter.com]
+    assert.call(%w[LinkedIn X].include?(comment['source']) && url.scheme == 'https' && hosts.include?(url.host), 'Invalid comment source')
+    Time.iso8601(comment['published_at']) if comment['published_at']
+    assert.call(document.at_css('.post-conversation')&.text&.include?(comment['text']), "Comment missing from article: #{post.url}")
+  end
 end
-
+site.data.fetch('conversations', {}).each_key do |slug|
+  assert.call(posts.any? { |post| post.data['slug'] == slug }, "Conversation has no public post: #{slug}")
+end
+assert.call(images.uniq.size == images.size, 'Posts share a social image')
 { 'feed.xml' => posts.reject { |post| post.data['lang'] == 'en' }, 'en/feed.xml' => posts.select { |post| post.data['lang'] == 'en' } }.each do |filename, entries|
   feed = Nokogiri::XML(File.read(File.join(root, filename))) { |config| config.strict }
   items = feed.css('item')

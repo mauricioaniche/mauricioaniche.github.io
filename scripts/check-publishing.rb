@@ -25,6 +25,9 @@ Dir.mktmpdir('aniche-publishing-') do |tmp|
   fixture.call('2010-01-01-noindex-fixture.md', "title: NOINDEXLEAKCHECK\nnoindex: true", 'NOINDEX_BODY_SENTINEL')
   fixture.call('2010-01-01-portuguese-fixture.md', "title: Portuguese fixture\nredirect_from: /old-fixture/", 'Texto original de teste.')
   fixture.call('2010-01-01-english-fixture.md', "title: English fixture\nlang: en\ntranslation_url: /blog/portuguese-fixture/\ntranslation_reviewed: false", 'English translation fixture.')
+  File.write(File.join(source, '_data/conversations/english-fixture.json'), JSON.generate({
+    'comments' => [{ 'author' => 'TEST AUTHOR', 'source' => 'X', 'url' => 'https://x.com/example/status/123', 'text' => '<script>TEST COMMENT</script>' }]
+  }))
   build = lambda do |time|
     File.write(File.join(source, '_test_config.yml'), "time: '#{time}'\n")
     log, status = Open3.capture2e({ 'JEKYLL_ENV' => 'production', 'TZ' => 'UTC' },
@@ -60,6 +63,8 @@ Dir.mktmpdir('aniche-publishing-') do |tmp|
     assert.call(article.key?(language == 'english' ? 'translationOfWork' : 'workTranslation'), 'Missing translation schema')
     if language == 'english'
       assert.call(document.at_css('.translation-notice').text.include?('has not been reviewed by a human'), 'Missing review disclosure')
+      assert.call(document.at_css('.post-conversation').text.include?('<script>TEST COMMENT</script>'), 'Missing sourced conversation')
+      assert.call(document.css('.post-conversation script').empty?, 'Comment HTML was not escaped')
     end
   end
   english_feed = Nokogiri::XML(File.read(File.join(output, 'en/feed.xml'))) { |config| config.strict }
