@@ -6,7 +6,12 @@ lang: pt-BR
 keywords: "mauricio aniche, aniche, alura, IA, AI, software engineering, research"
 url: https://mauricioaniche.com
 
-google_analytics: UA-10934071-4
+# Optional analytics: set analytics.provider and the matching IDs to enable.
+analytics:
+  provider: null
+  ga4_id: null
+  umami_website_id: null
+  umami_script_url: null
 
 # Discovery
 plugins:
