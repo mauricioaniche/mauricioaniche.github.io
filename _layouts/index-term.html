@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article class="post reading-post index-entry">
+  <header class="post-header">
+    <a class="text-link" href="{{ '/indice' | relative_url }}#verbete-{{ page.term.id }}">← Índice remissivo</a>
+    <p class="eyebrow">Verbete do acervo</p>
+    <h1>{{ page.term.label | escape }}</h1>
+    <p>{{ page.references.size }} {% if page.references.size == 1 %}conteúdo relacionado{% else %}conteúdos relacionados{% endif %}.</p>
+  </header>
+  <ul class="index-references index-entry-references">
+    {% for entry in page.references %}
+    <li>
+      <a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a>
+      <span class="index-reference-meta">{{ entry.type | escape }}</span>
+      {% if entry.snippet %}<blockquote>{{ entry.snippet | escape }}</blockquote>{% else %}<p>Assunto identificado no título, nas tags ou nos metadados da entrada.</p>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  <aside class="post-end">
+    <h2>Aparece junto com</h2>
+    <ul class="article-topics">
+      {% for term in page.related_terms %}<li><a href="{{ '/indice/' | append: term.id | append: '/' | relative_url }}">{{ term.label | escape }} ({{ term.count }})</a></li>{% endfor %}
+    </ul>
+  </aside>
+</article>
