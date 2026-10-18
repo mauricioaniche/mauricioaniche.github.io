@@ -1,7 +1,7 @@
 {% include content-metadata.html item=include.item %}
 <article class="post-card research-card">
   <div class="research-card-meta">
-    <img src="{{ entry_image | relative_url }}" alt="" loading="lazy" width="64" height="40">
+    {% include responsive-image.html src=entry_image loading='lazy' sizes='64px' width=64 height=40 %}
     <span>{% if entry.year %}{{ entry.year }}{% else %}{{ entry.date | date: '%Y' }}{% endif %}</span>
   </div>
   <h3><a href="{{ entry.url | relative_url }}">{{ entry.display_title | default: entry.title | escape }}</a></h3>

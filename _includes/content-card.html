@@ -1,7 +1,8 @@
 {% include content-metadata.html item=include.item %}
 <article class="post-card content-card{% if include.compact %} content-card-compact{% endif %}" data-topics="{{ entry.tags | join: ' ' | escape }}" data-published-date="{{ entry_sort_date }}" data-category="{{ entry_type }}" data-search="{{ entry.title | append: ' ' | append: entry_description | append: ' ' | append: entry.authors | append: ' ' | append: entry.conference | append: ' ' | append: entry.source_name | append: ' ' | append: entry.category | append: ' ' | append: entry.tags | escape }}">
   <a class="card-image-link" href="{{ entry.url | relative_url }}" tabindex="-1" aria-hidden="true">
-    <img src="{{ entry_image | relative_url }}" alt="" loading="lazy" width="800" height="500">
+    {% if include.compact %}{% assign card_sizes = '(max-width: 560px) calc(100vw - 40px), (max-width: 800px) 180px, 230px' %}{% else %}{% assign card_sizes = '(max-width: 560px) calc(100vw - 40px), (max-width: 800px) calc((100vw - 60px) / 2), (max-width: 1100px) calc((100vw - 104px) / 3), (max-width: 1280px) calc((100vw - 148px) / 3), 378px' %}{% endif %}
+    {% assign card_sizes = include.sizes | default: card_sizes %}{% include responsive-image.html src=entry_image loading='lazy' sizes=card_sizes %}
     <span class="image-type-label">{{ type_info.singular }}</span>
   </a>
   <div class="card-body">

@@ -23,7 +23,7 @@ layout: default
     </div>
   </header>
 
-  <img class="publication-cover" src="{{ entry_image | relative_url }}" alt="{{ page.image_alt | default: '' | escape }}" width="800" height="500">
+  {% include responsive-image.html src=entry_image alt=page.image_alt class='publication-cover' sizes='(max-width: 800px) calc(100vw - 40px), 880px' %}
   <div class="post-content publication-abstract" itemprop="articleBody">
     {{ content }}
   </div>

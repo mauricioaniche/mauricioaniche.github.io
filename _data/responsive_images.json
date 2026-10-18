@@ -1,0 +1,4940 @@
+{
+  "/assets/images/avatar-gta-aniche.png": {
+    "width": 323,
+    "height": 401,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/abb3fb7f676e4f97-320.webp",
+        "width": 320,
+        "height": 397,
+        "bytes": 38890
+      },
+      {
+        "url": "/assets/images/responsive/abb3fb7f676e4f97-323.webp",
+        "width": 323,
+        "height": 401,
+        "bytes": 41196
+      }
+    ]
+  },
+  "/assets/images/blog/cartoon/julgamento-engenheiro-cartoon.jpg": {
+    "width": 1586,
+    "height": 992,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/a750c52a2b485023-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 26410
+      },
+      {
+        "url": "/assets/images/responsive/a750c52a2b485023-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 76876
+      },
+      {
+        "url": "/assets/images/responsive/a750c52a2b485023-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 134756
+      },
+      {
+        "url": "/assets/images/responsive/a750c52a2b485023-1280.webp",
+        "width": 1280,
+        "height": 801,
+        "bytes": 199620
+      }
+    ]
+  },
+  "/assets/images/blog/cartoon/repensar-code-review-cartoon.jpg": {
+    "width": 1586,
+    "height": 992,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/de6a675c1f75a3d5-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21186
+      },
+      {
+        "url": "/assets/images/responsive/de6a675c1f75a3d5-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 52564
+      },
+      {
+        "url": "/assets/images/responsive/de6a675c1f75a3d5-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 87782
+      },
+      {
+        "url": "/assets/images/responsive/de6a675c1f75a3d5-1280.webp",
+        "width": 1280,
+        "height": 801,
+        "bytes": 124952
+      }
+    ]
+  },
+  "/assets/images/blog/cartoon/seguranca-ia-cartoon.jpg": {
+    "width": 1586,
+    "height": 992,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/1fe2af1fc4db59c6-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20822
+      },
+      {
+        "url": "/assets/images/responsive/1fe2af1fc4db59c6-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 63228
+      },
+      {
+        "url": "/assets/images/responsive/1fe2af1fc4db59c6-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 119430
+      },
+      {
+        "url": "/assets/images/responsive/1fe2af1fc4db59c6-1280.webp",
+        "width": 1280,
+        "height": 801,
+        "bytes": 183344
+      }
+    ]
+  },
+  "/assets/images/blog/cartoon/senso-critico-ia-cartoon.jpg": {
+    "width": 1586,
+    "height": 992,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/05fdca0abc5e1761-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21196
+      },
+      {
+        "url": "/assets/images/responsive/05fdca0abc5e1761-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 55342
+      },
+      {
+        "url": "/assets/images/responsive/05fdca0abc5e1761-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 96184
+      },
+      {
+        "url": "/assets/images/responsive/05fdca0abc5e1761-1280.webp",
+        "width": 1280,
+        "height": 801,
+        "bytes": 144530
+      }
+    ]
+  },
+  "/assets/images/blog/cartoon/testando-agentes-cartoon.jpg": {
+    "width": 1586,
+    "height": 992,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/8344c15127dd087a-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18882
+      },
+      {
+        "url": "/assets/images/responsive/8344c15127dd087a-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 52092
+      },
+      {
+        "url": "/assets/images/responsive/8344c15127dd087a-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 93378
+      },
+      {
+        "url": "/assets/images/responsive/8344c15127dd087a-1280.webp",
+        "width": 1280,
+        "height": 801,
+        "bytes": 137576
+      }
+    ]
+  },
+  "/assets/images/books/c.png": {
+    "width": 341,
+    "height": 480,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/bd4ae82e6167f79f-320.webp",
+        "width": 320,
+        "height": 450,
+        "bytes": 12742
+      },
+      {
+        "url": "/assets/images/responsive/bd4ae82e6167f79f-341.webp",
+        "width": 341,
+        "height": 480,
+        "bytes": 13924
+      }
+    ]
+  },
+  "/assets/images/books/effective-software-testing.png": {
+    "width": 300,
+    "height": 376,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/51fa9bf97972f46d-300.webp",
+        "width": 300,
+        "height": 376,
+        "bytes": 12824
+      }
+    ]
+  },
+  "/assets/images/books/simple-object-oriented-design.jpg": {
+    "width": 300,
+    "height": 376,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/620e060d43824155-300.webp",
+        "width": 300,
+        "height": 376,
+        "bytes": 10132
+      }
+    ]
+  },
+  "/assets/images/books/solid.png": {
+    "width": 340,
+    "height": 480,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/fbf4f085a793501a-320.webp",
+        "width": 320,
+        "height": 452,
+        "bytes": 14036
+      },
+      {
+        "url": "/assets/images/responsive/fbf4f085a793501a-340.webp",
+        "width": 340,
+        "height": 480,
+        "bytes": 15648
+      }
+    ]
+  },
+  "/assets/images/books/tdd.png": {
+    "width": 280,
+    "height": 384,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/8ee16e8c5ae953f7-280.webp",
+        "width": 280,
+        "height": 384,
+        "bytes": 9860
+      }
+    ]
+  },
+  "/assets/images/books/testes.png": {
+    "width": 340,
+    "height": 480,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/3509678b1b2a007c-320.webp",
+        "width": 320,
+        "height": 452,
+        "bytes": 12708
+      },
+      {
+        "url": "/assets/images/responsive/3509678b1b2a007c-340.webp",
+        "width": 340,
+        "height": 480,
+        "bytes": 14170
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2017-12-05-what-do-we-not-know-about-ddd.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/8354b6d7705aa0ab-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 27500
+      },
+      {
+        "url": "/assets/images/responsive/8354b6d7705aa0ab-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 77368
+      },
+      {
+        "url": "/assets/images/responsive/8354b6d7705aa0ab-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 130780
+      },
+      {
+        "url": "/assets/images/responsive/8354b6d7705aa0ab-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 172938
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2018-06-21-testing-vs-writing-tests.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/7ff47910a3ee07bb-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18986
+      },
+      {
+        "url": "/assets/images/responsive/7ff47910a3ee07bb-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 56702
+      },
+      {
+        "url": "/assets/images/responsive/7ff47910a3ee07bb-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 102084
+      },
+      {
+        "url": "/assets/images/responsive/7ff47910a3ee07bb-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 138582
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2021-02-03-what-did-i-learn-from-flipping-my-classroom.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/9962d074236b0c29-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18844
+      },
+      {
+        "url": "/assets/images/responsive/9962d074236b0c29-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 50876
+      },
+      {
+        "url": "/assets/images/responsive/9962d074236b0c29-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 85776
+      },
+      {
+        "url": "/assets/images/responsive/9962d074236b0c29-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 109728
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2023-09-07-advantages-phd-industry.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/0e1aab2b843f5501-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 24640
+      },
+      {
+        "url": "/assets/images/responsive/0e1aab2b843f5501-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 70312
+      },
+      {
+        "url": "/assets/images/responsive/0e1aab2b843f5501-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 123016
+      },
+      {
+        "url": "/assets/images/responsive/0e1aab2b843f5501-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 167192
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-04-14-ai-agents-in-oss-msr-mining-challenge-2026.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/5f7cb82192151b54-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 27700
+      },
+      {
+        "url": "/assets/images/responsive/5f7cb82192151b54-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 81680
+      },
+      {
+        "url": "/assets/images/responsive/5f7cb82192151b54-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 141174
+      },
+      {
+        "url": "/assets/images/responsive/5f7cb82192151b54-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 186788
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-05-21-kimi-e-opencode-minhas-experiencias-com-uma-alternativa-de-menor-custo.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/5b8bc463d5b4ef80-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23834
+      },
+      {
+        "url": "/assets/images/responsive/5b8bc463d5b4ef80-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 63144
+      },
+      {
+        "url": "/assets/images/responsive/5b8bc463d5b4ef80-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 102920
+      },
+      {
+        "url": "/assets/images/responsive/5b8bc463d5b4ef80-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 135052
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-05-22-como-a-openai-usa-codex-no-dia-a-dia-da-engenharia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/90c9070d5693980c-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21686
+      },
+      {
+        "url": "/assets/images/responsive/90c9070d5693980c-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 56238
+      },
+      {
+        "url": "/assets/images/responsive/90c9070d5693980c-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 91706
+      },
+      {
+        "url": "/assets/images/responsive/90c9070d5693980c-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 118912
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-05-22-transformacao-com-ia-comeca-pelo-aprendizado-da-lideranca.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/c6e65ae3f285e58f-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23158
+      },
+      {
+        "url": "/assets/images/responsive/c6e65ae3f285e58f-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 60348
+      },
+      {
+        "url": "/assets/images/responsive/c6e65ae3f285e58f-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 98694
+      },
+      {
+        "url": "/assets/images/responsive/c6e65ae3f285e58f-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 129430
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-05-25-criando-o-ticka-com-ia-licoes-de-um-clone-simplificado-do-basecamp.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/94e4ef2129d8aa95-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 24700
+      },
+      {
+        "url": "/assets/images/responsive/94e4ef2129d8aa95-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 71184
+      },
+      {
+        "url": "/assets/images/responsive/94e4ef2129d8aa95-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 124162
+      },
+      {
+        "url": "/assets/images/responsive/94e4ef2129d8aa95-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 167078
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-05-26-a-nova-forma-de-trabalhar-com-ia-uma-conversa-da-alura.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/eda5c476196e3941-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19528
+      },
+      {
+        "url": "/assets/images/responsive/eda5c476196e3941-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 52840
+      },
+      {
+        "url": "/assets/images/responsive/eda5c476196e3941-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 88862
+      },
+      {
+        "url": "/assets/images/responsive/eda5c476196e3941-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 118426
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-05-28-quando-uso-ia-para-escrever-e-quando-prefiro-escrever-a-mao.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/e32a49b884123f80-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22310
+      },
+      {
+        "url": "/assets/images/responsive/e32a49b884123f80-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 60936
+      },
+      {
+        "url": "/assets/images/responsive/e32a49b884123f80-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 102434
+      },
+      {
+        "url": "/assets/images/responsive/e32a49b884123f80-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 135288
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-05-29-guardrails-leves-e-pesados-para-codigo-gerado-por-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/95a8a514cb6134df-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23716
+      },
+      {
+        "url": "/assets/images/responsive/95a8a514cb6134df-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 65236
+      },
+      {
+        "url": "/assets/images/responsive/95a8a514cb6134df-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 111466
+      },
+      {
+        "url": "/assets/images/responsive/95a8a514cb6134df-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 148182
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-06-01-como-formar-desenvolvedores-seniores-em-um-mundo-de-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/a64a5eed1789a36e-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19480
+      },
+      {
+        "url": "/assets/images/responsive/a64a5eed1789a36e-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 54030
+      },
+      {
+        "url": "/assets/images/responsive/a64a5eed1789a36e-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 93522
+      },
+      {
+        "url": "/assets/images/responsive/a64a5eed1789a36e-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 122298
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-06-03-idempotencia-e-retentativas-a-ia-ainda-precisa-de-visao-do-todo.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/d090cbdb055b3d54-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20682
+      },
+      {
+        "url": "/assets/images/responsive/d090cbdb055b3d54-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 59322
+      },
+      {
+        "url": "/assets/images/responsive/d090cbdb055b3d54-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 99886
+      },
+      {
+        "url": "/assets/images/responsive/d090cbdb055b3d54-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 133278
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-06-05-testes-gerados-por-ia-tambem-precisam-de-qualidade.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/1aca0dce8f8ad05a-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20568
+      },
+      {
+        "url": "/assets/images/responsive/1aca0dce8f8ad05a-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 53510
+      },
+      {
+        "url": "/assets/images/responsive/1aca0dce8f8ad05a-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 86430
+      },
+      {
+        "url": "/assets/images/responsive/1aca0dce8f8ad05a-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 115038
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-06-08-a-adocao-de-ia-precisa-vir-da-lideranca-e-do-time.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/7c6ad4707192e9cb-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23322
+      },
+      {
+        "url": "/assets/images/responsive/7c6ad4707192e9cb-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 65342
+      },
+      {
+        "url": "/assets/images/responsive/7c6ad4707192e9cb-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 114362
+      },
+      {
+        "url": "/assets/images/responsive/7c6ad4707192e9cb-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 152592
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-06-10-o-que-aprendi-criando-tres-microaplicacoes-com-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/2130ca604394b27f-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20904
+      },
+      {
+        "url": "/assets/images/responsive/2130ca604394b27f-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 55086
+      },
+      {
+        "url": "/assets/images/responsive/2130ca604394b27f-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 91992
+      },
+      {
+        "url": "/assets/images/responsive/2130ca604394b27f-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 123910
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-06-12-a-taxa-da-orquestracao-o-custo-de-coordenar-multiplos-agentes.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/fd06f6bfe89e7c72-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18854
+      },
+      {
+        "url": "/assets/images/responsive/fd06f6bfe89e7c72-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 50132
+      },
+      {
+        "url": "/assets/images/responsive/fd06f6bfe89e7c72-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 81586
+      },
+      {
+        "url": "/assets/images/responsive/fd06f6bfe89e7c72-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 105252
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-06-15-mais-pull-requests-nao-significam-mais-deploys-nem-mais-valor.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/8ec4ca94dfad3716-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22336
+      },
+      {
+        "url": "/assets/images/responsive/8ec4ca94dfad3716-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 66236
+      },
+      {
+        "url": "/assets/images/responsive/8ec4ca94dfad3716-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 116570
+      },
+      {
+        "url": "/assets/images/responsive/8ec4ca94dfad3716-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 154046
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-06-18-enquanto-a-janela-de-uso-dos-agentes-nao-volta.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/d770c076bfed6158-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23940
+      },
+      {
+        "url": "/assets/images/responsive/d770c076bfed6158-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 69094
+      },
+      {
+        "url": "/assets/images/responsive/d770c076bfed6158-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 123670
+      },
+      {
+        "url": "/assets/images/responsive/d770c076bfed6158-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 167168
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-06-19-guardrails-de-qualidade-e-estrategias-de-adocao-de-ia-meu-novo-curso.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/8298caf35c7cfabc-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22154
+      },
+      {
+        "url": "/assets/images/responsive/8298caf35c7cfabc-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 54194
+      },
+      {
+        "url": "/assets/images/responsive/8298caf35c7cfabc-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 87834
+      },
+      {
+        "url": "/assets/images/responsive/8298caf35c7cfabc-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 116766
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-06-19-transformar-mudancas-em-rotina-e-uma-competencia-de-lideranca.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/caa72c8f1869c300-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18038
+      },
+      {
+        "url": "/assets/images/responsive/caa72c8f1869c300-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 53774
+      },
+      {
+        "url": "/assets/images/responsive/caa72c8f1869c300-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 93732
+      },
+      {
+        "url": "/assets/images/responsive/caa72c8f1869c300-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 124206
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-06-22-finops-para-ia-use-o-modelo-certo-para-cada-tarefa.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/c922231f0d0286b2-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19014
+      },
+      {
+        "url": "/assets/images/responsive/c922231f0d0286b2-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 52994
+      },
+      {
+        "url": "/assets/images/responsive/c922231f0d0286b2-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 91146
+      },
+      {
+        "url": "/assets/images/responsive/c922231f0d0286b2-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 121034
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-06-24-a-adocao-de-ia-pelos-profissionais-avanca-mais-rapido-que-as-organizacoes.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/6e652e7e056310b8-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21418
+      },
+      {
+        "url": "/assets/images/responsive/6e652e7e056310b8-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 62414
+      },
+      {
+        "url": "/assets/images/responsive/6e652e7e056310b8-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 105310
+      },
+      {
+        "url": "/assets/images/responsive/6e652e7e056310b8-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 142708
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-06-24-mais-codigo-mais-friccao-escalar-a-entrega-depois-da-adocao-de-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/f25a1702ecd3ca17-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22608
+      },
+      {
+        "url": "/assets/images/responsive/f25a1702ecd3ca17-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 62322
+      },
+      {
+        "url": "/assets/images/responsive/f25a1702ecd3ca17-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 105538
+      },
+      {
+        "url": "/assets/images/responsive/f25a1702ecd3ca17-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 138362
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-06-26-precisamos-mesmo-de-pull-requests-para-toda-mudanca.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/9283d955374452bd-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18530
+      },
+      {
+        "url": "/assets/images/responsive/9283d955374452bd-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 50904
+      },
+      {
+        "url": "/assets/images/responsive/9283d955374452bd-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 85112
+      },
+      {
+        "url": "/assets/images/responsive/9283d955374452bd-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 111358
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-07-09-da-experimentacao-ao-impacto-maturidade-em-engenharia-de-software-com-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/e7a6bca35cbac34b-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19906
+      },
+      {
+        "url": "/assets/images/responsive/e7a6bca35cbac34b-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 56350
+      },
+      {
+        "url": "/assets/images/responsive/e7a6bca35cbac34b-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 96032
+      },
+      {
+        "url": "/assets/images/responsive/e7a6bca35cbac34b-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 123672
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-07-15-ia-na-lideranca-da-automacao-a-qualidade-das-decisoes.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/cdadbc4d7e3a8ff1-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20762
+      },
+      {
+        "url": "/assets/images/responsive/cdadbc4d7e3a8ff1-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 52812
+      },
+      {
+        "url": "/assets/images/responsive/cdadbc4d7e3a8ff1-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 87648
+      },
+      {
+        "url": "/assets/images/responsive/cdadbc4d7e3a8ff1-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 113666
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-07-22-as-habilidades-mais-buscadas-e-o-desafio-de-preparar-os-times.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/69f53df894c54349-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 24236
+      },
+      {
+        "url": "/assets/images/responsive/69f53df894c54349-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 67746
+      },
+      {
+        "url": "/assets/images/responsive/69f53df894c54349-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 113278
+      },
+      {
+        "url": "/assets/images/responsive/69f53df894c54349-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 147358
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-07-31-engenharia-de-software-agentica-alem-do-hype-no-tdc-rio.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/bf04f3fbdb1f403b-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18586
+      },
+      {
+        "url": "/assets/images/responsive/bf04f3fbdb1f403b-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 49248
+      },
+      {
+        "url": "/assets/images/responsive/bf04f3fbdb1f403b-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 79652
+      },
+      {
+        "url": "/assets/images/responsive/bf04f3fbdb1f403b-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 104586
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-08-03-memoria-dos-agentes-quanto-contexto-realmente-precisamos-guardar.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/3bc82890773b0714-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22502
+      },
+      {
+        "url": "/assets/images/responsive/3bc82890773b0714-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 64148
+      },
+      {
+        "url": "/assets/images/responsive/3bc82890773b0714-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 107492
+      },
+      {
+        "url": "/assets/images/responsive/3bc82890773b0714-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 142486
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-08-05-deixe-para-os-humanos-as-coisas-que-sao-humanas.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/be7e3f32533af656-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 26340
+      },
+      {
+        "url": "/assets/images/responsive/be7e3f32533af656-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 77406
+      },
+      {
+        "url": "/assets/images/responsive/be7e3f32533af656-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 137726
+      },
+      {
+        "url": "/assets/images/responsive/be7e3f32533af656-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 186906
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-08-07-pensamento-sistemico-e-excelencia-licoes-da-lideranca-da-netflix.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/ad8c4b18918d1530-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21866
+      },
+      {
+        "url": "/assets/images/responsive/ad8c4b18918d1530-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 58438
+      },
+      {
+        "url": "/assets/images/responsive/ad8c4b18918d1530-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 99408
+      },
+      {
+        "url": "/assets/images/responsive/ad8c4b18918d1530-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 130478
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-08-10-automacao-com-ia-quais-competencias-desenvolver-na-sua-carreira.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/290c5157c62c05c7-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21924
+      },
+      {
+        "url": "/assets/images/responsive/290c5157c62c05c7-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 60902
+      },
+      {
+        "url": "/assets/images/responsive/290c5157c62c05c7-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 101908
+      },
+      {
+        "url": "/assets/images/responsive/290c5157c62c05c7-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 132164
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-08-10-resolver-o-problema-ou-resolver-uma-classe-de-problemas.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/28466569af643554-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 26324
+      },
+      {
+        "url": "/assets/images/responsive/28466569af643554-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 77528
+      },
+      {
+        "url": "/assets/images/responsive/28466569af643554-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 135264
+      },
+      {
+        "url": "/assets/images/responsive/28466569af643554-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 180838
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-08-12-a-fatura-da-ia-chegou-como-conectar-custo-e-retorno.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/37f6016ece3c6518-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20250
+      },
+      {
+        "url": "/assets/images/responsive/37f6016ece3c6518-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 54728
+      },
+      {
+        "url": "/assets/images/responsive/37f6016ece3c6518-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 92692
+      },
+      {
+        "url": "/assets/images/responsive/37f6016ece3c6518-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 122706
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-08-12-hora-de-descansar-os-agentes-tambem-podem-esperar.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/2ebe82b29ae24018-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20018
+      },
+      {
+        "url": "/assets/images/responsive/2ebe82b29ae24018-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 59952
+      },
+      {
+        "url": "/assets/images/responsive/2ebe82b29ae24018-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 104650
+      },
+      {
+        "url": "/assets/images/responsive/2ebe82b29ae24018-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 141984
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-08-14-agentes-de-ia-simplicidade-determinismo-e-observabilidade.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/a02bf9396a670113-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22536
+      },
+      {
+        "url": "/assets/images/responsive/a02bf9396a670113-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 62050
+      },
+      {
+        "url": "/assets/images/responsive/a02bf9396a670113-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 103232
+      },
+      {
+        "url": "/assets/images/responsive/a02bf9396a670113-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 137408
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-08-17-construir-ou-comprar-software-continua-sendo-uma-decisao-dificil.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/0c1c8b79e4875226-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23634
+      },
+      {
+        "url": "/assets/images/responsive/0c1c8b79e4875226-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 68278
+      },
+      {
+        "url": "/assets/images/responsive/0c1c8b79e4875226-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 117538
+      },
+      {
+        "url": "/assets/images/responsive/0c1c8b79e4875226-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 157586
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-08-18-treinamento-corporativo-medir-atividade-nao-basta-para-medir-impacto.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/0448eda14fc4a67d-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22948
+      },
+      {
+        "url": "/assets/images/responsive/0448eda14fc4a67d-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 65112
+      },
+      {
+        "url": "/assets/images/responsive/0448eda14fc4a67d-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 113824
+      },
+      {
+        "url": "/assets/images/responsive/0448eda14fc4a67d-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 151642
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-08-19-finops-para-ia-as-licoes-da-coinbase-sobre-modelos-cache-e-contexto.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/0530c33d59080320-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22584
+      },
+      {
+        "url": "/assets/images/responsive/0530c33d59080320-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 60224
+      },
+      {
+        "url": "/assets/images/responsive/0530c33d59080320-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 96350
+      },
+      {
+        "url": "/assets/images/responsive/0530c33d59080320-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 124612
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-08-20-liderar-a-adocao-de-ia-exige-conversar-com-quem-enfrenta-os-mesmos-desafios.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/98995c125a2509f9-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23134
+      },
+      {
+        "url": "/assets/images/responsive/98995c125a2509f9-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 64486
+      },
+      {
+        "url": "/assets/images/responsive/98995c125a2509f9-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 109992
+      },
+      {
+        "url": "/assets/images/responsive/98995c125a2509f9-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 145916
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-08-24-o-novo-gargalo-da-engenharia-de-software-e-supervisao-e-decisao-tecnica.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/27c00f949a1e9299-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22198
+      },
+      {
+        "url": "/assets/images/responsive/27c00f949a1e9299-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 59538
+      },
+      {
+        "url": "/assets/images/responsive/27c00f949a1e9299-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 98526
+      },
+      {
+        "url": "/assets/images/responsive/27c00f949a1e9299-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 128704
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-08-31-profissionais-de-alto-impacto-quando-a-ia-amplia-a-atuacao-individual.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/b27a43a71eaa76b5-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23472
+      },
+      {
+        "url": "/assets/images/responsive/b27a43a71eaa76b5-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 64964
+      },
+      {
+        "url": "/assets/images/responsive/b27a43a71eaa76b5-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 112640
+      },
+      {
+        "url": "/assets/images/responsive/b27a43a71eaa76b5-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 150442
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-09-18-ia-no-desenvolvimento-precisamos-comecar-pela-operacao.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/a8709ecb51e1c60f-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21634
+      },
+      {
+        "url": "/assets/images/responsive/a8709ecb51e1c60f-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 63302
+      },
+      {
+        "url": "/assets/images/responsive/a8709ecb51e1c60f-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 112212
+      },
+      {
+        "url": "/assets/images/responsive/a8709ecb51e1c60f-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 153442
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-09-21-human-in-the-loop-em-qual-loop-o-engenheiro-deve-estar.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/974cd640a859ac0c-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 17566
+      },
+      {
+        "url": "/assets/images/responsive/974cd640a859ac0c-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 46612
+      },
+      {
+        "url": "/assets/images/responsive/974cd640a859ac0c-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 76106
+      },
+      {
+        "url": "/assets/images/responsive/974cd640a859ac0c-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 98082
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-09-22-fundamentos-de-computacao-continuam-importantes-para-programar-com-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/de8d8226ce55e98c-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20616
+      },
+      {
+        "url": "/assets/images/responsive/de8d8226ce55e98c-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 58176
+      },
+      {
+        "url": "/assets/images/responsive/de8d8226ce55e98c-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 98932
+      },
+      {
+        "url": "/assets/images/responsive/de8d8226ce55e98c-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 131828
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-09-22-o-que-aprendi-sobre-a-fabrica-de-software-agentica-da-openai.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/c0b228ebd356d73b-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23240
+      },
+      {
+        "url": "/assets/images/responsive/c0b228ebd356d73b-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 60756
+      },
+      {
+        "url": "/assets/images/responsive/c0b228ebd356d73b-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 98980
+      },
+      {
+        "url": "/assets/images/responsive/c0b228ebd356d73b-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 127868
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-09-23-julgamento-priorizacao-proatividade-e-bom-gosto-na-engenharia-de-software.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/ccd1ea11812d3208-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21424
+      },
+      {
+        "url": "/assets/images/responsive/ccd1ea11812d3208-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 57292
+      },
+      {
+        "url": "/assets/images/responsive/ccd1ea11812d3208-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 95422
+      },
+      {
+        "url": "/assets/images/responsive/ccd1ea11812d3208-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 124734
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-09-23-revisao-por-excecao-repensando-o-code-review-na-era-dos-agentes.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/0d841f37f10169d1-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20506
+      },
+      {
+        "url": "/assets/images/responsive/0d841f37f10169d1-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 57766
+      },
+      {
+        "url": "/assets/images/responsive/0d841f37f10169d1-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 97592
+      },
+      {
+        "url": "/assets/images/responsive/0d841f37f10169d1-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 133822
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-09-24-como-ensinar-computacao-quando-escrever-codigo-ja-nao-e-o-maior-desafio.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/153f8ced5974ffa7-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18316
+      },
+      {
+        "url": "/assets/images/responsive/153f8ced5974ffa7-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 49232
+      },
+      {
+        "url": "/assets/images/responsive/153f8ced5974ffa7-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 82452
+      },
+      {
+        "url": "/assets/images/responsive/153f8ced5974ffa7-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 107070
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-09-25-quanto-codigo-gerado-por-ia-precisamos-revisar.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/4bf5e63ad2286714-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21816
+      },
+      {
+        "url": "/assets/images/responsive/4bf5e63ad2286714-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 56222
+      },
+      {
+        "url": "/assets/images/responsive/4bf5e63ad2286714-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 92014
+      },
+      {
+        "url": "/assets/images/responsive/4bf5e63ad2286714-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 121494
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-09-25-quem-usa-ia-continua-responsavel-pela-qualidade-da-entrega.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/7a692e8c824a2903-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18056
+      },
+      {
+        "url": "/assets/images/responsive/7a692e8c824a2903-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 45120
+      },
+      {
+        "url": "/assets/images/responsive/7a692e8c824a2903-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 72062
+      },
+      {
+        "url": "/assets/images/responsive/7a692e8c824a2903-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 95120
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-09-28-a-plataforma-de-desenvolvimento-com-ia-e-o-proximo-desafio.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/a0ee5490859d195d-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23330
+      },
+      {
+        "url": "/assets/images/responsive/a0ee5490859d195d-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 64042
+      },
+      {
+        "url": "/assets/images/responsive/a0ee5490859d195d-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 108126
+      },
+      {
+        "url": "/assets/images/responsive/a0ee5490859d195d-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 142022
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-09-28-os-bugs-da-ia-estao-mudando-de-logica-para-arquitetura-e-contexto.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/87c3d64be048a473-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19374
+      },
+      {
+        "url": "/assets/images/responsive/87c3d64be048a473-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 50676
+      },
+      {
+        "url": "/assets/images/responsive/87c3d64be048a473-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 83344
+      },
+      {
+        "url": "/assets/images/responsive/87c3d64be048a473-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 109574
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-09-29-fabricas-de-software-redesenhar-o-processo-para-entregar-mais-com-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/c8ea109f9d1bfcdf-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23646
+      },
+      {
+        "url": "/assets/images/responsive/c8ea109f9d1bfcdf-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 64176
+      },
+      {
+        "url": "/assets/images/responsive/c8ea109f9d1bfcdf-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 107192
+      },
+      {
+        "url": "/assets/images/responsive/c8ea109f9d1bfcdf-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 139842
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-09-30-disciplina-de-engenharia-continua-fazendo-diferenca-com-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/31b9f038dfe0682e-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 25164
+      },
+      {
+        "url": "/assets/images/responsive/31b9f038dfe0682e-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 74678
+      },
+      {
+        "url": "/assets/images/responsive/31b9f038dfe0682e-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 135010
+      },
+      {
+        "url": "/assets/images/responsive/31b9f038dfe0682e-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 185172
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-01-revise-o-texto-que-voce-gerou-com-ia-antes-de-pedir-que-alguem-o-leia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/f32624979f0bd295-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18882
+      },
+      {
+        "url": "/assets/images/responsive/f32624979f0bd295-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 50274
+      },
+      {
+        "url": "/assets/images/responsive/f32624979f0bd295-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 83056
+      },
+      {
+        "url": "/assets/images/responsive/f32624979f0bd295-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 107842
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-02-escrever-tambem-e-pensar-por-que-preservo-minha-propria-voz.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/68fcebe30cc07789-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18828
+      },
+      {
+        "url": "/assets/images/responsive/68fcebe30cc07789-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 49988
+      },
+      {
+        "url": "/assets/images/responsive/68fcebe30cc07789-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 83464
+      },
+      {
+        "url": "/assets/images/responsive/68fcebe30cc07789-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 107794
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-05-quando-o-agente-para-vale-a-pena-voltar-a-programar-na-mao.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/abf4be0e3f507fde-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23772
+      },
+      {
+        "url": "/assets/images/responsive/abf4be0e3f507fde-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 64422
+      },
+      {
+        "url": "/assets/images/responsive/abf4be0e3f507fde-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 108634
+      },
+      {
+        "url": "/assets/images/responsive/abf4be0e3f507fde-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 140690
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-06-cinco-estagios-de-adocao-de-agentes-da-sessao-a-fabrica-de-software.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/6734cb0dfa06020e-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22486
+      },
+      {
+        "url": "/assets/images/responsive/6734cb0dfa06020e-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 63936
+      },
+      {
+        "url": "/assets/images/responsive/6734cb0dfa06020e-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 110850
+      },
+      {
+        "url": "/assets/images/responsive/6734cb0dfa06020e-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 149892
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-07-finops-para-ia-as-licoes-da-databricks-para-reduzir-custos.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/320c09eb187d0db1-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22512
+      },
+      {
+        "url": "/assets/images/responsive/320c09eb187d0db1-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 63694
+      },
+      {
+        "url": "/assets/images/responsive/320c09eb187d0db1-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 108772
+      },
+      {
+        "url": "/assets/images/responsive/320c09eb187d0db1-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 143258
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-08-estrategia-e-tatica-o-que-o-xadrez-ensina-sobre-lideranca.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/7bcca0bd62178ecb-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20912
+      },
+      {
+        "url": "/assets/images/responsive/7bcca0bd62178ecb-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 53500
+      },
+      {
+        "url": "/assets/images/responsive/7bcca0bd62178ecb-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 87460
+      },
+      {
+        "url": "/assets/images/responsive/7bcca0bd62178ecb-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 113846
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-09-como-a-prosus-reduziu-seus-custos-de-ia-em-90.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/3a325ed560febf32-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 26260
+      },
+      {
+        "url": "/assets/images/responsive/3a325ed560febf32-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 71186
+      },
+      {
+        "url": "/assets/images/responsive/3a325ed560febf32-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 118964
+      },
+      {
+        "url": "/assets/images/responsive/3a325ed560febf32-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 157846
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-16-mais-codigo-gerado-por-ia-nao-resolve-o-gargalo-da-operacao.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/c1453a9dc507475f-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 26990
+      },
+      {
+        "url": "/assets/images/responsive/c1453a9dc507475f-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 76886
+      },
+      {
+        "url": "/assets/images/responsive/c1453a9dc507475f-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 130224
+      },
+      {
+        "url": "/assets/images/responsive/c1453a9dc507475f-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 168140
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-academia-industria-wise-dev.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/1c8e5a8f33ea08ff-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22766
+      },
+      {
+        "url": "/assets/images/responsive/1c8e5a8f33ea08ff-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 69270
+      },
+      {
+        "url": "/assets/images/responsive/1c8e5a8f33ea08ff-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 121020
+      },
+      {
+        "url": "/assets/images/responsive/1c8e5a8f33ea08ff-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 161780
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-antipadroes-testes-codurance.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/be2584b162995529-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23742
+      },
+      {
+        "url": "/assets/images/responsive/be2584b162995529-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 65578
+      },
+      {
+        "url": "/assets/images/responsive/be2584b162995529-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 114166
+      },
+      {
+        "url": "/assets/images/responsive/be2584b162995529-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 152862
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-aprendizado-maquina-fronteiras.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/77dceaea08dae041-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 25396
+      },
+      {
+        "url": "/assets/images/responsive/77dceaea08dae041-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 70398
+      },
+      {
+        "url": "/assets/images/responsive/77dceaea08dae041-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 120994
+      },
+      {
+        "url": "/assets/images/responsive/77dceaea08dae041-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 159288
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-carreira-academica-lambda3.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/62a3d5b8eb254032-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 24604
+      },
+      {
+        "url": "/assets/images/responsive/62a3d5b8eb254032-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 67966
+      },
+      {
+        "url": "/assets/images/responsive/62a3d5b8eb254032-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 113874
+      },
+      {
+        "url": "/assets/images/responsive/62a3d5b8eb254032-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 152562
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-code-review-agentes-hipsters-523.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/15a2570dc1507da1-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22758
+      },
+      {
+        "url": "/assets/images/responsive/15a2570dc1507da1-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 62040
+      },
+      {
+        "url": "/assets/images/responsive/15a2570dc1507da1-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 106076
+      },
+      {
+        "url": "/assets/images/responsive/15a2570dc1507da1-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 137862
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-coding-agents-hipsters-511.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/c4a5b1a107594719-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21268
+      },
+      {
+        "url": "/assets/images/responsive/c4a5b1a107594719-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 58410
+      },
+      {
+        "url": "/assets/images/responsive/c4a5b1a107594719-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 101108
+      },
+      {
+        "url": "/assets/images/responsive/c4a5b1a107594719-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 132584
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-design-laurentiu-spilca.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/0bb3ee19c475e210-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19380
+      },
+      {
+        "url": "/assets/images/responsive/0bb3ee19c475e210-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 50694
+      },
+      {
+        "url": "/assets/images/responsive/0bb3ee19c475e210-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 85870
+      },
+      {
+        "url": "/assets/images/responsive/0bb3ee19c475e210-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 113244
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-design-patterns-hipsters-206.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/2e879b7ea03fcdcf-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19822
+      },
+      {
+        "url": "/assets/images/responsive/2e879b7ea03fcdcf-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 53680
+      },
+      {
+        "url": "/assets/images/responsive/2e879b7ea03fcdcf-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 92722
+      },
+      {
+        "url": "/assets/images/responsive/2e879b7ea03fcdcf-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 124152
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-design-tech-lead-journal-177.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/e59ab0dfade3d7fa-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20936
+      },
+      {
+        "url": "/assets/images/responsive/e59ab0dfade3d7fa-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 55990
+      },
+      {
+        "url": "/assets/images/responsive/e59ab0dfade3d7fa-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 95216
+      },
+      {
+        "url": "/assets/images/responsive/e59ab0dfade3d7fa-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 128482
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-engenharia-agentica-alura-hipsters-517.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/968f8ab6f6ee9877-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22392
+      },
+      {
+        "url": "/assets/images/responsive/968f8ab6f6ee9877-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 62378
+      },
+      {
+        "url": "/assets/images/responsive/968f8ab6f6ee9877-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 105974
+      },
+      {
+        "url": "/assets/images/responsive/968f8ab6f6ee9877-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 140664
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-engenharia-de-software-na-era-da-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/fded8b4390640629-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 24666
+      },
+      {
+        "url": "/assets/images/responsive/fded8b4390640629-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 74430
+      },
+      {
+        "url": "/assets/images/responsive/fded8b4390640629-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 132058
+      },
+      {
+        "url": "/assets/images/responsive/fded8b4390640629-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 179112
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-entrevista-adolfo-neto.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/105349c54abc2c83-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19532
+      },
+      {
+        "url": "/assets/images/responsive/105349c54abc2c83-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 50720
+      },
+      {
+        "url": "/assets/images/responsive/105349c54abc2c83-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 82212
+      },
+      {
+        "url": "/assets/images/responsive/105349c54abc2c83-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 108018
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-entrevista-hidev.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/755859bb341e7624-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20306
+      },
+      {
+        "url": "/assets/images/responsive/755859bb341e7624-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 57116
+      },
+      {
+        "url": "/assets/images/responsive/755859bb341e7624-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 95618
+      },
+      {
+        "url": "/assets/images/responsive/755859bb341e7624-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 127700
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-escalabilidade-testes-hillside.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/92e13bef5e1ded96-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21446
+      },
+      {
+        "url": "/assets/images/responsive/92e13bef5e1ded96-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 60396
+      },
+      {
+        "url": "/assets/images/responsive/92e13bef5e1ded96-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 103902
+      },
+      {
+        "url": "/assets/images/responsive/92e13bef5e1ded96-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 139210
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-estrategias-testes-hipsters-367.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/855d6de4b6bcb0b8-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23378
+      },
+      {
+        "url": "/assets/images/responsive/855d6de4b6bcb0b8-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 62702
+      },
+      {
+        "url": "/assets/images/responsive/855d6de4b6bcb0b8-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 103404
+      },
+      {
+        "url": "/assets/images/responsive/855d6de4b6bcb0b8-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 134942
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-ia-testes-hidev.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/113fb77cb48d9fa3-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 17972
+      },
+      {
+        "url": "/assets/images/responsive/113fb77cb48d9fa3-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 45936
+      },
+      {
+        "url": "/assets/images/responsive/113fb77cb48d9fa3-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 75994
+      },
+      {
+        "url": "/assets/images/responsive/113fb77cb48d9fa3-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 103282
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-migracao-spring-boot-com-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/d7c44dbe9f8acd09-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19994
+      },
+      {
+        "url": "/assets/images/responsive/d7c44dbe9f8acd09-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 57698
+      },
+      {
+        "url": "/assets/images/responsive/d7c44dbe9f8acd09-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 99512
+      },
+      {
+        "url": "/assets/images/responsive/d7c44dbe9f8acd09-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 134714
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-pesquisa-engenharia-hipsters-84.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/517c084c68429dbd-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20816
+      },
+      {
+        "url": "/assets/images/responsive/517c084c68429dbd-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 57316
+      },
+      {
+        "url": "/assets/images/responsive/517c084c68429dbd-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 95930
+      },
+      {
+        "url": "/assets/images/responsive/517c084c68429dbd-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 125834
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-qualidade-de-software-com-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/f54ec415aab9909b-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 24080
+      },
+      {
+        "url": "/assets/images/responsive/f54ec415aab9909b-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 63600
+      },
+      {
+        "url": "/assets/images/responsive/f54ec415aab9909b-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 107394
+      },
+      {
+        "url": "/assets/images/responsive/f54ec415aab9909b-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 141658
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-solid-hipsters-219.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/e2187507e0398cc1-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19150
+      },
+      {
+        "url": "/assets/images/responsive/e2187507e0398cc1-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 52802
+      },
+      {
+        "url": "/assets/images/responsive/e2187507e0398cc1-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 89446
+      },
+      {
+        "url": "/assets/images/responsive/e2187507e0398cc1-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 119188
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-tdd-bluesoft.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/8c04aba42d15afd3-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 17282
+      },
+      {
+        "url": "/assets/images/responsive/8c04aba42d15afd3-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 45902
+      },
+      {
+        "url": "/assets/images/responsive/8c04aba42d15afd3-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 76352
+      },
+      {
+        "url": "/assets/images/responsive/8c04aba42d15afd3-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 101064
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-tdd-lambda3.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/e767040e83b83c9b-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22074
+      },
+      {
+        "url": "/assets/images/responsive/e767040e83b83c9b-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 60648
+      },
+      {
+        "url": "/assets/images/responsive/e767040e83b83c9b-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 101476
+      },
+      {
+        "url": "/assets/images/responsive/e767040e83b83c9b-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 134676
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-team-topologies-agentes-ia-hipsters-520.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/6203ac7973b45036-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 25676
+      },
+      {
+        "url": "/assets/images/responsive/6203ac7973b45036-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 73788
+      },
+      {
+        "url": "/assets/images/responsive/6203ac7973b45036-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 127508
+      },
+      {
+        "url": "/assets/images/responsive/6203ac7973b45036-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 171174
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-tech-academy-tech-leadership-rocks.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/b8013a196d0b93ca-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 26776
+      },
+      {
+        "url": "/assets/images/responsive/b8013a196d0b93ca-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 72840
+      },
+      {
+        "url": "/assets/images/responsive/b8013a196d0b93ca-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 121042
+      },
+      {
+        "url": "/assets/images/responsive/b8013a196d0b93ca-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 158390
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-testes-automatizados-hipsters-51.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/d022f5f8815b6683-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19072
+      },
+      {
+        "url": "/assets/images/responsive/d022f5f8815b6683-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 50802
+      },
+      {
+        "url": "/assets/images/responsive/d022f5f8815b6683-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 83798
+      },
+      {
+        "url": "/assets/images/responsive/d022f5f8815b6683-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 109118
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-testes-beyond-coding-191.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/397fc9498d956c63-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21254
+      },
+      {
+        "url": "/assets/images/responsive/397fc9498d956c63-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 55262
+      },
+      {
+        "url": "/assets/images/responsive/397fc9498d956c63-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 93246
+      },
+      {
+        "url": "/assets/images/responsive/397fc9498d956c63-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 123786
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-testes-software-engineering-unlocked.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/0bbba5d791a2a8f4-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22178
+      },
+      {
+        "url": "/assets/images/responsive/0bbba5d791a2a8f4-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 62788
+      },
+      {
+        "url": "/assets/images/responsive/0bbba5d791a2a8f4-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 109610
+      },
+      {
+        "url": "/assets/images/responsive/0bbba5d791a2a8f4-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 146296
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/media-testes-tech-lead-journal-139.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/53bbabc79ff7fb02-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19618
+      },
+      {
+        "url": "/assets/images/responsive/53bbabc79ff7fb02-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 53262
+      },
+      {
+        "url": "/assets/images/responsive/53bbabc79ff7fb02-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 89386
+      },
+      {
+        "url": "/assets/images/responsive/53bbabc79ff7fb02-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 118588
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2010-01-01-tdd-mistakes.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/f9f72760263adf8c-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21806
+      },
+      {
+        "url": "/assets/images/responsive/f9f72760263adf8c-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 61646
+      },
+      {
+        "url": "/assets/images/responsive/f9f72760263adf8c-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 104704
+      },
+      {
+        "url": "/assets/images/responsive/f9f72760263adf8c-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 136648
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2011-01-01-agile-learning.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/96cccf913cb1f480-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22974
+      },
+      {
+        "url": "/assets/images/responsive/96cccf913cb1f480-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 64426
+      },
+      {
+        "url": "/assets/images/responsive/96cccf913cb1f480-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 108818
+      },
+      {
+        "url": "/assets/images/responsive/96cccf913cb1f480-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 139204
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2013-01-01-asserts-and-unit-tests.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/bdc368d771731d49-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21188
+      },
+      {
+        "url": "/assets/images/responsive/bdc368d771731d49-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 54780
+      },
+      {
+        "url": "/assets/images/responsive/bdc368d771731d49-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 92440
+      },
+      {
+        "url": "/assets/images/responsive/bdc368d771731d49-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 119372
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2013-01-01-metricminer.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/1bc045feb5921ca3-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22918
+      },
+      {
+        "url": "/assets/images/responsive/1bc045feb5921ca3-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 65780
+      },
+      {
+        "url": "/assets/images/responsive/1bc045feb5921ca3-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 113870
+      },
+      {
+        "url": "/assets/images/responsive/1bc045feb5921ca3-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 152990
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2014-01-01-smells-in-daos.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/a05778dce431350a-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18716
+      },
+      {
+        "url": "/assets/images/responsive/a05778dce431350a-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 49266
+      },
+      {
+        "url": "/assets/images/responsive/a05778dce431350a-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 79180
+      },
+      {
+        "url": "/assets/images/responsive/a05778dce431350a-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 102286
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2014-01-01-tdd-patterns.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/98ea1c1437b1573b-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20396
+      },
+      {
+        "url": "/assets/images/responsive/98ea1c1437b1573b-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 55448
+      },
+      {
+        "url": "/assets/images/responsive/98ea1c1437b1573b-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 89596
+      },
+      {
+        "url": "/assets/images/responsive/98ea1c1437b1573b-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 118490
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2014-01-01-web-testing-patterns.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/4522db999ecf9cd0-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23214
+      },
+      {
+        "url": "/assets/images/responsive/4522db999ecf9cd0-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 64702
+      },
+      {
+        "url": "/assets/images/responsive/4522db999ecf9cd0-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 109892
+      },
+      {
+        "url": "/assets/images/responsive/4522db999ecf9cd0-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 146058
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2015-06-01-tdd-and-class-design.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/cbe8291def5048ea-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21204
+      },
+      {
+        "url": "/assets/images/responsive/cbe8291def5048ea-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 58406
+      },
+      {
+        "url": "/assets/images/responsive/cbe8291def5048ea-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 97230
+      },
+      {
+        "url": "/assets/images/responsive/cbe8291def5048ea-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 129082
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2016-01-01-satt-code-metric-thresholds.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/bd67991155ad3caa-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18626
+      },
+      {
+        "url": "/assets/images/responsive/bd67991155ad3caa-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 47438
+      },
+      {
+        "url": "/assets/images/responsive/bd67991155ad3caa-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 77854
+      },
+      {
+        "url": "/assets/images/responsive/bd67991155ad3caa-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 99672
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2016-01-01-sbes-oop-design-perceptions.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/6c30d5ebcfb8ae9b-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20938
+      },
+      {
+        "url": "/assets/images/responsive/6c30d5ebcfb8ae9b-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 59806
+      },
+      {
+        "url": "/assets/images/responsive/6c30d5ebcfb8ae9b-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 102302
+      },
+      {
+        "url": "/assets/images/responsive/6c30d5ebcfb8ae9b-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 134988
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2016-01-01-smells-in-mvc-systems.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/260425ebbe0efeed-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22032
+      },
+      {
+        "url": "/assets/images/responsive/260425ebbe0efeed-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 58904
+      },
+      {
+        "url": "/assets/images/responsive/260425ebbe0efeed-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 100070
+      },
+      {
+        "url": "/assets/images/responsive/260425ebbe0efeed-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 130608
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2017-01-01-emse-mvc-smells.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/fa895d5eedb3cbd3-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23144
+      },
+      {
+        "url": "/assets/images/responsive/fa895d5eedb3cbd3-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 60432
+      },
+      {
+        "url": "/assets/images/responsive/fa895d5eedb3cbd3-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 98664
+      },
+      {
+        "url": "/assets/images/responsive/fa895d5eedb3cbd3-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 129306
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2017-01-01-how-js-devs-use-linters.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/01b071e06e8c4f89-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20790
+      },
+      {
+        "url": "/assets/images/responsive/01b071e06e8c4f89-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 51908
+      },
+      {
+        "url": "/assets/images/responsive/01b071e06e8c4f89-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 85082
+      },
+      {
+        "url": "/assets/images/responsive/01b071e06e8c4f89-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 111116
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2017-01-01-passive-learning-applied.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/d247fbaec1b5be75-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21966
+      },
+      {
+        "url": "/assets/images/responsive/d247fbaec1b5be75-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 60024
+      },
+      {
+        "url": "/assets/images/responsive/d247fbaec1b5be75-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 98632
+      },
+      {
+        "url": "/assets/images/responsive/d247fbaec1b5be75-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 129516
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2017-01-01-teaching-software-architecture.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/a1fa9b14d572796d-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 25874
+      },
+      {
+        "url": "/assets/images/responsive/a1fa9b14d572796d-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 72278
+      },
+      {
+        "url": "/assets/images/responsive/a1fa9b14d572796d-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 121332
+      },
+      {
+        "url": "/assets/images/responsive/a1fa9b14d572796d-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 159046
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2017-01-01-to-mock-or-not-to-mock.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/4ed5874a7cd785c7-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 17694
+      },
+      {
+        "url": "/assets/images/responsive/4ed5874a7cd785c7-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 46140
+      },
+      {
+        "url": "/assets/images/responsive/4ed5874a7cd785c7-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 75832
+      },
+      {
+        "url": "/assets/images/responsive/4ed5874a7cd785c7-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 98240
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-adoption-of-js-linters.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/bdc0fd693d66117f-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19496
+      },
+      {
+        "url": "/assets/images/responsive/bdc0fd693d66117f-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 51110
+      },
+      {
+        "url": "/assets/images/responsive/bdc0fd693d66117f-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 84278
+      },
+      {
+        "url": "/assets/images/responsive/bdc0fd693d66117f-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 109012
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-evosql.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/f94e4f88d865f32e-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 25868
+      },
+      {
+        "url": "/assets/images/responsive/f94e4f88d865f32e-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 80626
+      },
+      {
+        "url": "/assets/images/responsive/f94e4f88d865f32e-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 140664
+      },
+      {
+        "url": "/assets/images/responsive/f94e4f88d865f32e-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 189214
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-faults-in-webapis.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/1b86cbb9fc90768e-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21520
+      },
+      {
+        "url": "/assets/images/responsive/1b86cbb9fc90768e-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 58340
+      },
+      {
+        "url": "/assets/images/responsive/1b86cbb9fc90768e-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 95570
+      },
+      {
+        "url": "/assets/images/responsive/1b86cbb9fc90768e-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 125074
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-google-finds-documentation.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/9f4e912169124014-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22704
+      },
+      {
+        "url": "/assets/images/responsive/9f4e912169124014-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 62746
+      },
+      {
+        "url": "/assets/images/responsive/9f4e912169124014-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 107276
+      },
+      {
+        "url": "/assets/images/responsive/9f4e912169124014-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 140808
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-mocks-in-java-systems.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/171e0544f2cce8c2-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19498
+      },
+      {
+        "url": "/assets/images/responsive/171e0544f2cce8c2-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 51576
+      },
+      {
+        "url": "/assets/images/responsive/171e0544f2cce8c2-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 85436
+      },
+      {
+        "url": "/assets/images/responsive/171e0544f2cce8c2-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 113796
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-modern-se-news-aggregators.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/dd847ae3c9b23514-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 24546
+      },
+      {
+        "url": "/assets/images/responsive/dd847ae3c9b23514-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 72950
+      },
+      {
+        "url": "/assets/images/responsive/dd847ae3c9b23514-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 130568
+      },
+      {
+        "url": "/assets/images/responsive/dd847ae3c9b23514-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 178102
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-pydriller.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/1fe707bfb0a918e1-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 24972
+      },
+      {
+        "url": "/assets/images/responsive/1fe707bfb0a918e1-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 72736
+      },
+      {
+        "url": "/assets/images/responsive/1fe707bfb0a918e1-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 129376
+      },
+      {
+        "url": "/assets/images/responsive/1fe707bfb0a918e1-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 170920
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-testing-meets-code-review.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/cf6a8a8f01162543-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20482
+      },
+      {
+        "url": "/assets/images/responsive/cf6a8a8f01162543-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 52076
+      },
+      {
+        "url": "/assets/images/responsive/cf6a8a8f01162543-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 84716
+      },
+      {
+        "url": "/assets/images/responsive/cf6a8a8f01162543-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 111570
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-understanding-dev-needs-deprecation.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/a04458bc46c8106c-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19486
+      },
+      {
+        "url": "/assets/images/responsive/a04458bc46c8106c-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 56696
+      },
+      {
+        "url": "/assets/images/responsive/a04458bc46c8106c-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 98628
+      },
+      {
+        "url": "/assets/images/responsive/a04458bc46c8106c-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 133302
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-usunual-events-github.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/12e55fec09cd52b9-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18506
+      },
+      {
+        "url": "/assets/images/responsive/12e55fec09cd52b9-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 51902
+      },
+      {
+        "url": "/assets/images/responsive/12e55fec09cd52b9-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 83534
+      },
+      {
+        "url": "/assets/images/responsive/12e55fec09cd52b9-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 111336
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2019-01-01-cloud-infra-ing.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/54e02c1a22effcdf-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23080
+      },
+      {
+        "url": "/assets/images/responsive/54e02c1a22effcdf-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 65172
+      },
+      {
+        "url": "/assets/images/responsive/54e02c1a22effcdf-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 114572
+      },
+      {
+        "url": "/assets/images/responsive/54e02c1a22effcdf-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 152470
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2019-01-01-pragmatic-testing-education.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/63a5c8c01499310e-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20850
+      },
+      {
+        "url": "/assets/images/responsive/63a5c8c01499310e-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 58016
+      },
+      {
+        "url": "/assets/images/responsive/63a5c8c01499310e-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 100932
+      },
+      {
+        "url": "/assets/images/responsive/63a5c8c01499310e-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 135688
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2019-01-01-tracing-back-logs.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/289f0442bf9797d5-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21990
+      },
+      {
+        "url": "/assets/images/responsive/289f0442bf9797d5-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 62664
+      },
+      {
+        "url": "/assets/images/responsive/289f0442bf9797d5-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 105424
+      },
+      {
+        "url": "/assets/images/responsive/289f0442bf9797d5-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 140694
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2019-03-01-monitoring-aware-ides.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/17ea0774c8fb207a-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21228
+      },
+      {
+        "url": "/assets/images/responsive/17ea0774c8fb207a-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 62356
+      },
+      {
+        "url": "/assets/images/responsive/17ea0774c8fb207a-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 106534
+      },
+      {
+        "url": "/assets/images/responsive/17ea0774c8fb207a-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 143996
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2019-05-01-android-presentation-smells.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/7bd02a8d2457dc7a-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18558
+      },
+      {
+        "url": "/assets/images/responsive/7bd02a8d2457dc7a-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 47138
+      },
+      {
+        "url": "/assets/images/responsive/7bd02a8d2457dc7a-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 77346
+      },
+      {
+        "url": "/assets/images/responsive/7bd02a8d2457dc7a-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 99852
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2019-06-01-current-challenges-in-oop.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/503a8094653981ad-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20530
+      },
+      {
+        "url": "/assets/images/responsive/503a8094653981ad-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 55758
+      },
+      {
+        "url": "/assets/images/responsive/503a8094653981ad-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 94024
+      },
+      {
+        "url": "/assets/images/responsive/503a8094653981ad-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 127886
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2019-06-02-test-code-comprehension.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/2d37749897e11c6e-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19522
+      },
+      {
+        "url": "/assets/images/responsive/2d37749897e11c6e-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 52526
+      },
+      {
+        "url": "/assets/images/responsive/2d37749897e11c6e-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 85804
+      },
+      {
+        "url": "/assets/images/responsive/2d37749897e11c6e-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 108964
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2020-03-09-anomaly-detection-cps.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/6e875d35a2d157a1-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20662
+      },
+      {
+        "url": "/assets/images/responsive/6e875d35a2d157a1-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 58384
+      },
+      {
+        "url": "/assets/images/responsive/6e875d35a2d157a1-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 100302
+      },
+      {
+        "url": "/assets/images/responsive/6e875d35a2d157a1-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 132180
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2020-03-09-offside.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/037cd950e56fe3dc-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20880
+      },
+      {
+        "url": "/assets/images/responsive/037cd950e56fe3dc-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 57840
+      },
+      {
+        "url": "/assets/images/responsive/037cd950e56fe3dc-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 97616
+      },
+      {
+        "url": "/assets/images/responsive/037cd950e56fe3dc-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 130610
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2020-09-01-selecting-apis-practitioners-perspective.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/29fa707dbbfa2686-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22280
+      },
+      {
+        "url": "/assets/images/responsive/29fa707dbbfa2686-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 58238
+      },
+      {
+        "url": "/assets/images/responsive/29fa707dbbfa2686-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 94466
+      },
+      {
+        "url": "/assets/images/responsive/29fa707dbbfa2686-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 124074
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2020-09-02-ml-and-refactoring.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/72277eee3b3da07f-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23474
+      },
+      {
+        "url": "/assets/images/responsive/72277eee3b3da07f-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 64174
+      },
+      {
+        "url": "/assets/images/responsive/72277eee3b3da07f-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 110634
+      },
+      {
+        "url": "/assets/images/responsive/72277eee3b3da07f-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 146024
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2021-01-30-self-vs-peer-grading.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/972d79e3357f35b6-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18362
+      },
+      {
+        "url": "/assets/images/responsive/972d79e3357f35b6-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 53590
+      },
+      {
+        "url": "/assets/images/responsive/972d79e3357f35b6-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 93980
+      },
+      {
+        "url": "/assets/images/responsive/972d79e3357f35b6-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 125836
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2021-02-01-parameter-constraint-identification.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/adeb741d5f04cab6-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21216
+      },
+      {
+        "url": "/assets/images/responsive/adeb741d5f04cab6-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 61216
+      },
+      {
+        "url": "/assets/images/responsive/adeb741d5f04cab6-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 102634
+      },
+      {
+        "url": "/assets/images/responsive/adeb741d5f04cab6-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 136968
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2021-02-01-search-based-remodularization.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/43a8622d9a483f07-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 26906
+      },
+      {
+        "url": "/assets/images/responsive/43a8622d9a483f07-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 78534
+      },
+      {
+        "url": "/assets/images/responsive/43a8622d9a483f07-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 132004
+      },
+      {
+        "url": "/assets/images/responsive/43a8622d9a483f07-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 171480
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2021-02-23-code-smells-in-ml-projects.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/72cbc976e4d47db0-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 25376
+      },
+      {
+        "url": "/assets/images/responsive/72cbc976e4d47db0-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 72584
+      },
+      {
+        "url": "/assets/images/responsive/72cbc976e4d47db0-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 122596
+      },
+      {
+        "url": "/assets/images/responsive/72cbc976e4d47db0-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 163242
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2021-02-24-learning-off-by-one-mistakes.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/3ce4931492bf1ec0-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21220
+      },
+      {
+        "url": "/assets/images/responsive/3ce4931492bf1ec0-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 58546
+      },
+      {
+        "url": "/assets/images/responsive/3ce4931492bf1ec0-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 98746
+      },
+      {
+        "url": "/assets/images/responsive/3ce4931492bf1ec0-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 130450
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2021-02-24-log-placement-recommendation.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/e5e113678bdd3810-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 16862
+      },
+      {
+        "url": "/assets/images/responsive/e5e113678bdd3810-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 49510
+      },
+      {
+        "url": "/assets/images/responsive/e5e113678bdd3810-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 81924
+      },
+      {
+        "url": "/assets/images/responsive/e5e113678bdd3810-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 109294
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2021-03-01-how-developers-engineer-test-cases.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/4867b7e13d9f572b-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23564
+      },
+      {
+        "url": "/assets/images/responsive/4867b7e13d9f572b-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 62540
+      },
+      {
+        "url": "/assets/images/responsive/4867b7e13d9f572b-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 103310
+      },
+      {
+        "url": "/assets/images/responsive/4867b7e13d9f572b-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 134088
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2021-03-05-atoms-of-confusion-in-java.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/f0f5cc72f5cd6cd6-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19414
+      },
+      {
+        "url": "/assets/images/responsive/f0f5cc72f5cd6cd6-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 55236
+      },
+      {
+        "url": "/assets/images/responsive/f0f5cc72f5cd6cd6-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 92068
+      },
+      {
+        "url": "/assets/images/responsive/f0f5cc72f5cd6cd6-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 123066
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2021-03-08-static-performance-analysis-in-the-ide.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/c585a4f23c1524ad-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19656
+      },
+      {
+        "url": "/assets/images/responsive/c585a4f23c1524ad-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 52242
+      },
+      {
+        "url": "/assets/images/responsive/c585a4f23c1524ad-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 86150
+      },
+      {
+        "url": "/assets/images/responsive/c585a4f23c1524ad-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 112296
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2021-03-09-mobile-analytics-empirical-study.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/2c8cf5254f488190-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20618
+      },
+      {
+        "url": "/assets/images/responsive/2c8cf5254f488190-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 53954
+      },
+      {
+        "url": "/assets/images/responsive/2c8cf5254f488190-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 90196
+      },
+      {
+        "url": "/assets/images/responsive/2c8cf5254f488190-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 118368
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2021-03-22-software-monitoring-slr.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/5ae17aa5d779cbbd-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21636
+      },
+      {
+        "url": "/assets/images/responsive/5ae17aa5d779cbbd-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 59398
+      },
+      {
+        "url": "/assets/images/responsive/5ae17aa5d779cbbd-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 98406
+      },
+      {
+        "url": "/assets/images/responsive/5ae17aa5d779cbbd-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 129050
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2021-07-08-refactoring-recommendation-at-ing.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/eb9ffbbd642690d6-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 16084
+      },
+      {
+        "url": "/assets/images/responsive/eb9ffbbd642690d6-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 40528
+      },
+      {
+        "url": "/assets/images/responsive/eb9ffbbd642690d6-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 66652
+      },
+      {
+        "url": "/assets/images/responsive/eb9ffbbd642690d6-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 84860
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2022-05-01-testknight.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/52f681f41c935c4c-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22324
+      },
+      {
+        "url": "/assets/images/responsive/52f681f41c935c4c-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 60834
+      },
+      {
+        "url": "/assets/images/responsive/52f681f41c935c4c-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 99408
+      },
+      {
+        "url": "/assets/images/responsive/52f681f41c935c4c-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 133290
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2022-11-01-adyen-tech-academy.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/13c553cea850c8a1-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23108
+      },
+      {
+        "url": "/assets/images/responsive/13c553cea850c8a1-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 61544
+      },
+      {
+        "url": "/assets/images/responsive/13c553cea850c8a1-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 103092
+      },
+      {
+        "url": "/assets/images/responsive/13c553cea850c8a1-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 137182
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/publications-2024-09-10-test-selection-at-adyen.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/61977c583e632302-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19668
+      },
+      {
+        "url": "/assets/images/responsive/61977c583e632302-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 59450
+      },
+      {
+        "url": "/assets/images/responsive/61977c583e632302-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 98706
+      },
+      {
+        "url": "/assets/images/responsive/61977c583e632302-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 130576
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/talks-2019-11-23-testing-in-production.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/065018daaa414569-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21956
+      },
+      {
+        "url": "/assets/images/responsive/065018daaa414569-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 60888
+      },
+      {
+        "url": "/assets/images/responsive/065018daaa414569-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 101418
+      },
+      {
+        "url": "/assets/images/responsive/065018daaa414569-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 133706
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/talks-2022-03-01-how-coverage-can-be-used-and-misused.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/66b6b06f17f1da74-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 14332
+      },
+      {
+        "url": "/assets/images/responsive/66b6b06f17f1da74-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 35224
+      },
+      {
+        "url": "/assets/images/responsive/66b6b06f17f1da74-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 57880
+      },
+      {
+        "url": "/assets/images/responsive/66b6b06f17f1da74-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 75526
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/talks-2022-05-12-can-ml-help-devs.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/861f9303392d2cb8-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 17964
+      },
+      {
+        "url": "/assets/images/responsive/861f9303392d2cb8-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 46562
+      },
+      {
+        "url": "/assets/images/responsive/861f9303392d2cb8-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 76134
+      },
+      {
+        "url": "/assets/images/responsive/861f9303392d2cb8-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 100472
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/talks-2022-09-01-effective-developer-testing.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/537b19cfc87ee814-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19884
+      },
+      {
+        "url": "/assets/images/responsive/537b19cfc87ee814-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 50838
+      },
+      {
+        "url": "/assets/images/responsive/537b19cfc87ee814-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 85360
+      },
+      {
+        "url": "/assets/images/responsive/537b19cfc87ee814-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 109558
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/talks-2022-09-10-from-industry-to-academia-and-back-again.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/772f6c328950fd4c-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22414
+      },
+      {
+        "url": "/assets/images/responsive/772f6c328950fd4c-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 64888
+      },
+      {
+        "url": "/assets/images/responsive/772f6c328950fd4c-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 111718
+      },
+      {
+        "url": "/assets/images/responsive/772f6c328950fd4c-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 147858
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/talks-2023-09-01-simple-object-oriented-design.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/72875b277556ae5a-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20474
+      },
+      {
+        "url": "/assets/images/responsive/72875b277556ae5a-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 56566
+      },
+      {
+        "url": "/assets/images/responsive/72875b277556ae5a-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 94676
+      },
+      {
+        "url": "/assets/images/responsive/72875b277556ae5a-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 126482
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/talks-2024-02-04-scaling-test-strategies.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/8a35db236edcc509-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 26506
+      },
+      {
+        "url": "/assets/images/responsive/8a35db236edcc509-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 78978
+      },
+      {
+        "url": "/assets/images/responsive/8a35db236edcc509-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 137336
+      },
+      {
+        "url": "/assets/images/responsive/8a35db236edcc509-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 184802
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/talks-2024-09-01-test-selection-at-adyen.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/dc89ce4151840615-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19876
+      },
+      {
+        "url": "/assets/images/responsive/dc89ce4151840615-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 57158
+      },
+      {
+        "url": "/assets/images/responsive/dc89ce4151840615-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 96064
+      },
+      {
+        "url": "/assets/images/responsive/dc89ce4151840615-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 128232
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/talks-2026-04-13-design-in-large-scale.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/f3b994abd2a69db6-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21708
+      },
+      {
+        "url": "/assets/images/responsive/f3b994abd2a69db6-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 62978
+      },
+      {
+        "url": "/assets/images/responsive/f3b994abd2a69db6-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 108234
+      },
+      {
+        "url": "/assets/images/responsive/f3b994abd2a69db6-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 143482
+      }
+    ]
+  },
+  "/assets/images/foto-1-2026.jpg": {
+    "width": 2000,
+    "height": 3000,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/f277678229504521-320.webp",
+        "width": 320,
+        "height": 480,
+        "bytes": 13336
+      },
+      {
+        "url": "/assets/images/responsive/f277678229504521-640.webp",
+        "width": 640,
+        "height": 960,
+        "bytes": 32658
+      },
+      {
+        "url": "/assets/images/responsive/f277678229504521-960.webp",
+        "width": 960,
+        "height": 1440,
+        "bytes": 55392
+      },
+      {
+        "url": "/assets/images/responsive/f277678229504521-1280.webp",
+        "width": 1280,
+        "height": 1920,
+        "bytes": 84424
+      }
+    ]
+  },
+  "/assets/images/foto-2-2026.jpg": {
+    "width": 3000,
+    "height": 2000,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/2bcf14efaf5223dc-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 9894
+      },
+      {
+        "url": "/assets/images/responsive/2bcf14efaf5223dc-640.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 23294
+      },
+      {
+        "url": "/assets/images/responsive/2bcf14efaf5223dc-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 37218
+      },
+      {
+        "url": "/assets/images/responsive/2bcf14efaf5223dc-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "bytes": 54312
+      }
+    ]
+  }
+}
