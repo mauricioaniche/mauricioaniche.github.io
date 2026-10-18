@@ -801,6 +801,7 @@ details p {
   line-height: 1.85;
 }
 .post-content a {
+  overflow-wrap: anywhere;
   text-decoration: underline;
   text-underline-offset: 3px;
   color: var(--green);
