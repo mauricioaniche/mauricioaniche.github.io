@@ -19,6 +19,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
+# Publication times are midnight in São Paulo (03:00 UTC).
+timezone: America/Sao_Paulo
+future: false
+
 # Build settings
 markdown    : kramdown
 highlighter : rouge

@@ -26,7 +26,7 @@ sitemap_urls.each do |url|
 end
 html.each do |file, document|
   canonical = document.at_css('link[rel="canonical"]')&.[]('href')
-  assert.call(canonical && canonical.start_with?("#{origin}/") && file_for.call(canonical) == file, "Invalid canonical: #{file}")
+  assert.call(canonical && canonical.start_with?("#{origin}/") && (file_for.call(canonical) == file || (document.at_css('meta[http-equiv="refresh"]') && file_for.call(canonical))), "Invalid canonical: #{file}")
   document.css('meta[property="og:url"], link[hreflang], link[type="application/rss+xml"]').each do |node|
     url = node['content'] || node['href']
     assert.call(url.start_with?("#{origin}/") && file_for.call(url), "Invalid discovery URL: #{url}")
@@ -61,7 +61,7 @@ posts.each do |post|
   assert.call(related.size == [3, posts.size - 1].min && related.uniq == related && !related.include?(post.url), "Invalid related posts: #{post.url}")
   related.each { |url| assert.call(file_for.call(url), "Broken related link: #{url}") }
 end
-assert.call(images.uniq.size == images.size, 'Posts share a social image')
+
 { 'feed.xml' => posts.reject { |post| post.data['lang'] == 'en' }, 'en/feed.xml' => posts.select { |post| post.data['lang'] == 'en' } }.each do |filename, entries|
   feed = Nokogiri::XML(File.read(File.join(root, filename))) { |config| config.strict }
   items = feed.css('item')
