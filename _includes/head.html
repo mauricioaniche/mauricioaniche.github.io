@@ -20,6 +20,7 @@
   {% endif %}
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="{% if page.lang == 'en' %}Maurício Aniche’s blog (Portuguese){% else %}Blog de Maurício Aniche{% endif %}" href="{{ '/feed.xml' | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="Maurício Aniche’s blog (English)" href="{{ "/en/feed.xml" | absolute_url }}">
   <meta property="og:title" content="{{ title | escape }}">
   <meta property="og:site_name" content="Maurício Aniche">
   <meta property="og:url" content="{{ canonical }}">
