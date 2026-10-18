@@ -97,4 +97,4 @@ author:
     - https://github.com/mauricioaniche
     - https://www.manning.com/authors/mauricio-aniche
 
-exclude: ["output", "scripts", "docs", "package-lock.json", "pagefind.yml", "gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "AGENTS.md", "Rakefile", "changelog.md"]
+exclude: ["vendor", "output", "scripts", "docs", "package-lock.json", "pagefind.yml", "gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "AGENTS.md", "Rakefile", "changelog.md"]

@@ -17,6 +17,7 @@ file_for = lambda do |url|
   path = URI::DEFAULT_PARSER.unescape(URI.parse(url).path).delete_prefix(site.baseurl.to_s).sub(%r{^/}, '')
   [File.join(root, path), File.join(root, "#{path}.html"), File.join(root, path, 'index.html')].find { |file| File.file?(file) }
 end
+assert.call(%w[vendor node_modules scripts docs AGENTS.md Gemfile].none? { |path| File.exist?(File.join(root, path)) }, 'Build leaked development files')
 assert.call(site.config['url'] == "https://#{File.read('CNAME').strip}", 'CNAME and canonical host disagree')
 html = Dir[File.join(root, '**/*.html')].to_h { |file| [file, Nokogiri::HTML(File.read(file))] }
 sitemap = Nokogiri::XML(File.read(File.join(root, 'sitemap.xml'))) { |config| config.strict }

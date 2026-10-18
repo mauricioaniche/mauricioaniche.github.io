@@ -15,7 +15,7 @@ Dir.mktmpdir('aniche-publishing-') do |tmp|
   source = File.join(tmp, 'source')
   output = File.join(tmp, 'site')
   FileUtils.mkdir_p(source)
-  ignored = %w[.git _site node_modules output .playwright-cli .jekyll-cache .sass-cache]
+  ignored = %w[.git .bundle vendor _site node_modules output .playwright-cli .jekyll-cache .sass-cache]
   Dir.children('.').reject { |name| ignored.include?(name) }.each { |name| FileUtils.cp_r(name, source) }
   fixture = lambda do |filename, front_matter, body|
     File.write(File.join(source, '_blog', filename), "---\nlayout: post\nimage: /assets/images/blog/cartoon/testando-agentes-cartoon.jpg\n#{front_matter}\n---\n#{body}\n")
