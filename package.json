@@ -3,11 +3,14 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "assets": "node scripts/generate-og.mjs"
+    "assets": "node scripts/generate-og.mjs",
+    "search": "pagefind --site _site",
+    "build": "npm run assets && bundle exec jekyll build && npm run search && bundle exec ruby scripts/smoke.rb"
   },
   "devDependencies": {
     "@resvg/resvg-js": "2.6.2",
     "image-size": "2.0.4",
+    "pagefind": "1.5.2",
     "satori": "0.62.0"
   },
   "overrides": {

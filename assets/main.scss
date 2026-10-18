@@ -1984,3 +1984,7 @@ hr {
   .index-term summary { font-size: 15px; }
   .index-catalog { margin-top: 48px; }
 }
+
+/* Full-text search loads its index only on /busca. */
+.site-search { --pagefind-ui-primary: #244f3e; --pagefind-ui-text: #243b30; --pagefind-ui-background: #f7f7f2; --pagefind-ui-border: #d8ddcf; --pagefind-ui-font: "DM Sans", sans-serif; }
+.site-search .pagefind-ui__search-input { max-width: 100%; }

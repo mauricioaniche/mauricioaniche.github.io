@@ -93,4 +93,10 @@ end
 JSON.parse(File.read('scripts/published-urls.json')).each do |url|
   assert.call(file_for.call(url), "Previously published URL disappeared: #{url}")
 end
+search = JSON.parse(File.read(File.join(root, 'pagefind/pagefind-entry.json')))
+indexed = html.values.count { |document| document.at_css('[data-pagefind-body]') }
+assert.call(search.fetch('languages').values.sum { |language| language.fetch('page_count') } == indexed, 'Pagefind skipped content')
+%w[pagefind.js pagefind-ui.js pagefind-ui.css].each do |asset|
+  assert.call(File.size?(File.join(root, 'pagefind', asset)), "Missing search asset: #{asset}")
+end
 puts "#{checks} checks passed: #{posts.size} posts, #{sitemap_urls.size} sitemap URLs, #{index.css('[data-index-term]').size} term pages."

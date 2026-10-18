@@ -8,3 +8,4 @@ _site
 
 output/
 .playwright-cli/
+node_modules/

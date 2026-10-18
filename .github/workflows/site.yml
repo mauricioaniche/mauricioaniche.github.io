@@ -32,6 +32,7 @@ jobs:
       - run: npm ci
       - run: npm run assets
       - run: bundle exec jekyll build
+      - run: npm run search
       - run: bundle exec ruby scripts/smoke.rb
       - uses: actions/upload-pages-artifact@v3
         with:

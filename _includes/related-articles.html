@@ -1,5 +1,5 @@
 {% if page.related_articles.size > 0 %}
-<aside class="post-end related-posts" aria-labelledby="related-heading">
+<aside class="post-end related-posts" data-pagefind-ignore aria-labelledby="related-heading">
   <h2 id="related-heading">{% if page.lang == 'en' %}Read also{% else %}Leia também{% endif %}</h2>
   <ul>{% for entry in page.related_articles %}<li><a class="text-link" href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></li>{% endfor %}</ul>
 </aside>
