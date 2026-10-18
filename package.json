@@ -1,0 +1,16 @@
+{
+  "name": "mauricioaniche-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "assets": "node scripts/generate-og.mjs"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "2.6.2",
+    "image-size": "2.0.4",
+    "satori": "0.62.0"
+  },
+  "overrides": {
+    "fflate": "0.7.5"
+  }
+}

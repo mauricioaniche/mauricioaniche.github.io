@@ -1,0 +1,1292 @@
+{
+  "/assets/blog/ddd/i1.png": {
+    "width": 1402,
+    "height": 944,
+    "bytes": 133599,
+    "type": "image/png"
+  },
+  "/assets/blog/ddd/i2.png": {
+    "width": 755,
+    "height": 266,
+    "bytes": 65304,
+    "type": "image/png"
+  },
+  "/assets/blog/ddd/i3.png": {
+    "width": 936,
+    "height": 1450,
+    "bytes": 234990,
+    "type": "image/png"
+  },
+  "/assets/blog/ddd/i4.png": {
+    "width": 930,
+    "height": 1458,
+    "bytes": 244317,
+    "type": "image/png"
+  },
+  "/assets/blog/ddd/i5.png": {
+    "width": 1006,
+    "height": 1374,
+    "bytes": 192106,
+    "type": "image/png"
+  },
+  "/assets/blog/ddd/i6.png": {
+    "width": 1244,
+    "height": 748,
+    "bytes": 107145,
+    "type": "image/png"
+  },
+  "/assets/blog/ddd/i7.png": {
+    "width": 1688,
+    "height": 572,
+    "bytes": 135037,
+    "type": "image/png"
+  },
+  "/assets/blog/flipped-classroom/attending-lectures-2021.png": {
+    "width": 1659,
+    "height": 1003,
+    "bytes": 105118,
+    "type": "image/png"
+  },
+  "/assets/blog/flipped-classroom/doing-exercises-2021.png": {
+    "width": 1659,
+    "height": 1003,
+    "bytes": 104937,
+    "type": "image/png"
+  },
+  "/assets/blog/flipped-classroom/exercises-after-2021.png": {
+    "width": 1659,
+    "height": 1003,
+    "bytes": 106373,
+    "type": "image/png"
+  },
+  "/assets/blog/flipped-classroom/hours-week-2021.png": {
+    "width": 1659,
+    "height": 1003,
+    "bytes": 100303,
+    "type": "image/png"
+  },
+  "/assets/blog/flipped-classroom/how-study-2021.png": {
+    "width": 1663,
+    "height": 1003,
+    "bytes": 114952,
+    "type": "image/png"
+  },
+  "/assets/blog/flipped-classroom/output_10_0.png": {
+    "width": 427,
+    "height": 248,
+    "bytes": 6384,
+    "type": "image/png"
+  },
+  "/assets/blog/flipped-classroom/output_12_0.png": {
+    "width": 448,
+    "height": 248,
+    "bytes": 6530,
+    "type": "image/png"
+  },
+  "/assets/blog/flipped-classroom/output_14_0.png": {
+    "width": 416,
+    "height": 248,
+    "bytes": 7306,
+    "type": "image/png"
+  },
+  "/assets/blog/flipped-classroom/output_16_1.png": {
+    "width": 649,
+    "height": 248,
+    "bytes": 13958,
+    "type": "image/png"
+  },
+  "/assets/blog/flipped-classroom/output_6_0.png": {
+    "width": 454,
+    "height": 248,
+    "bytes": 7878,
+    "type": "image/png"
+  },
+  "/assets/blog/flipped-classroom/output_8_0.png": {
+    "width": 447,
+    "height": 248,
+    "bytes": 8025,
+    "type": "image/png"
+  },
+  "/assets/blog/flipped-classroom/reading-material-2021.png": {
+    "width": 1659,
+    "height": 1003,
+    "bytes": 97637,
+    "type": "image/png"
+  },
+  "/assets/images/avatar-gta-aniche.png": {
+    "width": 323,
+    "height": 401,
+    "bytes": 318078,
+    "type": "image/png"
+  },
+  "/assets/images/blog/cartoon/julgamento-engenheiro-cartoon.jpg": {
+    "width": 1586,
+    "height": 992,
+    "bytes": 713608,
+    "type": "image/jpeg"
+  },
+  "/assets/images/blog/cartoon/repensar-code-review-cartoon.jpg": {
+    "width": 1586,
+    "height": 992,
+    "bytes": 518948,
+    "type": "image/jpeg"
+  },
+  "/assets/images/blog/cartoon/seguranca-ia-cartoon.jpg": {
+    "width": 1586,
+    "height": 992,
+    "bytes": 703516,
+    "type": "image/jpeg"
+  },
+  "/assets/images/blog/cartoon/senso-critico-ia-cartoon.jpg": {
+    "width": 1586,
+    "height": 992,
+    "bytes": 616435,
+    "type": "image/jpeg"
+  },
+  "/assets/images/blog/cartoon/testando-agentes-cartoon.jpg": {
+    "width": 1586,
+    "height": 992,
+    "bytes": 551832,
+    "type": "image/jpeg"
+  },
+  "/assets/images/books/c.png": {
+    "width": 341,
+    "height": 480,
+    "bytes": 116931,
+    "type": "image/png"
+  },
+  "/assets/images/books/effective-software-testing.png": {
+    "width": 300,
+    "height": 376,
+    "bytes": 94834,
+    "type": "image/png"
+  },
+  "/assets/images/books/simple-object-oriented-design.jpg": {
+    "width": 300,
+    "height": 376,
+    "bytes": 29049,
+    "type": "image/jpeg"
+  },
+  "/assets/images/books/solid.png": {
+    "width": 340,
+    "height": 480,
+    "bytes": 68210,
+    "type": "image/png"
+  },
+  "/assets/images/books/tdd.png": {
+    "width": 280,
+    "height": 384,
+    "bytes": 52798,
+    "type": "image/png"
+  },
+  "/assets/images/books/testes.png": {
+    "width": 340,
+    "height": 480,
+    "bytes": 65286,
+    "type": "image/png"
+  },
+  "/assets/images/content/cartoon/blog-2017-12-05-what-do-we-not-know-about-ddd.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 367831,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2018-06-21-testing-vs-writing-tests.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 322946,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2021-02-03-what-did-i-learn-from-flipping-my-classroom.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 268341,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2023-09-07-advantages-phd-industry.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 371506,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-04-14-ai-agents-in-oss-msr-mining-challenge-2026.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 393643,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-05-21-kimi-e-opencode-minhas-experiencias-com-uma-alternativa-de-menor-custo.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 311720,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-05-22-como-a-openai-usa-codex-no-dia-a-dia-da-engenharia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 281850,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-05-22-transformacao-com-ia-comeca-pelo-aprendizado-da-lideranca.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 301868,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-05-25-criando-o-ticka-com-ia-licoes-de-um-clone-simplificado-do-basecamp.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 360539,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-05-26-a-nova-forma-de-trabalhar-com-ia-uma-conversa-da-alura.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 293550,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-05-28-quando-uso-ia-para-escrever-e-quando-prefiro-escrever-a-mao.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 315778,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-05-29-guardrails-leves-e-pesados-para-codigo-gerado-por-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 336004,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-06-01-como-formar-desenvolvedores-seniores-em-um-mundo-de-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 300560,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-06-03-idempotencia-e-retentativas-a-ia-ainda-precisa-de-visao-do-todo.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 309117,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-06-05-testes-gerados-por-ia-tambem-precisam-de-qualidade.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 275034,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-06-08-a-adocao-de-ia-precisa-vir-da-lideranca-e-do-time.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 350859,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-06-10-o-que-aprendi-criando-tres-microaplicacoes-com-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 288666,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-06-12-a-taxa-da-orquestracao-o-custo-de-coordenar-multiplos-agentes.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 277928,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-06-15-mais-pull-requests-nao-significam-mais-deploys-nem-mais-valor.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 344509,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-06-18-enquanto-a-janela-de-uso-dos-agentes-nao-volta.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 358218,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-06-19-guardrails-de-qualidade-e-estrategias-de-adocao-de-ia-meu-novo-curso.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 284999,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-06-19-transformar-mudancas-em-rotina-e-uma-competencia-de-lideranca.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 290851,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-06-22-finops-para-ia-use-o-modelo-certo-para-cada-tarefa.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 295753,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-06-24-a-adocao-de-ia-pelos-profissionais-avanca-mais-rapido-que-as-organizacoes.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 323305,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-06-24-mais-codigo-mais-friccao-escalar-a-entrega-depois-da-adocao-de-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 325152,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-06-26-precisamos-mesmo-de-pull-requests-para-toda-mudanca.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 284708,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-07-09-da-experimentacao-ao-impacto-maturidade-em-engenharia-de-software-com-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 299935,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-07-15-ia-na-lideranca-da-automacao-a-qualidade-das-decisoes.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 275922,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-07-22-as-habilidades-mais-buscadas-e-o-desafio-de-preparar-os-times.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 335121,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-07-31-engenharia-de-software-agentica-alem-do-hype-no-tdc-rio.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 260140,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-08-03-memoria-dos-agentes-quanto-contexto-realmente-precisamos-guardar.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 317669,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-08-05-deixe-para-os-humanos-as-coisas-que-sao-humanas.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 385372,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-08-07-pensamento-sistemico-e-excelencia-licoes-da-lideranca-da-netflix.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 311284,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-08-10-automacao-com-ia-quais-competencias-desenvolver-na-sua-carreira.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 309493,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-08-10-resolver-o-problema-ou-resolver-uma-classe-de-problemas.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 389262,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-08-12-a-fatura-da-ia-chegou-como-conectar-custo-e-retorno.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 294387,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-08-12-hora-de-descansar-os-agentes-tambem-podem-esperar.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 329402,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-08-14-agentes-de-ia-simplicidade-determinismo-e-observabilidade.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 315679,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-08-17-construir-ou-comprar-software-continua-sendo-uma-decisao-dificil.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 344801,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-08-18-treinamento-corporativo-medir-atividade-nao-basta-para-medir-impacto.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 343870,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-08-19-finops-para-ia-as-licoes-da-coinbase-sobre-modelos-cache-e-contexto.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 296891,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-08-20-liderar-a-adocao-de-ia-exige-conversar-com-quem-enfrenta-os-mesmos-desafios.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 339883,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-08-24-o-novo-gargalo-da-engenharia-de-software-e-supervisao-e-decisao-tecnica.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 297445,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-08-31-profissionais-de-alto-impacto-quando-a-ia-amplia-a-atuacao-individual.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 339548,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-09-18-ia-no-desenvolvimento-precisamos-comecar-pela-operacao.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 340872,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-09-21-human-in-the-loop-em-qual-loop-o-engenheiro-deve-estar.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 245932,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-09-22-fundamentos-de-computacao-continuam-importantes-para-programar-com-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 320897,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-09-22-o-que-aprendi-sobre-a-fabrica-de-software-agentica-da-openai.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 309510,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-09-23-julgamento-priorizacao-proatividade-e-bom-gosto-na-engenharia-de-software.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 287045,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-09-23-revisao-por-excecao-repensando-o-code-review-na-era-dos-agentes.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 319750,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-09-24-como-ensinar-computacao-quando-escrever-codigo-ja-nao-e-o-maior-desafio.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 275547,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-09-25-quanto-codigo-gerado-por-ia-precisamos-revisar.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 293428,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-09-25-quem-usa-ia-continua-responsavel-pela-qualidade-da-entrega.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 249389,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-09-28-a-plataforma-de-desenvolvimento-com-ia-e-o-proximo-desafio.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 329048,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-09-28-os-bugs-da-ia-estao-mudando-de-logica-para-arquitetura-e-contexto.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 267248,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-09-29-fabricas-de-software-redesenhar-o-processo-para-entregar-mais-com-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 330482,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-09-30-disciplina-de-engenharia-continua-fazendo-diferenca-com-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 384071,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-01-revise-o-texto-que-voce-gerou-com-ia-antes-de-pedir-que-alguem-o-leia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 271233,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-02-escrever-tambem-e-pensar-por-que-preservo-minha-propria-voz.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 260369,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-05-quando-o-agente-para-vale-a-pena-voltar-a-programar-na-mao.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 318833,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-06-cinco-estagios-de-adocao-de-agentes-da-sessao-a-fabrica-de-software.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 346999,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-07-finops-para-ia-as-licoes-da-databricks-para-reduzir-custos.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 333527,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-08-estrategia-e-tatica-o-que-o-xadrez-ensina-sobre-lideranca.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 279420,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-09-como-a-prosus-reduziu-seus-custos-de-ia-em-90.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 363485,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-16-mais-codigo-gerado-por-ia-nao-resolve-o-gargalo-da-operacao.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 360621,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-academia-industria-wise-dev.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 344674,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-antipadroes-testes-codurance.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 344281,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-aprendizado-maquina-fronteiras.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 349799,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-carreira-academica-lambda3.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 337799,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-code-review-agentes-hipsters-523.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 317051,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-coding-agents-hipsters-511.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 320976,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-design-laurentiu-spilca.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 280306,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-design-patterns-hipsters-206.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 306694,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-design-tech-lead-journal-177.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 298579,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-engenharia-agentica-alura-hipsters-517.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 327792,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-engenharia-de-software-na-era-da-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 373111,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-entrevista-adolfo-neto.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 267650,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-entrevista-hidev.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 299719,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-escalabilidade-testes-hillside.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 309704,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-estrategias-testes-hipsters-367.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 313466,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-ia-testes-hidev.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 267873,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-migracao-spring-boot-com-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 307350,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-pesquisa-engenharia-hipsters-84.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 292237,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-qualidade-de-software-com-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 336660,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-solid-hipsters-219.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 296741,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-tdd-bluesoft.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 264831,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-tdd-lambda3.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 303720,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-team-topologies-agentes-ia-hipsters-520.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 368617,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-tech-academy-tech-leadership-rocks.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 343608,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-testes-automatizados-hipsters-51.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 274992,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-testes-beyond-coding-191.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 299843,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-testes-software-engineering-unlocked.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 338097,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/media-testes-tech-lead-journal-139.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 301906,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2010-01-01-tdd-mistakes.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 318458,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2011-01-01-agile-learning.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 321074,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2013-01-01-asserts-and-unit-tests.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 293923,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2013-01-01-metricminer.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 340423,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2014-01-01-smells-in-daos.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 259546,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2014-01-01-tdd-patterns.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 276755,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2014-01-01-web-testing-patterns.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 338132,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2015-06-01-tdd-and-class-design.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 301662,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2016-01-01-satt-code-metric-thresholds.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 253553,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2016-01-01-sbes-oop-design-perceptions.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 319301,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2016-01-01-smells-in-mvc-systems.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 308321,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2017-01-01-emse-mvc-smells.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 317435,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2017-01-01-how-js-devs-use-linters.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 269199,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2017-01-01-passive-learning-applied.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 310201,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2017-01-01-teaching-software-architecture.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 357077,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2017-01-01-to-mock-or-not-to-mock.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 241288,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-adoption-of-js-linters.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 274236,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-evosql.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 383742,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-faults-in-webapis.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 303810,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-google-finds-documentation.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 329864,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-mocks-in-java-systems.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 281450,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-modern-se-news-aggregators.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 385759,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-pydriller.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 359126,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-testing-meets-code-review.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 275994,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-understanding-dev-needs-deprecation.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 303712,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2018-01-01-usunual-events-github.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 280742,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2019-01-01-cloud-infra-ing.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 348649,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2019-01-01-pragmatic-testing-education.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 315621,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2019-01-01-tracing-back-logs.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 324593,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2019-03-01-monitoring-aware-ides.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 329591,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2019-05-01-android-presentation-smells.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 250986,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2019-06-01-current-challenges-in-oop.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 304445,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2019-06-02-test-code-comprehension.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 266933,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2020-03-09-anomaly-detection-cps.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 317743,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2020-03-09-offside.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 302083,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2020-09-01-selecting-apis-practitioners-perspective.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 299631,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2020-09-02-ml-and-refactoring.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 332092,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2021-01-30-self-vs-peer-grading.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 304281,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2021-02-01-parameter-constraint-identification.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 336187,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2021-02-01-search-based-remodularization.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 374180,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2021-02-23-code-smells-in-ml-projects.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 364951,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2021-02-24-learning-off-by-one-mistakes.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 299538,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2021-02-24-log-placement-recommendation.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 278465,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2021-03-01-how-developers-engineer-test-cases.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 305682,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2021-03-05-atoms-of-confusion-in-java.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 292889,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2021-03-08-static-performance-analysis-in-the-ide.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 270226,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2021-03-09-mobile-analytics-empirical-study.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 288148,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2021-03-22-software-monitoring-slr.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 310084,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2021-07-08-refactoring-recommendation-at-ing.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 233872,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2022-05-01-testknight.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 314336,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2022-11-01-adyen-tech-academy.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 325909,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/publications-2024-09-10-test-selection-at-adyen.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 290467,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/talks-2019-11-23-testing-in-production.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 316238,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/talks-2022-03-01-how-coverage-can-be-used-and-misused.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 206144,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/talks-2022-05-12-can-ml-help-devs.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 258095,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/talks-2022-09-01-effective-developer-testing.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 289188,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/talks-2022-09-10-from-industry-to-academia-and-back-again.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 322482,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/talks-2023-09-01-simple-object-oriented-design.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 291956,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/talks-2024-02-04-scaling-test-strategies.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 396502,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/talks-2024-09-01-test-selection-at-adyen.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 302329,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/talks-2026-04-13-design-in-large-scale.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 331849,
+    "type": "image/jpeg"
+  },
+  "/assets/images/foto-1-2026.jpg": {
+    "width": 2000,
+    "height": 3000,
+    "bytes": 885639,
+    "type": "image/jpeg"
+  },
+  "/assets/images/foto-2-2026.jpg": {
+    "width": 3000,
+    "height": 2000,
+    "bytes": 989447,
+    "type": "image/jpeg"
+  },
+  "/assets/images/photo-2022-highres.jpg": {
+    "width": 2000,
+    "height": 1333,
+    "bytes": 1817924,
+    "type": "image/jpeg"
+  },
+  "/assets/images/photo-2022.jpg": {
+    "width": 1000,
+    "height": 667,
+    "bytes": 119085,
+    "type": "image/jpeg"
+  },
+  "/assets/images/photo.jpg": {
+    "width": 231,
+    "height": 231,
+    "bytes": 11881,
+    "type": "image/jpeg"
+  },
+  "/assets/images/photo2017.jpg": {
+    "width": 200,
+    "height": 206,
+    "bytes": 8224,
+    "type": "image/jpeg"
+  },
+  "/assets/images/photo2018-sm.jpg": {
+    "width": 300,
+    "height": 345,
+    "bytes": 25591,
+    "type": "image/jpeg"
+  },
+  "/assets/images/photo2018.jpg": {
+    "width": 300,
+    "height": 450,
+    "bytes": 38829,
+    "type": "image/jpeg"
+  },
+  "/assets/og/bio-24b50c19.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 15557,
+    "type": "image/png"
+  },
+  "/assets/og/blog-8caafe43.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 24211,
+    "type": "image/png"
+  },
+  "/assets/og/blog-and-talks-b52463d2.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 24255,
+    "type": "image/png"
+  },
+  "/assets/og/books-6be0ad99.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 13814,
+    "type": "image/png"
+  },
+  "/assets/og/contact-4eb95063.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 18650,
+    "type": "image/png"
+  },
+  "/assets/og/conteudo-60de66f0.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 22185,
+    "type": "image/png"
+  },
+  "/assets/og/english-039ffd2d.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 32720,
+    "type": "image/png"
+  },
+  "/assets/og/ia-d29a25af.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 26438,
+    "type": "image/png"
+  },
+  "/assets/og/icse21-8e271add.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 15513,
+    "type": "image/png"
+  },
+  "/assets/og/indice-1e18646d.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 23912,
+    "type": "image/png"
+  },
+  "/assets/og/inicio-8a5edab2.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 32134,
+    "type": "image/png"
+  },
+  "/assets/og/mentoria-d391262d.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 33342,
+    "type": "image/png"
+  },
+  "/assets/og/podcasts-br-dd7253b5.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 20206,
+    "type": "image/png"
+  },
+  "/assets/og/publications-6a0504c2.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 21253,
+    "type": "image/png"
+  },
+  "/assets/og/publications-favorites-60809657.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 22119,
+    "type": "image/png"
+  },
+  "/assets/og/publications-industry-168ae9c5.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 23957,
+    "type": "image/png"
+  },
+  "/assets/og/publications-topic-e57c951b.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 20278,
+    "type": "image/png"
+  },
+  "/assets/og/publications-venue-c0de4959.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 21204,
+    "type": "image/png"
+  },
+  "/assets/og/research-57d4d064.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 26124,
+    "type": "image/png"
+  },
+  "/assets/og/research-adyen-9e32eff0.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 19492,
+    "type": "image/png"
+  },
+  "/assets/og/research-education-53ed3261.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 20816,
+    "type": "image/png"
+  },
+  "/assets/og/research-tools-9598adcd.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 21266,
+    "type": "image/png"
+  }
+}

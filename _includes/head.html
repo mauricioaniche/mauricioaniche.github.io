@@ -4,7 +4,9 @@
   {% assign title = page.title | default: site.title %}
   {% assign canonical = page.url | replace: 'index.html', '' | absolute_url %}
   {% assign description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace %}
-  {% assign share_image = page.social_image | default: '/assets/images/foto-1-2026.jpg' | absolute_url %}
+  {% assign share_image_path = page.social_image | default: page.image | default: site.data.og_images[page.url] | default: site.default_og %}
+  {% assign share_image = share_image_path | absolute_url %}
+  {% assign share_image_metadata = site.data.image_metadata[share_image_path] %}
   <title>{{ title | escape }}</title>
   <meta name="description" content="{{ description | escape }}">
   {% if page.noindex or page.sitemap == false %}<meta name="robots" content="noindex, follow">{% endif %}
@@ -23,6 +25,12 @@
   <meta property="og:description" content="{{ description | escape }}">
   <meta property="og:locale" content="{% if page.lang == 'en' %}en_US{% else %}pt_BR{% endif %}">
   <meta property="og:image" content="{{ share_image }}">
+  <meta property="og:image:alt" content="{{ page.image_alt | default: title | escape }}">
+  {% if share_image_metadata %}
+  <meta property="og:image:width" content="{{ share_image_metadata.width }}">
+  <meta property="og:image:height" content="{{ share_image_metadata.height }}">
+  <meta property="og:image:type" content="{{ share_image_metadata.type }}">
+  {% endif %}
   {% if page.layout == 'post' %}
   <meta property="og:type" content="article">
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
@@ -33,6 +41,7 @@
   <meta name="twitter:title" content="{{ title | escape }}">
   <meta name="twitter:description" content="{{ description | escape }}">
   <meta name="twitter:image" content="{{ share_image }}">
+  <meta name="twitter:image:alt" content="{{ page.image_alt | default: title | escape }}">
   {% include fonts.html %}
   {% include google_analytics.html %}
 </head>
