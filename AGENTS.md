@@ -5,6 +5,35 @@ Este é um site Jekyll. O acervo fica em `_blog`, `_media`, `_talks` e
 ilustrações. Mantenha `ia` entre as tags quando inteligência artificial for assunto central;
 essa tag alimenta a página `/ia` sem substituir as categorias existentes.
 
+## SEO, imagens e leitura em celular
+
+Ao adicionar ou atualizar uma página ou entrada do acervo:
+
+- Escreva uma `description` própria, fiel ao conteúdo. Não reutilize a descrição
+  geral do site nem descrições de outras páginas. Use um título que identifique
+  o assunto; nas páginas fixas, `seo_title` permite contextualizar o título do
+  navegador e dos previews sem alterar o `title` exibido na página.
+- Preserve as URLs publicadas, datas originais e referências. Não invente datas
+  de atualização, credenciais, resultados ou promessas de visibilidade em IA.
+- Para capas, retratos e cards, reutilize `_includes/responsive-image.html` com
+  `src`, `alt` e `sizes` adequado à largura real no layout. Imagens decorativas
+  nos cards com título adjacente devem manter `alt` vazio. Use `loading='lazy'`
+  fora da primeira tela; a foto principal mantém `fetchpriority='high'`.
+- Execute `npm run assets` depois de adicionar ou mudar imagens ou metadados.
+  O comando gera WebP responsivo, cards sociais e os manifestos em `_data/`.
+  Versione os derivados e manifestos junto da alteração. Não edite os arquivos
+  gerados manualmente. Preserve os originais, os downloads e as imagens de
+  compartilhamento; não aplique conversão em massa a gráficos internos.
+- Confira no Chrome a página e o card em desktop e em uma janela de 375 px.
+  URLs extensas devem quebrar dentro do texto, sem aumentar a largura da página.
+  Tabelas e blocos de código devem rolar em seus próprios contêineres. Verifique
+  também qual imagem o navegador carregou, sua nitidez e o recorte.
+- Antes de publicar, rode `npm run build` e
+  `bundle exec ruby scripts/check-publishing.rb`. O smoke test impede descrições
+  genéricas ou duplicadas, títulos duplicados e imagens responsivas ausentes.
+  Depois do deploy, confira a versão publicada; o build local não comprova
+  indexação, tráfego ou citações em respostas de IA.
+
 ## Índice remissivo
 
 Sempre que adicionar um artigo ou outra entrada ao acervo, revise o índice

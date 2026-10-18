@@ -11,11 +11,30 @@ npm run build
 bundle exec ruby scripts/check-publishing.rb
 ```
 
-`npm run build` gera cards e metadados das imagens, executa `bundle exec jekyll build`,
+`npm run build` gera imagens responsivas, cards e metadados, executa `bundle exec jekyll build`,
 indexa o HTML com Pagefind e roda as verificações em `_site/`. Os cards e os metadados
 também são versionados para previews funcionarem em builds simples do Jekyll. Ao
 mudar capas, títulos ou páginas, execute `npm run assets` e versione as mudanças
 geradas. As capas existentes têm prioridade sobre cards tipográficos.
+
+As páginas fixas podem usar `seo_title` para o título do navegador, Open Graph,
+Twitter e card social, preservando o título visível. Cada página deve ter uma
+descrição específica; descrições genéricas ou duplicadas falham no smoke test.
+
+`scripts/image-manifest.rb` reúne capas declaradas no front matter, livros e fotos
+de divulgação. `scripts/generate-responsive-images.mjs` preserva os originais e
+gera WebP de até 320, 640, 960 e 1280 px (sem ampliar imagens menores), com qualidade
+82 e sem recorte. Os arquivos ficam em `assets/images/responsive/`, e o mapeamento
+em `_data/responsive_images.json`. O hash considera a origem, o conteúdo e a versão
+da conversão; builds seguintes reutilizam derivados existentes e retiram somente
+derivados obsoletos desse diretório gerado.
+
+Use `{% include responsive-image.html src=page.image alt=page.image_alt %}` para
+capas, ajustando `sizes` conforme a largura do componente e `loading='lazy'` para
+imagens abaixo da primeira tela. O `src` original continua como fallback; `srcset`
+oferece os WebP. Os atributos intrínsecos usam as dimensões reais do original.
+Downloads, RSS, JSON-LD e previews sociais continuam usando os arquivos originais.
+Não converta imagens internas de gráficos ou slides com esse fluxo.
 
 Para visualizar busca e URLs sem extensão localmente, depois do build completo:
 

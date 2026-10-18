@@ -52,6 +52,36 @@ html.each do |file, document|
     end
   end
 end
+indexable = html.select { |_, document| sitemap_urls.include?(document.at_css('link[rel="canonical"]')&.[]('href')) }
+%w[title description].each do |field|
+  values = indexable.map do |file, document|
+    value = field == 'title' ? document.at_css('title')&.text : document.at_css('meta[name="description"]')&.[]('content')
+    assert.call(value && !value.strip.empty?, "Missing #{field}: #{file}")
+    assert.call(value != site.config['description'], "Generic site description: #{file}") if field == 'description'
+    [value, file]
+  end
+  duplicates = values.group_by(&:first).select { |_, entries| entries.size > 1 }
+  assert.call(duplicates.empty?, "Duplicate #{field}: #{duplicates.values.flatten(1).map(&:last).join(', ')}")
+end
+responsive = site.data.fetch('responsive_images')
+image_metadata = site.data.fetch('image_metadata')
+responsive.each do |original, image|
+  assert.call(file_for.call(original), "Missing original image: #{original}")
+  image.fetch('variants').each do |variant|
+    file = file_for.call(variant.fetch('url'))
+    metadata = image_metadata[variant.fetch('url')]
+    assert.call(file && File.size(file) == variant.fetch('bytes') && metadata && metadata['width'] == variant['width'] && metadata['height'] == variant['height'], "Missing or stale responsive image: #{variant['url']}")
+  end
+end
+html.each do |file, document|
+  document.css('.post-hero-image, .publication-cover, .card-image-link img, .hero-portrait > img, .research-card-meta img, .book-cover-link img, .my-photo').each do |image|
+    original = image['src'].delete_prefix(site.baseurl.to_s)
+    next unless responsive.key?(original)
+    variants = image['srcset'].to_s.split(',').map(&:strip)
+    expected = responsive.fetch(original).fetch('variants').map { |variant| "#{site.baseurl}#{variant['url']} #{variant['width']}w" }
+    assert.call(variants == expected && !image['sizes'].to_s.empty?, "Missing responsive cover or sizes: #{file}: #{original}")
+  end
+end
 posts = site.collections.fetch('blog').docs.reject { |post|
   post.data['noindex'] || post.data['sitemap'] == false || post.data['hide_from_list'] || (!site.future && post.date > site.time)
 }
