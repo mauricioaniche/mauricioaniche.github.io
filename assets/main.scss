@@ -1988,3 +1988,20 @@ hr {
 /* Full-text search loads its index only on /busca. */
 .site-search { --pagefind-ui-primary: #244f3e; --pagefind-ui-text: #243b30; --pagefind-ui-background: #f7f7f2; --pagefind-ui-border: #d8ddcf; --pagefind-ui-font: "DM Sans", sans-serif; }
 .site-search .pagefind-ui__search-input { max-width: 100%; }
+
+/* Approved reading layout: a narrower text measure with larger desktop type. */
+.reading-post .post-content {
+  max-width: 700px;
+  margin-inline: auto;
+  font-size: 19px;
+  line-height: 1.7;
+  color: var(--ink);
+}
+.post-meta, .topic-links, .article-topics a { font-size: 14px; }
+.reading-post .post-content blockquote { color: var(--ink); }
+.reading-post .post-content pre { font-size: 15px; }
+.reading-post .post-content pre code { font-size: inherit; }
+.post-content table { display: block; max-width: 100%; overflow-x: auto; }
+@media (max-width: 800px) {
+  .reading-post .post-content { font-size: 16px; line-height: 1.85; }
+}
