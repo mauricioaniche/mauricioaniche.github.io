@@ -3,10 +3,10 @@
     <a class="site-title" href="{{ '/' | relative_url }}" aria-label="Maurício Aniche — {% if page.lang == 'en' %}home{% else %}início{% endif %}">maurício aniche<span class="brand-dot">.</span></a>
     <nav class="site-nav" aria-label="{% if page.lang == 'en' %}Main navigation{% else %}Navegação principal{% endif %}">
       {% if page.lang == 'en' %}
-      <a href="#about">About</a>
-      <a href="#books">Books</a>
+      <a href="{{ "/english" | relative_url }}#about">About</a>
+      <a href="{{ "/english" | relative_url }}#books">Books</a>
       <a href="{{ '/english' | relative_url }}" lang="en" aria-current="page">In English</a>
-      <a class="nav-cta" href="#mentoring">Mentoring <span aria-hidden="true">↗</span></a>
+      <a class="nav-cta" href="{{ "/english" | relative_url }}#mentoring">Mentoring <span aria-hidden="true">↗</span></a>
       {% else %}
       <a href="{{ '/#sobre' | relative_url }}">Sobre</a>
       <a href="{{ '/books' | relative_url }}" {% if page.url == '/books' %}aria-current="page"{% endif %}>Livros</a>

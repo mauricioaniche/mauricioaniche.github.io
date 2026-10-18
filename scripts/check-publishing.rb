@@ -62,6 +62,7 @@ Dir.mktmpdir('aniche-publishing-') do |tmp|
     article = graph.find { |node| node['@type'] == 'BlogPosting' }
     assert.call(article.key?(language == 'english' ? 'translationOfWork' : 'workTranslation'), 'Missing translation schema')
     if language == 'english'
+      assert.call(document.css('.site-nav a').none? { |link| link['href'].start_with?('#') }, 'Translated article navigation targets missing sections')
       assert.call(document.at_css('.translation-notice').text.include?('has not been reviewed by a human'), 'Missing review disclosure')
       assert.call(document.at_css('.post-conversation').text.include?('<script>TEST COMMENT</script>'), 'Missing sourced conversation')
       assert.call(document.css('.post-conversation script').empty?, 'Comment HTML was not escaped')
