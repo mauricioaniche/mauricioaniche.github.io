@@ -9,8 +9,8 @@ url: https://mauricioaniche.com
 
 # Optional analytics: set analytics.provider and the matching IDs to enable.
 analytics:
-  provider: null
-  ga4_id: null
+  provider: ga4
+  ga4_id: G-GE39H77LMB
   umami_website_id: null
   umami_script_url: null
 

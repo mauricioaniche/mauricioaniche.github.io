@@ -51,15 +51,27 @@ também não usa o horário do checkout como data de alteração de arquivos est
 
 ## Analytics
 
-O Universal Analytics foi removido. O serviço novo fica desativado até a escolha
-do proprietário e o fornecimento de identificadores reais em `_config.yml`:
+O Universal Analytics foi removido e a integração GA4 usa a propriedade existente
+**Blog em inglês - GA4**, da conta **Meu Blog**, preservando seu histórico:
 
-- GA4: `analytics.provider: ga4` e `analytics.ga4_id: G-...`.
-- Umami: `analytics.provider: umami`, `analytics.umami_website_id` e
-  `analytics.umami_script_url`.
+- Propriedade: `366783508`.
+- Fluxo web: `4972851118`.
+- URL: `https://mauricioaniche.com`.
+- Measurement ID: `G-GE39H77LMB`.
+- Configuração: `analytics.provider: ga4` e `analytics.ga4_id` em `_config.yml`.
 
-Não existe uma visita confirmada no painel novo. Depois de configurá-lo e publicar,
-confira uma visita real no respectivo painel.
+A propriedade e o identificador foram conferidos no Google Analytics pelo Chrome
+em 18/10/2026. O painel informou coleta ativa nas últimas 48 horas; portanto, o
+relato inicial de ausência de métricas não corresponde ao estado encontrado na
+conta. A atualização do endereço do fluxo mantém a mesma propriedade e seu histórico.
+
+A inclusão de um único snippet por página foi conferida no HTML gerado localmente.
+A confirmação de uma visita na nova versão publicada precisa ocorrer depois do
+deploy, no relatório em tempo real. Não confunda tráfego já existente na propriedade com uma visita da nova versão.
+
+Para desativar a integração, use `analytics.provider: null`. A alternativa Umami
+permanece disponível no template, mediante configuração de `umami_website_id` e
+`umami_script_url`.
 
 ## Traduções
 
