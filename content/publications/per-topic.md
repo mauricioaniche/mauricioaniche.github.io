@@ -1,5 +1,7 @@
 ---
 title: Publicações por tema
+seo_title: Publicações científicas por tema — Maurício Aniche
+description: 'Explore as pesquisas de Maurício Aniche por tema: manutenção, testes, aprendizado de máquina, monitoramento e educação em engenharia de software.'
 layout: page
 permalink: /publications/topic
 ---

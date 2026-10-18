@@ -1,5 +1,7 @@
 ---
 title: Livros
+seo_title: Livros de engenharia de software — Maurício Aniche
+description: Livros de Maurício Aniche sobre testes de software, TDD, design orientado a objetos, SOLID e programação, publicados pela Manning e Casa do Código.
 layout: default
 permalink: /books
 ---

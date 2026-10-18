@@ -1,5 +1,7 @@
 ---
 title: Ferramentas de pesquisa
+seo_title: Ferramentas de pesquisa — Maurício Aniche
+description: Ferramentas e protótipos de pesquisa de Maurício Aniche para métricas Java, análise estática, testes automatizados e monitoramento de software.
 layout: page
 permalink: /research/tools
 ---

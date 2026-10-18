@@ -1,5 +1,7 @@
 ---
 title: Podcasts e entrevistas
+seo_title: Podcasts e entrevistas — Maurício Aniche
+description: Ouça as participações de Maurício Aniche em podcasts e entrevistas, em português e inglês, sobre engenharia de software, educação e carreira.
 layout: default
 permalink: /podcasts-br
 ---

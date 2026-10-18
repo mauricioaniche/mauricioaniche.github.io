@@ -1,5 +1,7 @@
 ---
 title: Publicações por veículo
+seo_title: Publicações científicas por veículo — Maurício Aniche
+description: Encontre artigos científicos de Maurício Aniche organizados por periódicos e conferências de engenharia de software, como TSE, EMSE e ICSE.
 layout: page
 permalink: /publications/venue
 ---

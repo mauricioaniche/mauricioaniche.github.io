@@ -1,5 +1,7 @@
 ---
 title: ICSE 2021
+seo_title: Pesquisas no ICSE 2021 — Maurício Aniche
+description: Conheça os dez artigos apresentados pelo grupo de pesquisa de Maurício Aniche nos eventos associados ao ICSE 2021.
 layout: page
 permalink: /icse21
 ---

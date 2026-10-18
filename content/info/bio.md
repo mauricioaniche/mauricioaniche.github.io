@@ -1,5 +1,7 @@
 ---
 title: Bio e fotos
+seo_title: Biografia e fotos — Maurício Aniche
+description: Trajetória de Maurício Aniche, CTO da Alun, ex-Staff Engineer na Uber, autor e pesquisador em engenharia de software. Biografia e fotos para divulgação.
 layout: page
 permalink: /bio
 ---

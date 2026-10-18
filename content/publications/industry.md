@@ -1,5 +1,7 @@
 ---
 title: Colaborações com a indústria
+seo_title: Pesquisa com a indústria — Maurício Aniche
+description: Trabalhos de pesquisa aplicada de Maurício Aniche com parceiros da indústria, conectando desafios reais de desenvolvimento à engenharia de software.
 layout: page
 permalink: /publications/industry
 ---

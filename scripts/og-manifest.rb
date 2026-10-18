@@ -10,5 +10,5 @@ puts JSON.generate(entries.select { |item|
     item.data['published'] != false && item.data['noindex'] != true && item.data['sitemap'] != false &&
     (!item.respond_to?(:date) || site.future || item.date <= site.time)
 }.map { |item|
-  { url: item.url, title: item.data['title'], type: item.data['layout'] == 'post' ? 'Artigo' : 'Maurício Aniche' }
+  { url: item.url, title: item.data['seo_title'] || item.data['title'], type: item.data['layout'] == 'post' ? 'Artigo' : 'Maurício Aniche' }
 })

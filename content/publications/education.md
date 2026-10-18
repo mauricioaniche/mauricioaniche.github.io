@@ -1,5 +1,7 @@
 ---
 title: Pesquisa em educação
+seo_title: Pesquisa em educação — Maurício Aniche
+description: Artigos de Maurício Aniche sobre educação em Ciência da Computação e ensino de engenharia de software, a partir de sua experiência como professor.
 layout: page
 permalink: /research/education
 ---

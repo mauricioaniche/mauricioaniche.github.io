@@ -1,5 +1,7 @@
 ---
 title: Publicações em destaque
+seo_title: Publicações científicas em destaque — Maurício Aniche
+description: Uma seleção de trabalhos científicos favoritos de Maurício Aniche sobre qualidade, testes e manutenção de software.
 layout: page
 permalink: /publications/favorites
 ---

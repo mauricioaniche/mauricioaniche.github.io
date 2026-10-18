@@ -1,5 +1,7 @@
 ---
 title: Palestras, podcasts e entrevistas
+seo_title: Palestras, podcasts e entrevistas — Maurício Aniche
+description: Palestras, entrevistas, podcasts e artigos externos de Maurício Aniche sobre testes, design de software, pesquisa, liderança e carreira.
 layout: default
 permalink: /blog-and-talks
 ---

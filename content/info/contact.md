@@ -1,5 +1,7 @@
 ---
 title: Vamos conversar
+seo_title: Contato — Maurício Aniche
+description: Entre em contato com Maurício Aniche para conversar sobre mentoria, palestras, livros, liderança e engenharia de software.
 layout: page
 permalink: /contact
 ---

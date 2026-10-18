@@ -1,5 +1,7 @@
 ---
 title: Pesquisa em engenharia de software
+seo_title: Pesquisa em engenharia de software — Maurício Aniche
+description: Conheça a trajetória de pesquisa de Maurício Aniche em testes, manutenção, aprendizado de máquina e monitoramento de software.
 layout: page
 permalink: /research
 ---
