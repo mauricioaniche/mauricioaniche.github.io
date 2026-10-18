@@ -5,3 +5,6 @@ _site
 *.sublime-project
 *.sublime-workspace
 .DS_Store
+
+output/
+.playwright-cli/
