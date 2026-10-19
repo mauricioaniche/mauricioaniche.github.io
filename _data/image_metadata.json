@@ -575,6 +575,90 @@
     "bytes": 360621,
     "type": "image/jpeg"
   },
+  "/assets/images/content/cartoon/blog-2026-10-19-finops-para-ia-o-que-a-uber-esta-fazendo.jpg": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 223482,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-19-fundamentos-para-testar-sistemas-agenticos.jpg": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 191193,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-20-agentes-de-ia-e-o-desconforto-de-criar-divida-tecnica.jpg": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 205707,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-21-martin-odersky-e-o-futuro-das-linguagens-na-era-dos-agentes.jpg": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 186027,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-22-acumular-confianca-tao-rapido-quanto-acumulamos-codigo.jpg": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 197319,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-23-fabricas-de-software-ainda-precisam-de-luz-e-de-humanos.jpg": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 207291,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-26-decisoes-deterministicas-em-sistemas-agenticos.jpg": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 197192,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-28-os-dilemas-da-lideranca-de-tecnologia-na-revolucao-da-ia.jpg": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 238176,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-30-o-arquiteto-com-mentalidade-de-produto-na-era-da-ia.jpg": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 227063,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-11-03-o-que-aprendi-sobre-o-uso-de-ia-na-shopify.jpg": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 246828,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-11-05-revisar-codigo-de-ia-sem-compreender-cada-linha.jpg": {
+    "width": 1200,
+    "height": 752,
+    "bytes": 204290,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-11-09-vibe-coding-nao-elimina-o-trabalho-por-tras-de-um-saas.jpg": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 256903,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-11-11-a-fabrica-de-software-da-vercel-para-o-ai-sdk.jpg": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 223100,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-11-12-katie-dill-criar-produtos-com-intencao-e-qualidade-usando-ia.jpg": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 227125,
+    "type": "image/jpeg"
+  },
   "/assets/images/content/cartoon/media-academia-industria-wise-dev.jpg": {
     "width": 1200,
     "height": 750,
@@ -1565,6 +1649,30 @@
     "bytes": 106076,
     "type": "image/webp"
   },
+  "/assets/images/responsive/15a6681fc7068ba4-1200.webp": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 185138,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/15a6681fc7068ba4-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 25606,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/15a6681fc7068ba4-640.webp": {
+    "width": 640,
+    "height": 401,
+    "bytes": 73692,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/15a6681fc7068ba4-960.webp": {
+    "width": 960,
+    "height": 601,
+    "bytes": 134292,
+    "type": "image/webp"
+  },
   "/assets/images/responsive/171e0544f2cce8c2-1200.webp": {
     "width": 1200,
     "height": 750,
@@ -1611,6 +1719,30 @@
     "width": 960,
     "height": 600,
     "bytes": 106534,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/18fe93b712e720b4-1200.webp": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 204812,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/18fe93b712e720b4-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 24844,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/18fe93b712e720b4-640.webp": {
+    "width": 640,
+    "height": 401,
+    "bytes": 76526,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/18fe93b712e720b4-960.webp": {
+    "width": 960,
+    "height": 601,
+    "bytes": 145376,
     "type": "image/webp"
   },
   "/assets/images/responsive/1aca0dce8f8ad05a-1200.webp": {
@@ -1707,6 +1839,30 @@
     "width": 960,
     "height": 600,
     "bytes": 121020,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/1ce7eabfc68e199f-1200.webp": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 132724,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/1ce7eabfc68e199f-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 18978,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/1ce7eabfc68e199f-640.webp": {
+    "width": 640,
+    "height": 401,
+    "bytes": 53064,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/1ce7eabfc68e199f-960.webp": {
+    "width": 960,
+    "height": 601,
+    "bytes": 94006,
     "type": "image/webp"
   },
   "/assets/images/responsive/1fe2af1fc4db59c6-1280.webp": {
@@ -2045,6 +2201,30 @@
     "bytes": 104650,
     "type": "image/webp"
   },
+  "/assets/images/responsive/310509a985bc2f3b-1200.webp": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 138560,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/310509a985bc2f3b-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 18134,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/310509a985bc2f3b-640.webp": {
+    "width": 640,
+    "height": 401,
+    "bytes": 55490,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/310509a985bc2f3b-960.webp": {
+    "width": 960,
+    "height": 601,
+    "bytes": 100418,
+    "type": "image/webp"
+  },
   "/assets/images/responsive/31b9f038dfe0682e-1200.webp": {
     "width": 1200,
     "height": 750,
@@ -2103,6 +2283,30 @@
     "width": 340,
     "height": 480,
     "bytes": 14170,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/378f128b3919655b-1200.webp": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 132806,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/378f128b3919655b-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 21308,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/378f128b3919655b-640.webp": {
+    "width": 640,
+    "height": 401,
+    "bytes": 56412,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/378f128b3919655b-960.webp": {
+    "width": 960,
+    "height": 601,
+    "bytes": 97264,
     "type": "image/webp"
   },
   "/assets/images/responsive/37f6016ece3c6518-1200.webp": {
@@ -2543,6 +2747,30 @@
     "bytes": 102920,
     "type": "image/webp"
   },
+  "/assets/images/responsive/5ef4d08d97b99759-1200.webp": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 125058,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/5ef4d08d97b99759-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 18854,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/5ef4d08d97b99759-640.webp": {
+    "width": 640,
+    "height": 401,
+    "bytes": 52516,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/5ef4d08d97b99759-960.webp": {
+    "width": 960,
+    "height": 601,
+    "bytes": 91644,
+    "type": "image/webp"
+  },
   "/assets/images/responsive/5f7cb82192151b54-1200.webp": {
     "width": 1200,
     "height": 750,
@@ -2565,6 +2793,30 @@
     "width": 960,
     "height": 600,
     "bytes": 141174,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/614d5c0b22abdd89-1200.webp": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 162002,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/614d5c0b22abdd89-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 25070,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/614d5c0b22abdd89-640.webp": {
+    "width": 640,
+    "height": 401,
+    "bytes": 67560,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/614d5c0b22abdd89-960.webp": {
+    "width": 960,
+    "height": 601,
+    "bytes": 116354,
     "type": "image/webp"
   },
   "/assets/images/responsive/61977c583e632302-1200.webp": {
@@ -3173,6 +3425,30 @@
     "bytes": 130780,
     "type": "image/webp"
   },
+  "/assets/images/responsive/83957db7270baa3b-1200.webp": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 183120,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/83957db7270baa3b-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 24964,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/83957db7270baa3b-640.webp": {
+    "width": 640,
+    "height": 401,
+    "bytes": 73518,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/83957db7270baa3b-960.webp": {
+    "width": 960,
+    "height": 601,
+    "bytes": 134624,
+    "type": "image/webp"
+  },
   "/assets/images/responsive/855d6de4b6bcb0b8-1200.webp": {
     "width": 1200,
     "height": 750,
@@ -3611,6 +3887,30 @@
     "bytes": 85776,
     "type": "image/webp"
   },
+  "/assets/images/responsive/9b9bd182bfcdca34-1200.webp": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 165834,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/9b9bd182bfcdca34-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 22670,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/9b9bd182bfcdca34-640.webp": {
+    "width": 640,
+    "height": 401,
+    "bytes": 68640,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/9b9bd182bfcdca34-960.webp": {
+    "width": 960,
+    "height": 601,
+    "bytes": 120798,
+    "type": "image/webp"
+  },
   "/assets/images/responsive/9f4e912169124014-1200.webp": {
     "width": 1200,
     "height": 750,
@@ -3911,6 +4211,30 @@
     "bytes": 102634,
     "type": "image/webp"
   },
+  "/assets/images/responsive/b15af9e39b0e22c3-1200.webp": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 161352,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/b15af9e39b0e22c3-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 22616,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/b15af9e39b0e22c3-640.webp": {
+    "width": 640,
+    "height": 401,
+    "bytes": 63740,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/b15af9e39b0e22c3-960.webp": {
+    "width": 960,
+    "height": 601,
+    "bytes": 116816,
+    "type": "image/webp"
+  },
   "/assets/images/responsive/b27a43a71eaa76b5-1200.webp": {
     "width": 1200,
     "height": 750,
@@ -4067,6 +4391,30 @@
     "bytes": 114166,
     "type": "image/webp"
   },
+  "/assets/images/responsive/be6603005385ba88-1200.webp": {
+    "width": 1200,
+    "height": 752,
+    "bytes": 146738,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/be6603005385ba88-320.webp": {
+    "width": 320,
+    "height": 201,
+    "bytes": 21556,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/be6603005385ba88-640.webp": {
+    "width": 640,
+    "height": 401,
+    "bytes": 61816,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/be6603005385ba88-960.webp": {
+    "width": 960,
+    "height": 602,
+    "bytes": 107792,
+    "type": "image/webp"
+  },
   "/assets/images/responsive/be7e3f32533af656-1200.webp": {
     "width": 1200,
     "height": 750,
@@ -4115,6 +4463,30 @@
     "bytes": 79652,
     "type": "image/webp"
   },
+  "/assets/images/responsive/c06d636ffcc47ca8-1200.webp": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 149372,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/c06d636ffcc47ca8-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 23868,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/c06d636ffcc47ca8-640.webp": {
+    "width": 640,
+    "height": 401,
+    "bytes": 64904,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/c06d636ffcc47ca8-960.webp": {
+    "width": 960,
+    "height": 601,
+    "bytes": 112706,
+    "type": "image/webp"
+  },
   "/assets/images/responsive/c0b228ebd356d73b-1200.webp": {
     "width": 1200,
     "height": 750,
@@ -4161,6 +4533,30 @@
     "width": 960,
     "height": 600,
     "bytes": 130224,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/c1db473c18183f43-1200.webp": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 149354,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/c1db473c18183f43-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 21266,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/c1db473c18183f43-640.webp": {
+    "width": 640,
+    "height": 401,
+    "bytes": 61696,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/c1db473c18183f43-960.webp": {
+    "width": 960,
+    "height": 601,
+    "bytes": 107482,
     "type": "image/webp"
   },
   "/assets/images/responsive/c4a5b1a107594719-1200.webp": {
@@ -4785,6 +5181,30 @@
     "width": 960,
     "height": 600,
     "bytes": 66652,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/ecf9d397313be161-1200.webp": {
+    "width": 1200,
+    "height": 751,
+    "bytes": 162884,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/ecf9d397313be161-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 25112,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/ecf9d397313be161-640.webp": {
+    "width": 640,
+    "height": 401,
+    "bytes": 68602,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/ecf9d397313be161-960.webp": {
+    "width": 960,
+    "height": 601,
+    "bytes": 117820,
     "type": "image/webp"
   },
   "/assets/images/responsive/eda5c476196e3941-1200.webp": {

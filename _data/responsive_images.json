@@ -2207,6 +2207,426 @@
       }
     ]
   },
+  "/assets/images/content/cartoon/blog-2026-10-19-finops-para-ia-o-que-a-uber-esta-fazendo.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/ecf9d397313be161-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 25112
+      },
+      {
+        "url": "/assets/images/responsive/ecf9d397313be161-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 68602
+      },
+      {
+        "url": "/assets/images/responsive/ecf9d397313be161-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 117820
+      },
+      {
+        "url": "/assets/images/responsive/ecf9d397313be161-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 162884
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-19-fundamentos-para-testar-sistemas-agenticos.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/378f128b3919655b-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21308
+      },
+      {
+        "url": "/assets/images/responsive/378f128b3919655b-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 56412
+      },
+      {
+        "url": "/assets/images/responsive/378f128b3919655b-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 97264
+      },
+      {
+        "url": "/assets/images/responsive/378f128b3919655b-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 132806
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-20-agentes-de-ia-e-o-desconforto-de-criar-divida-tecnica.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/c1db473c18183f43-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21266
+      },
+      {
+        "url": "/assets/images/responsive/c1db473c18183f43-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 61696
+      },
+      {
+        "url": "/assets/images/responsive/c1db473c18183f43-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 107482
+      },
+      {
+        "url": "/assets/images/responsive/c1db473c18183f43-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 149354
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-21-martin-odersky-e-o-futuro-das-linguagens-na-era-dos-agentes.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/5ef4d08d97b99759-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18854
+      },
+      {
+        "url": "/assets/images/responsive/5ef4d08d97b99759-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 52516
+      },
+      {
+        "url": "/assets/images/responsive/5ef4d08d97b99759-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 91644
+      },
+      {
+        "url": "/assets/images/responsive/5ef4d08d97b99759-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 125058
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-22-acumular-confianca-tao-rapido-quanto-acumulamos-codigo.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/310509a985bc2f3b-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18134
+      },
+      {
+        "url": "/assets/images/responsive/310509a985bc2f3b-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 55490
+      },
+      {
+        "url": "/assets/images/responsive/310509a985bc2f3b-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 100418
+      },
+      {
+        "url": "/assets/images/responsive/310509a985bc2f3b-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 138560
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-23-fabricas-de-software-ainda-precisam-de-luz-e-de-humanos.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/c06d636ffcc47ca8-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23868
+      },
+      {
+        "url": "/assets/images/responsive/c06d636ffcc47ca8-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 64904
+      },
+      {
+        "url": "/assets/images/responsive/c06d636ffcc47ca8-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 112706
+      },
+      {
+        "url": "/assets/images/responsive/c06d636ffcc47ca8-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 149372
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-26-decisoes-deterministicas-em-sistemas-agenticos.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/1ce7eabfc68e199f-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 18978
+      },
+      {
+        "url": "/assets/images/responsive/1ce7eabfc68e199f-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 53064
+      },
+      {
+        "url": "/assets/images/responsive/1ce7eabfc68e199f-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 94006
+      },
+      {
+        "url": "/assets/images/responsive/1ce7eabfc68e199f-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 132724
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-28-os-dilemas-da-lideranca-de-tecnologia-na-revolucao-da-ia.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/83957db7270baa3b-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 24964
+      },
+      {
+        "url": "/assets/images/responsive/83957db7270baa3b-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 73518
+      },
+      {
+        "url": "/assets/images/responsive/83957db7270baa3b-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 134624
+      },
+      {
+        "url": "/assets/images/responsive/83957db7270baa3b-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 183120
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-10-30-o-arquiteto-com-mentalidade-de-produto-na-era-da-ia.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/b15af9e39b0e22c3-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22616
+      },
+      {
+        "url": "/assets/images/responsive/b15af9e39b0e22c3-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 63740
+      },
+      {
+        "url": "/assets/images/responsive/b15af9e39b0e22c3-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 116816
+      },
+      {
+        "url": "/assets/images/responsive/b15af9e39b0e22c3-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 161352
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-11-03-o-que-aprendi-sobre-o-uso-de-ia-na-shopify.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/15a6681fc7068ba4-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 25606
+      },
+      {
+        "url": "/assets/images/responsive/15a6681fc7068ba4-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 73692
+      },
+      {
+        "url": "/assets/images/responsive/15a6681fc7068ba4-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 134292
+      },
+      {
+        "url": "/assets/images/responsive/15a6681fc7068ba4-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 185138
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-11-05-revisar-codigo-de-ia-sem-compreender-cada-linha.jpg": {
+    "width": 1200,
+    "height": 752,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/be6603005385ba88-320.webp",
+        "width": 320,
+        "height": 201,
+        "bytes": 21556
+      },
+      {
+        "url": "/assets/images/responsive/be6603005385ba88-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 61816
+      },
+      {
+        "url": "/assets/images/responsive/be6603005385ba88-960.webp",
+        "width": 960,
+        "height": 602,
+        "bytes": 107792
+      },
+      {
+        "url": "/assets/images/responsive/be6603005385ba88-1200.webp",
+        "width": 1200,
+        "height": 752,
+        "bytes": 146738
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-11-09-vibe-coding-nao-elimina-o-trabalho-por-tras-de-um-saas.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/18fe93b712e720b4-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 24844
+      },
+      {
+        "url": "/assets/images/responsive/18fe93b712e720b4-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 76526
+      },
+      {
+        "url": "/assets/images/responsive/18fe93b712e720b4-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 145376
+      },
+      {
+        "url": "/assets/images/responsive/18fe93b712e720b4-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 204812
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-11-11-a-fabrica-de-software-da-vercel-para-o-ai-sdk.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/614d5c0b22abdd89-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 25070
+      },
+      {
+        "url": "/assets/images/responsive/614d5c0b22abdd89-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 67560
+      },
+      {
+        "url": "/assets/images/responsive/614d5c0b22abdd89-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 116354
+      },
+      {
+        "url": "/assets/images/responsive/614d5c0b22abdd89-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 162002
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-11-12-katie-dill-criar-produtos-com-intencao-e-qualidade-usando-ia.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/9b9bd182bfcdca34-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22670
+      },
+      {
+        "url": "/assets/images/responsive/9b9bd182bfcdca34-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 68640
+      },
+      {
+        "url": "/assets/images/responsive/9b9bd182bfcdca34-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 120798
+      },
+      {
+        "url": "/assets/images/responsive/9b9bd182bfcdca34-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 165834
+      }
+    ]
+  },
   "/assets/images/content/cartoon/media-academia-industria-wise-dev.jpg": {
     "width": 1200,
     "height": 750,

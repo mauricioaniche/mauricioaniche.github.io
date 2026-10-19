@@ -1592,6 +1592,218 @@
       "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Mais código gerado por IA não resolve o gargalo da operação. AI can generate more code but delivery requires deployment, monitoring and rollback.\nScene: A cheerful miniature railway workshop in a garden. At left, a small friendly robot has built a queue of colorful toy railway carriages. In the center, an adult engineer with curly hair and an adult engineer with glasses collaborate with another small robot to repair and operate a railway switch so a single carriage can safely reach the operating track; a curved return track makes it possible to bring the carriage back. One engineer checks the wheels with a magnifying glass while the other operates the switch lever. Clear simple visual metaphor for keeping delivery running rather than merely building more carriages. No screens or signs.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming.\nPalette: vivid teal, warm coral, sunflower yellow and cream, warm welcoming daylight.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins. One complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
       "status": "complete",
       "original": "/Users/mauricio/.codex/generated_images/01a144b9-a3ea-7242-99f8-9cae77c109e9/exec-369b6e79-20dd-4f3a-b4e1-fabf3d74e342.png"
+    },
+    {
+      "id": "blog-2026-10-19-fundamentos-para-testar-sistemas-agenticos",
+      "path": "_blog/2026-10-19-fundamentos-para-testar-sistemas-agenticos.md",
+      "title": "Fundamentos para testar sistemas agênticos",
+      "scene": "Uma engenheira e um robô examinam uma maquete de restaurante com uma reserva representada por um lugar à mesa.",
+      "alt": "Uma engenheira e um robô examinam uma maquete de restaurante com uma reserva representada por um lugar à mesa.",
+      "asset": "/assets/images/content/cartoon/blog-2026-10-19-fundamentos-para-testar-sistemas-agenticos.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Fundamentos para testar sistemas agênticos. Princípios de testes aplicados a agentes: resultados observáveis, trajetórias, regressão, oráculos e injeção de falhas.\nScene: Uma engenheira e um robô examinam uma maquete de restaurante com uma reserva representada por um lugar à mesa.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Robots only as described.\nPalette: turquoise, orange, cream.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15199-12cd-7110-aa65-61b73144b4df/exec-9e958694-c1da-45bb-8a4b-7ace5ea82a56.png",
+      "source_post_id": "b0f15ea6-b5c2-44a6-beee-2affe23de727",
+      "source_publication_dates": [
+        "2026-10-19T12:50:00Z"
+      ]
+    },
+    {
+      "id": "blog-2026-10-19-finops-para-ia-o-que-a-uber-esta-fazendo",
+      "path": "_blog/2026-10-19-finops-para-ia-o-que-a-uber-esta-fazendo.md",
+      "title": "FinOps para IA: o que a Uber está fazendo",
+      "scene": "Uma equipe numa garagem ensolarada reaproveita pequenas baterias coloridas em carrinhos robóticos, evitando desperdício.",
+      "alt": "Uma equipe numa garagem ensolarada reaproveita pequenas baterias coloridas em carrinhos robóticos, evitando desperdício.",
+      "asset": "/assets/images/content/cartoon/blog-2026-10-19-finops-para-ia-o-que-a-uber-esta-fazendo.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): FinOps para IA: o que a Uber está fazendo. Cache de prompts, configurações padrão, visibilidade dos custos e modelos de peso aberto nas iniciativas de eficiência de IA da Uber.\nScene: Uma equipe numa garagem ensolarada reaproveita pequenas baterias coloridas em carrinhos robóticos, evitando desperdício.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Robots only as described.\nPalette: cobalt, lemon yellow, coral.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15199-12cd-7110-aa65-61b73144b4df/exec-b8641628-4bf2-4d81-ab2f-cade28dc0a3d.png",
+      "source_post_id": "50bad5d2-29f6-478b-a9b1-c4130ecd3b4c",
+      "source_publication_dates": [
+        "2026-10-19T17:24:00Z"
+      ]
+    },
+    {
+      "id": "blog-2026-10-20-agentes-de-ia-e-o-desconforto-de-criar-divida-tecnica",
+      "path": "_blog/2026-10-20-agentes-de-ia-e-o-desconforto-de-criar-divida-tecnica.md",
+      "title": "Agentes de IA e o desconforto de criar dívida técnica",
+      "scene": "Um engenheiro e um robô observam uma cadeira feita com remendos e consertam juntos uma perna improvisada na marcenaria.",
+      "alt": "Um engenheiro e um robô observam uma cadeira feita com remendos e consertam juntos uma perna improvisada na marcenaria.",
+      "asset": "/assets/images/content/cartoon/blog-2026-10-20-agentes-de-ia-e-o-desconforto-de-criar-divida-tecnica.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Agentes de IA e o desconforto de criar dívida técnica. Ao delegar código à IA, também terceirizamos o desconforto de criar gambiarras. Como preservar esse sinal e controlar a dívida técnica?\nScene: Um engenheiro e um robô observam uma cadeira feita com remendos e consertam juntos uma perna improvisada na marcenaria.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Robots only as described.\nPalette: mint, terracotta, golden yellow.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15199-12cd-7110-aa65-61b73144b4df/exec-7c6036a7-10e9-408d-8193-4c1dbdbdece2.png",
+      "source_post_id": "93e0fe5e-9177-4b82-8591-2a1c70213c07",
+      "source_publication_dates": [
+        "2026-10-20T16:31:00Z"
+      ]
+    },
+    {
+      "id": "blog-2026-10-21-martin-odersky-e-o-futuro-das-linguagens-na-era-dos-agentes",
+      "path": "_blog/2026-10-21-martin-odersky-e-o-futuro-das-linguagens-na-era-dos-agentes.md",
+      "title": "Martin Odersky e o futuro das linguagens na era dos agentes",
+      "scene": "Uma pesquisadora instala um encaixe de chave que permite a um pequeno robô pegar apenas a caixa autorizada num armário luminoso.",
+      "alt": "Uma pesquisadora instala um encaixe de chave que permite a um pequeno robô pegar apenas a caixa autorizada num armário luminoso.",
+      "asset": "/assets/images/content/cartoon/blog-2026-10-21-martin-odersky-e-o-futuro-das-linguagens-na-era-dos-agentes.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Martin Odersky e o futuro das linguagens na era dos agentes. Reflexões sobre o keynote de Martin Odersky: segurança de agentes, garantias do compilador e o papel das linguagens de programação.\nScene: Uma pesquisadora instala um encaixe de chave que permite a um pequeno robô pegar apenas a caixa autorizada num armário luminoso.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Robots only as described.\nPalette: violet, lime, warm ivory.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15199-12cd-7110-aa65-61b73144b4df/exec-2d360816-bf6f-40d7-86a8-05f4f3ee7665.png",
+      "source_post_id": "d87be59a-2f22-4556-adf2-9ac6d246debe",
+      "source_publication_dates": [
+        "2026-10-21T13:00:00Z"
+      ]
+    },
+    {
+      "id": "blog-2026-10-22-acumular-confianca-tao-rapido-quanto-acumulamos-codigo",
+      "path": "_blog/2026-10-22-acumular-confianca-tao-rapido-quanto-acumulamos-codigo.md",
+      "title": "Acumular confiança tão rápido quanto acumulamos código",
+      "scene": "Uma equipe constrói uma ponte de blocos com um robô, apoiando cada novo trecho em pilares sólidos antes de avançar.",
+      "alt": "Uma equipe constrói uma ponte de blocos com um robô, apoiando cada novo trecho em pilares sólidos antes de avançar.",
+      "asset": "/assets/images/content/cartoon/blog-2026-10-22-acumular-confianca-tao-rapido-quanto-acumulamos-codigo.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Acumular confiança tão rápido quanto acumulamos código. A provocação de Kent Beck sobre código e confiança inspira uma reflexão sobre guardrails para entregar software com IA.\nScene: Uma equipe constrói uma ponte de blocos com um robô, apoiando cada novo trecho em pilares sólidos antes de avançar.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Robots only as described.\nPalette: sky blue, strawberry, sand.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15199-12cd-7110-aa65-61b73144b4df/exec-c3b4d270-7231-4885-b51c-e26c722ef26d.png",
+      "source_post_id": "96820b16-96dc-4850-9ada-f8b79381f60d",
+      "source_publication_dates": [
+        "2026-10-22T16:35:00Z"
+      ]
+    },
+    {
+      "id": "blog-2026-10-23-fabricas-de-software-ainda-precisam-de-luz-e-de-humanos",
+      "path": "_blog/2026-10-23-fabricas-de-software-ainda-precisam-de-luz-e-de-humanos.md",
+      "title": "Fábricas de software ainda precisam de luz e de humanos",
+      "scene": "Uma engenheira ilumina uma oficina de robôs com uma grande luminária e orienta a montagem de uma máquina complexa.",
+      "alt": "Uma engenheira ilumina uma oficina de robôs com uma grande luminária e orienta a montagem de uma máquina complexa.",
+      "asset": "/assets/images/content/cartoon/blog-2026-10-23-fabricas-de-software-ainda-precisam-de-luz-e-de-humanos.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Fábricas de software ainda precisam de luz e de humanos. A palestra de Dex Horthy provoca uma discussão sobre qualidade, autonomia de agentes e o papel humano nas fábricas de software.\nScene: Uma engenheira ilumina uma oficina de robôs com uma grande luminária e orienta a montagem de uma máquina complexa.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Robots only as described.\nPalette: tangerine, teal, butter yellow.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15199-12cd-7110-aa65-61b73144b4df/exec-0a4b21e4-7862-4952-b297-36fec89ad7a8.png",
+      "source_post_id": "52f11bf8-ed12-4ad0-b1d3-7bd05f79f3a2",
+      "source_publication_dates": [
+        "2026-10-23T13:00:00Z"
+      ]
+    },
+    {
+      "id": "blog-2026-10-26-decisoes-deterministicas-em-sistemas-agenticos",
+      "path": "_blog/2026-10-26-decisoes-deterministicas-em-sistemas-agenticos.md",
+      "title": "Decisões determinísticas em sistemas agênticos",
+      "scene": "Um robô entrega peças geométricas a um mecanismo de encaixes que as separa de forma previsível numa bancada.",
+      "alt": "Um robô entrega peças geométricas a um mecanismo de encaixes que as separa de forma previsível numa bancada.",
+      "asset": "/assets/images/content/cartoon/blog-2026-10-26-decisoes-deterministicas-em-sistemas-agenticos.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Decisões determinísticas em sistemas agênticos. Quando uma decisão tem regras claras, vale implementá-la em código. Os benefícios e os trade-offs dessa escolha em sistemas agênticos.\nScene: Um robô entrega peças geométricas a um mecanismo de encaixes que as separa de forma previsível numa bancada.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Robots only as described.\nPalette: royal blue, peach, mint.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15199-12cd-7110-aa65-61b73144b4df/exec-c1b6347c-be1a-47c5-aab0-2198c469bbaa.png",
+      "source_post_id": "b1c528b1-58b8-4f57-8127-4050320f0251",
+      "source_publication_dates": [
+        "2026-10-26T16:42:00Z"
+      ]
+    },
+    {
+      "id": "blog-2026-10-28-os-dilemas-da-lideranca-de-tecnologia-na-revolucao-da-ia",
+      "path": "_blog/2026-10-28-os-dilemas-da-lideranca-de-tecnologia-na-revolucao-da-ia.md",
+      "title": "Os dilemas da liderança de tecnologia na revolução da IA",
+      "scene": "Uma líder cuida de um jardim com uma planta pronta, uma estufa em construção e pequenas mudas para o futuro, auxiliada por um robô jardineiro.",
+      "alt": "Uma líder cuida de um jardim com uma planta pronta, uma estufa em construção e pequenas mudas para o futuro, auxiliada por um robô jardineiro.",
+      "asset": "/assets/images/content/cartoon/blog-2026-10-28-os-dilemas-da-lideranca-de-tecnologia-na-revolucao-da-ia.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Os dilemas da liderança de tecnologia na revolução da IA. Resolver problemas atuais, investir em infraestrutura e antecipar ideias que ficarão viáveis: três dilemas da liderança de tecnologia com IA.\nScene: Uma líder cuida de um jardim com uma planta pronta, uma estufa em construção e pequenas mudas para o futuro, auxiliada por um robô jardineiro.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Robots only as described.\nPalette: raspberry, leaf green, apricot.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15199-12cd-7110-aa65-61b73144b4df/exec-6f3eca44-d12c-4a9e-bab1-4ecda63b9ced.png",
+      "source_post_id": "ad72e864-9aaa-4839-b0e1-821b92a46390",
+      "source_publication_dates": [
+        "2026-10-28T13:45:00Z"
+      ]
+    },
+    {
+      "id": "blog-2026-10-30-o-arquiteto-com-mentalidade-de-produto-na-era-da-ia",
+      "path": "_blog/2026-10-30-o-arquiteto-com-mentalidade-de-produto-na-era-da-ia.md",
+      "title": "O arquiteto com mentalidade de produto na era da IA",
+      "scene": "Uma arquiteta e um robô montam uma casa de brinquedo a partir das necessidades de uma família, combinando estrutura e uso.",
+      "alt": "Uma arquiteta e um robô montam uma casa de brinquedo a partir das necessidades de uma família, combinando estrutura e uso.",
+      "asset": "/assets/images/content/cartoon/blog-2026-10-30-o-arquiteto-com-mentalidade-de-produto-na-era-da-ia.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): O arquiteto com mentalidade de produto na era da IA. A visão de Malte Kosub, da Parloa, sobre desenvolvedores que combinam decisões de arquitetura e mentalidade de produto.\nScene: Uma arquiteta e um robô montam uma casa de brinquedo a partir das necessidades de uma família, combinando estrutura e uso.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Robots only as described.\nPalette: indigo, coral, sunny yellow.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15199-12cd-7110-aa65-61b73144b4df/exec-258a9126-47bb-43c2-b8f1-0ca4eb8708f7.png",
+      "source_post_id": "fd95b18c-3995-44ff-ad02-096b5c344179",
+      "source_publication_dates": [
+        "2026-10-30T13:50:00Z"
+      ]
+    },
+    {
+      "id": "blog-2026-11-03-o-que-aprendi-sobre-o-uso-de-ia-na-shopify",
+      "path": "_blog/2026-11-03-o-que-aprendi-sobre-o-uso-de-ia-na-shopify.md",
+      "title": "O que aprendi sobre o uso de IA na Shopify",
+      "scene": "Num ateliê colorido, robôs trabalham em bancadas diferentes conectadas a uma central de ferramentas enquanto uma engenheira coordena.",
+      "alt": "Num ateliê colorido, robôs trabalham em bancadas diferentes conectadas a uma central de ferramentas enquanto uma engenheira coordena.",
+      "asset": "/assets/images/content/cartoon/blog-2026-11-03-o-que-aprendi-sobre-o-uso-de-ia-na-shopify.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): O que aprendi sobre o uso de IA na Shopify. Infraestrutura compartilhada, agentes em paralelo, contexto versionado e autonomia: reflexões sobre o uso de IA na Shopify.\nScene: Num ateliê colorido, robôs trabalham em bancadas diferentes conectadas a uma central de ferramentas enquanto uma engenheira coordena.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Robots only as described.\nPalette: emerald, lavender, orange.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15199-12cd-7110-aa65-61b73144b4df/exec-3810a409-f698-4a5a-b840-0f540b18df73.png",
+      "source_post_id": "05030333-4357-4a4d-939d-f2fda974fc78",
+      "source_publication_dates": [
+        "2026-11-03T13:50:00Z"
+      ]
+    },
+    {
+      "id": "blog-2026-11-05-revisar-codigo-de-ia-sem-compreender-cada-linha",
+      "path": "_blog/2026-11-05-revisar-codigo-de-ia-sem-compreender-cada-linha.md",
+      "title": "Revisar código de IA sem compreender cada linha",
+      "scene": "Uma revisora com lupa e um robô inspecionam o interior de um relógio grande aberto, além de sua fachada bonita.",
+      "alt": "Uma revisora com lupa e um robô inspecionam o interior de um relógio grande aberto, além de sua fachada bonita.",
+      "asset": "/assets/images/content/cartoon/blog-2026-11-05-revisar-codigo-de-ia-sem-compreender-cada-linha.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Revisar código de IA sem compreender cada linha. Reflexões a partir de Diomidis Spinellis sobre compreensão, código convincente e mecanismos de proteção na revisão de código gerado por IA.\nScene: Uma revisora com lupa e um robô inspecionam o interior de um relógio grande aberto, além de sua fachada bonita.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Robots only as described.\nPalette: crimson, turquoise, warm cream.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15199-12cd-7110-aa65-61b73144b4df/exec-f1fb9849-7831-498e-8f1c-df75f7aa7432.png",
+      "source_post_id": "eb93b833-1710-48c9-8fb1-5d55261f4f6c",
+      "source_publication_dates": [
+        "2026-11-05T13:50:00Z"
+      ],
+      "initial_original": "/Users/mauricio/.codex/generated_images/01a15199-12cd-7110-aa65-61b73144b4df/exec-d29bd052-3044-4d2d-b22c-3e39c50da938.png",
+      "edit_prompt": "Edit this editorial cartoon cover. Preserve the entire scene, characters, colors, composition, open watch mechanism, hands and style exactly. Only change the clock face: remove ALL Roman numerals and any number-like markings around the dial; replace the hour markers with simple small round golden dots. No numerals, no letters, no words anywhere. Keep the clock hands. Horizontal 8:5 cheerful gouache cartoon."
+    },
+    {
+      "id": "blog-2026-11-09-vibe-coding-nao-elimina-o-trabalho-por-tras-de-um-saas",
+      "path": "_blog/2026-11-09-vibe-coding-nao-elimina-o-trabalho-por-tras-de-um-saas.md",
+      "title": "Vibe coding não elimina o trabalho por trás de um SaaS",
+      "scene": "Uma pessoa constrói uma pequena casinha com um robô e vê jardineiros, encanadores e carpinteiros cuidando de uma casa maior ao lado.",
+      "alt": "Uma pessoa constrói uma pequena casinha com um robô e vê jardineiros, encanadores e carpinteiros cuidando de uma casa maior ao lado.",
+      "asset": "/assets/images/content/cartoon/blog-2026-11-09-vibe-coding-nao-elimina-o-trabalho-por-tras-de-um-saas.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Vibe coding não elimina o trabalho por trás de um SaaS. Criar micro-soluções com IA é valioso, mas manter, escalar e priorizar continuam relevantes antes de substituir um SaaS por software próprio.\nScene: Uma pessoa constrói uma pequena casinha com um robô e vê jardineiros, encanadores e carpinteiros cuidando de uma casa maior ao lado.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Robots only as described.\nPalette: periwinkle, mango, spring green.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15199-12cd-7110-aa65-61b73144b4df/exec-f9eb97ec-f54e-4e1a-b639-60811570b070.png",
+      "source_post_id": "e8e866e4-3702-4d7e-98e5-69e49d1c405d",
+      "source_publication_dates": [
+        "2026-11-09T13:50:00Z"
+      ]
+    },
+    {
+      "id": "blog-2026-11-11-a-fabrica-de-software-da-vercel-para-o-ai-sdk",
+      "path": "_blog/2026-11-11-a-fabrica-de-software-da-vercel-para-o-ai-sdk.md",
+      "title": "A fábrica de software da Vercel para o AI SDK",
+      "scene": "Uma engenheira ajusta uma fábrica de brinquedos em miniatura onde robôs especializados montam, inspecionam e embalam peças.",
+      "alt": "Uma engenheira ajusta uma fábrica de brinquedos em miniatura onde robôs especializados montam, inspecionam e embalam peças.",
+      "asset": "/assets/images/content/cartoon/blog-2026-11-11-a-fabrica-de-software-da-vercel-para-o-ai-sdk.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): A fábrica de software da Vercel para o AI SDK. Agentes especializados, execução na nuvem e revisão humana: aprendizados sobre a fábrica de software da Vercel para o AI SDK.\nScene: Uma engenheira ajusta uma fábrica de brinquedos em miniatura onde robôs especializados montam, inspecionam e embalam peças.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Robots only as described.\nPalette: aqua, vermilion, golden yellow.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15199-12cd-7110-aa65-61b73144b4df/exec-f7647b45-4474-48e1-8ab2-0e721f9c8a81.png",
+      "source_post_id": "b5e66db5-a5c3-443a-90d7-4de4149275a9",
+      "source_publication_dates": [
+        "2026-11-11T13:50:00Z"
+      ]
+    },
+    {
+      "id": "blog-2026-11-12-katie-dill-criar-produtos-com-intencao-e-qualidade-usando-ia",
+      "path": "_blog/2026-11-12-katie-dill-criar-produtos-com-intencao-e-qualidade-usando-ia.md",
+      "title": "Katie Dill: criar produtos com intenção e qualidade usando IA",
+      "scene": "Uma designer e um robô refinam uma chaleira de cerâmica em um ateliê acolhedor, comparando a forma e o conforto da alça.",
+      "alt": "Uma designer e um robô refinam uma chaleira de cerâmica em um ateliê acolhedor, comparando a forma e o conforto da alça.",
+      "asset": "/assets/images/content/cartoon/blog-2026-11-12-katie-dill-criar-produtos-com-intencao-e-qualidade-usando-ia.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Katie Dill: criar produtos com intenção e qualidade usando IA. A palestra de Katie Dill, da Stripe, inspira reflexões sobre refinamento, bom gosto e produtos criados com intenção usando IA.\nScene: Uma designer e um robô refinam uma chaleira de cerâmica em um ateliê acolhedor, comparando a forma e o conforto da alça.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Robots only as described.\nPalette: rose, cerulean, ochre.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15199-12cd-7110-aa65-61b73144b4df/exec-ac323ea5-6258-401e-87e7-f7a55137f41b.png",
+      "source_post_id": "cdf5dd84-511f-4c9e-adfe-64cb52ae806a",
+      "source_publication_dates": [
+        "2026-11-12T13:50:00Z"
+      ]
     }
   ]
 }

@@ -37,7 +37,7 @@ topics:
   escrita:
     aliases: [escrita, escrever, writing]
   fabrica-de-software:
-    aliases: [fábrica de software, fábricas de software, software factory]
+    aliases: [fábrica de software, fábricas de software, software factory, software factories]
   fundamentos:
     aliases: [fundamentos, fundamentos de computação]
   guardrails:
@@ -88,6 +88,78 @@ topics:
     categories: [testing]
 
 entries:
+  - id: divida-tecnica
+    label: Dívida técnica
+    aliases: [dívida técnica, technical debt, gambiarras]
+  - id: determinismo
+    label: Determinismo
+    aliases: [determinismo, determinístico, determinísticas, determinística, não-determinismo]
+  - id: saas
+    label: SaaS
+  - id: vibe-coding
+    label: Vibe coding
+    aliases: [vibe-codando, vibe codar]
+  - id: uber
+    label: Uber
+    kind: organizacoes
+  - id: shopify
+    label: Shopify
+    kind: organizacoes
+  - id: vercel
+    label: Vercel
+    kind: organizacoes
+  - id: stripe
+    label: Stripe
+    kind: organizacoes
+  - id: parloa
+    label: Parloa
+    kind: organizacoes
+  - id: humanlayer
+    label: Humanlayer
+    kind: organizacoes
+  - id: pragmatic-engineer
+    label: The Pragmatic Engineer
+    kind: obras
+    aliases: [Pragmatic Engineer]
+  - id: scala
+    label: Scala
+    kind: ferramentas
+    aliases: [Scala 3]
+  - id: ai-sdk
+    label: AI SDK
+    kind: ferramentas
+  - id: why-software-factories-fail
+    label: Why software factories fail
+    kind: obras
+  - id: o-fim-da-programacao
+    label: O fim da programação?
+    kind: obras
+  - id: odersky-martin
+    label: Odersky, Martin
+    kind: pessoas
+    aliases: [Martin Odersky]
+  - id: horthy-dex
+    label: Horthy, Dex
+    kind: pessoas
+    aliases: [Dex Horthy]
+  - id: kosub-malte
+    label: Kosub, Malte
+    kind: pessoas
+    aliases: [Malte Kosub]
+  - id: spinellis-diomidis
+    label: Spinellis, Diomidis
+    kind: pessoas
+    aliases: [Diomidis Spinellis]
+  - id: dill-katie
+    label: Dill, Katie
+    kind: pessoas
+    aliases: [Katie Dill]
+  - id: dax
+    label: Dax
+    kind: pessoas
+  - id: gergely
+    label: Gergely
+    kind: pessoas
   - id: ia
     label: Inteligência artificial
     aliases: [IA, AI, inteligência artificial, artificial intelligence, LLM, LLMs]
