@@ -659,6 +659,48 @@
     "bytes": 227125,
     "type": "image/jpeg"
   },
+  "/assets/images/content/cartoon/blog-2026-11-13-ia-e-o-fim-da-cultura-de-escrita-da-amazon.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 337888,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-11-16-os-agentes-de-codigo-vao-acabar-com-os-pull-requests.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 350128,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-11-17-mais-codigo-com-ia-e-uma-taxa-menor-de-incidentes.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 358353,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-11-18-escrever-codigo-nao-e-resolver-a-engenharia-de-software.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 392420,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-11-19-ia-e-referencias-cientificas-aparencia-nao-basta.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 318197,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-11-20-codigo-nao-precisa-ser-perfeito-para-entregar-valor.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 420187,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-11-23-tipos-e-contexto-ajudam-os-llms-a-completar-codigo.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 297793,
+    "type": "image/jpeg"
+  },
   "/assets/images/content/cartoon/media-academia-industria-wise-dev.jpg": {
     "width": 1200,
     "height": 750,
@@ -1553,6 +1595,30 @@
     "bytes": 75994,
     "type": "image/webp"
   },
+  "/assets/images/responsive/12933038ff64ca4e-1200.webp": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 204358,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/12933038ff64ca4e-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 28070,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/12933038ff64ca4e-640.webp": {
+    "width": 640,
+    "height": 400,
+    "bytes": 84768,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/12933038ff64ca4e-960.webp": {
+    "width": 960,
+    "height": 600,
+    "bytes": 150536,
+    "type": "image/webp"
+  },
   "/assets/images/responsive/12e55fec09cd52b9-1200.webp": {
     "width": 1200,
     "height": 750,
@@ -2379,6 +2445,30 @@
     "width": 960,
     "height": 600,
     "bytes": 118964,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/3adacca07e4d515a-1200.webp": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 155746,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/3adacca07e4d515a-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 23928,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/3adacca07e4d515a-640.webp": {
+    "width": 640,
+    "height": 400,
+    "bytes": 68952,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/3adacca07e4d515a-960.webp": {
+    "width": 960,
+    "height": 600,
+    "bytes": 117078,
     "type": "image/webp"
   },
   "/assets/images/responsive/3bc82890773b0714-1200.webp": {
@@ -3911,6 +4001,54 @@
     "bytes": 120798,
     "type": "image/webp"
   },
+  "/assets/images/responsive/9cff94ab0f12582b-1200.webp": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 127502,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/9cff94ab0f12582b-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 21588,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/9cff94ab0f12582b-640.webp": {
+    "width": 640,
+    "height": 400,
+    "bytes": 56356,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/9cff94ab0f12582b-960.webp": {
+    "width": 960,
+    "height": 600,
+    "bytes": 94024,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/9d114dd6c6d99a57-1200.webp": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 179392,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/9d114dd6c6d99a57-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 25662,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/9d114dd6c6d99a57-640.webp": {
+    "width": 640,
+    "height": 400,
+    "bytes": 75004,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/9d114dd6c6d99a57-960.webp": {
+    "width": 960,
+    "height": 600,
+    "bytes": 132810,
+    "type": "image/webp"
+  },
   "/assets/images/responsive/9f4e912169124014-1200.webp": {
     "width": 1200,
     "height": 750,
@@ -5015,6 +5153,30 @@
     "bytes": 98932,
     "type": "image/webp"
   },
+  "/assets/images/responsive/e0b523f44c70faa1-1200.webp": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 138208,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/e0b523f44c70faa1-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 23090,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/e0b523f44c70faa1-640.webp": {
+    "width": 640,
+    "height": 400,
+    "bytes": 62876,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/e0b523f44c70faa1-960.webp": {
+    "width": 960,
+    "height": 600,
+    "bytes": 104628,
+    "type": "image/webp"
+  },
   "/assets/images/responsive/e2187507e0398cc1-1200.webp": {
     "width": 1200,
     "height": 750,
@@ -5255,6 +5417,30 @@
     "bytes": 92068,
     "type": "image/webp"
   },
+  "/assets/images/responsive/f248cbfac2cad96a-1200.webp": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 150968,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/f248cbfac2cad96a-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 20770,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/f248cbfac2cad96a-640.webp": {
+    "width": 640,
+    "height": 400,
+    "bytes": 63982,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/f248cbfac2cad96a-960.webp": {
+    "width": 960,
+    "height": 600,
+    "bytes": 110722,
+    "type": "image/webp"
+  },
   "/assets/images/responsive/f25a1702ecd3ca17-1200.webp": {
     "width": 1200,
     "height": 750,
@@ -5349,6 +5535,30 @@
     "width": 960,
     "height": 600,
     "bytes": 108234,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/f42a7253fec66450-1200.webp": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 158682,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/f42a7253fec66450-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 24772,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/f42a7253fec66450-640.webp": {
+    "width": 640,
+    "height": 400,
+    "bytes": 69418,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/f42a7253fec66450-960.webp": {
+    "width": 960,
+    "height": 600,
+    "bytes": 118146,
     "type": "image/webp"
   },
   "/assets/images/responsive/f54ec415aab9909b-1200.webp": {

@@ -2627,6 +2627,216 @@
       }
     ]
   },
+  "/assets/images/content/cartoon/blog-2026-11-13-ia-e-o-fim-da-cultura-de-escrita-da-amazon.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/f248cbfac2cad96a-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20770
+      },
+      {
+        "url": "/assets/images/responsive/f248cbfac2cad96a-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 63982
+      },
+      {
+        "url": "/assets/images/responsive/f248cbfac2cad96a-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 110722
+      },
+      {
+        "url": "/assets/images/responsive/f248cbfac2cad96a-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 150968
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-11-16-os-agentes-de-codigo-vao-acabar-com-os-pull-requests.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/3adacca07e4d515a-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23928
+      },
+      {
+        "url": "/assets/images/responsive/3adacca07e4d515a-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 68952
+      },
+      {
+        "url": "/assets/images/responsive/3adacca07e4d515a-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 117078
+      },
+      {
+        "url": "/assets/images/responsive/3adacca07e4d515a-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 155746
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-11-17-mais-codigo-com-ia-e-uma-taxa-menor-de-incidentes.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/f42a7253fec66450-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 24772
+      },
+      {
+        "url": "/assets/images/responsive/f42a7253fec66450-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 69418
+      },
+      {
+        "url": "/assets/images/responsive/f42a7253fec66450-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 118146
+      },
+      {
+        "url": "/assets/images/responsive/f42a7253fec66450-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 158682
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-11-18-escrever-codigo-nao-e-resolver-a-engenharia-de-software.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/9d114dd6c6d99a57-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 25662
+      },
+      {
+        "url": "/assets/images/responsive/9d114dd6c6d99a57-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 75004
+      },
+      {
+        "url": "/assets/images/responsive/9d114dd6c6d99a57-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 132810
+      },
+      {
+        "url": "/assets/images/responsive/9d114dd6c6d99a57-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 179392
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-11-19-ia-e-referencias-cientificas-aparencia-nao-basta.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/e0b523f44c70faa1-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23090
+      },
+      {
+        "url": "/assets/images/responsive/e0b523f44c70faa1-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 62876
+      },
+      {
+        "url": "/assets/images/responsive/e0b523f44c70faa1-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 104628
+      },
+      {
+        "url": "/assets/images/responsive/e0b523f44c70faa1-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 138208
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-11-20-codigo-nao-precisa-ser-perfeito-para-entregar-valor.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/12933038ff64ca4e-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 28070
+      },
+      {
+        "url": "/assets/images/responsive/12933038ff64ca4e-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 84768
+      },
+      {
+        "url": "/assets/images/responsive/12933038ff64ca4e-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 150536
+      },
+      {
+        "url": "/assets/images/responsive/12933038ff64ca4e-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 204358
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-11-23-tipos-e-contexto-ajudam-os-llms-a-completar-codigo.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/9cff94ab0f12582b-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21588
+      },
+      {
+        "url": "/assets/images/responsive/9cff94ab0f12582b-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 56356
+      },
+      {
+        "url": "/assets/images/responsive/9cff94ab0f12582b-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 94024
+      },
+      {
+        "url": "/assets/images/responsive/9cff94ab0f12582b-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 127502
+      }
+    ]
+  },
   "/assets/images/content/cartoon/media-academia-industria-wise-dev.jpg": {
     "width": 1200,
     "height": 750,

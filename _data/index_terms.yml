@@ -158,8 +158,9 @@ entries:
     label: Dax
     kind: pessoas
   - id: gergely
-    label: Gergely
+    label: Orosz, Gergely
     kind: pessoas
+    aliases: [Gergely, Gergely Orosz]
   - id: ia
     label: Inteligência artificial
     aliases: [IA, AI, inteligência artificial, artificial intelligence, LLM, LLMs]
@@ -404,3 +405,98 @@ entries:
     label: Panichella, Annibale
     kind: pessoas
     aliases: [Annibale Panichella]
+  - id: amazon
+    label: Amazon
+    kind: organizacoes
+  - id: huynh-steve
+    label: Huynh, Steve
+    kind: pessoas
+    aliases: [Steve Huynh]
+  - id: bezos-jeff
+    label: Bezos, Jeff
+    kind: pessoas
+    aliases: [Jeff Bezos, Bezos]
+  - id: decisoes-reversiveis
+    label: Decisões reversíveis e irreversíveis
+    aliases: [two-way door, two-way doors, one-way door, one-way doors, decisões reversíveis, decisões irreversíveis]
+  - id: on-the-death-of-amazons-writing-culture
+    label: On the Death of Amazon’s Writing Culture
+    kind: obras
+  - id: ball-thorsten
+    label: Ball, Thorsten
+    kind: pessoas
+    aliases: [Thorsten Ball]
+  - id: farley-dave
+    label: Farley, Dave
+    kind: pessoas
+    aliases: [Dave Farley]
+  - id: integracao-continua
+    label: Integração contínua
+    aliases: [integração contínua, continuous integration]
+  - id: evans-chris
+    label: Evans, Chris
+    kind: pessoas
+    aliases: [Chris Evans]
+  - id: incident-io
+    label: incident.io
+    kind: organizacoes
+  - id: incidentes
+    label: Incidentes em produção
+    aliases: [incidente, incidentes, bugs de produção]
+  - id: bugbot
+    label: Cursor Bugbot
+    kind: ferramentas
+    aliases: [Bugbot]
+  - id: topaz-maxim
+    label: Topaz, Maxim
+    kind: pessoas
+    aliases: [Maxim Topaz, Max Topaz]
+  - id: referencias-cientificas
+    label: Referências científicas
+    aliases: [referência científica, referências científicas, referências biomédicas, biomedical reference]
+  - id: alucinacoes
+    label: Alucinações da IA
+    aliases: [alucinação, alucinações, hallucination, hallucinations, referências inventadas]
+  - id: harness
+    label: Harness
+    aliases: [harnesses]
+  - id: biomedical-reference-generation-remains-unreliable
+    label: Biomedical Reference Generation Remains Unreliable across 26 Large Language Models
+    kind: obras
+  - id: clean-code
+    label: Clean code
+    aliases: [código limpo]
+  - id: poteto
+    label: '@poteto'
+    kind: pessoas
+    aliases: [poteto]
+  - id: perplexidade
+    label: Perplexidade
+    aliases: [perplexity]
+  - id: tipagem
+    label: Tipagem
+    aliases: [tipagem estática, tipagem dinâmica, tipagem forte, tipos de dados]
+  - id: redes-neurais-de-grafos
+    label: Redes neurais de grafos
+    aliases: [GNN, GNNs, graph neural networks]
+  - id: preenchimento-de-codigo
+    label: Preenchimento de código
+    aliases: [autocomplete, auto complete, code completion]
+  - id: fluxo-de-controle-e-dados
+    label: Fluxo de controle e de dados
+    aliases: [control-flow, data-flow, fluxo de controle, fluxo de dados]
+  - id: kotti-zoe
+    label: Kotti, Zoe
+    kind: pessoas
+    aliases: [Zoe Kotti]
+  - id: dritsa-konstantina
+    label: Dritsa, Konstantina
+    kind: pessoas
+    aliases: [Konstantina Dritsa]
+  - id: louridas-panos
+    label: Louridas, Panos
+    kind: pessoas
+    aliases: [Panos Louridas, Panagiotis Louridas]
+  - id: the-fools-are-certain-the-wise-are-doubtful
+    label: 'The fools are certain; the wise are doubtful: Exploring LLM confidence in code completion'
+    kind: obras

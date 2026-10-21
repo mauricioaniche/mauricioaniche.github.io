@@ -1804,6 +1804,83 @@
       "source_publication_dates": [
         "2026-11-12T13:50:00Z"
       ]
+    },
+    {
+      "id": "blog-2026-11-13-ia-e-o-fim-da-cultura-de-escrita-da-amazon",
+      "path": "_blog/2026-11-13-ia-e-o-fim-da-cultura-de-escrita-da-amazon.md",
+      "title": "IA e o fim da cultura de escrita da Amazon",
+      "scene": "Uma pessoa pensa e escreve à mesa com a ajuda de um robô, entre uma porta robusta e uma porta de vaivém.",
+      "alt": "Uma pessoa pensa e escreve à mesa com a ajuda de um robô, entre uma porta robusta e uma porta de vaivém.",
+      "asset": "/assets/images/content/cartoon/blog-2026-11-13-ia-e-o-fim-da-cultura-de-escrita-da-amazon.jpg",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15e54-e935-7e43-82d5-0b4721e3e07e/exec-e603a709-bb11-4cf9-9233-ad8742cfe652.png",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): IA e o fim da cultura de escrita da Amazon. Writing helps people think; humans must own critical irreversible decisions while AI supports simpler reversible work.\nScene: In a sunny whimsical study, a thoughtful adult woman sits at a wooden desk holding a fountain pen above a blank sheet, looking carefully at a large sturdy open door beside the desk. A friendly small robot helps organize a few blank sheets into a tray. In the background a light swinging saloon door opens onto a playful garden, contrasting with the substantial doorway. Focus on the person doing the thinking and writing with the robot assisting. All papers entirely blank, no writing marks.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no real portraits.\nPalette: vivid coral, jade green, warm golden cream and sky blue.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results."
+    },
+    {
+      "id": "blog-2026-11-16-os-agentes-de-codigo-vao-acabar-com-os-pull-requests",
+      "path": "_blog/2026-11-16-os-agentes-de-codigo-vao-acabar-com-os-pull-requests.md",
+      "title": "Os agentes de código vão acabar com os pull requests?",
+      "scene": "Engenheiros e robôs inspecionam vagões em uma ferrovia de brinquedo, com uma fila aguardando uma cancela para entrar no circuito principal.",
+      "alt": "Engenheiros e robôs inspecionam vagões em uma ferrovia de brinquedo, com uma fila aguardando uma cancela para entrar no circuito principal.",
+      "asset": "/assets/images/content/cartoon/blog-2026-11-16-os-agentes-de-codigo-vao-acabar-com-os-pull-requests.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Os agentes de código vão acabar com os pull requests? A debate about pull requests, continuous integration and protection before code reaches the main branch.\nScene: A cheerful miniature railway workshop. Two expressive generic adult engineers thoughtfully inspect a little junction where a side track piled with colorful toy wagons waits behind a small raised crossing barrier, while friendly small robots check the wheels of a wagon on the main continuous railway loop. One engineer holds the barrier lever and considers opening it. The metaphor is pending changes waiting to integrate versus continuous flow, with safety checks. No symbols or markings on wagons. Keep the composition simple and legible.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming.\nPalette: vivid violet, tangerine, mint and warm cream.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15e54-e935-7e43-82d5-0b4721e3e07e/exec-0c275705-6d56-460b-89a7-1b15258426cb.png"
+    },
+    {
+      "id": "blog-2026-11-17-mais-codigo-com-ia-e-uma-taxa-menor-de-incidentes",
+      "path": "_blog/2026-11-17-mais-codigo-com-ia-e-uma-taxa-menor-de-incidentes.md",
+      "title": "Mais código com IA e uma taxa menor de incidentes",
+      "scene": "Um robô inspeciona um barquinho na bancada enquanto engenheiros testam outro em uma bacia com correntezas e pedras.",
+      "alt": "Um robô inspeciona um barquinho na bancada enquanto engenheiros testam outro em uma bacia com correntezas e pedras.",
+      "asset": "/assets/images/content/cartoon/blog-2026-11-17-mais-codigo-com-ia-e-uma-taxa-menor-de-incidentes.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Mais código com IA e uma taxa menor de incidentes. AI code review catches logic defects, while production environment interactions remain challenging.\nScene: In a sunny playful harbor workshop, a friendly small robot carefully inspects the seams of a colorful toy sailboat with a magnifying glass on a workbench. Beside it, two thoughtful generic adult engineers test a similar toy boat in a small outdoor water basin with swirling currents, little rocks and a gust of wind puffing its sail. The visual contrasts checking the boat itself and checking how it behaves in real conditions. A few other completed boats wait neatly on a shelf. One coherent scene, simple objects, optimistic mood.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. No real portraits.\nPalette: turquoise, raspberry pink, sunshine yellow and warm cream.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results. No charts or statistics.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15e54-e935-7e43-82d5-0b4721e3e07e/exec-04d94715-3132-47bf-b19e-b69b19dd7609.png"
+    },
+    {
+      "id": "blog-2026-11-18-escrever-codigo-nao-e-resolver-a-engenharia-de-software",
+      "path": "_blog/2026-11-18-escrever-codigo-nao-e-resolver-a-engenharia-de-software.md",
+      "title": "Escrever código não é resolver a engenharia de software",
+      "scene": "Engenheiros conectam engrenagens e roldanas nos bastidores de um teatro enquanto um robô prepara peças e uma pessoa observa de longe.",
+      "alt": "Engenheiros conectam engrenagens e roldanas nos bastidores de um teatro enquanto um robô prepara peças e uma pessoa observa de longe.",
+      "asset": "/assets/images/content/cartoon/blog-2026-11-18-escrever-codigo-nao-e-resolver-a-engenharia-de-software.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Escrever código não é resolver a engenharia de software. Hands-on engineers see the complexity of integrating and operating systems; distant observers see something simpler.\nScene: In a cheerful sunlit theater workshop, a friendly small robot makes beautiful individual colorful wooden gears on a bench. In the center two expressive generic adult engineers carefully connect those gears into a large whimsical mechanical stage set, with ropes, pulleys and moving scenery visibly interconnected. A generic adult visitor farther away on the balcony sees only the simple cheerful facade. Focus on the engineers thoughtfully coordinating the whole mechanism and robot assisting with individual parts. A concrete metaphor for components versus the complex operating whole. No actual machines with labels, no graphs.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. No real portraits.\nPalette: vivid cobalt blue, apricot orange, lilac and warm butter yellow.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15e54-e935-7e43-82d5-0b4721e3e07e/exec-6967a1e2-c271-4db9-8f62-40dc73cd265c.png"
+    },
+    {
+      "id": "blog-2026-11-19-ia-e-referencias-cientificas-aparencia-nao-basta",
+      "path": "_blog/2026-11-19-ia-e-referencias-cientificas-aparencia-nao-basta.md",
+      "title": "IA e referências científicas: aparência não basta",
+      "scene": "Uma pesquisadora confere um livro enquanto um robô apresenta outro que se desfaz em bolhas e uma bibliotecária consulta um catálogo.",
+      "alt": "Uma pesquisadora confere um livro enquanto um robô apresenta outro que se desfaz em bolhas e uma bibliotecária consulta um catálogo.",
+      "asset": "/assets/images/content/cartoon/blog-2026-11-19-ia-e-referencias-cientificas-aparencia-nao-basta.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): IA e referências científicas: aparência não basta. Models can invent plausible references; checking real sources matters.\nScene: In a bright whimsical library, a friendly small robot presents a beautiful translucent book that dissolves into a few soft soap bubbles. A thoughtful generic adult researcher with a magnifying glass compares it with a solid real book on a desk, while another adult librarian searches a tidy wooden card catalog behind them. All book covers and spines, cards and papers are completely blank. Emphasize checking whether a convincing-looking source truly exists. Simple, cheerful scene, no ominous mood.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. No portraits of real authors.\nPalette: vivid emerald green, peach, lavender and warm cream.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results. No graphs or statistics.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15e54-e935-7e43-82d5-0b4721e3e07e/exec-0f465c6a-3863-4f2f-b968-41e8cd35a1b9.png"
+    },
+    {
+      "id": "blog-2026-11-20-codigo-nao-precisa-ser-perfeito-para-entregar-valor",
+      "path": "_blog/2026-11-20-codigo-nao-precisa-ser-perfeito-para-entregar-valor.md",
+      "title": "Código não precisa ser perfeito para entregar valor",
+      "scene": "Construtores observam vizinhos atravessando uma ponte de madeira firme, feita com tábuas diferentes e remendos coloridos.",
+      "alt": "Construtores observam vizinhos atravessando uma ponte de madeira firme, feita com tábuas diferentes e remendos coloridos.",
+      "asset": "/assets/images/content/cartoon/blog-2026-11-20-codigo-nao-precisa-ser-perfeito-para-entregar-valor.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Código não precisa ser perfeito para entregar valor. Software can be imperfect and still useful; engineers balance craftsmanship and delivery.\nScene: A cheerful neighborhood community garden. Two expressive generic adult builders open a charming slightly wonky handmade wooden footbridge for neighbors carrying baskets of vegetables. The bridge is sturdy, welcoming and safe, with a couple of visibly mismatched planks and colorful repairs; one builder holds a hand plane while happily watching people already use the bridge. A small neat pile of spare boards sits beside them. The scene celebrates usefulness and thoughtful craftsmanship without excessive perfection. No robots. Not a dilapidated or dangerous structure.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no real portraits.\nPalette: vivid tomato red, leafy green, cornflower blue and warm cream.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15e54-e935-7e43-82d5-0b4721e3e07e/exec-48e637f8-7f76-4352-a52c-822641b58b47.png"
+    },
+    {
+      "id": "blog-2026-11-23-tipos-e-contexto-ajudam-os-llms-a-completar-codigo",
+      "path": "_blog/2026-11-23-tipos-e-contexto-ajudam-os-llms-a-completar-codigo.md",
+      "title": "Tipos e contexto ajudam os LLMs a completar código",
+      "scene": "Uma engenheira oferece a um robô uma peça de madeira com formato adequado ao encaixe, ao lado de uma estrutura de bolas e hastes.",
+      "alt": "Uma engenheira oferece a um robô uma peça de madeira com formato adequado ao encaixe, ao lado de uma estrutura de bolas e hastes.",
+      "asset": "/assets/images/content/cartoon/blog-2026-11-23-tipos-e-contexto-ajudam-os-llms-a-completar-codigo.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Tipos e contexto ajudam os LLMs a completar código. Rich structural information can make code sequences more predictable; a reflection on types and graph representations.\nScene: In a cheerful sunlit craft studio a friendly small robot and a thoughtful generic adult engineer work together on a tabletop wooden construction kit. The engineer offers a clearly shaped colorful wooden piece that fits precisely into a matching socket in a growing structure. On the same table a small graceful network of colored wooden balls connected by rods evokes a graph. A tray contains other distinct shapes. The robot carefully considers the fitting piece, optimistic and curious. Focus on useful structural clues, not on competition or numerical results. Simple tactile objects, no computers or screens.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. No real portraits.\nPalette: vivid cerulean, marigold, coral and soft lilac.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results. No charts or statistics.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a15e54-e935-7e43-82d5-0b4721e3e07e/exec-00b7fc9d-22c2-4c92-ac6c-1f76287c9d55.png"
     }
   ]
 }
