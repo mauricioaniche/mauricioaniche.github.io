@@ -500,3 +500,20 @@ entries:
   - id: the-fools-are-certain-the-wise-are-doubtful
     label: 'The fools are certain; the wise are doubtful: Exploring LLM confidence in code completion'
     kind: obras
+  - id: larson-will
+    label: Larson, Will
+    kind: pessoas
+    aliases: [Will Larson]
+  - id: imprint
+    label: Imprint
+    kind: organizacoes
+  - id: small-change
+    label: Small-change
+    aliases: [small change]
+  - id: staff-engineer-livro
+    label: Staff+
+    kind: obras
+    aliases: ['Staff Engineer: Leadership beyond the management track']
+  - id: speeding-up-code-review-with-small-change
+    label: Speeding up code review with small-change
+    kind: obras
