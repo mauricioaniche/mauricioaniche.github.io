@@ -294,6 +294,9 @@ entries:
     label: Hipsters.tech
     kind: organizacoes
     aliases: [Hipsters Ponto Tech]
+  - id: papinho-tech
+    label: Papinho Tech
+    kind: organizacoes
   - id: ing
     label: ING
     kind: organizacoes

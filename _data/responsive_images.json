@@ -3377,6 +3377,36 @@
       }
     ]
   },
+  "/assets/images/content/cartoon/media-papinho-tech-196.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/8da622fee1126eb7-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 26466
+      },
+      {
+        "url": "/assets/images/responsive/8da622fee1126eb7-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 74774
+      },
+      {
+        "url": "/assets/images/responsive/8da622fee1126eb7-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 128632
+      },
+      {
+        "url": "/assets/images/responsive/8da622fee1126eb7-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 171174
+      }
+    ]
+  },
   "/assets/images/content/cartoon/media-pesquisa-engenharia-hipsters-84.jpg": {
     "width": 1200,
     "height": 750,
