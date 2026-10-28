@@ -70,7 +70,7 @@ topics:
   produtividade:
     aliases: [produtividade, productivity]
   produto:
-    aliases: [produto, experiência do usuário, user experience]
+    aliases: [produto, experiência do usuário, user experience, UX, UI]
   qualidade:
     aliases: [qualidade, quality]
   refatoracao:
@@ -537,3 +537,89 @@ entries:
     aliases: [intuição, intuição de produto]
   - id: bbdw
     label: BBDW
+  - id: dx
+    label: DX
+    kind: organizacoes
+  - id: tacho-laura
+    label: Tacho, Laura
+    kind: pessoas
+    aliases: [Laura Tacho]
+  - id: neppalli-praveen
+    label: Neppalli, Praveen
+    kind: pessoas
+    aliases: [Praveen Neppalli]
+  - id: heinemeier-hansson-david
+    label: Heinemeier Hansson, David
+    kind: pessoas
+    aliases: [DHH, David Heinemeier Hansson]
+  - id: martin-robert
+    label: Martin, Robert C.
+    kind: pessoas
+    aliases: [Robert C. Martin, Uncle Bob]
+  - id: laycock-rachel
+    label: Laycock, Rachel
+    kind: pessoas
+    aliases: [Rachel Laycock]
+  - id: rauch-guillermo
+    label: Rauch, Guillermo
+    kind: pessoas
+    aliases: [Guillermo Rauch]
+  - id: scanlan-brian
+    label: Scanlan, Brian
+    kind: pessoas
+    aliases: [Brian Scanlan]
+  - id: souza-luiz-henrique
+    label: Souza, Luiz Henrique de
+    kind: pessoas
+    aliases: [Luiz Henrique de Souza]
+  - id: eismann-ethan
+    label: Eismann, Ethan
+    kind: pessoas
+    aliases: [Ethan Eismann]
+  - id: kelly-chris
+    label: Kelly, Chris
+    kind: pessoas
+    aliases: [Chris Kelly]
+  - id: ifood
+    label: iFood
+    kind: organizacoes
+  - id: datadog
+    label: Datadog
+    kind: ferramentas
+  - id: bits-ai-sre
+    label: Bits AI SRE
+    kind: ferramentas
+  - id: stripe-minions
+    label: Stripe Minions
+    kind: ferramentas
+    aliases: [Minions]
+  - id: feature-flags
+    label: Feature flags
+    aliases: [feature flag]
+  - id: rollout
+    label: Rollouts parciais
+    aliases: [rollout, rollouts, deploy canário]
+  - id: rollback
+    label: Rollback
+  - id: testes-de-mutacao
+    label: Testes de mutação
+    aliases: [teste de mutação, mutation testing]
+  - id: agentic-verification
+    label: Agentic Verification
+    kind: obras
+  - id: taste-is-what-doesnt-change
+    label: Taste is what doesn't change
+    kind: obras
+  - id: how-do-agents-refactor
+    label: 'How do Agents Refactor: An Empirical Study'
+    kind: obras
+    aliases: [How do Agents Refactor]
+  - id: more-code-less-reuse
+    label: More Code, Less Reuse
+    kind: obras
+  - id: beyond-bug-fixes
+    label: Beyond Bug Fixes
+    kind: obras
+  - id: sonarqube
+    label: SonarQube
+    kind: ferramentas

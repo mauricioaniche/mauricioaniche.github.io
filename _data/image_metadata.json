@@ -149,6 +149,18 @@
     "bytes": 551832,
     "type": "image/jpeg"
   },
+  "/assets/images/blog/qualidade-agentes/dx-incidentes.png": {
+    "width": 1600,
+    "height": 900,
+    "bytes": 224438,
+    "type": "image/png"
+  },
+  "/assets/images/blog/qualidade-agentes/fabrica-openai.png": {
+    "width": 1604,
+    "height": 1364,
+    "bytes": 491778,
+    "type": "image/png"
+  },
   "/assets/images/books/c.png": {
     "width": 341,
     "height": 480,
@@ -621,6 +633,12 @@
     "width": 1200,
     "height": 751,
     "bytes": 238176,
+    "type": "image/jpeg"
+  },
+  "/assets/images/content/cartoon/blog-2026-10-28-qualidade-no-mundo-de-agentes-de-codigo.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 348962,
     "type": "image/jpeg"
   },
   "/assets/images/content/cartoon/blog-2026-10-30-o-arquiteto-com-mentalidade-de-produto-na-era-da-ia.jpg": {
@@ -4383,6 +4401,30 @@
     "width": 960,
     "height": 600,
     "bytes": 112212,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/a9aff3a3f18467c4-1200.webp": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 134174,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/a9aff3a3f18467c4-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 23834,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/a9aff3a3f18467c4-640.webp": {
+    "width": 640,
+    "height": 400,
+    "bytes": 63220,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/a9aff3a3f18467c4-960.webp": {
+    "width": 960,
+    "height": 600,
+    "bytes": 104110,
     "type": "image/webp"
   },
   "/assets/images/responsive/abb3fb7f676e4f97-320.webp": {
