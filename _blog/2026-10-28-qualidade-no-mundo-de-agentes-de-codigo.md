@@ -1,7 +1,7 @@
 ---
 home_featured: -1
 ia_favorite: 0
-title: "Qualidade no mundo de agentes de código"
+title: "Qualidade de software no mundo de agentes de código"
 layout: post
 date: "2026-10-28T00:00:00-03:00"
 category: Engenharia
