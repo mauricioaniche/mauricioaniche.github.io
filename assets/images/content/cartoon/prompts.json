@@ -1905,6 +1905,17 @@
       "status": "complete"
     },
     {
+      "id": "blog-2026-11-25-metricas-nao-substituem-intuicao-e-julgamento-de-produto",
+      "path": "_blog/2026-11-25-metricas-nao-substituem-intuicao-e-julgamento-de-produto.md",
+      "title": "Métricas não substituem intuição e julgamento de produto",
+      "scene": "Uma artesã aprecia um bule enquanto um colega mede outro em uma oficina de cerâmica.",
+      "alt": "Uma artesã aprecia a forma de um bule enquanto um colega mede outro com um paquímetro em uma oficina de cerâmica.",
+      "asset": "/assets/images/content/cartoon/blog-2026-11-25-metricas-nao-substituem-intuicao-e-julgamento-de-produto.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Métricas não substituem intuição e julgamento de produto. Product leaders combine measurements with domain knowledge, taste and human intuition.\nScene: In a cheerful pottery workshop, a craftswoman holds and feels a beautifully shaped turquoise teapot while a colleague uses calipers to measure a second teapot on the workbench. They thoughtfully discuss the shapes, showing that measurement and human taste complement one another. Generic adult characters, no portraits. No robots.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming.\nPalette: turquoise, terracotta orange, warm cream and golden yellow.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins. One complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "original": "/Users/mauricio/.codex/generated_images/01a18431-bb4a-7d63-91f4-ad46370a736b/exec-b61ee348-e178-4138-9ce7-148b6a81f999.png",
+      "status": "complete"
+    },
+    {
       "id": "talks-bbdw-2026",
       "path": "_talks/bbdw-2026.md",
       "title": "Qualidade no mundo de agentes de código: o hoje e o amanhã",

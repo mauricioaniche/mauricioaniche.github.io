@@ -204,7 +204,7 @@ entries:
     aliases: [manutenção, maintenance]
     categories: [maintenance]
   - id: metricas
-    label: Métricas de código
+    label: Métricas
     aliases: [métricas, métricas de código, code metrics, code metric]
   - id: mineracao-de-repositorios
     label: Mineração de repositórios
@@ -520,5 +520,20 @@ entries:
   - id: speeding-up-code-review-with-small-change
     label: Speeding up code review with small-change
     kind: obras
+  - id: tobias-lutke
+    label: Lütke, Tobias
+    kind: pessoas
+    aliases: [Tobias Lütke, Tobias Lutke, Tobi Lütke, Tobi Lutke]
+  - id: jason-fried
+    label: Fried, Jason
+    kind: pessoas
+    aliases: [Jason Fried]
+  - id: lenny-rachitsky
+    label: Rachitsky, Lenny
+    kind: pessoas
+    aliases: [Lenny Rachitsky, podcast do Lenny]
+  - id: intuicao
+    label: Intuição
+    aliases: [intuição, intuição de produto]
   - id: bbdw
     label: BBDW

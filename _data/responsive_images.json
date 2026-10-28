@@ -2867,6 +2867,36 @@
       }
     ]
   },
+  "/assets/images/content/cartoon/blog-2026-11-25-metricas-nao-substituem-intuicao-e-julgamento-de-produto.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/6f28a20cdf61cd1c-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22396
+      },
+      {
+        "url": "/assets/images/responsive/6f28a20cdf61cd1c-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 58472
+      },
+      {
+        "url": "/assets/images/responsive/6f28a20cdf61cd1c-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 98712
+      },
+      {
+        "url": "/assets/images/responsive/6f28a20cdf61cd1c-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 128208
+      }
+    ]
+  },
   "/assets/images/content/cartoon/media-academia-industria-wise-dev.jpg": {
     "width": 1200,
     "height": 750,
