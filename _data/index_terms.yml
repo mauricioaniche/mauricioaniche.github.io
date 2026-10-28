@@ -520,3 +520,5 @@ entries:
   - id: speeding-up-code-review-with-small-change
     label: Speeding up code review with small-change
     kind: obras
+  - id: bbdw
+    label: BBDW

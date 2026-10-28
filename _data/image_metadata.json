@@ -1247,6 +1247,12 @@
     "bytes": 331849,
     "type": "image/jpeg"
   },
+  "/assets/images/content/cartoon/talks-bbdw-2026.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 317866,
+    "type": "image/jpeg"
+  },
   "/assets/images/foto-1-2026.jpg": {
     "width": 2000,
     "height": 3000,
@@ -1437,6 +1443,30 @@
     "width": 960,
     "height": 600,
     "bytes": 101418,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/0b1985f68b1f5750-1200.webp": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 137664,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/0b1985f68b1f5750-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 23660,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/0b1985f68b1f5750-640.webp": {
+    "width": 640,
+    "height": 400,
+    "bytes": 63038,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/0b1985f68b1f5750-960.webp": {
+    "width": 960,
+    "height": 600,
+    "bytes": 106010,
     "type": "image/webp"
   },
   "/assets/images/responsive/0bb3ee19c475e210-1200.webp": {
