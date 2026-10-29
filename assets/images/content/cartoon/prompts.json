@@ -1961,6 +1961,17 @@
       "status": "complete",
       "original": "/Users/mauricio/.codex/generated_images/01a18548-eec0-7f00-a36b-e8e73fe6448f/exec-59d6bf24-b96b-483b-84ca-855d6762585b.png",
       "generation_mode": "built-in image_gen"
+    },
+    {
+      "id": "blog-2026-11-30-como-entrevistar-devs-na-era-dos-agentes-de-ia",
+      "path": "_blog/2026-11-30-como-entrevistar-devs-na-era-dos-agentes-de-ia.md",
+      "title": "Como entrevistar devs quando todo candidato tem um agente de IA?",
+      "scene": "Um candidato ajusta uma pista de bolinhas numa oficina enquanto uma entrevistadora observa e um robô segura peças de reposição.",
+      "alt": "Um candidato ajusta uma pista de bolinhas numa oficina enquanto uma entrevistadora observa e um robô segura peças de reposição.",
+      "asset": "/assets/images/content/cartoon/blog-2026-11-30-como-entrevistar-devs-na-era-dos-agentes-de-ia.jpg",
+      "original": "/Users/mauricio/.codex/generated_images/01a18551-c7b9-7d83-a1a3-fc3a9d4e3462/exec-2fa5c2bf-43c4-41e1-9d3f-ccea558352f2.png",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render text): Como entrevistar devs quando todo candidato tem um agente de IA? Hiring should reveal problem framing and ability to handle the last-mile bugs, rather than only AI-produced demos.\nScene: In a sunny playful inventor's workshop, an expressive adult candidate points to a simple physical marble-run prototype and thoughtfully adjusts a misplaced track connector while another adult interviewer observes with curiosity; a small friendly robot holds a tray of spare track pieces. A single marble pauses before the gap, a concrete metaphor for understanding and debugging rather than just producing parts. Generic characters, no real portraits. Keep scene uncluttered.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming.\nPalette: vivid teal, apricot orange, raspberry and butter yellow, warm daylight.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
     }
   ]
 }

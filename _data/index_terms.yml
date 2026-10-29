@@ -88,6 +88,16 @@ topics:
     categories: [testing]
 
 entries:
+  - id: entrevistas-tecnicas
+    label: Entrevistas técnicas e contratação
+    aliases: [entrevista técnica, entrevistas técnicas, contratação, contratar]
+  - id: pruett-jd
+    label: Pruett, JD
+    kind: pessoas
+    aliases: [JD Pruett]
+  - id: how-to-hire-in-the-age-of-ai
+    label: How to Hire in the Age of AI
+    kind: obras
   - id: divida-tecnica
     label: Dívida técnica
     aliases: [dívida técnica, technical debt, gambiarras]

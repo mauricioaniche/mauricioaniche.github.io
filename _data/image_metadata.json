@@ -743,6 +743,12 @@
     "bytes": 336882,
     "type": "image/jpeg"
   },
+  "/assets/images/content/cartoon/blog-2026-11-30-como-entrevistar-devs-na-era-dos-agentes-de-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 332654,
+    "type": "image/jpeg"
+  },
   "/assets/images/content/cartoon/media-academia-industria-wise-dev.jpg": {
     "width": 1200,
     "height": 750,
@@ -5109,6 +5115,30 @@
     "width": 960,
     "height": 600,
     "bytes": 95422,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/cd8cfffcb2fe79c8-1200.webp": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 125520,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/cd8cfffcb2fe79c8-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 21564,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/cd8cfffcb2fe79c8-640.webp": {
+    "width": 640,
+    "height": 400,
+    "bytes": 56462,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/cd8cfffcb2fe79c8-960.webp": {
+    "width": 960,
+    "height": 600,
+    "bytes": 93866,
     "type": "image/webp"
   },
   "/assets/images/responsive/cdadbc4d7e3a8ff1-1200.webp": {
