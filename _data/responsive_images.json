@@ -3047,6 +3047,36 @@
       }
     ]
   },
+  "/assets/images/content/cartoon/blog-2026-12-01-menos-alunos-em-computacao-mas-ainda-muito-software-para-construir.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/0ee288455b0f51b9-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 26676
+      },
+      {
+        "url": "/assets/images/responsive/0ee288455b0f51b9-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 80298
+      },
+      {
+        "url": "/assets/images/responsive/0ee288455b0f51b9-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 140824
+      },
+      {
+        "url": "/assets/images/responsive/0ee288455b0f51b9-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 187436
+      }
+    ]
+  },
   "/assets/images/content/cartoon/media-academia-industria-wise-dev.jpg": {
     "width": 1200,
     "height": 750,

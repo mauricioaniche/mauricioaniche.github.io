@@ -88,6 +88,23 @@ topics:
     categories: [testing]
 
 entries:
+  - id: paradoxo-de-jevons
+    label: Paradoxo de Jevons
+    aliases: [Jevons]
+  - id: macroeconomia
+    label: Macroeconomia e juros
+    aliases: [macroeconomia, macroeconômico, juros]
+  - id: mercado-de-trabalho
+    label: Mercado de trabalho
+    aliases: [mercado de dev, mercado de desenvolvimento, primeiro emprego]
+  - id: fischer-karin
+    label: Fischer, Karin
+    kind: pessoas
+    aliases: [Karin Fischer]
+  - id: chronicle-of-higher-education
+    label: The Chronicle of Higher Education
+    kind: organizacoes
+    aliases: [Chronicle of Higher Education]
   - id: pereira-guilherme
     label: Pereira, Guilherme
     kind: pessoas
