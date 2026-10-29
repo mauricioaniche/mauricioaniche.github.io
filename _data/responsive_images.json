@@ -3077,6 +3077,36 @@
       }
     ]
   },
+  "/assets/images/content/cartoon/blog-2026-12-02-fabricas-de-software-com-ia-ver-construir-propagar-lembrar-e-perceber.jpg": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/14f8e53924f9cc4a-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22960
+      },
+      {
+        "url": "/assets/images/responsive/14f8e53924f9cc4a-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 64188
+      },
+      {
+        "url": "/assets/images/responsive/14f8e53924f9cc4a-960.webp",
+        "width": 960,
+        "height": 600,
+        "bytes": 109858
+      },
+      {
+        "url": "/assets/images/responsive/14f8e53924f9cc4a-1200.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 144810
+      }
+    ]
+  },
   "/assets/images/content/cartoon/media-academia-industria-wise-dev.jpg": {
     "width": 1200,
     "height": 750,

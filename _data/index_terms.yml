@@ -88,6 +88,18 @@ topics:
     categories: [testing]
 
 entries:
+  - id: miura-ko-ann
+    label: Miura-Ko, Ann
+    kind: pessoas
+    aliases: [Ann Miura-Ko]
+  - id: floodgate
+    label: Floodgate
+    kind: organizacoes
+  - id: the-ai-pilled-software-factory
+    label: The AI-pilled Software Factory
+    kind: obras
+  - id: roi-rot
+    label: ROI rot
   - id: paradoxo-de-jevons
     label: Paradoxo de Jevons
     aliases: [Jevons]

@@ -1995,6 +1995,18 @@
       "original": "/Users/mauricio/.codex/generated_images/01a18560-b622-7e62-a997-0a59b917b27a/exec-9a087f33-860e-4177-bdcf-81a0324f9ce2.png",
       "status": "complete",
       "generation_mode": "built-in image_gen"
+    },
+    {
+      "id": "blog-2026-12-02-fabricas-de-software-com-ia-ver-construir-propagar-lembrar-e-perceber",
+      "path": "_blog/2026-12-02-fabricas-de-software-com-ia-ver-construir-propagar-lembrar-e-perceber.md",
+      "title": "Fábricas de software com IA: ver, construir, propagar, lembrar e perceber",
+      "scene": "Colegas de diferentes áreas criam e compartilham uma pequena máquina de organizar cartões, com ajuda de um robô.",
+      "alt": "Colegas de diferentes áreas montam e compartilham uma pequena máquina de organizar cartões, com ajuda de um robô.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-02-fabricas-de-software-com-ia-ver-construir-propagar-lembrar-e-perceber.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, never render text): Fábricas de software com IA: ver, construir, propagar, lembrar e perceber. AI enables people beyond engineering to create and share small software solutions for their work; useful organizational capabilities matter more than output volume.\nScene: In a sunny colorful community invention workshop, three generic adult office colleagues in distinct casual clothes share a large central workbench. A woman holding a small stack of blank colorful customer cards assembles a clever little sorting device from chunky interlocking pieces with help from a friendly small robot, while a colleague eagerly tries the finished device with their own cards and another colleague offers a useful component. The colleagues look like ordinary business people discovering they can invent their own tools. Focus on the shared practical invention and friendly collaboration. Simple clear props, no screens, no conveyor belt, no floating symbols. Generic people, not real portraits.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming.\nPalette: vivid plum purple, turquoise, peach orange and warm golden cream, welcoming daylight.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "original": "/Users/mauricio/.codex/generated_images/01a18991-dc38-70d1-806f-2affe47c2b08/exec-b27b7ae4-3647-490c-875d-dc486d4eb24e.png",
+      "status": "complete",
+      "generation_mode": "built-in image_gen"
     }
   ]
 }
