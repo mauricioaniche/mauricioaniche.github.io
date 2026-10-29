@@ -641,6 +641,12 @@
     "bytes": 348962,
     "type": "image/jpeg"
   },
+  "/assets/images/content/cartoon/blog-2026-10-29-a-intuicao-do-dev-na-era-da-ia.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 324783,
+    "type": "image/jpeg"
+  },
   "/assets/images/content/cartoon/blog-2026-10-30-o-arquiteto-com-mentalidade-de-produto-na-era-da-ia.jpg": {
     "width": 1200,
     "height": 751,
@@ -3597,6 +3603,30 @@
     "width": 960,
     "height": 600,
     "bytes": 102084,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/8232e840262567c8-1200.webp": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 143064,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/8232e840262567c8-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 23004,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/8232e840262567c8-640.webp": {
+    "width": 640,
+    "height": 400,
+    "bytes": 63478,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/8232e840262567c8-960.webp": {
+    "width": 960,
+    "height": 600,
+    "bytes": 108134,
     "type": "image/webp"
   },
   "/assets/images/responsive/8298caf35c7cfabc-1200.webp": {

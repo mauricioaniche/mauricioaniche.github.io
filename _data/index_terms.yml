@@ -88,6 +88,13 @@ topics:
     categories: [testing]
 
 entries:
+  - id: pereira-guilherme
+    label: Pereira, Guilherme
+    kind: pessoas
+    aliases: [Guilherme Pereira]
+  - id: banco-do-brasil
+    label: Banco do Brasil
+    kind: organizacoes
   - id: entrevistas-tecnicas
     label: Entrevistas técnicas e contratação
     aliases: [entrevista técnica, entrevistas técnicas, contratação, contratar]
@@ -548,9 +555,10 @@ entries:
     aliases: [Lenny Rachitsky, podcast do Lenny]
   - id: intuicao
     label: Intuição
-    aliases: [intuição, intuição de produto]
+    aliases: [intuição, intuição de produto, intuição humana]
   - id: bbdw
     label: BBDW
+    aliases: [Banco do Brasil Digital Week]
   - id: dx
     label: DX
     kind: organizacoes
