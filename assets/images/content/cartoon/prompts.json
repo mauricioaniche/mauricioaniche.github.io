@@ -1937,6 +1937,18 @@
       "status": "complete",
       "original": "/Users/mauricio/.codex/generated_images/01a18455-56a0-7212-8387-f61efcbb7924/exec-f569e7ec-12ee-4c83-a1b2-c92f127be672.png",
       "generation_mode": "built-in image_gen"
+    },
+    {
+      "id": "blog-2026-11-26-com-ia-criar-um-produto-bom-continua-dificil",
+      "path": "_blog/2026-11-26-com-ia-criar-um-produto-bom-continua-dificil.md",
+      "title": "Com IA, criar um produto ficou fácil. Criar um produto bom continua difícil.",
+      "scene": "Um designer refina uma poltrona enquanto uma pessoa testa seu conforto e um robô monta cadeiras ao fundo.",
+      "alt": "Um designer refina o braço de uma poltrona enquanto uma pessoa testa seu conforto e um robô monta cadeiras ao fundo.",
+      "asset": "/assets/images/content/cartoon/blog-2026-11-26-com-ia-criar-um-produto-bom-continua-dificil.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis: Com IA, criar um produto ficou fácil. Criar um produto bom continua difícil. Coding is abundant, but UX, taste and thoughtful refinement determine whether people enjoy a product. Context only, never render as text.\nScene: In a sunny playful furniture design studio a friendly small robot has assembled several plain angular wooden chairs in the background. In the foreground a generic adult designer carefully rounds and smooths the armrest of a welcoming colorful lounge chair while another generic adult person sits comfortably in it, smiling and testing its comfort. The central story is caring about the actual experience of use beyond merely assembling something functional. Clear silhouettes, few objects, anatomically natural people. No computers or floating icons.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming.\nPalette: vivid raspberry, sky blue, golden yellow and warm ivory.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a18530-26ca-75c0-ba43-038b52ca9092/exec-b7357ef3-6961-42fd-9fda-595e4078883f.png",
+      "generation_mode": "built-in image_gen"
     }
   ]
 }

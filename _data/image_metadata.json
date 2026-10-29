@@ -731,6 +731,12 @@
     "bytes": 334648,
     "type": "image/jpeg"
   },
+  "/assets/images/content/cartoon/blog-2026-11-26-com-ia-criar-um-produto-bom-continua-dificil.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 328737,
+    "type": "image/jpeg"
+  },
   "/assets/images/content/cartoon/media-academia-industria-wise-dev.jpg": {
     "width": 1200,
     "height": 750,
@@ -4557,6 +4563,30 @@
     "width": 960,
     "height": 600,
     "bytes": 112640,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/b57c647ae8a4db86-1200.webp": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 141198,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/b57c647ae8a4db86-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 22676,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/b57c647ae8a4db86-640.webp": {
+    "width": 640,
+    "height": 400,
+    "bytes": 64134,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/b57c647ae8a4db86-960.webp": {
+    "width": 960,
+    "height": 600,
+    "bytes": 109942,
     "type": "image/webp"
   },
   "/assets/images/responsive/b8013a196d0b93ca-1200.webp": {
