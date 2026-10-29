@@ -411,6 +411,10 @@ entries:
   - id: amazon
     label: Amazon
     kind: organizacoes
+  - id: terkowitz-terk
+    label: Terkowitz, Terk
+    kind: pessoas
+    aliases: [Terk Terkowitz]
   - id: huynh-steve
     label: Huynh, Steve
     kind: pessoas
