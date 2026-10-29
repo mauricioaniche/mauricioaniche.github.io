@@ -17,20 +17,6 @@ Agentes de código estão mudando a maneira como fazemos engenharia de software.
 
 Como garantir a qualidade do software que os agentes estão construindo para nós?
 
-## Desde quando tudo era mato...
-
-Quando cheguei à TU Delft para fazer meu pós-doutorado, meu plano era pesquisar qualidade de software. Mas, sem querer, fui parar em um grupo que já pensava muito sobre inteligência artificial aplicada à engenharia de software. Isso foi em 2016. Bem antes de termos um chat em que bastava escrever "implemente isso aqui pra mim". Na verdade, [o paper da Google sobre transformers](https://research.google/pubs/attention-is-all-you-need/), a arquitetura de redes neurais que nos permitiu a criação das LLMs modernas, foi publicado só em 2017.
-
-Havia pouca dúvida, naquele grupo de pesquisa, de que o computador assumiria cada vez mais tarefas operacionais de um desenvolvedor. Gerar dados para um teste. Recomendar uma refatoração. Ajudar a encontrar um defeito. Entender onde colocar um log. O trabalho era descobrir como fazer isso funcionar.
-
-Investigamos [geração de dados de teste para consultas SQL](/publications/evosql/) e [remodularização de software com algoritmos de busca](/publications/search-based-remodularization/), exploramos [aprendizado de máquina para prever refatorações](/publications/ml-and-refactoring/), [recomendar onde colocar logs](/publications/log-placement-recommendation/) e [recomendar extrações de métodos](/publications/refactoring-recommendation-at-ing/). Também estudamos [erros de off-by-one com deep learning](/publications/learning-off-by-one-mistakes/). Eram maneiras diferentes de tentar automatizar partes do trabalho de engenharia.
-
-Tudo isso exigia bastante pesquisa. Você precisava formular o problema de um jeito que o algoritmo entendesse, encontrar ou construir dados, escolher técnicas, implementar a solução e avaliar se ela servia para alguma coisa fora do experimento. Às vezes, anos de trabalho para automatizar uma tarefa bastante específica.
-
-As LLMs democratizaram e simplificaram muito esse processo. Hoje você pode pedir a um agente que leia uma implementação, escreva testes, execute esses testes, investigue as falhas e tente novamente. Em linguagem natural. Sem precisar entender como treinar uma rede neural ou implementar um algoritmo de busca.
-
-Isso não significa que qualquer problema de pesquisa foi resolvido por um prompt. Mas muita coisa que antes exigia uma ferramenta especializada e anos de pesquisa passou a estar ao alcance de qualquer desenvolvedor. A ambição de automatizar tarefas de engenharia já existia. O que mudou radicalmente foi quem consegue fazer isso, com que facilidade e em quantas tarefas ao mesmo tempo.
-
 ## A engenharia de software agêntica veio para ficar
 
 O período em torno de dezembro de 2025 marcou mais uma virada na revolução da IA. Os agentes começaram a ficar muito mais úteis para executar trabalho de verdade: explorar uma base, alterar vários arquivos, usar ferramentas e continuar trabalhando até chegar a um resultado. Para muita gente, a experiência deixou de ser pedir uma sugestão de código ou tirar uma dúvida (o que chamávamos de inteligência artifical generativo) e passou a ser delegar uma tarefa e deixar inclusive que o agente tomar decisões de maneira autônoma (a inteligência artificial agêntica).
@@ -195,7 +181,7 @@ Esses mecanismos precisam fazer parte do caminho normal de deploy. Se cada equip
 
 A IA pode ajudar até na operação e recuperação de incidentes. A [Datadog apresenta o Bits AI SRE](https://www.datadoghq.com/dg/monitor/bits-ai-sre/) como um agente para investigar alertas, correlacionar sinais e explorar hipóteses de causa. É uma aplicação bastante natural de agentes: reunir logs, métricas, mudanças recentes e contexto do sistema para ajudar quem está de plantão.
 
-Estamos voltando a uma daquelas tarefas que o grupo de pesquisa já imaginava automatizar anos atrás. Só que agora o agente pode ir além de ler um log: consegue investigar, comparar hipóteses e usar ferramentas. Para isso, precisa ter acesso a bons sinais e a um ambiente em que consiga trabalhar. Observabilidade também é infraestrutura para os agentes.
+Voltando novamente para os times de plataforma, o desenvolvimento de infraestrutura para que os agentes tenham acesso a todos os dados de monitoramento da aplicação é fundamental.
 
 ## UX e UI
 
