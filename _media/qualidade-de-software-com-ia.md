@@ -1,5 +1,4 @@
 ---
-home_featured: 1
 ia_favorite: 2
 tags: [ia, qualidade, revisao-de-codigo, testes, analise-estatica, seguranca]
 published_on: 2026-05-07
