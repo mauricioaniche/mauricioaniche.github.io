@@ -869,6 +869,12 @@
     "bytes": 307350,
     "type": "image/jpeg"
   },
+  "/assets/images/content/cartoon/media-migracao-spring-boot-ia-hipsters-538.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 374128,
+    "type": "image/jpeg"
+  },
   "/assets/images/content/cartoon/media-papinho-tech-196.jpg": {
     "width": 1200,
     "height": 750,
@@ -2787,6 +2793,30 @@
     "width": 960,
     "height": 600,
     "bytes": 103310,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/4a5233b111ac3c0c-1200.webp": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 173492,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/4a5233b111ac3c0c-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 24718,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/4a5233b111ac3c0c-640.webp": {
+    "width": 640,
+    "height": 400,
+    "bytes": 72124,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/4a5233b111ac3c0c-960.webp": {
+    "width": 960,
+    "height": 600,
+    "bytes": 127464,
     "type": "image/webp"
   },
   "/assets/images/responsive/4bf5e63ad2286714-1200.webp": {

@@ -2007,6 +2007,18 @@
       "original": "/Users/mauricio/.codex/generated_images/01a18991-dc38-70d1-806f-2affe47c2b08/exec-b27b7ae4-3647-490c-875d-dc486d4eb24e.png",
       "status": "complete",
       "generation_mode": "built-in image_gen"
+    },
+    {
+      "id": "media-migracao-spring-boot-ia-hipsters-538",
+      "path": "_media/migracao-spring-boot-ia-hipsters-538.md",
+      "title": "Estudo de caso: migração do Spring Boot com IA na Alura — Hipsters.tech #538",
+      "scene": "Uma equipe e um robô trocam o motor de um pequeno trem numa oficina, com microfones na bancada.",
+      "alt": "Uma equipe e um robô trocam o motor de um pequeno trem numa oficina, com microfones na bancada.",
+      "asset": "/assets/images/content/cartoon/media-migracao-spring-boot-ia-hipsters-538.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Estudo de caso: Migração do Spring Boot com IA na Alura — Hipsters.tech #538. Podcast about using AI agents to migrate a live software platform, with automated testing, human review and gradual deployment.\nScene: A cheerful miniature railway workshop: a generic adult engineer and a friendly small robot carefully replace the engine of a colorful little train at a maintenance platform while another adult engineer inspects the new engine with a magnifying glass. The train's passenger carriages remain connected, suggesting a working system being upgraded. Two subtle podcast microphones stand on the nearby workbench. A coherent playful editorial metaphor of careful migration, no literal software UI.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of actual participants.\nPalette: turquoise, coral, sunflower yellow and warm cream. Warm friendly light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "original": "/Users/mauricio/.codex/generated_images/01a18d09-053e-74d2-ae46-42f91dd8a9a2/exec-897667e2-464d-4875-ae1e-0d83210ae2c3.png",
+      "status": "complete",
+      "generation_mode": "built-in image_gen"
     }
   ]
 }

@@ -418,6 +418,18 @@ entries:
     label: Silveira, Paulo
     kind: pessoas
     aliases: [Paulo Silveira]
+  - id: neves-vinny
+    label: Neves, Vinny
+    kind: pessoas
+    aliases: [Vinny Neves]
+  - id: rodolfo-maria-eduarda
+    label: Rodolfo, Maria Eduarda
+    kind: pessoas
+    aliases: [Maria Eduarda Rodolfo]
+  - id: muller-carlos
+    label: Müller, Carlos
+    kind: pessoas
+    aliases: [Carlos Müller, Carlos “Cadu” Müller]
   - id: neto-adolfo
     label: Neto, Adolfo
     kind: pessoas
