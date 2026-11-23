@@ -1,0 +1,13 @@
+{
+  "url": "https://x.com/unclebobmartin/status/2044114698451476492",
+  "author_name": "Uncle Bob Martin",
+  "author_url": "https://x.com/unclebobmartin",
+  "html": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-width=\"550\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">I don’t review code written by agents. I measure things like test coverage, dependency structure, cyclomatic complexity, module sizes, mutation testing, etc. <br><br>Much can be inferred about the quality of the code from those metrics. The code itself I leave to the AI. <br><br>Humans are…</p>&mdash; Uncle Bob Martin (@unclebobmartin) <a href=\"https://x.com/unclebobmartin/status/2044114698451476492?ref_src=twsrc%5Etfw\">April 14, 2026</a></blockquote>\n\n",
+  "width": 550,
+  "height": null,
+  "type": "rich",
+  "cache_age": "3153600000",
+  "provider_name": "X",
+  "provider_url": "https://x.com",
+  "version": "1.0"
+}

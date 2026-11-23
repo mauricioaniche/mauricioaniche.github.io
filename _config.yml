@@ -39,7 +39,8 @@ collections:
     permalink: /:collection/:title/
     output: true
   talks:
-    permalink: /:collection/:title/
+    # Preserve the directory structure of standalone slide decks.
+    permalink: /:path
     output: true
   blog:
     permalink: /:collection/:title/
@@ -56,6 +57,7 @@ defaults:
       type: "talks"
     values:
       layout: content-detail
+      permalink: /:collection/:title/
       content_type: talks
       image: /assets/images/content/talk.svg
   - scope:

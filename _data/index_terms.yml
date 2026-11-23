@@ -88,6 +88,9 @@ topics:
     categories: [testing]
 
 entries:
+  - id: fiap
+    label: FIAP
+    kind: organizacoes
   - id: miura-ko-ann
     label: Miura-Ko, Ann
     kind: pessoas

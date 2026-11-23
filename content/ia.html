@@ -13,6 +13,7 @@ permalink: /ia
 {% assign ia_article_order = ia_article_order | split: ';' | sort | reverse %}
 
 {% assign ia_publications = site.publications | where_exp: 'item', 'item.tags contains "ia"' | sort: 'date' | reverse %}
+{% assign ia_talks = site.talks | where_exp: 'item', 'item.tags contains "ia"' | sort: 'date' | reverse %}
 {% assign ia_favorites = site.documents | where_exp: 'item', 'item.tags contains "ia"' | where_exp: 'item', 'item.ia_favorite' | sort: 'ia_favorite' %}
 
 <header class="page-heading content-heading">
@@ -29,6 +30,7 @@ permalink: /ia
     {% if ia_favorites.size > 0 %}<a class="text-link" href="#favoritos">Favoritos ({{ ia_favorites.size }}) ↓</a>{% endif %}
     <a class="text-link" href="#artigos">Artigos do blog ({{ ia_articles.size }}) ↓</a>
     <a class="text-link" href="#podcasts">Podcasts ({{ ia_podcasts.size }}) ↓</a>
+    {% if ia_talks.size > 0 %}<a class="text-link" href="#palestras">Palestras ({{ ia_talks.size }}) ↓</a>{% endif %}
     <a class="text-link" href="#artigos-cientificos">Artigos científicos ({{ ia_publications.size }}) ↓</a>
   </nav>
 </div>
@@ -75,6 +77,19 @@ permalink: /ia
   </div>
   {% include topic-pagination.html list_id='podcasts-lista' label='podcasts' %}
 </section>
+
+{% if ia_talks.size > 0 %}
+<section class="topic-section" aria-labelledby="palestras" data-topic-pagination>
+  <div class="section-heading">
+    <div><p class="eyebrow">Para assistir e consultar</p><h2 id="palestras" tabindex="-1">Palestras sobre IA</h2></div>
+    <a class="text-link" href="{{ '/conteudo' | relative_url }}?tipo=talks">Todas as palestras ↗</a>
+  </div>
+  <div id="palestras-lista" class="post-grid content-grid" data-topic-items>
+    {% for item in ia_talks %}{% include content-card.html item=item %}{% endfor %}
+  </div>
+  {% include topic-pagination.html list_id='palestras-lista' label='palestras' %}
+</section>
+{% endif %}
 
 <section class="topic-section" aria-labelledby="artigos-cientificos" data-topic-pagination data-topic-page-size="8">
   <div class="section-heading">

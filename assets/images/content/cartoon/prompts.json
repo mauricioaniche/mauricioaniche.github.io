@@ -2019,6 +2019,19 @@
       "original": "/Users/mauricio/.codex/generated_images/01a18d09-053e-74d2-ae46-42f91dd8a9a2/exec-897667e2-464d-4875-ae1e-0d83210ae2c3.png",
       "status": "complete",
       "generation_mode": "built-in image_gen"
+    },
+    {
+      "id": "talks-encontro-cio-fiap-rj-2026",
+      "path": "_talks/encontro-cio-fiap-rj-2026.md",
+      "title": "E se a IA já escrever código melhor que você?",
+      "scene": "Em uma oficina aberta, um robô monta uma escultura cinética de engrenagens coloridas enquanto uma engenheira testa o equilíbrio do conjunto.",
+      "alt": "Uma engenheira testa o equilíbrio de uma escultura de engrenagens enquanto um robô monta suas peças, com a paisagem do Rio de Janeiro ao fundo.",
+      "asset": "/assets/images/content/cartoon/talks-encontro-cio-fiap-rj-2026.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): E se a IA já escrever código melhor que você? Palestra no Encontro CIO FIAP RJ 2026 sobre julgamento do engenheiro, revisão, confiança, incidentes e fábricas de software com IA.\nScene: In a sunny open-air workshop, a friendly small robot is rapidly assembling a joyful kinetic sculpture from a handful of large colorful interlocking gears and rounded balanced arms. Beside it, a generic expressive adult woman engineer carefully adjusts the broad stable base and tests the balance of the whole sculpture with her hands, looking thoughtfully but happily at how the moving parts work together. The sculpture has one clear coherent silhouette and a few oversized parts, not a confusing pile. The metaphor is that making individual components is fast, while choosing and verifying how the complete system behaves requires judgment. Only one human and one robot, ordinary plausible anatomy. No text on clothing or objects.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. No photorealism, no corporate stock-art look.\nPalette: vivid cobalt blue, tangerine orange, mint green and warm cream. Warm inviting daylight.\nComposition: horizontal 8:5, one complete scene, readable at thumbnail size, keep important faces and objects inside the central 85 percent, generous cropping margins. No collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete",
+      "original": "/Users/mauricio/.codex/generated_images/01a204ae-1fea-7b82-9a01-a7180124d835/exec-809b376d-164c-4d52-8e18-3251d83843c9.png",
+      "archived_original": "output/imagegen-originals/talks-encontro-cio-fiap-rj-2026.png",
+      "revision_prompt": "Remove the extra raised arm and keep only the woman’s two existing arms and hands at the sculpture base. Preserve all other elements, composition, colors, textures and style."
     }
   ]
 }

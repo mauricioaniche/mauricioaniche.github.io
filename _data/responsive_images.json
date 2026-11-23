@@ -5867,6 +5867,36 @@
       }
     ]
   },
+  "/assets/images/content/cartoon/talks-encontro-cio-fiap-rj-2026.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/456c18f0db938eb4-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 25272
+      },
+      {
+        "url": "/assets/images/responsive/456c18f0db938eb4-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 69404
+      },
+      {
+        "url": "/assets/images/responsive/456c18f0db938eb4-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 118698
+      },
+      {
+        "url": "/assets/images/responsive/456c18f0db938eb4-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 162360
+      }
+    ]
+  },
   "/assets/images/foto-1-2026.jpg": {
     "width": 2000,
     "height": 3000,

@@ -1,0 +1,421 @@
+[
+  {
+    "file": "_blog/2026-06-03-idempotencia-e-retentativas-a-ia-ainda-precisa-de-visao-do-todo.md",
+    "slug": "idempotencia-e-retentativas-a-ia-ainda-precisa-de-visao-do-todo",
+    "url": "https://mauricioaniche.com/blog/idempotencia-e-retentativas-a-ia-ainda-precisa-de-visao-do-todo/",
+    "title": "Idempotência e retentativas: a IA ainda precisa de visão do todo",
+    "image": "/assets/images/content/cartoon/blog-2026-06-03-idempotencia-e-retentativas-a-ia-ainda-precisa-de-visao-do-todo.jpg",
+    "image_alt": "Ilustração cartoon: uma engenheira ajusta uma máquina de correio para que vários puxões na mesma alavanca entreguem apenas um envelope, com um robô observando.",
+    "date": "2026-06-03T14:00:26.066088-03:00",
+    "originals": [],
+    "id": "email",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-11-18-escrever-codigo-nao-e-resolver-a-engenharia-de-software.md",
+    "slug": "escrever-codigo-nao-e-resolver-a-engenharia-de-software",
+    "url": "https://mauricioaniche.com/blog/escrever-codigo-nao-e-resolver-a-engenharia-de-software/",
+    "title": "Escrever código não é resolver a engenharia de software",
+    "image": "/assets/images/content/cartoon/blog-2026-11-18-escrever-codigo-nao-e-resolver-a-engenharia-de-software.jpg",
+    "image_alt": "Engenheiros conectam engrenagens e roldanas nos bastidores de um teatro enquanto um robô prepara peças e uma pessoa observa de longe.",
+    "date": "2026-11-18T00:00:00-03:00",
+    "originals": [
+      "https://www.linkedin.com/posts/gergelyorosz_spent-a-few-hours-inside-openai-anthropic-share-7476403008478728194-Pj0o"
+    ],
+    "id": "engenharia",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-10-15-o-julgamento-do-engenheiro-continua-indispensavel-na-era-dos-agentes.md",
+    "slug": "o-julgamento-do-engenheiro-continua-indispensavel-na-era-dos-agentes",
+    "url": "https://mauricioaniche.com/blog/o-julgamento-do-engenheiro-continua-indispensavel-na-era-dos-agentes/",
+    "title": "O julgamento do engenheiro continua indispensável na era dos agentes",
+    "image": "/assets/images/blog/cartoon/julgamento-engenheiro-cartoon.jpg",
+    "image_alt": "Engenheiro orienta um robô na escolha de uma ponte entre caminhos coloridos.",
+    "date": "2026-10-15T15:26:00-03:00",
+    "originals": [
+      "https://www.anthropic.com/research/redesigning-source-control"
+    ],
+    "id": "anthropic",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-09-23-julgamento-priorizacao-proatividade-e-bom-gosto-na-engenharia-de-software.md",
+    "slug": "julgamento-priorizacao-proatividade-e-bom-gosto-na-engenharia-de-software",
+    "url": "https://mauricioaniche.com/blog/julgamento-priorizacao-proatividade-e-bom-gosto-na-engenharia-de-software/",
+    "title": "Julgamento, priorização, proatividade e bom gosto na engenharia de software",
+    "image": "/assets/images/content/cartoon/blog-2026-09-23-julgamento-priorizacao-proatividade-e-bom-gosto-na-engenharia-de-software.jpg",
+    "image_alt": "Ilustração cartoon: uma engenheira escolhe com cuidado quatro ferramentas simbólicas: bússola, ampulheta, lâmpada e pincel para construir algo útil.",
+    "date": "2026-09-23T14:10:05.383268-03:00",
+    "originals": [
+      "https://newsletter.pragmaticengineer.com/p/openai-software-factory"
+    ],
+    "id": "julgamento",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-09-23-revisao-por-excecao-repensando-o-code-review-na-era-dos-agentes.md",
+    "slug": "revisao-por-excecao-repensando-o-code-review-na-era-dos-agentes",
+    "url": "https://mauricioaniche.com/blog/revisao-por-excecao-repensando-o-code-review-na-era-dos-agentes/",
+    "title": "Revisão por exceção: repensando o code review na era dos agentes",
+    "image": "/assets/images/content/cartoon/blog-2026-09-23-revisao-por-excecao-repensando-o-code-review-na-era-dos-agentes.jpg",
+    "image_alt": "Ilustração cartoon: uma equipe humana examina uma única peça complexa numa mesa iluminada enquanto pequenas peças simples passam por verificadores automáticos.",
+    "date": "2026-09-23T10:28:18.042150-03:00",
+    "originals": [
+      "https://martinfowler.com/rachels-ramblings/code-review.html"
+    ],
+    "id": "review",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-11-05-revisar-codigo-de-ia-sem-compreender-cada-linha.md",
+    "slug": "revisar-codigo-de-ia-sem-compreender-cada-linha",
+    "url": "https://mauricioaniche.com/blog/revisar-codigo-de-ia-sem-compreender-cada-linha/",
+    "title": "Revisar código de IA sem compreender cada linha",
+    "image": "/assets/images/content/cartoon/blog-2026-11-05-revisar-codigo-de-ia-sem-compreender-cada-linha.jpg",
+    "image_alt": "Uma revisora com lupa e um robô inspecionam o interior de um relógio grande aberto, além de sua fachada bonita.",
+    "date": "2026-11-05T00:00:00-03:00",
+    "originals": [
+      "https://www.spinellis.gr/blog/20260523/"
+    ],
+    "id": "spinellis",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-11-24-small-change-acelerando-a-revisao-de-codigo-na-imprint.md",
+    "slug": "small-change-acelerando-a-revisao-de-codigo-na-imprint",
+    "url": "https://mauricioaniche.com/blog/small-change-acelerando-a-revisao-de-codigo-na-imprint/",
+    "title": "Small-change: acelerando a revisão de código na Imprint",
+    "image": "/assets/images/content/cartoon/blog-2026-11-24-small-change-acelerando-a-revisao-de-codigo-na-imprint.jpg",
+    "image_alt": "Uma engenheira e um robô inspecionam pequenas encomendas antes de passarem por um portal, enquanto pacotes maiores aguardam ao lado.",
+    "date": "2026-11-24T00:00:00-03:00",
+    "originals": [
+      "https://lethain.com/small-changes/"
+    ],
+    "id": "imprint",
+    "future_dated": true
+  },
+  {
+    "file": "_blog/2026-10-22-acumular-confianca-tao-rapido-quanto-acumulamos-codigo.md",
+    "slug": "acumular-confianca-tao-rapido-quanto-acumulamos-codigo",
+    "url": "https://mauricioaniche.com/blog/acumular-confianca-tao-rapido-quanto-acumulamos-codigo/",
+    "title": "Acumular confiança tão rápido quanto acumulamos código",
+    "image": "/assets/images/content/cartoon/blog-2026-10-22-acumular-confianca-tao-rapido-quanto-acumulamos-codigo.jpg",
+    "image_alt": "Uma equipe constrói uma ponte de blocos com um robô, apoiando cada novo trecho em pilares sólidos antes de avançar.",
+    "date": "2026-10-22T00:00:00-03:00",
+    "originals": [
+      "https://www.linkedin.com/posts/kentbeck_were-accumulating-code-faster-than-were-share-7466398000685412352-MxIg/"
+    ],
+    "id": "kent",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-11-17-mais-codigo-com-ia-e-uma-taxa-menor-de-incidentes.md",
+    "slug": "mais-codigo-com-ia-e-uma-taxa-menor-de-incidentes",
+    "url": "https://mauricioaniche.com/blog/mais-codigo-com-ia-e-uma-taxa-menor-de-incidentes/",
+    "title": "Mais código com IA e uma taxa menor de incidentes",
+    "image": "/assets/images/content/cartoon/blog-2026-11-17-mais-codigo-com-ia-e-uma-taxa-menor-de-incidentes.jpg",
+    "image_alt": "Um robô inspeciona um barquinho na bancada enquanto engenheiros testam outro em uma bacia com correntezas e pedras.",
+    "date": "2026-11-17T00:00:00-03:00",
+    "originals": [
+      "https://www.linkedin.com/posts/evnsio_we-ship-3x-as-much-code-today-as-we-did-a-share-7514103822043078656-0bNQ"
+    ],
+    "id": "incidentes",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-09-28-os-bugs-da-ia-estao-mudando-de-logica-para-arquitetura-e-contexto.md",
+    "slug": "os-bugs-da-ia-estao-mudando-de-logica-para-arquitetura-e-contexto",
+    "url": "https://mauricioaniche.com/blog/os-bugs-da-ia-estao-mudando-de-logica-para-arquitetura-e-contexto/",
+    "title": "Os bugs da IA estão mudando: de lógica para arquitetura e contexto",
+    "image": "/assets/images/content/cartoon/blog-2026-09-28-os-bugs-da-ia-estao-mudando-de-logica-para-arquitetura-e-contexto.jpg",
+    "image_alt": "Ilustração cartoon: uma engenheira encontra um pequeno inseto no desenho de uma cidade de brinquedo enquanto um robô já monta perfeitamente os blocos individuais.",
+    "date": "2026-09-28T10:26:24.177056-03:00",
+    "originals": [
+      "https://x.com/bcherny/status/2087284684103537011"
+    ],
+    "id": "boris",
+    "future_dated": false
+  },
+  {
+    "title": "Qualidade de software no mundo de agentes de código",
+    "url": "https://mauricioaniche.com/blog/qualidade-no-mundo-de-agentes-de-codigo/",
+    "file": "_blog/2026-10-28-qualidade-no-mundo-de-agentes-de-codigo.md",
+    "originals": [
+      "https://x.com/unclebobmartin/status/2044114698451476492"
+    ],
+    "date": "2026-10-28",
+    "id": "bob",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-06-05-testes-gerados-por-ia-tambem-precisam-de-qualidade.md",
+    "slug": "testes-gerados-por-ia-tambem-precisam-de-qualidade",
+    "url": "https://mauricioaniche.com/blog/testes-gerados-por-ia-tambem-precisam-de-qualidade/",
+    "title": "Testes gerados por IA também precisam de qualidade",
+    "image": "/assets/images/content/cartoon/blog-2026-06-05-testes-gerados-por-ia-tambem-precisam-de-qualidade.jpg",
+    "image_alt": "Ilustração cartoon: um robô oferece uma bandeja de peças de teste variadas e uma engenheira calibra cada peça com instrumentos de brinquedo.",
+    "date": "2026-06-05T09:30:22.107173-03:00",
+    "originals": [
+      "https://gist.github.com/mauricioaniche/c6f80e32f79b55ed6fec439a2280395a"
+    ],
+    "id": "testes",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-09-18-ia-no-desenvolvimento-precisamos-comecar-pela-operacao.md",
+    "slug": "ia-no-desenvolvimento-precisamos-comecar-pela-operacao",
+    "url": "https://mauricioaniche.com/blog/ia-no-desenvolvimento-precisamos-comecar-pela-operacao/",
+    "title": "IA no desenvolvimento: precisamos começar pela operação",
+    "image": "/assets/images/content/cartoon/blog-2026-09-18-ia-no-desenvolvimento-precisamos-comecar-pela-operacao.jpg",
+    "image_alt": "Ilustração cartoon: uma equipe e um robô cuidam de um farol, uma boia de resgate e uma ponte de retorno para manter uma cidade de software funcionando.",
+    "date": "2026-09-18T10:09:12.014331-03:00",
+    "originals": [],
+    "id": "operacao",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-06-15-mais-pull-requests-nao-significam-mais-deploys-nem-mais-valor.md",
+    "slug": "mais-pull-requests-nao-significam-mais-deploys-nem-mais-valor",
+    "url": "https://mauricioaniche.com/blog/mais-pull-requests-nao-significam-mais-deploys-nem-mais-valor/",
+    "title": "Mais pull requests não significam mais deploys nem mais valor",
+    "image": "/assets/images/content/cartoon/blog-2026-06-15-mais-pull-requests-nao-significam-mais-deploys-nem-mais-valor.jpg",
+    "image_alt": "Ilustração cartoon: muitos barquinhos de blocos chegam a uma eclusa estreita, e uma engenheira decide quais levam presentes realmente úteis à cidade.",
+    "date": "2026-06-15T10:30:22.030545-03:00",
+    "originals": [],
+    "id": "prs",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-06-12-a-taxa-da-orquestracao-o-custo-de-coordenar-multiplos-agentes.md",
+    "slug": "a-taxa-da-orquestracao-o-custo-de-coordenar-multiplos-agentes",
+    "url": "https://mauricioaniche.com/blog/a-taxa-da-orquestracao-o-custo-de-coordenar-multiplos-agentes/",
+    "title": "A taxa da orquestração: o custo de coordenar múltiplos agentes",
+    "image": "/assets/images/content/cartoon/blog-2026-06-12-a-taxa-da-orquestracao-o-custo-de-coordenar-multiplos-agentes.jpg",
+    "image_alt": "Ilustração cartoon: uma maestrina alegre tenta coordenar vários pequenos robôs músicos enquanto protege uma pequena ampulheta que representa sua atenção.",
+    "date": "2026-06-12T10:40:22.623639-03:00",
+    "originals": [
+      "https://x.com/addyosmani/status/2059844244907696186"
+    ],
+    "id": "orquestracao",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-11-27-o-que-muda-e-o-que-continua-na-engenharia-de-software-com-ia.md",
+    "slug": "o-que-muda-e-o-que-continua-na-engenharia-de-software-com-ia",
+    "url": "https://mauricioaniche.com/blog/o-que-muda-e-o-que-continua-na-engenharia-de-software-com-ia/",
+    "title": "O que muda e o que continua na engenharia de software com IA",
+    "image": "/assets/images/content/cartoon/blog-2026-11-27-o-que-muda-e-o-que-continua-na-engenharia-de-software-com-ia.jpg",
+    "image_alt": "Um engenheiro segura uma bússola enquanto um robô ajusta a vela de um barco e uma pessoa aponta o destino.",
+    "date": "2026-11-27T00:00:00-03:00",
+    "originals": [
+      "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai"
+    ],
+    "id": "amazon",
+    "future_dated": true
+  },
+  {
+    "file": "_blog/2026-09-29-fabricas-de-software-redesenhar-o-processo-para-entregar-mais-com-ia.md",
+    "slug": "fabricas-de-software-redesenhar-o-processo-para-entregar-mais-com-ia",
+    "url": "https://mauricioaniche.com/blog/fabricas-de-software-redesenhar-o-processo-para-entregar-mais-com-ia/",
+    "title": "Fábricas de software: redesenhar o processo para entregar mais com IA",
+    "image": "/assets/images/content/cartoon/blog-2026-09-29-fabricas-de-software-redesenhar-o-processo-para-entregar-mais-com-ia.jpg",
+    "image_alt": "Ilustração cartoon: uma equipe reorganiza uma oficina inteira em um percurso fluido de estações, com robôs e pessoas colaborando até a entrega de um produto.",
+    "date": "2026-09-29T14:29:24.064326-03:00",
+    "originals": [
+      "https://leaddev.com/software-quality/the-engineers-guide-to-building-a-software-factory"
+    ],
+    "id": "fabrica",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-11-11-a-fabrica-de-software-da-vercel-para-o-ai-sdk.md",
+    "slug": "a-fabrica-de-software-da-vercel-para-o-ai-sdk",
+    "url": "https://mauricioaniche.com/blog/a-fabrica-de-software-da-vercel-para-o-ai-sdk/",
+    "title": "A fábrica de software da Vercel para o AI SDK",
+    "image": "/assets/images/content/cartoon/blog-2026-11-11-a-fabrica-de-software-da-vercel-para-o-ai-sdk.jpg",
+    "image_alt": "Uma engenheira ajusta uma fábrica de brinquedos em miniatura onde robôs especializados montam, inspecionam e embalam peças.",
+    "date": "2026-11-11T00:00:00-03:00",
+    "originals": [
+      "https://vercel.com/blog/building-a-software-factory-for-ai-sdk"
+    ],
+    "id": "vercel",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-10-23-fabricas-de-software-ainda-precisam-de-luz-e-de-humanos.md",
+    "slug": "fabricas-de-software-ainda-precisam-de-luz-e-de-humanos",
+    "url": "https://mauricioaniche.com/blog/fabricas-de-software-ainda-precisam-de-luz-e-de-humanos/",
+    "title": "Fábricas de software ainda precisam de luz e de humanos",
+    "image": "/assets/images/content/cartoon/blog-2026-10-23-fabricas-de-software-ainda-precisam-de-luz-e-de-humanos.jpg",
+    "image_alt": "Uma engenheira ilumina uma oficina de robôs com uma grande luminária e orienta a montagem de uma máquina complexa.",
+    "date": "2026-10-23T00:00:00-03:00",
+    "originals": [
+      "https://www.youtube.com/watch?v=Ib5GBkD555M"
+    ],
+    "id": "humanos",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-10-29-a-intuicao-do-dev-na-era-da-ia.md",
+    "slug": "a-intuicao-do-dev-na-era-da-ia",
+    "url": "https://mauricioaniche.com/blog/a-intuicao-do-dev-na-era-da-ia/",
+    "title": "A intuição do dev na era da IA",
+    "image": "/assets/images/content/cartoon/blog-2026-10-29-a-intuicao-do-dev-na-era-da-ia.jpg",
+    "image_alt": "Desenvolvedor observa a brisa e ajusta a vela de um carrinho experimental enquanto um robô monta uma roda na oficina.",
+    "date": "2026-10-29T00:00:00-03:00",
+    "originals": [],
+    "id": "intuicao",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-10-30-o-arquiteto-com-mentalidade-de-produto-na-era-da-ia.md",
+    "slug": "o-arquiteto-com-mentalidade-de-produto-na-era-da-ia",
+    "url": "https://mauricioaniche.com/blog/o-arquiteto-com-mentalidade-de-produto-na-era-da-ia/",
+    "title": "O arquiteto com mentalidade de produto na era da IA",
+    "image": "/assets/images/content/cartoon/blog-2026-10-30-o-arquiteto-com-mentalidade-de-produto-na-era-da-ia.jpg",
+    "image_alt": "Uma arquiteta e um robô montam uma casa de brinquedo a partir das necessidades de uma família, combinando estrutura e uso.",
+    "date": "2026-10-30T00:00:00-03:00",
+    "originals": [
+      "https://www.linkedin.com/posts/maltekosub_what-happens-when-95-of-your-code-is-written-activity-7438136030194728962-fi5D/"
+    ],
+    "id": "arquiteto",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-10-20-agentes-de-ia-e-o-desconforto-de-criar-divida-tecnica.md",
+    "slug": "agentes-de-ia-e-o-desconforto-de-criar-divida-tecnica",
+    "url": "https://mauricioaniche.com/blog/agentes-de-ia-e-o-desconforto-de-criar-divida-tecnica/",
+    "title": "Agentes de IA e o desconforto de criar dívida técnica",
+    "image": "/assets/images/content/cartoon/blog-2026-10-20-agentes-de-ia-e-o-desconforto-de-criar-divida-tecnica.jpg",
+    "image_alt": "Um engenheiro e um robô observam uma cadeira feita com remendos e consertam juntos uma perna improvisada na marcenaria.",
+    "date": "2026-10-20T00:00:00-03:00",
+    "originals": [
+      "https://x.com/pragmatic_eng/status/2062180364974469139"
+    ],
+    "id": "divida",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-06-01-como-formar-desenvolvedores-seniores-em-um-mundo-de-ia.md",
+    "slug": "como-formar-desenvolvedores-seniores-em-um-mundo-de-ia",
+    "url": "https://mauricioaniche.com/blog/como-formar-desenvolvedores-seniores-em-um-mundo-de-ia/",
+    "title": "Como formar desenvolvedores seniores em um mundo de IA?",
+    "image": "/assets/images/content/cartoon/blog-2026-06-01-como-formar-desenvolvedores-seniores-em-um-mundo-de-ia.jpg",
+    "image_alt": "Ilustração cartoon: uma mentora acompanha uma aprendiz que sobe degraus feitos de livros e resolve um quebra-cabeça com seu próprio raciocínio, com um robô auxiliar ao lado.",
+    "date": "2026-06-01T10:30:26.047061-03:00",
+    "originals": [
+      "https://www.linkedin.com/posts/cristina-crista-lopes-5161b_i-just-had-a-student-come-to-our-meeting-share-7463328400632406016-sbuV",
+      "https://www.theatlantic.com/technology/2026/05/computer-science-major-coding-ai/687279/"
+    ],
+    "id": "seniores",
+    "future_dated": false
+  },
+  {
+    "file": "_blog/2026-10-15-testando-sistemas-agenticos.md",
+    "slug": "testando-sistemas-agenticos",
+    "url": "https://mauricioaniche.com/blog/testando-sistemas-agenticos/",
+    "title": "Testando sistemas agênticos: aprendendo com o passado para testar o futuro",
+    "image": "/assets/images/blog/cartoon/testando-agentes-cartoon.jpg",
+    "image_alt": "Engenheira observa robôs em um circuito de testes com obstáculos coloridos.",
+    "date": "",
+    "originals": [
+      "https://www.langchain.com/resources/agent-evals",
+      "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+      "https://openai.com/pt-BR/index/trustworthy-third-party-evaluations-foundations/",
+      "https://hamel.dev/blog/posts/evals-faq/how-do-i-evaluate-agentic-workflows.html",
+      "https://hamel.dev/blog/posts/evals/",
+      "https://hamel.dev/blog/posts/evals-faq/",
+      "https://learn.microsoft.com/en-us/azure/foundry/concepts/evaluation-evaluators/agent-evaluators?view=foundry"
+    ],
+    "id": "agentes",
+    "future_dated": false
+  },
+  {
+    "title": "O que aprendi criando três microaplicações com IA",
+    "url": "https://mauricioaniche.com/blog/o-que-aprendi-criando-tres-microaplicacoes-com-ia/",
+    "file": "_blog/2026-06-10-o-que-aprendi-criando-tres-microaplicacoes-com-ia.md",
+    "originals": [],
+    "date": "2026-06-10",
+    "id": "microapps",
+    "future_dated": false
+  },
+  {
+    "title": "Human-in-the-loop: em qual loop o engenheiro deve estar?",
+    "url": "https://mauricioaniche.com/blog/human-in-the-loop-em-qual-loop-o-engenheiro-deve-estar/",
+    "file": "_blog/2026-09-21-human-in-the-loop-em-qual-loop-o-engenheiro-deve-estar.md",
+    "originals": [],
+    "date": "2026-09-21",
+    "id": "loop",
+    "future_dated": false
+  },
+  {
+    "title": "Guardrails leves e pesados para código gerado por IA",
+    "url": "https://mauricioaniche.com/blog/guardrails-leves-e-pesados-para-codigo-gerado-por-ia/",
+    "file": "_blog/2026-05-29-guardrails-leves-e-pesados-para-codigo-gerado-por-ia.md",
+    "originals": [
+      "https://www.linkedin.com/posts/philipp-leitner-aa5b52156_soft-vs-hard-guardrails-when-share-7464952600233385984-Bmy2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAB178EB1aVeabLYbmWe02WqDTLNd30zK4k"
+    ],
+    "date": "2026-05-29",
+    "id": "guardrails",
+    "future_dated": false
+  },
+  {
+    "id": "migracao",
+    "title": "Como migramos do Spring Boot 2 para o 4 com ajuda de IA",
+    "file": "_media/migracao-spring-boot-com-ia.md",
+    "slug": "migracao-spring-boot-com-ia",
+    "url": "https://mauricioaniche.com/conteudo/migracao-spring-boot-com-ia/",
+    "originals": [
+      "https://www.alura.com.br/alura-labs/como-migramos-do-spring-boot-2-para-o-4-com-ajuda-de-ia"
+    ],
+    "date": "2026-10-08",
+    "image": "/assets/images/content/cartoon/media-migracao-spring-boot-com-ia.jpg",
+    "image_alt": "Ilustração cartoon: uma equipe e robôs transportam cuidadosamente uma casa de software de uma fundação antiga para uma nova, usando uma ponte temporária segura.",
+    "future_dated": false
+  },
+  {
+    "id": "fabrica-openai",
+    "title": "O que aprendi sobre a fábrica de software agêntica da OpenAI",
+    "file": "_blog/2026-09-22-o-que-aprendi-sobre-a-fabrica-de-software-agentica-da-openai.md",
+    "slug": "o-que-aprendi-sobre-a-fabrica-de-software-agentica-da-openai",
+    "url": "https://mauricioaniche.com/blog/o-que-aprendi-sobre-a-fabrica-de-software-agentica-da-openai/",
+    "originals": [
+      "https://newsletter.pragmaticengineer.com/p/openai-software-factory"
+    ],
+    "date": "2026-09-22T15:01:19.977411-03:00",
+    "image": "/assets/images/content/cartoon/blog-2026-09-22-o-que-aprendi-sobre-a-fabrica-de-software-agentica-da-openai.jpg",
+    "image_alt": "Ilustração cartoon: um panorama de fábrica alegre com pequenos robôs passando um projeto por planejamento, construção, testes e monitoramento, supervisionados por pessoas.",
+    "future_dated": false
+  },
+  {
+    "id": "product-minded",
+    "title": "The Product-Minded Software Engineer",
+    "url": "https://blog.pragmaticengineer.com/the-product-minded-engineer/",
+    "originals": [
+      "https://blog.pragmaticengineer.com/the-product-minded-engineer/"
+    ],
+    "author": "Gergely Orosz"
+  },
+  {
+    "id": "praveen",
+    "title": "Mudanças escritas pelo agente interno da Uber",
+    "url": "https://x.com/praveenTweets/status/2033627282418655711",
+    "originals": [
+      "https://x.com/praveenTweets/status/2033627282418655711"
+    ],
+    "author": "Praveen Neppalli · X"
+  },
+  {
+    "id": "ai-slop",
+    "title": "Quem usa IA continua responsável pela qualidade da entrega",
+    "file": "_blog/2026-09-25-quem-usa-ia-continua-responsavel-pela-qualidade-da-entrega.md",
+    "slug": "quem-usa-ia-continua-responsavel-pela-qualidade-da-entrega",
+    "url": "https://mauricioaniche.com/blog/quem-usa-ia-continua-responsavel-pela-qualidade-da-entrega/",
+    "originals": [
+      "https://fortune.com/2026/09/17/shopify-tobias-lutke-ai-slop-grenades/",
+      "https://fs.blog/knowledge-project-podcast/tobi-lutke-3/"
+    ],
+    "future_dated": false
+  }
+]

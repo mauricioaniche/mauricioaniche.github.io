@@ -1,0 +1,30 @@
+[
+  {
+    "file": "metricas-testes.png",
+    "url": "https://x.com/unclebobmartin/status/2044114698451476492",
+    "author": "Uncle Bob Martin",
+    "method": "Captura do embed oficial do X no Chrome, sem alterar conteúdo",
+    "oembed": "tweet-metricas-testes.json"
+  },
+  {
+    "file": "orquestracao.png",
+    "url": "https://x.com/addyosmani/status/2059844244907696186",
+    "author": "Addy Osmani",
+    "method": "Captura do embed oficial do X no Chrome, sem alterar conteúdo",
+    "oembed": "tweet-orquestracao.json"
+  },
+  {
+    "file": "divida.png",
+    "url": "https://x.com/Pragmatic_Eng/status/2062180364974469139",
+    "author": "The Pragmatic Engineer",
+    "method": "Captura do embed oficial do X no Chrome, sem alterar conteúdo",
+    "oembed": "tweet-divida.json"
+  },
+  {
+    "file": "boris.png",
+    "url": "https://x.com/bcherny/status/2087284684103537011",
+    "author": "Boris Cherny",
+    "method": "Captura do embed oficial do X no Chrome, sem alterar conteúdo",
+    "oembed": "tweet-boris.json"
+  }
+]
