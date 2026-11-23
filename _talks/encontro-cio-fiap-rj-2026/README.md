@@ -45,7 +45,7 @@ para refletir suas alterações. Salve o HTML e atualize o navegador.
 | `Ctrl+Shift+F` | Buscar texto |
 | `Alt` + clique | Ampliar uma região |
 
-O endereço inclui o identificador do slide, por exemplo `#/scion`.
+O atributo `id` define o endereço do slide. Nos slides renomeados, `data-id` mantém o endereço anterior funcionando no Reveal.js. O endereço inclui o identificador, por exemplo `#/orquestrar-a-fabrica`.
 
 ## Slides complementares, tweets e impressão
 
@@ -93,3 +93,9 @@ Esta pasta faz parte do deploy Jekyll. A apresentação fica disponível em
 fica em `_talks/encontro-cio-fiap-rj-2026.md` e aparece na lista de palestras,
 na página de IA e no índice remissivo. O conteúdo dos slides continua editável
 diretamente no HTML.
+
+## Ilustração do slide 8
+
+Arquivo: `assets/images/orquestrar-a-fabrica.jpg`. Prompt usado no gerador de imagens integrado:
+
+> Cartoon editorial 2D horizontal 8:5 para o slide “Orquestra a fábrica!”. Uma engenheira brasileira em uma oficina luminosa ajusta com uma mão a alavanca que direciona peças por uma bifurcação de uma esteira. Dois braços robóticos montam módulos coloridos, e um gabarito de encaixe ao fim da esteira verifica se o módulo tem o formato esperado. Uma só cena coerente, com a mão na alavanca como foco. Enquadramento próximo, silhuetas simples e legíveis em projeção, sem excesso de peças. Formas arredondadas, contornos desenhados à mão, guache e leve textura de papel. Azul-petróleo, coral, amarelo e creme. Sem texto, letras, números, marcas ou telas com código.
