@@ -45,7 +45,7 @@ para refletir suas alterações. Salve o HTML e atualize o navegador.
 | `Ctrl+Shift+F` | Buscar texto |
 | `Alt` + clique | Ampliar uma região |
 
-O atributo `id` define o endereço do slide. Nos slides renomeados, `data-id` mantém o endereço anterior funcionando no Reveal.js. O endereço inclui o identificador, por exemplo `#/orquestrar-a-fabrica`.
+O endereço de cada slide usa o atributo `id` da seção, por exemplo `#/orquestrar-a-fabrica`.
 
 ## Slides complementares, tweets e impressão
 
