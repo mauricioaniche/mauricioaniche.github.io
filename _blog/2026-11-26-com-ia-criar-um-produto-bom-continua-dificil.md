@@ -2,7 +2,7 @@
 title: "Com IA, criar um produto ficou fácil. Criar um produto bom continua difícil."
 layout: post
 date: "2026-11-26T00:00:00-03:00"
-tags: [ia, produto, julgamento]
+tags: [ia, produto, julgamento, carreira]
 category: "Engenharia"
 description: "Com a escrita de código facilitada pela IA, UX, bom gosto e refinamento ganham importância para criar produtos que as pessoas gostem de usar."
 image: "/assets/images/content/cartoon/blog-2026-11-26-com-ia-criar-um-produto-bom-continua-dificil.jpg"

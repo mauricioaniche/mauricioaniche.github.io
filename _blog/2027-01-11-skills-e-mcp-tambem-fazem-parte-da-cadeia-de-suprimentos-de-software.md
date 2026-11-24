@@ -3,7 +3,7 @@ title: "Skills e MCP também fazem parte da cadeia de suprimentos de software"
 layout: post
 date: "2027-01-11T00:00:00-03:00"
 category: Engenharia
-tags: [ia, seguranca, guardrails, agentes]
+tags: [ia, seguranca, guardrails, agentes, skills, mcp, analise-estatica]
 description: "O pipeline de segurança do iFood para avaliar skills e a evolução dos controles para MCP, com atenção a permissões e instruções maliciosas."
 image: /assets/images/content/cartoon/blog-2027-01-11-skills-e-mcp-tambem-fazem-parte-da-cadeia-de-suprimentos-de-software.jpg
 image_alt: "Uma inspetora e um robô conferem caixas de ferramentas numa entrada de oficina, usando uma lupa e um portão de segurança acolhedor."

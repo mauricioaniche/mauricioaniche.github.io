@@ -1,5 +1,5 @@
 ---
-tags: [ia, carreira, educacao, fundamentos, produtividade]
+tags: [ia, carreira, educacao, fundamentos, produtividade, mercado-de-trabalho]
 title: "Menos alunos em computação, mas ainda muito software para construir"
 layout: post
 date: "2026-12-01T00:00:00-03:00"

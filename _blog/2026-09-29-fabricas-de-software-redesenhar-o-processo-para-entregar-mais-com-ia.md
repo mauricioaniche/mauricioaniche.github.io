@@ -1,5 +1,5 @@
 ---
-tags: [ia, fabrica-de-software, entrega, produtividade]
+tags: [ia, fabrica-de-software, entrega, produtividade, multiagentes, plataforma]
 title: "Fábricas de software: redesenhar o processo para entregar mais com IA"
 layout: "post"
 date: "2026-09-29T14:29:24.064326-03:00"

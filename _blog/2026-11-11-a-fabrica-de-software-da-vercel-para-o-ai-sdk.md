@@ -1,5 +1,5 @@
 ---
-tags: ["ia", "fabrica-de-software", "agentes", "revisao-de-codigo", "multiagentes"]
+tags: [ia, fabrica-de-software, agentes, revisao-de-codigo, multiagentes, avaliacoes]
 title: "A fábrica de software da Vercel para o AI SDK"
 layout: "post"
 date: "2026-11-11T00:00:00-03:00"

@@ -1,5 +1,5 @@
 ---
-tags: [ia, carreira, produtividade]
+tags: [ia, carreira, produtividade, educacao]
 title: "Profissionais de alto impacto: quando a IA amplia a atuação individual"
 layout: "post"
 date: "2026-08-31T15:02:19.805108-03:00"

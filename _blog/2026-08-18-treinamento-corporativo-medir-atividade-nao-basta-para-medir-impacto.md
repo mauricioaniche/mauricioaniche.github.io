@@ -1,4 +1,5 @@
 ---
+tags: [educacao, lideranca, metricas]
 title: "Treinamento corporativo: medir atividade não basta para medir impacto"
 layout: "post"
 date: "2026-08-18T13:33:34.363207-03:00"

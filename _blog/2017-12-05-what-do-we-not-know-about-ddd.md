@@ -1,4 +1,5 @@
 ---
+tags: [arquitetura, pesquisa, ddd, padroes-de-projeto]
 title: "O que sabemos (e o que não sabemos) sobre Domain-Driven Design?"
 layout: post
 image: "/assets/images/content/cartoon/blog-2017-12-05-what-do-we-not-know-about-ddd.jpg"

@@ -1,5 +1,5 @@
 ---
-tags: ["ia", "agentes", "seguranca", "fundamentos"]
+tags: [ia, agentes, seguranca, fundamentos, guardrails]
 title: "Martin Odersky e o futuro das linguagens na era dos agentes"
 layout: "post"
 date: "2026-10-21T00:00:00-03:00"

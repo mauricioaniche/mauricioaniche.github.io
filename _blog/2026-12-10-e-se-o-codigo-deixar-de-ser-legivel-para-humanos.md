@@ -3,7 +3,7 @@ title: "E se o código deixar de ser legível para humanos?"
 layout: post
 date: "2026-12-10T00:00:00-03:00"
 category: Engenharia
-tags: [ia, qualidade, testes, observabilidade, fundamentos]
+tags: [ia, qualidade, testes, observabilidade, fundamentos, compreensao-de-codigo, educacao]
 description: "A provocação de Nir Shavit sobre código otimizado por máquinas e suas implicações para especificações, testes, arquitetura e educação."
 image: /assets/images/content/cartoon/blog-2026-12-10-e-se-o-codigo-deixar-de-ser-legivel-para-humanos.jpg
 image_alt: "Uma enxadrista observa curiosa um robô fazendo um lance inesperado num tabuleiro sem letras nem números, ao lado de uma caixa mecânica transparente com engrenagens intrincadas."

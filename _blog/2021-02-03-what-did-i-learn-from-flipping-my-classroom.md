@@ -1,4 +1,5 @@
 ---
+tags: [educacao, sala-de-aula-invertida]
 title: "O que aprendi ao inverter minha sala de aula"
 layout: post
 image: "/assets/images/content/cartoon/blog-2021-02-03-what-did-i-learn-from-flipping-my-classroom.jpg"

@@ -3,7 +3,7 @@ title: "Revolut e modelos internos: o custo vai além dos tokens"
 layout: post
 date: "2027-01-04T00:00:00-03:00"
 category: Engenharia
-tags: [ia, modelos, custos, claude, codex]
+tags: [ia, modelos, custos, claude, codex, glm]
 description: "O caso relatado da Revolut ao adotar GLM internamente e a importância de incluir infraestrutura, equipe e depreciação na conta."
 image: /assets/images/content/cartoon/blog-2027-01-04-revolut-e-modelos-internos-o-custo-vai-alem-dos-tokens.jpg
 image_alt: "Uma equipe cuida de uma estufa com grandes máquinas coloridas e um pequeno robô, enquanto uma pessoa pesa ferramentas e moedas sem inscrições numa balança."

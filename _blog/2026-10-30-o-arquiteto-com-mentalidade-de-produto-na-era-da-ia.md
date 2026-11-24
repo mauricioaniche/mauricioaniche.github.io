@@ -1,5 +1,5 @@
 ---
-tags: ["ia", "carreira", "arquitetura", "produto"]
+tags: [ia, carreira, arquitetura, produto, julgamento]
 title: "O arquiteto com mentalidade de produto na era da IA"
 layout: "post"
 date: "2026-10-30T00:00:00-03:00"

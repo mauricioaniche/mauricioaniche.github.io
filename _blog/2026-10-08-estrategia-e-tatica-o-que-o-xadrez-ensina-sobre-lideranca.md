@@ -1,4 +1,5 @@
 ---
+tags: [lideranca, julgamento]
 home_featured: 3
 title: "Estratégia e tática: o que o xadrez ensina sobre liderança"
 layout: "post"

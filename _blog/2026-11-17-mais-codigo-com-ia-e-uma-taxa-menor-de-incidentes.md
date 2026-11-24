@@ -1,5 +1,5 @@
 ---
-tags: [ia, agentes, revisao-de-codigo, qualidade, operacao]
+tags: [ia, agentes, revisao-de-codigo, qualidade, operacao, incidentes]
 title: "Mais código com IA e uma taxa menor de incidentes"
 layout: "post"
 date: "2026-11-17T00:00:00-03:00"

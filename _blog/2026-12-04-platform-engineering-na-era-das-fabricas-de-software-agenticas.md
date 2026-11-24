@@ -3,7 +3,7 @@ title: "Platform engineering na era das fábricas de software agênticas"
 layout: post
 date: "2026-12-04T00:00:00-03:00"
 category: Engenharia
-tags: [ia, plataforma, fabrica-de-software, agentes]
+tags: [ia, plataforma, fabrica-de-software, agentes, guardrails, human-in-the-loop]
 description: "O papel da engenharia de plataforma em oferecer um pipeline agêntico completo, com contexto, confiança e intervenção humana quando necessária."
 image: /assets/images/content/cartoon/blog-2026-12-04-platform-engineering-na-era-das-fabricas-de-software-agenticas.jpg
 image_alt: "Uma equipe monta uma estação ferroviária de brinquedo onde pequenos robôs levam peças por trilhos, com uma pessoa operando uma alavanca central de segurança."

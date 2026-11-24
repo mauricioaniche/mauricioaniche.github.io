@@ -3,7 +3,7 @@ title: "O que significa dívida técnica quando agentes mantêm o código?"
 layout: post
 date: "2027-01-07T00:00:00-03:00"
 category: Engenharia
-tags: [ia, qualidade, refatoracao, agentes]
+tags: [ia, qualidade, refatoracao, agentes, divida-tecnica, manutencao]
 description: "A provocação de Jorge Manrubia sobre repensar dívida técnica e métricas de complexidade quando agentes escrevem e mantêm software."
 image: /assets/images/content/cartoon/blog-2027-01-07-o-que-significa-divida-tecnica-quando-agentes-mantem-o-codigo.jpg
 image_alt: "Uma engenheira e um robô exploram uma casa de brinquedo com escadas sinuosas, descobrindo um caminho funcional entre cômodos coloridos."

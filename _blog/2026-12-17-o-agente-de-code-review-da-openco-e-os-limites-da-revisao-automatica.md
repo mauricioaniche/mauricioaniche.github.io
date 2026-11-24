@@ -3,7 +3,7 @@ title: "O agente de code review da OpenCo e os limites da revisão automática"
 layout: post
 date: "2026-12-17T00:00:00-03:00"
 category: Engenharia
-tags: [ia, revisao-de-codigo, agentes, custos]
+tags: [ia, revisao-de-codigo, agentes, custos, multiagentes, determinismo, contexto, guardrails]
 description: "O fluxo de revisão agêntica da OpenCo, com limites de custo e iterações, faixas de revisão e decisão humana antes do deploy."
 image: /assets/images/content/cartoon/blog-2026-12-17-o-agente-de-code-review-da-openco-e-os-limites-da-revisao-automatica.jpg
 image_alt: "Dois robôs inspecionam uma pequena ponte de blocos, um monta e o outro usa uma lupa, enquanto uma engenheira controla a cancela de saída."

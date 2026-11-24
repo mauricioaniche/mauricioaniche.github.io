@@ -1,5 +1,5 @@
 ---
-tags: [ia, codex, agentes, refatoracao]
+tags: [ia, codex, agentes, refatoracao, compreensao-de-codigo, produtividade]
 title: "Como a OpenAI usa Codex no dia a dia da engenharia"
 layout: "post"
 date: "2026-05-22T10:30:00-03:00"

@@ -1,5 +1,5 @@
 ---
-tags: [ia, fabrica-de-software, codex, revisao-de-codigo]
+tags: [ia, fabrica-de-software, codex, revisao-de-codigo, operacao, observabilidade, refatoracao]
 title: "O que aprendi sobre a fábrica de software agêntica da OpenAI"
 layout: "post"
 date: "2026-09-22T15:01:19.977411-03:00"

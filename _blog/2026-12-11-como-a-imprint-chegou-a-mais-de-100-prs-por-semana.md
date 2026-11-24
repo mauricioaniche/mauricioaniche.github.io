@@ -3,7 +3,7 @@ title: "Como a Imprint chegou a mais de 100 PRs por semana"
 layout: post
 date: "2026-12-11T00:00:00-03:00"
 category: Engenharia
-tags: [ia, entrega, agentes, contexto, revisao-de-codigo]
+tags: [ia, entrega, agentes, contexto, revisao-de-codigo, integracao-continua, fabrica-de-software, plataforma]
 description: "As mudanças de CI/CD, contexto, orquestração e revisão que ajudaram a Imprint a escalar a geração e o deploy de código."
 image: /assets/images/content/cartoon/blog-2026-12-11-como-a-imprint-chegou-a-mais-de-100-prs-por-semana.jpg
 image_alt: "Uma equipe de pessoas e robôs desobstrui sucessivos trechos de um canal de barcos de brinquedo, abrindo comportas para os barcos seguirem."

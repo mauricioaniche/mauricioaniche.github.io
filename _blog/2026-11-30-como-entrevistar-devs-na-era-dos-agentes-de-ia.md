@@ -1,5 +1,5 @@
 ---
-tags: [ia, carreira, agentes, julgamento, revisao-de-codigo, fundamentos]
+tags: [ia, carreira, agentes, julgamento, revisao-de-codigo, fundamentos, entrevistas-tecnicas, compreensao-de-codigo]
 title: "Como entrevistar devs quando todo candidato tem um agente de IA?"
 layout: post
 date: "2026-11-30T00:00:00-03:00"

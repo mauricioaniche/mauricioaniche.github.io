@@ -1,5 +1,5 @@
 ---
-tags: [ia, arquitetura, operacao, julgamento, senso-critico]
+tags: [ia, arquitetura, operacao, julgamento, senso-critico, carreira]
 title: "Escrever código não é resolver a engenharia de software"
 layout: "post"
 date: "2026-11-18T00:00:00-03:00"

@@ -3,7 +3,7 @@ title: "Soberania em IA é poder trocar de modelo"
 layout: post
 date: "2026-12-24T00:00:00-03:00"
 category: Engenharia
-tags: [ia, modelos, avaliacoes, arquitetura, custos]
+tags: [ia, modelos, avaliacoes, arquitetura, custos, soberania-em-ia]
 description: "Independência de modelos exige evals próprios, contratos, dados sob controle e processos seguros de troca e regressão."
 image: /assets/images/content/cartoon/blog-2026-12-24-soberania-em-ia-e-poder-trocar-de-modelo.jpg
 image_alt: "Uma engenheira troca uma peça de motor colorida por outra de formato compatível em um pequeno barco que continua firme no cais."

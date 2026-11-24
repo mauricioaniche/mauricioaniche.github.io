@@ -3,7 +3,7 @@ title: "Se a IA assume as tarefas simples, como formaremos os próximos seniores
 layout: post
 date: "2027-01-12T00:00:00-03:00"
 category: Engenharia
-tags: [ia, carreira, educacao, pesquisa]
+tags: [ia, carreira, educacao, pesquisa, mercado-de-trabalho, lideranca]
 description: "Um estudo de Stanford sobre contratação de jovens em ocupações expostas à IA provoca a discussão sobre formar a próxima geração de seniores."
 image: /assets/images/content/cartoon/blog-2027-01-12-se-a-ia-assume-as-tarefas-simples-como-formaremos-os-proximos-seniores.jpg
 image_alt: "Uma profissional experiente ajuda uma jovem adulta a subir uma escada de blocos de alturas graduais enquanto um robô oferece peças para reconstruir os primeiros degraus."

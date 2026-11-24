@@ -1,5 +1,5 @@
 ---
-tags: ["ia", "revisao-de-codigo", "senso-critico", "guardrails"]
+tags: [ia, revisao-de-codigo, senso-critico, guardrails, compreensao-de-codigo]
 title: "Revisar código de IA sem compreender cada linha"
 layout: "post"
 date: "2026-11-05T00:00:00-03:00"

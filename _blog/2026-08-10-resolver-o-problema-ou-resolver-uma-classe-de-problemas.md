@@ -1,4 +1,5 @@
 ---
+tags: [carreira, julgamento]
 title: "Resolver o problema ou resolver uma classe de problemas?"
 layout: "post"
 date: "2026-08-10T10:32:27.670353-03:00"

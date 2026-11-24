@@ -1,5 +1,5 @@
 ---
-tags: [entrega, qualidade, julgamento]
+tags: [entrega, qualidade, julgamento, divida-tecnica, clean-code]
 title: "Código não precisa ser perfeito para entregar valor"
 layout: "post"
 date: "2026-11-20T00:00:00-03:00"

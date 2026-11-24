@@ -1,5 +1,5 @@
 ---
-tags: [ia, multiagentes, produtividade, julgamento]
+tags: [ia, multiagentes, produtividade, julgamento, revisao-de-codigo, guardrails]
 title: "A taxa da orquestração: o custo de coordenar múltiplos agentes"
 layout: "post"
 date: "2026-06-12T10:40:22.623639-03:00"

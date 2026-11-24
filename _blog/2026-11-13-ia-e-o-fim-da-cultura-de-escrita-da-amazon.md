@@ -1,5 +1,5 @@
 ---
-tags: [ia, escrita, julgamento, senso-critico]
+tags: [ia, escrita, julgamento, senso-critico, lideranca, decisoes-reversiveis]
 title: "IA e o fim da cultura de escrita da Amazon"
 layout: "post"
 date: "2026-11-13T00:00:00-03:00"

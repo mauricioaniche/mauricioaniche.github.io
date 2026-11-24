@@ -5,7 +5,7 @@ title: "Qualidade de software no mundo de agentes de código"
 layout: post
 date: "2026-10-28T00:00:00-03:00"
 category: Engenharia
-tags: [ia, agentes, qualidade, produtividade, revisao-de-codigo, testes, guardrails, observabilidade, operacao, produto, plataforma, fabrica-de-software]
+tags: [ia, agentes, qualidade, produtividade, revisao-de-codigo, testes, guardrails, observabilidade, operacao, produto, plataforma, fabrica-de-software, contexto, julgamento, testes-end-to-end, geracao-de-testes]
 description: "Como escalar a confiança no software criado por agentes: qualidade de código, revisão por risco, testes, observabilidade, UX e fábricas de software."
 image: /assets/images/content/cartoon/blog-2026-10-28-qualidade-no-mundo-de-agentes-de-codigo.jpg
 image_alt: "Engenheira ajusta a montagem de um bondinho com um robô, enquanto outro engenheiro observa o teste em uma pista com cancela."

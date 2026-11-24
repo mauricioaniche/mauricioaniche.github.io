@@ -1,5 +1,5 @@
 ---
-tags: ["ia", "agentes", "testes", "avaliacoes"]
+tags: [ia, agentes, testes, avaliacoes, determinismo, observabilidade]
 title: "Fundamentos para testar sistemas agênticos"
 layout: "post"
 date: "2026-10-19T00:00:00-03:00"

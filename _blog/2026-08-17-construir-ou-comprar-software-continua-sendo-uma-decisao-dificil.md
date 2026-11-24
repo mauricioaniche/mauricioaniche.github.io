@@ -1,5 +1,5 @@
 ---
-tags: [ia, produto, custos, julgamento]
+tags: [ia, produto, custos, julgamento, saas, manutencao]
 title: "Construir ou comprar software continua sendo uma decisão difícil"
 layout: "post"
 date: "2026-08-17T10:54:14.151463-03:00"

@@ -3,7 +3,7 @@ title: "Código humano também tem problemas: repensando o clean code com IA"
 layout: post
 date: "2026-12-09T00:00:00-03:00"
 category: Engenharia
-tags: [ia, qualidade, senso-critico]
+tags: [ia, qualidade, senso-critico, divida-tecnica, clean-code, manutencao]
 description: "Uma provocação sobre código humano, clean code e as barreiras mentais que dificultam avaliar o código escrito e mantido por agentes."
 image: /assets/images/content/cartoon/blog-2026-12-09-codigo-humano-tambem-tem-problemas-repensando-o-clean-code-com-ia.jpg
 image_alt: "Uma pessoa e um robô consertam juntos uma cadeira colorida com encaixes imperfeitos mas firme, em uma oficina ensolarada."

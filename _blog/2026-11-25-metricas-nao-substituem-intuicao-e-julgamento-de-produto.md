@@ -2,7 +2,7 @@
 title: "Métricas não substituem intuição e julgamento de produto"
 layout: post
 date: "2026-11-25T00:00:00-03:00"
-tags: [produto, julgamento, lideranca]
+tags: [produto, julgamento, lideranca, metricas, intuicao]
 category: "Engenharia"
 description: "Uma reflexão sobre os limites das métricas nas decisões de produto e o papel da intuição, do conhecimento de domínio e do julgamento de quem lidera."
 image: "/assets/images/content/cartoon/blog-2026-11-25-metricas-nao-substituem-intuicao-e-julgamento-de-produto.jpg"

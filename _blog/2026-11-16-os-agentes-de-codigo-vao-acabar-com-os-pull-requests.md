@@ -1,5 +1,5 @@
 ---
-tags: [ia, agentes, revisao-de-codigo, entrega]
+tags: [ia, agentes, revisao-de-codigo, entrega, integracao-continua]
 title: "Os agentes de código vão acabar com os pull requests?"
 layout: "post"
 date: "2026-11-16T00:00:00-03:00"

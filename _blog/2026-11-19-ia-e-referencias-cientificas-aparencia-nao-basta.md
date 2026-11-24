@@ -1,5 +1,5 @@
 ---
-tags: [ia, pesquisa, guardrails, senso-critico]
+tags: [ia, pesquisa, guardrails, senso-critico, alucinacoes, referencias-cientificas]
 title: "IA e referências científicas: aparência não basta"
 layout: "post"
 date: "2026-11-19T00:00:00-03:00"

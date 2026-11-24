@@ -1,4 +1,5 @@
 ---
+tags: [carreira, pesquisa, escrita]
 title: "As vantagens de um doutorado em engenharia de software na indústria"
 layout: post
 image: "/assets/images/content/cartoon/blog-2023-09-07-advantages-phd-industry.jpg"

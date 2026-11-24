@@ -133,6 +133,26 @@ posts.each { |post| assert.call(full.include?("URL: #{origin}#{post.url}\n"), "P
 robots = File.read(File.join(root, 'robots.txt'))
 assert.call(robots.include?("Sitemap: #{origin}/sitemap.xml"), 'Missing sitemap in robots.txt')
 index = html.fetch(file_for.call('/indice'))
+taxonomy = site.data.fetch('ai_topics') + site.data.fetch('index_terms').fetch('entries')
+term_ids = taxonomy.map { |term| term.fetch('id') }
+assert.call(term_ids.uniq == term_ids, 'Duplicate taxonomy IDs')
+site.collections.fetch('blog').docs.each do |post|
+  tags = Array(post.data['tags'])
+  assert.call(tags.any? && tags.uniq == tags && (tags - term_ids).empty?, "Missing, duplicate or unknown blog tags: #{post.url}")
+end
+catalog_urls = index.css('#index-titulos [data-index-reference] > a').map { |node| node['href'] }
+posts.each do |post|
+  assert.call(catalog_urls.count(post.url) == 1, "Post missing or repeated in title index: #{post.url}")
+  article = html.fetch(file_for.call(post.url))
+  assert.call(article.css('.article-topics > li').size == post.data['tags'].size, "Blog tags are not all visible: #{post.url}")
+  post.data['tags'].each do |id|
+    references = index.css("#verbete-#{id} [data-index-reference] > a").map { |node| node['href'] }
+    assert.call(references.include?(post.url), "Tagged post missing from index term #{id}: #{post.url}")
+  end
+  article.css('.article-topics a').each do |link|
+    assert.call(file_for.call(link['href']), "Broken topic link: #{link['href']}")
+  end
+end
 index.css('[data-index-term]').each do |term|
   id = term['id'].delete_prefix('verbete-')
   page = html.fetch(file_for.call("/indice/#{id}/"))

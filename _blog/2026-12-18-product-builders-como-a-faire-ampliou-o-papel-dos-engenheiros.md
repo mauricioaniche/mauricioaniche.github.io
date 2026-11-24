@@ -3,7 +3,7 @@ title: "Product builders: como a Faire ampliou o papel dos engenheiros"
 layout: post
 date: "2026-12-18T00:00:00-03:00"
 category: Engenharia
-tags: [ia, produto, carreira, entrega]
+tags: [ia, produto, carreira, entrega, julgamento, product-builders]
 description: "Como a Faire distribuiu responsabilidades de design de produto entre engenheiros, PMs e especialistas para reduzir gargalos com IA."
 image: /assets/images/content/cartoon/blog-2026-12-18-product-builders-como-a-faire-ampliou-o-papel-dos-engenheiros.jpg
 image_alt: "Uma engenheira de avental monta uma casa de brinquedo conversando com uma cliente e uma designer ao redor de uma mesa redonda."

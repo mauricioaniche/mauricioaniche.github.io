@@ -3,7 +3,7 @@ title: "Ser dev continua sendo vantagem para empreender com IA"
 layout: post
 date: "2026-12-07T00:00:00-03:00"
 category: Engenharia
-tags: [ia, carreira, produto, agentes]
+tags: [ia, carreira, produto, agentes, empreendedorismo, vibe-coding]
 description: "Uma reflexão sobre MVPs, overengineering e por que engenheiros de software também podem aprender a priorizar o negócio ao empreender com IA."
 image: /assets/images/content/cartoon/blog-2026-12-07-ser-dev-continua-sendo-vantagem-para-empreender-com-ia.jpg
 image_alt: "Uma desenvolvedora e um pequeno robô abrem uma barraca de feira com uma invenção simples, enquanto uma caixa de peças extras fica guardada sob o balcão."

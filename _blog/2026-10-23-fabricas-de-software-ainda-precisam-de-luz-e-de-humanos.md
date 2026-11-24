@@ -1,5 +1,5 @@
 ---
-tags: ["ia", "fabrica-de-software", "agentes", "julgamento", "arquitetura"]
+tags: [ia, fabrica-de-software, agentes, julgamento, arquitetura, human-in-the-loop, manutencao]
 title: "Fábricas de software ainda precisam de luz e de humanos"
 layout: "post"
 date: "2026-10-23T00:00:00-03:00"

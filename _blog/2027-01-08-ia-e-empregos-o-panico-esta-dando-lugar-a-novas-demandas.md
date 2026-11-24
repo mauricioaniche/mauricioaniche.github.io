@@ -3,7 +3,7 @@ title: "IA e empregos: o pânico está dando lugar a novas demandas"
 layout: post
 date: "2027-01-08T00:00:00-03:00"
 category: Engenharia
-tags: [ia, carreira, adocao]
+tags: [ia, carreira, adocao, mercado-de-trabalho]
 description: "Uma leitura do post da a16z sobre sinais do mercado de trabalho e a demanda por profissionais capazes de transformar IA em produto e operação."
 image: /assets/images/content/cartoon/blog-2027-01-08-ia-e-empregos-o-panico-esta-dando-lugar-a-novas-demandas.jpg
 image_alt: "Pessoas de diferentes profissões e um pequeno robô constroem juntos uma praça alegre com bancos, plantas e luminárias."

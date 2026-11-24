@@ -3,7 +3,7 @@ title: "Ramp Router: escolher o modelo pela tarefa"
 layout: post
 date: "2027-01-05T00:00:00-03:00"
 category: Engenharia
-tags: [ia, modelos, custos, avaliacoes]
+tags: [ia, modelos, custos, avaliacoes, roteamento-de-modelos]
 description: "Como a Ramp usa roteamento central e benchmarks com tarefas reais para escolher modelos conforme custo, latência e trabalho a realizar."
 image: /assets/images/content/cartoon/blog-2027-01-05-ramp-router-escolher-o-modelo-pela-tarefa.jpg
 image_alt: "Uma controladora de tráfego orienta pequenos veículos de tamanhos diferentes para rotas diferentes em uma rotatória de brinquedo."

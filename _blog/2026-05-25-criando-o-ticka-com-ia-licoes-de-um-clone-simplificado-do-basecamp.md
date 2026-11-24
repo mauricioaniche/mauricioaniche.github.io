@@ -1,5 +1,5 @@
 ---
-tags: [ia, claude, agentes, contexto, produto]
+tags: [ia, claude, agentes, contexto, produto, revisao-de-codigo]
 title: "Criando o Ticka com IA: lições de um clone simplificado do Basecamp"
 layout: "post"
 date: "2026-05-25T10:30:31.317890-03:00"

@@ -1,5 +1,5 @@
 ---
-tags: ["ia", "produto", "operacao", "adocao"]
+tags: [ia, produto, operacao, adocao, saas, vibe-coding, manutencao]
 title: "Vibe coding não elimina o trabalho por trás de um SaaS"
 layout: "post"
 date: "2026-11-09T00:00:00-03:00"

@@ -14,14 +14,20 @@
   label: Carreira
 - id: claude
   label: Claude
-- id: codigo-aberto
-  label: Código aberto
 - id: codex
   label: Codex
+- id: codigo-aberto
+  label: Código aberto
+- id: compreensao-de-codigo
+  label: Compreensão de código
 - id: contexto
   label: Contexto e instruções
 - id: custos
   label: Custos e FinOps
+- id: determinismo
+  label: Determinismo
+- id: divida-tecnica
+  label: Dívida técnica
 - id: educacao
   label: Educação
 - id: entrega
@@ -32,8 +38,14 @@
   label: Fábricas de software
 - id: fundamentos
   label: Fundamentos de computação
+- id: geracao-de-testes
+  label: Geração de testes
 - id: guardrails
   label: Guardrails
+- id: human-in-the-loop
+  label: Human-in-the-loop
+- id: integracao-continua
+  label: Integração contínua
 - id: julgamento
   label: Julgamento técnico
 - id: kimi
@@ -42,6 +54,8 @@
   label: Kiro
 - id: lideranca
   label: Liderança
+- id: manutencao
+  label: Manutenção de software
 - id: memoria
   label: Memória dos agentes
 - id: modelos
@@ -68,9 +82,19 @@
   label: Refatoração e migrações
 - id: revisao-de-codigo
   label: Revisão de código
+- id: roteamento-de-modelos
+  label: Roteamento de modelos
+- id: saas
+  label: SaaS
 - id: seguranca
   label: Segurança
 - id: senso-critico
   label: Senso crítico
+- id: skills
+  label: Skills de agentes
 - id: testes
   label: Testes de software
+- id: testes-end-to-end
+  label: Testes end-to-end
+- id: vibe-coding
+  label: Vibe coding

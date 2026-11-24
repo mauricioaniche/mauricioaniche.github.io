@@ -1,4 +1,5 @@
 ---
+tags: [testes, qualidade, tdd]
 title: "Testar é diferente de escrever testes"
 layout: post
 image: "/assets/images/content/cartoon/blog-2018-06-21-testing-vs-writing-tests.jpg"

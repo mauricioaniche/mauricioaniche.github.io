@@ -3,7 +3,7 @@ title: "Como a Linear repensou a revisão de código com agentes"
 layout: post
 date: "2026-12-23T00:00:00-03:00"
 category: Engenharia
-tags: [ia, revisao-de-codigo, agentes, operacao]
+tags: [ia, revisao-de-codigo, agentes, operacao, guardrails]
 description: "A Linear tornou a segunda revisão humana opcional, usando revisão agêntica, confiança do autor, feature flags e facilidade de rollback."
 image: /assets/images/content/cartoon/blog-2026-12-23-como-a-linear-repensou-a-revisao-de-codigo-com-agentes.jpg
 image_alt: "Uma ciclista acompanhada de um pequeno robô ajusta sua bicicleta e abre uma cancela por conta própria, com outra pessoa disponível para ajudar junto à oficina."

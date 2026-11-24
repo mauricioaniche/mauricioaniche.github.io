@@ -3,7 +3,7 @@ title: "O futuro do SaaS depende de quem compra o software"
 layout: post
 date: "2026-12-16T00:00:00-03:00"
 category: Engenharia
-tags: [ia, produto, adocao]
+tags: [ia, produto, adocao, saas, custos]
 description: "Como a capacidade e a vontade de construir software dentro de casa mudam a análise do futuro do SaaS para diferentes públicos."
 image: /assets/images/content/cartoon/blog-2026-12-16-o-futuro-do-saas-depende-de-quem-compra-o-software.jpg
 image_alt: "Numa padaria alegre, clientes escolhem pães no balcão enquanto ao fundo uma pessoa experimenta fazer seu próprio pão em uma pequena bancada."

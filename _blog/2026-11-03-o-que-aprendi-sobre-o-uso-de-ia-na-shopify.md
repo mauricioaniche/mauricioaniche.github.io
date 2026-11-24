@@ -1,5 +1,5 @@
 ---
-tags: ["ia", "plataforma", "multiagentes", "contexto", "guardrails", "produtividade"]
+tags: [ia, plataforma, multiagentes, contexto, guardrails, produtividade, custos, human-in-the-loop]
 title: "O que aprendi sobre o uso de IA na Shopify"
 layout: "post"
 date: "2026-11-03T00:00:00-03:00"

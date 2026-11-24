@@ -1,5 +1,5 @@
 ---
-tags: ["ia", "agentes", "qualidade", "julgamento", "opencode"]
+tags: [ia, agentes, qualidade, julgamento, opencode, divida-tecnica]
 title: "Agentes de IA e o desconforto de criar dívida técnica"
 layout: "post"
 date: "2026-10-20T00:00:00-03:00"

@@ -1,5 +1,5 @@
 ---
-tags: [ia, revisao-de-codigo, guardrails, entrega]
+tags: [ia, revisao-de-codigo, guardrails, entrega, integracao-continua]
 title: "Small-change: acelerando a revisão de código na Imprint"
 layout: "post"
 date: "2026-11-24T00:00:00-03:00"

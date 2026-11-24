@@ -1,7 +1,7 @@
 ---
 home_featured: 4
 ia_favorite: 1
-tags: [ia, testes, avaliacoes, agentes, observabilidade]
+tags: [ia, testes, avaliacoes, agentes, observabilidade, determinismo, testes-end-to-end]
 title: "Testando sistemas agênticos: aprendendo com o passado para testar o futuro"
 layout: post
 image: /assets/images/blog/cartoon/testando-agentes-cartoon.jpg

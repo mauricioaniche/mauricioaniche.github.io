@@ -1,5 +1,5 @@
 ---
-tags: [ia, educacao, carreira]
+tags: [ia, educacao, carreira, lideranca]
 title: "As habilidades mais buscadas e o desafio de preparar os times"
 layout: "post"
 date: "2026-07-22T09:05:11.165785-03:00"

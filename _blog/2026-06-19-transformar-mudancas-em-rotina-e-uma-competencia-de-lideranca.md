@@ -1,4 +1,5 @@
 ---
+tags: [lideranca]
 title: "Transformar mudanças em rotina é uma competência de liderança"
 layout: "post"
 date: "2026-06-19T11:53:13.546321-03:00"

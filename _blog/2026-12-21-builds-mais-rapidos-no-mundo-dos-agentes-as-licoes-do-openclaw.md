@@ -3,7 +3,7 @@ title: "Builds mais rápidos no mundo dos agentes: as lições do OpenClaw"
 layout: post
 date: "2026-12-21T00:00:00-03:00"
 category: Engenharia
-tags: [ia, testes, entrega, custos]
+tags: [ia, testes, entrega, custos, integracao-continua, selecao-de-testes]
 description: "Reduzir desperdício, selecionar testes e organizar os estágios da CI para acelerar builds num cenário de mais PRs gerados por agentes."
 image: /assets/images/content/cartoon/blog-2026-12-21-builds-mais-rapidos-no-mundo-dos-agentes-as-licoes-do-openclaw.jpg
 image_alt: "Uma equipe organiza uma pista de bolinhas de gude, retira desvios desnecessários e escolhe caminhos curtos com pequenas comportas."

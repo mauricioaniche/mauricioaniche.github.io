@@ -1,5 +1,5 @@
 ---
-tags: ["ia", "agentes", "arquitetura"]
+tags: [ia, agentes, arquitetura, determinismo]
 title: "Decisões determinísticas em sistemas agênticos"
 layout: "post"
 date: "2026-10-26T00:00:00-03:00"

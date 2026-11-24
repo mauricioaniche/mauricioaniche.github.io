@@ -3,7 +3,7 @@ title: "Com agentes de IA, precisamos ir além dos testes de unidade"
 layout: post
 date: "2026-12-03T00:00:00-03:00"
 category: Engenharia
-tags: [ia, agentes, testes, qualidade]
+tags: [ia, agentes, testes, qualidade, testes-end-to-end, geracao-de-testes]
 description: "Testes de unidade dão feedback rápido aos agentes de IA, mas testes e2e e exploração da aplicação ajudam a construir confiança na experiência do usuário."
 image: /assets/images/content/cartoon/blog-2026-12-03-com-agentes-de-ia-precisamos-ir-alem-dos-testes-de-unidade.jpg
 image_alt: "Uma engenheira e um robô observam um barco de brinquedo percorrer um canal, com peças avulsas na margem."

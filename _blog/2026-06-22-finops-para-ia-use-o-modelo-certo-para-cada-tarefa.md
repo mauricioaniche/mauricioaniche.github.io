@@ -1,5 +1,5 @@
 ---
-tags: [ia, custos, modelos]
+tags: [ia, custos, modelos, roteamento-de-modelos]
 title: "FinOps para IA: use o modelo certo para cada tarefa"
 layout: "post"
 date: "2026-06-22T10:00:15.767178-03:00"

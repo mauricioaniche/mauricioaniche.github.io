@@ -3,7 +3,7 @@ title: "Flexport: o modelo certo para cada tarefa agêntica"
 layout: post
 date: "2027-01-06T00:00:00-03:00"
 category: Engenharia
-tags: [ia, modelos, custos, avaliacoes]
+tags: [ia, modelos, custos, avaliacoes, roteamento-de-modelos, arquitetura]
 description: "Evals com interações reais ajudaram a Flexport a definir um roteamento simples entre modelos e reduzir custos com perdas limitadas de qualidade."
 image: /assets/images/content/cartoon/blog-2027-01-06-flexport-o-modelo-certo-para-cada-tarefa-agentica.jpg
 image_alt: "Num porto de brinquedo uma pessoa escolhe barcos de tamanhos diferentes para transportar pequenas cargas adequadas a cada embarcação."

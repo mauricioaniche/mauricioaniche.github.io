@@ -1,5 +1,5 @@
 ---
-tags: [ia, pesquisa, contexto, fundamentos]
+tags: [ia, pesquisa, contexto, fundamentos, tipagem, preenchimento-de-codigo]
 title: "Tipos e contexto ajudam os LLMs a completar código"
 layout: "post"
 date: "2026-11-23T00:00:00-03:00"

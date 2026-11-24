@@ -2,7 +2,7 @@
 title: "O que muda e o que continua na engenharia de software com IA"
 layout: post
 date: "2026-11-27T00:00:00-03:00"
-tags: [ia, adocao, lideranca, produtividade, produto, julgamento]
+tags: [ia, adocao, lideranca, produtividade, produto, julgamento, carreira, educacao, metricas]
 category: "Engenharia"
 description: "Reflexões sobre as novas diretrizes da Amazon para devs: adoção de IA, métricas de uso, aprendizado da liderança e proximidade com o usuário."
 image: "/assets/images/content/cartoon/blog-2026-11-27-o-que-muda-e-o-que-continua-na-engenharia-de-software-com-ia.jpg"

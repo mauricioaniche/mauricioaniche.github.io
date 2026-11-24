@@ -4,7 +4,7 @@ layout: post
 date: "2026-12-02T00:00:00-03:00"
 category: Engenharia
 source_name: "The AI-pilled Software Factory"
-tags: [ia, fabrica-de-software, adocao, custos, memoria]
+tags: [ia, fabrica-de-software, adocao, custos, memoria, skills]
 description: "As cinco capacidades propostas por Ann Miura-Ko, o alerta do ROI rot e as fábricas de software com IA para além dos times de engenharia."
 image: /assets/images/content/cartoon/blog-2026-12-02-fabricas-de-software-com-ia-ver-construir-propagar-lembrar-e-perceber.jpg
 image_alt: "Colegas de diferentes áreas montam e compartilham uma pequena máquina de organizar cartões, com ajuda de um robô."

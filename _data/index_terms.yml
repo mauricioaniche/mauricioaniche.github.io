@@ -17,7 +17,8 @@ topics:
   bem-estar:
     aliases: [bem-estar, descanso, descansar]
   carreira:
-    aliases: [carreira, career, doutorado, phd]
+    aliases: [carreira, career, careers, crescimento profissional, desenvolvimento profissional, senioridade, doutorado, phd]
+    categories: [Carreira]
   claude:
     kind: ferramentas
     aliases: [Claude Code, Claude]
@@ -26,12 +27,12 @@ topics:
   codex:
     kind: ferramentas
   contexto:
-    aliases: [contexto, context, instruções]
+    aliases: [contexto, context, instruções, engenharia de contexto, context engineering, AGENTS.md]
   custos:
-    aliases: [custos, custo, costs, finops]
+    aliases: [custos, custo, costs, finops, custo de IA, custos de IA, custo da IA, custos da IA, AI costs, retorno sobre investimento, ROI]
   educacao:
-    aliases: [educação, education, ensino, aprendizagem, upskilling, onboarding]
-    categories: [education, upskilling]
+    aliases: [educação, education, ensino, aprendizagem, aprendizado, capacitação, treinamento, formação de desenvolvedores, formação de juniores, formação de seniores, mentoria, mentoring, upskilling, onboarding]
+    categories: [education, upskilling, Educação]
   entrega:
     aliases: [entrega, delivery, lead time, lead times]
   escrita:
@@ -49,11 +50,12 @@ topics:
   kiro:
     kind: ferramentas
   lideranca:
-    aliases: [liderança, liderança técnica, leadership]
+    aliases: [liderança, liderança técnica, gestão de equipes, gestão de times, leadership, engineering management]
+    categories: [Liderança]
   memoria:
     aliases: [memória, memory]
   modelos:
-    aliases: [escolha de modelos, seleção de modelos]
+    aliases: [escolha de modelos, seleção de modelos, model selection]
   multiagentes:
     aliases: [multiagentes, multi-agent, múltiplos agentes]
   observabilidade:
@@ -76,7 +78,7 @@ topics:
   refatoracao:
     aliases: [refatoração, refactoring, re-modularization, migração, migrações, migration]
   revisao-de-codigo:
-    aliases: [revisão de código, code review, code reviews, pull request, pull requests]
+    aliases: [revisão de código, revisões de código, revisão de código com IA, revisão automática, revisão automatizada, code review, code reviews, code-review]
     categories: [code reviews]
   seguranca:
     aliases: [segurança, security, vulnerabilidade, vulnerabilidades]
@@ -86,6 +88,44 @@ topics:
   testes:
     aliases: [testes, teste, testing, test, tests]
     categories: [testing]
+
+  compreensao-de-codigo:
+    aliases: [compreensão de código, leitura de código, legibilidade, code comprehension, program comprehension, code readability, human readable code, comprehending, atoms of confusion]
+    categories: [comprehension]
+
+  determinismo:
+    aliases: [determinismo, determinístico, determinísticos, determinísticas, determinística, não-determinismo]
+
+  divida-tecnica:
+    aliases: [dívida técnica, technical debt, gambiarras]
+
+  geracao-de-testes:
+    aliases: [geração de testes, test generation, test data generation, testes gerados]
+
+  human-in-the-loop:
+    aliases: [human-in-the-loop, humano no loop, pessoa no loop, intervenção humana]
+
+  integracao-continua:
+    aliases: [integração contínua, continuous integration]
+
+  manutencao:
+    aliases: [manutenção, maintenance]
+    categories: [maintenance]
+
+  roteamento-de-modelos:
+    aliases: [roteamento de modelos, roteamento inteligente, rotear, roteador, roteamento, model routing, Ramp Router]
+
+  saas:
+    aliases: [SaaS, micro-SaaS, micro SaaS, software-as-a-service, software as a service, build vs buy, construir ou comprar]
+
+  skills:
+    aliases: [skill, skills]
+
+  vibe-coding:
+    aliases: [vibe-codando, vibe codar]
+
+  testes-end-to-end:
+    aliases: [teste end-to-end, testes end-to-end, end-to-end testing, testes e2e, teste e2e, testes de ponta a ponta]
 
 entries:
   - id: playwright
@@ -120,7 +160,7 @@ entries:
     aliases: [macroeconomia, macroeconômico, juros]
   - id: mercado-de-trabalho
     label: Mercado de trabalho
-    aliases: [mercado de dev, mercado de desenvolvimento, primeiro emprego]
+    aliases: [mercado de dev, mercado de desenvolvimento, mercado de trabalho, primeiro emprego, empregos, vagas, contratações, job market]
   - id: fischer-karin
     label: Fischer, Karin
     kind: pessoas
@@ -138,7 +178,7 @@ entries:
     kind: organizacoes
   - id: entrevistas-tecnicas
     label: Entrevistas técnicas e contratação
-    aliases: [entrevista técnica, entrevistas técnicas, contratação, contratar]
+    aliases: [entrevista técnica, entrevistas técnicas, contratação, contratar, hiring, technical interviews]
   - id: pruett-jd
     label: Pruett, JD
     kind: pessoas
@@ -146,17 +186,6 @@ entries:
   - id: how-to-hire-in-the-age-of-ai
     label: How to Hire in the Age of AI
     kind: obras
-  - id: divida-tecnica
-    label: Dívida técnica
-    aliases: [dívida técnica, technical debt, gambiarras]
-  - id: determinismo
-    label: Determinismo
-    aliases: [determinismo, determinístico, determinísticas, determinística, não-determinismo]
-  - id: saas
-    label: SaaS
-  - id: vibe-coding
-    label: Vibe coding
-    aliases: [vibe-codando, vibe codar]
   - id: uber
     label: Uber
     kind: organizacoes
@@ -231,10 +260,6 @@ entries:
     label: APIs e bibliotecas
     aliases: [API, APIs, bibliotecas, third-party libraries]
     categories: [api]
-  - id: compreensao-de-codigo
-    label: Compreensão de código
-    aliases: [compreensão de código, code comprehension, comprehending, atoms of confusion]
-    categories: [comprehension]
   - id: cobertura-de-testes
     label: Cobertura de testes
     aliases: [cobertura, coverage]
@@ -251,19 +276,12 @@ entries:
     label: Fatores humanos
     aliases: [fatores humanos, human factors, perceptions]
     categories: [human-factors]
-  - id: geracao-de-testes
-    label: Geração de testes
-    aliases: [geração de testes, test generation, test data generation, testes gerados]
   - id: idempotencia
     label: Idempotência e retentativas
     aliases: [idempotência, retentativas]
-  - id: manutencao
-    label: Manutenção de software
-    aliases: [manutenção, maintenance]
-    categories: [maintenance]
   - id: metricas
     label: Métricas
-    aliases: [métricas, métricas de código, code metrics, code metric]
+    aliases: [métricas, indicadores, metrics, code metrics, code metric]
   - id: mineracao-de-repositorios
     label: Mineração de repositórios
     aliases: [mineração de repositórios, mining software repositories, mining challenge]
@@ -507,9 +525,6 @@ entries:
     label: Farley, Dave
     kind: pessoas
     aliases: [Dave Farley]
-  - id: integracao-continua
-    label: Integração contínua
-    aliases: [integração contínua, continuous integration]
   - id: evans-chris
     label: Evans, Chris
     kind: pessoas
@@ -749,9 +764,6 @@ entries:
   - id: sonnet
     label: Sonnet
     kind: ferramentas
-  - id: skills
-    label: Skills de agentes
-    aliases: [skill, skills]
   - id: mcp
     label: Model Context Protocol (MCP)
     kind: ferramentas
@@ -759,18 +771,12 @@ entries:
   - id: product-builders
     label: Product builders
     aliases: [product builder, construtores de produtos]
-  - id: roteamento-de-modelos
-    label: Roteamento de modelos
-    aliases: [roteador, roteamento, Ramp Router]
   - id: empreendedorismo
     label: Empreendedorismo com IA
     aliases: [empreendedorismo, empreender, empreendedor, MVP, overengineering]
   - id: soberania-em-ia
     label: Soberania em IA
     aliases: [soberania, independência do modelo, independência de modelos]
-  - id: human-in-the-loop
-    label: Human-in-the-loop
-    aliases: [human-in-the-loop, humano no loop, pessoa no loop, intervenção humana]
   - id: shavit-nir
     label: Shavit, Nir
     kind: pessoas
@@ -817,3 +823,36 @@ entries:
   - id: ten-principles-for-growth-as-an-engineer
     label: Ten principles for growth as an engineer
     kind: obras
+  - id: circleci
+    label: CircleCI
+    kind: ferramentas
+  - id: thoughtworks
+    label: Thoughtworks
+    kind: organizacoes
+  - id: langchain
+    label: LangChain
+    kind: ferramentas
+  - id: 1password
+    label: 1Password
+    kind: organizacoes
+  - id: moonshot-ai
+    label: Moonshot AI
+    kind: organizacoes
+  - id: scion
+    label: Scion
+    kind: ferramentas
+  - id: kastner-christian
+    label: Kästner, Christian
+    kind: pessoas
+    aliases: [Christian Kästner, Christian Kastner]
+  - id: leitner-philipp
+    label: Leitner, Philipp
+    kind: pessoas
+    aliases: [Philipp Leitner]
+  - id: the-orchestration-tax
+    label: The Orchestration Tax
+    kind: obras
+    aliases: [orchestration tax, taxa da orquestração]
+  - id: programacao-pareada
+    label: Programação pareada
+    aliases: [programação pareada, programação em pares, pair programming]
