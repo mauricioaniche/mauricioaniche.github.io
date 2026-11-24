@@ -2045,6 +2045,236 @@
       "archived_original": "output/imagegen-originals/blog-2026-12-03-com-agentes-de-ia-precisamos-ir-alem-dos-testes-de-unidade.png",
       "status": "complete",
       "generation_mode": "built-in image_gen"
+    },
+    {
+      "id": "blog-2026-12-04-platform-engineering-na-era-das-fabricas-de-software-agenticas",
+      "path": "_blog/2026-12-04-platform-engineering-na-era-das-fabricas-de-software-agenticas.md",
+      "title": "Platform engineering na era das fábricas de software agênticas",
+      "scene": "Uma equipe monta uma estação ferroviária de brinquedo onde pequenos robôs levam peças por trilhos, com uma pessoa operando uma alavanca central de segurança.",
+      "alt": "Uma equipe monta uma estação ferroviária de brinquedo onde pequenos robôs levam peças por trilhos, com uma pessoa operando uma alavanca central de segurança.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-04-platform-engineering-na-era-das-fabricas-de-software-agenticas.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Platform engineering na era das fábricas de software agênticas. O papel da engenharia de plataforma em oferecer um pipeline agêntico completo, com contexto, confiança e intervenção humana quando necessária.\nScene: Uma equipe monta uma estação ferroviária de brinquedo onde pequenos robôs levam peças por trilhos, com uma pessoa operando uma alavanca central de segurança.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: turquesa, coral e amarelo. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2026-12-07-ser-dev-continua-sendo-vantagem-para-empreender-com-ia",
+      "path": "_blog/2026-12-07-ser-dev-continua-sendo-vantagem-para-empreender-com-ia.md",
+      "title": "Ser dev continua sendo vantagem para empreender com IA",
+      "scene": "Uma desenvolvedora e um pequeno robô abrem uma barraca de feira com uma invenção simples, enquanto uma caixa de peças extras fica guardada sob o balcão.",
+      "alt": "Uma desenvolvedora e um pequeno robô abrem uma barraca de feira com uma invenção simples, enquanto uma caixa de peças extras fica guardada sob o balcão.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-07-ser-dev-continua-sendo-vantagem-para-empreender-com-ia.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Ser dev continua sendo vantagem para empreender com IA. Uma reflexão sobre MVPs, overengineering e por que engenheiros de software também podem aprender a priorizar o negócio ao empreender com IA.\nScene: Uma desenvolvedora e um pequeno robô abrem uma barraca de feira com uma invenção simples, enquanto uma caixa de peças extras fica guardada sob o balcão.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: laranja, azul royal e creme. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2026-12-08-ia-na-ciencia-executar-a-pesquisa-e-diferente-de-escolher-a-pergunta",
+      "path": "_blog/2026-12-08-ia-na-ciencia-executar-a-pesquisa-e-diferente-de-escolher-a-pergunta.md",
+      "title": "IA na ciência: executar a pesquisa é diferente de escolher a pergunta",
+      "scene": "Uma cientista escolhe com uma lupa uma semente em um laboratório-jardim, enquanto um robô cuida com precisão de vasos de plantas.",
+      "alt": "Uma cientista escolhe com uma lupa uma semente em um laboratório-jardim, enquanto um robô cuida com precisão de vasos de plantas.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-08-ia-na-ciencia-executar-a-pesquisa-e-diferente-de-escolher-a-pergunta.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): IA na ciência: executar a pesquisa é diferente de escolher a pergunta. Modelos avançam no desenho e na execução técnica de estudos, enquanto escolher perguntas interessantes continua exigindo julgamento humano.\nScene: Uma cientista escolhe com uma lupa uma semente em um laboratório-jardim, enquanto um robô cuida com precisão de vasos de plantas.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: verde folha, lilás e rosa. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2026-12-09-codigo-humano-tambem-tem-problemas-repensando-o-clean-code-com-ia",
+      "path": "_blog/2026-12-09-codigo-humano-tambem-tem-problemas-repensando-o-clean-code-com-ia.md",
+      "title": "Código humano também tem problemas: repensando o clean code com IA",
+      "scene": "Uma pessoa e um robô consertam juntos uma cadeira colorida com encaixes imperfeitos mas firme, em uma oficina ensolarada.",
+      "alt": "Uma pessoa e um robô consertam juntos uma cadeira colorida com encaixes imperfeitos mas firme, em uma oficina ensolarada.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-09-codigo-humano-tambem-tem-problemas-repensando-o-clean-code-com-ia.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Código humano também tem problemas: repensando o clean code com IA. Uma provocação sobre código humano, clean code e as barreiras mentais que dificultam avaliar o código escrito e mantido por agentes.\nScene: Uma pessoa e um robô consertam juntos uma cadeira colorida com encaixes imperfeitos mas firme, em uma oficina ensolarada.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: vermelho tomate, azul celeste e mel. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2026-12-10-e-se-o-codigo-deixar-de-ser-legivel-para-humanos",
+      "path": "_blog/2026-12-10-e-se-o-codigo-deixar-de-ser-legivel-para-humanos.md",
+      "title": "E se o código deixar de ser legível para humanos?",
+      "scene": "Uma enxadrista observa curiosa um robô fazendo um lance inesperado num tabuleiro sem letras nem números, ao lado de uma caixa mecânica transparente com engrenagens intrincadas.",
+      "alt": "Uma enxadrista observa curiosa um robô fazendo um lance inesperado num tabuleiro sem letras nem números, ao lado de uma caixa mecânica transparente com engrenagens intrincadas.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-10-e-se-o-codigo-deixar-de-ser-legivel-para-humanos.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): E se o código deixar de ser legível para humanos?. A provocação de Nir Shavit sobre código otimizado por máquinas e suas implicações para especificações, testes, arquitetura e educação.\nScene: Uma enxadrista observa curiosa um robô fazendo um lance inesperado num tabuleiro sem letras nem números, ao lado de uma caixa mecânica transparente com engrenagens intrincadas.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: índigo, pêssego e dourado. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2026-12-11-como-a-imprint-chegou-a-mais-de-100-prs-por-semana",
+      "path": "_blog/2026-12-11-como-a-imprint-chegou-a-mais-de-100-prs-por-semana.md",
+      "title": "Como a Imprint chegou a mais de 100 PRs por semana",
+      "scene": "Uma equipe de pessoas e robôs desobstrui sucessivos trechos de um canal de barcos de brinquedo, abrindo comportas para os barcos seguirem.",
+      "alt": "Uma equipe de pessoas e robôs desobstrui sucessivos trechos de um canal de barcos de brinquedo, abrindo comportas para os barcos seguirem.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-11-como-a-imprint-chegou-a-mais-de-100-prs-por-semana.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Como a Imprint chegou a mais de 100 PRs por semana. As mudanças de CI/CD, contexto, orquestração e revisão que ajudaram a Imprint a escalar a geração e o deploy de código.\nScene: Uma equipe de pessoas e robôs desobstrui sucessivos trechos de um canal de barcos de brinquedo, abrindo comportas para os barcos seguirem.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: azul oceano, coral e verde menta. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2026-12-14-essa-app-seria-melhor-se-tivesse-sido-feita-por-ia",
+      "path": "_blog/2026-12-14-essa-app-seria-melhor-se-tivesse-sido-feita-por-ia.md",
+      "title": "Essa app seria melhor se tivesse sido feita por IA",
+      "scene": "Uma pessoa divertida compara um carrinho de brinquedo com rodas tortas a um carrinho caprichado que um pequeno robô acaba de montar numa bancada.",
+      "alt": "Uma pessoa divertida compara um carrinho de brinquedo com rodas tortas a um carrinho caprichado que um pequeno robô acaba de montar numa bancada.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-14-essa-app-seria-melhor-se-tivesse-sido-feita-por-ia.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Essa app seria melhor se tivesse sido feita por IA. Uma inversão do sentimento de rejeição a apps feitas por IA: diante de uma aplicação ruim, pensar que a IA poderia ter feito melhor.\nScene: Uma pessoa divertida compara um carrinho de brinquedo com rodas tortas a um carrinho caprichado que um pequeno robô acaba de montar numa bancada.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: amarelo solar, violeta e turquesa. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2026-12-15-a-coragem-de-usar-ia-faz-diferenca",
+      "path": "_blog/2026-12-15-a-coragem-de-usar-ia-faz-diferenca.md",
+      "title": "A coragem de usar IA faz diferença",
+      "scene": "Uma pessoa e um robô dão um primeiro salto confiante em pedras sobre um riacho raso de um parque colorido.",
+      "alt": "Uma pessoa e um robô dão um primeiro salto confiante em pedras sobre um riacho raso de um parque colorido.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-15-a-coragem-de-usar-ia-faz-diferenca.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): A coragem de usar IA faz diferença. A reflexão de Karri Saarinen sobre ambição e experimentação no uso de agentes, aplicada também à prática individual de desenvolvimento.\nScene: Uma pessoa e um robô dão um primeiro salto confiante em pedras sobre um riacho raso de um parque colorido.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: verde esmeralda, tangerina e céu azul. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2026-12-16-o-futuro-do-saas-depende-de-quem-compra-o-software",
+      "path": "_blog/2026-12-16-o-futuro-do-saas-depende-de-quem-compra-o-software.md",
+      "title": "O futuro do SaaS depende de quem compra o software",
+      "scene": "Numa padaria alegre, clientes escolhem pães no balcão enquanto ao fundo uma pessoa experimenta fazer seu próprio pão em uma pequena bancada.",
+      "alt": "Numa padaria alegre, clientes escolhem pães no balcão enquanto ao fundo uma pessoa experimenta fazer seu próprio pão em uma pequena bancada.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-16-o-futuro-do-saas-depende-de-quem-compra-o-software.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): O futuro do SaaS depende de quem compra o software. Como a capacidade e a vontade de construir software dentro de casa mudam a análise do futuro do SaaS para diferentes públicos.\nScene: Numa padaria alegre, clientes escolhem pães no balcão enquanto ao fundo uma pessoa experimenta fazer seu próprio pão em uma pequena bancada.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: terracota, creme e azul petróleo. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2026-12-17-o-agente-de-code-review-da-openco-e-os-limites-da-revisao-automatica",
+      "path": "_blog/2026-12-17-o-agente-de-code-review-da-openco-e-os-limites-da-revisao-automatica.md",
+      "title": "O agente de code review da OpenCo e os limites da revisão automática",
+      "scene": "Dois robôs inspecionam uma pequena ponte de blocos, um monta e o outro usa uma lupa, enquanto uma engenheira controla a cancela de saída.",
+      "alt": "Dois robôs inspecionam uma pequena ponte de blocos, um monta e o outro usa uma lupa, enquanto uma engenheira controla a cancela de saída.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-17-o-agente-de-code-review-da-openco-e-os-limites-da-revisao-automatica.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): O agente de code review da OpenCo e os limites da revisão automática. O fluxo de revisão agêntica da OpenCo, com limites de custo e iterações, faixas de revisão e decisão humana antes do deploy.\nScene: Dois robôs inspecionam uma pequena ponte de blocos, um monta e o outro usa uma lupa, enquanto uma engenheira controla a cancela de saída.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: vermelho coral, azul cobalto e amarelo. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2026-12-18-product-builders-como-a-faire-ampliou-o-papel-dos-engenheiros",
+      "path": "_blog/2026-12-18-product-builders-como-a-faire-ampliou-o-papel-dos-engenheiros.md",
+      "title": "Product builders: como a Faire ampliou o papel dos engenheiros",
+      "scene": "Uma engenheira de avental monta uma casa de brinquedo conversando com uma cliente e uma designer ao redor de uma mesa redonda.",
+      "alt": "Uma engenheira de avental monta uma casa de brinquedo conversando com uma cliente e uma designer ao redor de uma mesa redonda.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-18-product-builders-como-a-faire-ampliou-o-papel-dos-engenheiros.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Product builders: como a Faire ampliou o papel dos engenheiros. Como a Faire distribuiu responsabilidades de design de produto entre engenheiros, PMs e especialistas para reduzir gargalos com IA.\nScene: Uma engenheira de avental monta uma casa de brinquedo conversando com uma cliente e uma designer ao redor de uma mesa redonda.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: rosa goiaba, verde jade e mostarda. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2026-12-21-builds-mais-rapidos-no-mundo-dos-agentes-as-licoes-do-openclaw",
+      "path": "_blog/2026-12-21-builds-mais-rapidos-no-mundo-dos-agentes-as-licoes-do-openclaw.md",
+      "title": "Builds mais rápidos no mundo dos agentes: as lições do OpenClaw",
+      "scene": "Uma equipe organiza uma pista de bolinhas de gude, retira desvios desnecessários e escolhe caminhos curtos com pequenas comportas.",
+      "alt": "Uma equipe organiza uma pista de bolinhas de gude, retira desvios desnecessários e escolhe caminhos curtos com pequenas comportas.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-21-builds-mais-rapidos-no-mundo-dos-agentes-as-licoes-do-openclaw.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Builds mais rápidos no mundo dos agentes: as lições do OpenClaw. Reduzir desperdício, selecionar testes e organizar os estágios da CI para acelerar builds num cenário de mais PRs gerados por agentes.\nScene: Uma equipe organiza uma pista de bolinhas de gude, retira desvios desnecessários e escolhe caminhos curtos com pequenas comportas.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: azul piscina, laranja e violeta. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2026-12-22-o-conselho-de-satya-nadella-sobre-ia-faca-mais-aprenda-mais-pratique",
+      "path": "_blog/2026-12-22-o-conselho-de-satya-nadella-sobre-ia-faca-mais-aprenda-mais-pratique.md",
+      "title": "O conselho de Satya Nadella sobre IA: faça mais, aprenda mais, pratique",
+      "scene": "Uma adulta aprende a modelar uma tigela de barro com as mãos, acompanhada por um pequeno robô curioso numa oficina luminosa.",
+      "alt": "Uma adulta aprende a modelar uma tigela de barro com as mãos, acompanhada por um pequeno robô curioso numa oficina luminosa.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-22-o-conselho-de-satya-nadella-sobre-ia-faca-mais-aprenda-mais-pratique.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): O conselho de Satya Nadella sobre IA: faça mais, aprenda mais, pratique. O conselho de Satya Nadella no podcast do Pragmatic Engineer para quem está tentando entender IA: aprender com mais prática.\nScene: Uma adulta aprende a modelar uma tigela de barro com as mãos, acompanhada por um pequeno robô curioso numa oficina luminosa.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: pêssego, azul claro e verde pistache. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2026-12-23-como-a-linear-repensou-a-revisao-de-codigo-com-agentes",
+      "path": "_blog/2026-12-23-como-a-linear-repensou-a-revisao-de-codigo-com-agentes.md",
+      "title": "Como a Linear repensou a revisão de código com agentes",
+      "scene": "Uma ciclista acompanhada de um pequeno robô ajusta sua bicicleta e abre uma cancela por conta própria, com outra pessoa disponível para ajudar junto à oficina.",
+      "alt": "Uma ciclista acompanhada de um pequeno robô ajusta sua bicicleta e abre uma cancela por conta própria, com outra pessoa disponível para ajudar junto à oficina.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-23-como-a-linear-repensou-a-revisao-de-codigo-com-agentes.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Como a Linear repensou a revisão de código com agentes. A Linear tornou a segunda revisão humana opcional, usando revisão agêntica, confiança do autor, feature flags e facilidade de rollback.\nScene: Uma ciclista acompanhada de um pequeno robô ajusta sua bicicleta e abre uma cancela por conta própria, com outra pessoa disponível para ajudar junto à oficina.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: lilás, verde lima e coral. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2026-12-24-soberania-em-ia-e-poder-trocar-de-modelo",
+      "path": "_blog/2026-12-24-soberania-em-ia-e-poder-trocar-de-modelo.md",
+      "title": "Soberania em IA é poder trocar de modelo",
+      "scene": "Uma engenheira troca uma peça de motor colorida por outra de formato compatível em um pequeno barco que continua firme no cais.",
+      "alt": "Uma engenheira troca uma peça de motor colorida por outra de formato compatível em um pequeno barco que continua firme no cais.",
+      "asset": "/assets/images/content/cartoon/blog-2026-12-24-soberania-em-ia-e-poder-trocar-de-modelo.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Soberania em IA é poder trocar de modelo. Independência de modelos exige evals próprios, contratos, dados sob controle e processos seguros de troca e regressão.\nScene: Uma engenheira troca uma peça de motor colorida por outra de formato compatível em um pequeno barco que continua firme no cais.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: azul marinho luminoso, laranja e menta. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2027-01-04-revolut-e-modelos-internos-o-custo-vai-alem-dos-tokens",
+      "path": "_blog/2027-01-04-revolut-e-modelos-internos-o-custo-vai-alem-dos-tokens.md",
+      "title": "Revolut e modelos internos: o custo vai além dos tokens",
+      "scene": "Uma equipe cuida de uma estufa com grandes máquinas coloridas e um pequeno robô, enquanto uma pessoa pesa ferramentas e moedas sem inscrições numa balança.",
+      "alt": "Uma equipe cuida de uma estufa com grandes máquinas coloridas e um pequeno robô, enquanto uma pessoa pesa ferramentas e moedas sem inscrições numa balança.",
+      "asset": "/assets/images/content/cartoon/blog-2027-01-04-revolut-e-modelos-internos-o-custo-vai-alem-dos-tokens.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Revolut e modelos internos: o custo vai além dos tokens. O caso relatado da Revolut ao adotar GLM internamente e a importância de incluir infraestrutura, equipe e depreciação na conta.\nScene: Uma equipe cuida de uma estufa com grandes máquinas coloridas e um pequeno robô, enquanto uma pessoa pesa ferramentas e moedas sem inscrições numa balança.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: verde pinho, dourado e azul gelo. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2027-01-05-ramp-router-escolher-o-modelo-pela-tarefa",
+      "path": "_blog/2027-01-05-ramp-router-escolher-o-modelo-pela-tarefa.md",
+      "title": "Ramp Router: escolher o modelo pela tarefa",
+      "scene": "Uma controladora de tráfego orienta pequenos veículos de tamanhos diferentes para rotas diferentes em uma rotatória de brinquedo.",
+      "alt": "Uma controladora de tráfego orienta pequenos veículos de tamanhos diferentes para rotas diferentes em uma rotatória de brinquedo.",
+      "asset": "/assets/images/content/cartoon/blog-2027-01-05-ramp-router-escolher-o-modelo-pela-tarefa.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Ramp Router: escolher o modelo pela tarefa. Como a Ramp usa roteamento central e benchmarks com tarefas reais para escolher modelos conforme custo, latência e trabalho a realizar.\nScene: Uma controladora de tráfego orienta pequenos veículos de tamanhos diferentes para rotas diferentes em uma rotatória de brinquedo.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: coral, turquesa e amarelo limão. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2027-01-06-flexport-o-modelo-certo-para-cada-tarefa-agentica",
+      "path": "_blog/2027-01-06-flexport-o-modelo-certo-para-cada-tarefa-agentica.md",
+      "title": "Flexport: o modelo certo para cada tarefa agêntica",
+      "scene": "Num porto de brinquedo uma pessoa escolhe barcos de tamanhos diferentes para transportar pequenas cargas adequadas a cada embarcação.",
+      "alt": "Num porto de brinquedo uma pessoa escolhe barcos de tamanhos diferentes para transportar pequenas cargas adequadas a cada embarcação.",
+      "asset": "/assets/images/content/cartoon/blog-2027-01-06-flexport-o-modelo-certo-para-cada-tarefa-agentica.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Flexport: o modelo certo para cada tarefa agêntica. Evals com interações reais ajudaram a Flexport a definir um roteamento simples entre modelos e reduzir custos com perdas limitadas de qualidade.\nScene: Num porto de brinquedo uma pessoa escolhe barcos de tamanhos diferentes para transportar pequenas cargas adequadas a cada embarcação.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: azul ultramar, damasco e verde água. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2027-01-07-o-que-significa-divida-tecnica-quando-agentes-mantem-o-codigo",
+      "path": "_blog/2027-01-07-o-que-significa-divida-tecnica-quando-agentes-mantem-o-codigo.md",
+      "title": "O que significa dívida técnica quando agentes mantêm o código?",
+      "scene": "Uma engenheira e um robô exploram uma casa de brinquedo com escadas sinuosas, descobrindo um caminho funcional entre cômodos coloridos.",
+      "alt": "Uma engenheira e um robô exploram uma casa de brinquedo com escadas sinuosas, descobrindo um caminho funcional entre cômodos coloridos.",
+      "asset": "/assets/images/content/cartoon/blog-2027-01-07-o-que-significa-divida-tecnica-quando-agentes-mantem-o-codigo.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): O que significa dívida técnica quando agentes mantêm o código?. A provocação de Jorge Manrubia sobre repensar dívida técnica e métricas de complexidade quando agentes escrevem e mantêm software.\nScene: Uma engenheira e um robô exploram uma casa de brinquedo com escadas sinuosas, descobrindo um caminho funcional entre cômodos coloridos.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: ameixa, mostarda e azul céu. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2027-01-08-ia-e-empregos-o-panico-esta-dando-lugar-a-novas-demandas",
+      "path": "_blog/2027-01-08-ia-e-empregos-o-panico-esta-dando-lugar-a-novas-demandas.md",
+      "title": "IA e empregos: o pânico está dando lugar a novas demandas",
+      "scene": "Pessoas de diferentes profissões e um pequeno robô constroem juntos uma praça alegre com bancos, plantas e luminárias.",
+      "alt": "Pessoas de diferentes profissões e um pequeno robô constroem juntos uma praça alegre com bancos, plantas e luminárias.",
+      "asset": "/assets/images/content/cartoon/blog-2027-01-08-ia-e-empregos-o-panico-esta-dando-lugar-a-novas-demandas.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): IA e empregos: o pânico está dando lugar a novas demandas. Uma leitura do post da a16z sobre sinais do mercado de trabalho e a demanda por profissionais capazes de transformar IA em produto e operação.\nScene: Pessoas de diferentes profissões e um pequeno robô constroem juntos uma praça alegre com bancos, plantas e luminárias.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: verde grama, rosa e amarelo quente. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2027-01-11-skills-e-mcp-tambem-fazem-parte-da-cadeia-de-suprimentos-de-software",
+      "path": "_blog/2027-01-11-skills-e-mcp-tambem-fazem-parte-da-cadeia-de-suprimentos-de-software.md",
+      "title": "Skills e MCP também fazem parte da cadeia de suprimentos de software",
+      "scene": "Uma inspetora e um robô conferem caixas de ferramentas numa entrada de oficina, usando uma lupa e um portão de segurança acolhedor.",
+      "alt": "Uma inspetora e um robô conferem caixas de ferramentas numa entrada de oficina, usando uma lupa e um portão de segurança acolhedor.",
+      "asset": "/assets/images/content/cartoon/blog-2027-01-11-skills-e-mcp-tambem-fazem-parte-da-cadeia-de-suprimentos-de-software.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Skills e MCP também fazem parte da cadeia de suprimentos de software. O pipeline de segurança do iFood para avaliar skills e a evolução dos controles para MCP, com atenção a permissões e instruções maliciosas.\nScene: Uma inspetora e um robô conferem caixas de ferramentas numa entrada de oficina, usando uma lupa e um portão de segurança acolhedor.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: turquesa, vermelho melancia e creme. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2027-01-12-se-a-ia-assume-as-tarefas-simples-como-formaremos-os-proximos-seniores",
+      "path": "_blog/2027-01-12-se-a-ia-assume-as-tarefas-simples-como-formaremos-os-proximos-seniores.md",
+      "title": "Se a IA assume as tarefas simples, como formaremos os próximos seniores?",
+      "scene": "Uma profissional experiente ajuda uma jovem adulta a subir uma escada de blocos de alturas graduais enquanto um robô oferece peças para reconstruir os primeiros degraus.",
+      "alt": "Uma profissional experiente ajuda uma jovem adulta a subir uma escada de blocos de alturas graduais enquanto um robô oferece peças para reconstruir os primeiros degraus.",
+      "asset": "/assets/images/content/cartoon/blog-2027-01-12-se-a-ia-assume-as-tarefas-simples-como-formaremos-os-proximos-seniores.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Se a IA assume as tarefas simples, como formaremos os próximos seniores?. Um estudo de Stanford sobre contratação de jovens em ocupações expostas à IA provoca a discussão sobre formar a próxima geração de seniores.\nScene: Uma profissional experiente ajuda uma jovem adulta a subir uma escada de blocos de alturas graduais enquanto um robô oferece peças para reconstruir os primeiros degraus.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: azul lavanda, coral e verde menta. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
+    },
+    {
+      "id": "blog-2027-01-13-dez-principios-de-carreira-que-continuam-valendo-na-era-da-ia",
+      "path": "_blog/2027-01-13-dez-principios-de-carreira-que-continuam-valendo-na-era-da-ia.md",
+      "title": "Dez princípios de carreira que continuam valendo na era da IA",
+      "scene": "Um grupo de engenheiros adultos monta uma ponte de corda num parque, colaborando com ferramentas e apoiando uma pessoa que atravessa.",
+      "alt": "Um grupo de engenheiros adultos monta uma ponte de corda num parque, colaborando com ferramentas e apoiando uma pessoa que atravessa.",
+      "asset": "/assets/images/content/cartoon/blog-2027-01-13-dez-principios-de-carreira-que-continuam-valendo-na-era-da-ia.jpg",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape editorial cover for a software engineering website.\nArticle title and short synopsis (context only, do not render as text): Dez princípios de carreira que continuam valendo na era da IA. Revisitando os princípios de Dan Heller para crescer em engenharia de software e gerar impacto além da implementação de código.\nScene: Um grupo de engenheiros adultos monta uma ponte de corda num parque, colaborando com ferramentas e apoiando uma pessoa que atravessa.\nStyle: cheerful colorful hand-painted 2D cartoon; rounded expressive adult characters, hand-drawn dark outlines, gentle gouache shading, subtle paper grain. Happy, playful, welcoming. Generic people, no portraits of real authors. Use robots only when explicitly described in the scene.\nPalette: amarelo açafrão, azul celeste e verde oliva. Warm welcoming light.\nComposition: horizontal 8:5; readable at thumbnail size; keep important faces and objects inside the central 85 percent; generous cropping margins.\nOne complete scene, no collage or panels. No text, letters, numbers, code, logos, signatures or watermark. Editorial metaphor, not scientific results.",
+      "status": "complete"
     }
   ]
 }

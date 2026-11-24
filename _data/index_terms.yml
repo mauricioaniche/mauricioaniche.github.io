@@ -597,7 +597,7 @@ entries:
   - id: tobias-lutke
     label: Lütke, Tobias
     kind: pessoas
-    aliases: [Tobias Lütke, Tobias Lutke, Tobi Lütke, Tobi Lutke]
+    aliases: [Tobias Lütke, Tobias Lutke, Tobi Lütke, Tobi Lutke, Tobi]
   - id: jason-fried
     label: Fried, Jason
     kind: pessoas
@@ -698,3 +698,122 @@ entries:
   - id: sonarqube
     label: SonarQube
     kind: ferramentas
+  - id: linear
+    label: Linear
+    kind: ferramentas
+  - id: openco
+    label: OpenCo
+    kind: organizacoes
+  - id: faire
+    label: Faire
+    kind: organizacoes
+  - id: openclaw
+    label: OpenClaw
+    kind: ferramentas
+  - id: revolut
+    label: Revolut
+    kind: organizacoes
+  - id: ramp
+    label: Ramp
+    kind: organizacoes
+  - id: flexport
+    label: Flexport
+    kind: organizacoes
+  - id: stanford
+    label: Stanford
+    kind: organizacoes
+  - id: a16z
+    label: a16z
+    kind: organizacoes
+  - id: microsoft
+    label: Microsoft
+    kind: organizacoes
+  - id: apple
+    label: Apple
+    kind: organizacoes
+  - id: 37signals
+    label: 37signals
+    kind: organizacoes
+  - id: lovable
+    label: Lovable
+    kind: ferramentas
+  - id: replit
+    label: Replit
+    kind: ferramentas
+  - id: glm
+    label: GLM
+    kind: ferramentas
+  - id: opus
+    label: Opus
+    kind: ferramentas
+  - id: sonnet
+    label: Sonnet
+    kind: ferramentas
+  - id: skills
+    label: Skills de agentes
+    aliases: [skill, skills]
+  - id: mcp
+    label: Model Context Protocol (MCP)
+    kind: ferramentas
+    aliases: [MCP, MCP server, servidores MCP]
+  - id: product-builders
+    label: Product builders
+    aliases: [product builder, construtores de produtos]
+  - id: roteamento-de-modelos
+    label: Roteamento de modelos
+    aliases: [roteador, roteamento, Ramp Router]
+  - id: empreendedorismo
+    label: Empreendedorismo com IA
+    aliases: [empreendedorismo, empreender, empreendedor, MVP, overengineering]
+  - id: soberania-em-ia
+    label: Soberania em IA
+    aliases: [soberania, independência do modelo, independência de modelos]
+  - id: human-in-the-loop
+    label: Human-in-the-loop
+    aliases: [human-in-the-loop, humano no loop, pessoa no loop, intervenção humana]
+  - id: shavit-nir
+    label: Shavit, Nir
+    kind: pessoas
+    aliases: [Nir Shavit]
+  - id: hall-andy
+    label: Hall, Andy
+    kind: pessoas
+    aliases: [Andy Hall, Andy Hal]
+  - id: saarinen-karri
+    label: Saarinen, Karri
+    kind: pessoas
+    aliases: [Karri Saarinen]
+  - id: ferreira-francisco
+    label: Ferreira, Francisco
+    kind: pessoas
+    aliases: [Francisco Ferreira]
+  - id: pham-thuan
+    label: Pham, Thuan
+    kind: pessoas
+    aliases: [Thuan Pham]
+  - id: koc-vincent
+    label: Koc, Vincent
+    kind: pessoas
+    aliases: [Vincent Koc]
+  - id: nadella-satya
+    label: Nadella, Satya
+    kind: pessoas
+    aliases: [Satya Nadella]
+  - id: glyman-eric
+    label: Glyman, Eric
+    kind: pessoas
+    aliases: [Eric Glyman]
+  - id: manrubia-jorge
+    label: Manrubia, Jorge
+    kind: pessoas
+    aliases: [Jorge Manrubia]
+  - id: heller-dan
+    label: Heller, Dan
+    kind: pessoas
+    aliases: [Dan Heller]
+  - id: farewell-to-human-readable-code
+    label: Farewell to human readable code
+    kind: obras
+  - id: ten-principles-for-growth-as-an-engineer
+    label: Ten principles for growth as an engineer
+    kind: obras

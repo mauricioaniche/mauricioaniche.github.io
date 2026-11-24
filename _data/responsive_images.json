@@ -3137,6 +3137,696 @@
       }
     ]
   },
+  "/assets/images/content/cartoon/blog-2026-12-04-platform-engineering-na-era-das-fabricas-de-software-agenticas.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/23d07f4954a6e9c9-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 26742
+      },
+      {
+        "url": "/assets/images/responsive/23d07f4954a6e9c9-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 81654
+      },
+      {
+        "url": "/assets/images/responsive/23d07f4954a6e9c9-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 146082
+      },
+      {
+        "url": "/assets/images/responsive/23d07f4954a6e9c9-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 194576
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-12-07-ser-dev-continua-sendo-vantagem-para-empreender-com-ia.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/5e1111deffeeb77e-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22628
+      },
+      {
+        "url": "/assets/images/responsive/5e1111deffeeb77e-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 65686
+      },
+      {
+        "url": "/assets/images/responsive/5e1111deffeeb77e-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 117622
+      },
+      {
+        "url": "/assets/images/responsive/5e1111deffeeb77e-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 155754
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-12-08-ia-na-ciencia-executar-a-pesquisa-e-diferente-de-escolher-a-pergunta.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/bd081bfd3310244e-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 27368
+      },
+      {
+        "url": "/assets/images/responsive/bd081bfd3310244e-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 80738
+      },
+      {
+        "url": "/assets/images/responsive/bd081bfd3310244e-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 142988
+      },
+      {
+        "url": "/assets/images/responsive/bd081bfd3310244e-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 187934
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-12-09-codigo-humano-tambem-tem-problemas-repensando-o-clean-code-com-ia.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/b5fef8bc9ae88912-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 25766
+      },
+      {
+        "url": "/assets/images/responsive/b5fef8bc9ae88912-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 77308
+      },
+      {
+        "url": "/assets/images/responsive/b5fef8bc9ae88912-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 145688
+      },
+      {
+        "url": "/assets/images/responsive/b5fef8bc9ae88912-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 193266
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-12-10-e-se-o-codigo-deixar-de-ser-legivel-para-humanos.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/164194bf5ec1e9bf-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23236
+      },
+      {
+        "url": "/assets/images/responsive/164194bf5ec1e9bf-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 71170
+      },
+      {
+        "url": "/assets/images/responsive/164194bf5ec1e9bf-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 132360
+      },
+      {
+        "url": "/assets/images/responsive/164194bf5ec1e9bf-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 180608
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-12-11-como-a-imprint-chegou-a-mais-de-100-prs-por-semana.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/aceda79bd6bf5f48-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 27616
+      },
+      {
+        "url": "/assets/images/responsive/aceda79bd6bf5f48-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 81990
+      },
+      {
+        "url": "/assets/images/responsive/aceda79bd6bf5f48-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 147976
+      },
+      {
+        "url": "/assets/images/responsive/aceda79bd6bf5f48-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 192064
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-12-14-essa-app-seria-melhor-se-tivesse-sido-feita-por-ia.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/ec3e8fd6a977be5b-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22398
+      },
+      {
+        "url": "/assets/images/responsive/ec3e8fd6a977be5b-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 65920
+      },
+      {
+        "url": "/assets/images/responsive/ec3e8fd6a977be5b-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 122704
+      },
+      {
+        "url": "/assets/images/responsive/ec3e8fd6a977be5b-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 163632
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-12-15-a-coragem-de-usar-ia-faz-diferenca.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/b17a8a52f258b529-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 29410
+      },
+      {
+        "url": "/assets/images/responsive/b17a8a52f258b529-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 89000
+      },
+      {
+        "url": "/assets/images/responsive/b17a8a52f258b529-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 158658
+      },
+      {
+        "url": "/assets/images/responsive/b17a8a52f258b529-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 208082
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-12-16-o-futuro-do-saas-depende-de-quem-compra-o-software.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/4ef6c5e8ed0f0c12-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23046
+      },
+      {
+        "url": "/assets/images/responsive/4ef6c5e8ed0f0c12-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 70774
+      },
+      {
+        "url": "/assets/images/responsive/4ef6c5e8ed0f0c12-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 129562
+      },
+      {
+        "url": "/assets/images/responsive/4ef6c5e8ed0f0c12-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 174130
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-12-17-o-agente-de-code-review-da-openco-e-os-limites-da-revisao-automatica.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/ddd014efb3cb34cd-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23266
+      },
+      {
+        "url": "/assets/images/responsive/ddd014efb3cb34cd-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 69466
+      },
+      {
+        "url": "/assets/images/responsive/ddd014efb3cb34cd-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 130076
+      },
+      {
+        "url": "/assets/images/responsive/ddd014efb3cb34cd-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 172756
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-12-18-product-builders-como-a-faire-ampliou-o-papel-dos-engenheiros.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/b83df2a7a4733afd-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22204
+      },
+      {
+        "url": "/assets/images/responsive/b83df2a7a4733afd-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 65296
+      },
+      {
+        "url": "/assets/images/responsive/b83df2a7a4733afd-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 118668
+      },
+      {
+        "url": "/assets/images/responsive/b83df2a7a4733afd-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 156068
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-12-21-builds-mais-rapidos-no-mundo-dos-agentes-as-licoes-do-openclaw.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/e0aded567fda8323-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 25512
+      },
+      {
+        "url": "/assets/images/responsive/e0aded567fda8323-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 75892
+      },
+      {
+        "url": "/assets/images/responsive/e0aded567fda8323-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 144298
+      },
+      {
+        "url": "/assets/images/responsive/e0aded567fda8323-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 191016
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-12-22-o-conselho-de-satya-nadella-sobre-ia-faca-mais-aprenda-mais-pratique.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/950f02888000bd24-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 21844
+      },
+      {
+        "url": "/assets/images/responsive/950f02888000bd24-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 66094
+      },
+      {
+        "url": "/assets/images/responsive/950f02888000bd24-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 121508
+      },
+      {
+        "url": "/assets/images/responsive/950f02888000bd24-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 164116
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-12-23-como-a-linear-repensou-a-revisao-de-codigo-com-agentes.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/cf516fde55102eea-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23326
+      },
+      {
+        "url": "/assets/images/responsive/cf516fde55102eea-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 70608
+      },
+      {
+        "url": "/assets/images/responsive/cf516fde55102eea-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 126180
+      },
+      {
+        "url": "/assets/images/responsive/cf516fde55102eea-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 163564
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2026-12-24-soberania-em-ia-e-poder-trocar-de-modelo.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/6e2a727bacef8c20-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22634
+      },
+      {
+        "url": "/assets/images/responsive/6e2a727bacef8c20-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 64168
+      },
+      {
+        "url": "/assets/images/responsive/6e2a727bacef8c20-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 114634
+      },
+      {
+        "url": "/assets/images/responsive/6e2a727bacef8c20-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 153070
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2027-01-04-revolut-e-modelos-internos-o-custo-vai-alem-dos-tokens.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/4a985ccae8b9984f-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 29680
+      },
+      {
+        "url": "/assets/images/responsive/4a985ccae8b9984f-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 90610
+      },
+      {
+        "url": "/assets/images/responsive/4a985ccae8b9984f-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 160572
+      },
+      {
+        "url": "/assets/images/responsive/4a985ccae8b9984f-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 210266
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2027-01-05-ramp-router-escolher-o-modelo-pela-tarefa.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/20b7a77923ecc3ae-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 20500
+      },
+      {
+        "url": "/assets/images/responsive/20b7a77923ecc3ae-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 60680
+      },
+      {
+        "url": "/assets/images/responsive/20b7a77923ecc3ae-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 112782
+      },
+      {
+        "url": "/assets/images/responsive/20b7a77923ecc3ae-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 152756
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2027-01-06-flexport-o-modelo-certo-para-cada-tarefa-agentica.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/fc889ee498a697dc-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22584
+      },
+      {
+        "url": "/assets/images/responsive/fc889ee498a697dc-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 65078
+      },
+      {
+        "url": "/assets/images/responsive/fc889ee498a697dc-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 115788
+      },
+      {
+        "url": "/assets/images/responsive/fc889ee498a697dc-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 156350
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2027-01-07-o-que-significa-divida-tecnica-quando-agentes-mantem-o-codigo.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/f3402945b99fd5b3-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 23398
+      },
+      {
+        "url": "/assets/images/responsive/f3402945b99fd5b3-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 66358
+      },
+      {
+        "url": "/assets/images/responsive/f3402945b99fd5b3-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 124108
+      },
+      {
+        "url": "/assets/images/responsive/f3402945b99fd5b3-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 162234
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2027-01-08-ia-e-empregos-o-panico-esta-dando-lugar-a-novas-demandas.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/6ba89ae5b8cb3647-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 28172
+      },
+      {
+        "url": "/assets/images/responsive/6ba89ae5b8cb3647-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 89760
+      },
+      {
+        "url": "/assets/images/responsive/6ba89ae5b8cb3647-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 164526
+      },
+      {
+        "url": "/assets/images/responsive/6ba89ae5b8cb3647-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 219986
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2027-01-11-skills-e-mcp-tambem-fazem-parte-da-cadeia-de-suprimentos-de-software.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/863aea00f864dbb3-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 22872
+      },
+      {
+        "url": "/assets/images/responsive/863aea00f864dbb3-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 66772
+      },
+      {
+        "url": "/assets/images/responsive/863aea00f864dbb3-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 120166
+      },
+      {
+        "url": "/assets/images/responsive/863aea00f864dbb3-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 161078
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2027-01-12-se-a-ia-assume-as-tarefas-simples-como-formaremos-os-proximos-seniores.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/093d255b03d14bcb-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 19872
+      },
+      {
+        "url": "/assets/images/responsive/093d255b03d14bcb-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 62164
+      },
+      {
+        "url": "/assets/images/responsive/093d255b03d14bcb-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 111726
+      },
+      {
+        "url": "/assets/images/responsive/093d255b03d14bcb-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 150226
+      }
+    ]
+  },
+  "/assets/images/content/cartoon/blog-2027-01-13-dez-principios-de-carreira-que-continuam-valendo-na-era-da-ia.jpg": {
+    "width": 1200,
+    "height": 751,
+    "variants": [
+      {
+        "url": "/assets/images/responsive/8fe11c57e412787b-320.webp",
+        "width": 320,
+        "height": 200,
+        "bytes": 27638
+      },
+      {
+        "url": "/assets/images/responsive/8fe11c57e412787b-640.webp",
+        "width": 640,
+        "height": 401,
+        "bytes": 86794
+      },
+      {
+        "url": "/assets/images/responsive/8fe11c57e412787b-960.webp",
+        "width": 960,
+        "height": 601,
+        "bytes": 154166
+      },
+      {
+        "url": "/assets/images/responsive/8fe11c57e412787b-1200.webp",
+        "width": 1200,
+        "height": 751,
+        "bytes": 204192
+      }
+    ]
+  },
   "/assets/images/content/cartoon/media-academia-industria-wise-dev.jpg": {
     "width": 1200,
     "height": 750,
