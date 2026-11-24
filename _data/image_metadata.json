@@ -767,6 +767,12 @@
     "bytes": 343280,
     "type": "image/jpeg"
   },
+  "/assets/images/content/cartoon/blog-2026-12-03-com-agentes-de-ia-precisamos-ir-alem-dos-testes-de-unidade.jpg": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 444641,
+    "type": "image/jpeg"
+  },
   "/assets/images/content/cartoon/media-academia-industria-wise-dev.jpg": {
     "width": 1200,
     "height": 750,
@@ -2307,6 +2313,30 @@
     "width": 960,
     "height": 600,
     "bytes": 101908,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/29447b5b9aa0d584-1200.webp": {
+    "width": 1200,
+    "height": 750,
+    "bytes": 207460,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/29447b5b9aa0d584-320.webp": {
+    "width": 320,
+    "height": 200,
+    "bytes": 29728,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/29447b5b9aa0d584-640.webp": {
+    "width": 640,
+    "height": 400,
+    "bytes": 88746,
+    "type": "image/webp"
+  },
+  "/assets/images/responsive/29447b5b9aa0d584-960.webp": {
+    "width": 960,
+    "height": 600,
+    "bytes": 151834,
     "type": "image/webp"
   },
   "/assets/images/responsive/29fa707dbbfa2686-1200.webp": {

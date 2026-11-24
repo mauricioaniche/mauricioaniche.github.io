@@ -88,6 +88,15 @@ topics:
     categories: [testing]
 
 entries:
+  - id: playwright
+    label: Playwright
+    kind: ferramentas
+  - id: selenium
+    label: Selenium
+    kind: ferramentas
+  - id: haiku
+    label: Haiku
+    kind: ferramentas
   - id: fiap
     label: FIAP
     kind: organizacoes
