@@ -17,7 +17,7 @@ E sim, todo mundo acha que o código escrito pelo outro é gambiarra. Não é no
 
 Depois de trabalhar em bases de código gigantescas, como as da Adyen e da Uber, empresas que entregam serviços para milhões de pessoas diariamente e que não param nunca de inovar de maneira absurdamente rápida, entendi de vez que código não precisa ser perfeito: ele precisa entregar valor. E não é um código feio aqui e ali que vai realmente impactar sua capacidade de entrega. Claro que seu código não pode ser completamente ruim, mas aqui e ali, tá tudo bem...
 
-Curiosidade de quem passou 9 anos fora: brasileiros são mais apaixonados por clean code e xDDs da vida do que gringos. Apaixone-se mais por entregar valor e menos por “clean code” :)
+Apaixone-se mais por entregar valor e menos por “clean code” :)
 
 ## Referências
 
